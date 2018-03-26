@@ -1782,7 +1782,7 @@
 21	Henri	_	PROPN	NOMpro	_	20	flat	_	_
 22	E	_	CCONJ	CONcoo	_	27	cc	_	_
 23	de	_	ADP	PRE	_	24	case	_	_
-24	Gascuigne	_	PROPN	NOMpro	_	27	flat	_	_
+24	Gascuigne	_	PROPN	NOMpro	_	27	nmod	_	_
 25	li	_	DET	DETdef	Definite=Def|PronType=Art	27	det	_	_
 26	proz	_	ADJ	ADJqua	_	27	amod	_	_
 27	quens	_	NOUN	NOMcom	_	9	conj	_	_
@@ -4879,7 +4879,7 @@
 2	nel	_	PRON	ADVneg.PROper	Polarity=Neg|PronType=Prs	3	obj	_	_
 3	dirat	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
 4	de	_	ADP	PRE	_	5	case	_	_
-5	France	_	PROPN	NOMpro	_	7	flat	_	_
+5	France	_	PROPN	NOMpro	_	7	nmod	_	_
 6	li	_	DET	DETdef	Definite=Def|PronType=Art	7	det	_	_
 7	emperere	_	NOUN	NOMcom	_	3	nsubj	_	_
 8	Que	_	SCONJ	CONsub	_	11	mark	_	_
