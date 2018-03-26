@@ -23094,7 +23094,7 @@
 11	e	_	CCONJ	CONcoo	_	12	cc	_	_
 12	desmailet	_	VERB	VERppe	Tense=Past|VerbForm=Part	10	conj	_	_
 13	Par	_	ADP	PRE	_	14	case	_	_
-14	mi	_	NOUN	NOMcom	_	17	conj	_	_
+14	mi	_	NOUN	NOMcom	_	17	obl	_	_
 15	le	_	DET	DETdef	Definite=Def|PronType=Art	16	det	_	_
 16	cors	_	NOUN	NOMcom	_	14	nmod	_	_
 17	nasfret	_	VERB	VERppe	Tense=Past|VerbForm=Part	4	conj	_	_
@@ -26622,8 +26622,8 @@
 1	Ensembl'	_	ADV	ADVgen	_	3	advmod	_	_
 2	od	_	ADP	PRE	_	3	case	_	_
 3	els	_	PRON	PROper	PronType=Prs	7	obl	_	_
-4	sent	_	PROPN	NOMpro	_	5	flat	_	_
-5	Gabriel	_	PROPN	NOMpro	_	7	nsubj	_	_
+4	sent	_	PROPN	NOMpro	_	7	nsubj	_	_
+5	Gabriel	_	PROPN	NOMpro	_	4	flat	_	_
 6	i	_	ADV	PROadv	PronType=Dem	7	obl	_	_
 7	vint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
 
@@ -31599,8 +31599,8 @@
 # text = Sein Gabriel ki de par Deu le guarde Levet sa main
 # newdoc id = Roland_1100_verse
 # sent_id = 2760
-1	Sein	_	PROPN	NOMpro	_	2	flat	_	_
-2	Gabriel	_	PROPN	NOMpro	_	9	nsubj	_	_
+1	Sein	_	PROPN	NOMpro	_	9	nsubj	_	_
+2	Gabriel	_	PROPN	NOMpro	_	1	flat	_	_
 3	ki	_	PRON	PROrel	PronType=Prs,Rel	8	nsubj	_	_
 4	de	_	ADP	PRE	_	6	case	_	_
 5	par	_	ADP	PRE	_	6	case	_	_
@@ -64870,12 +64870,12 @@
 5	mon	_	DET	DETpos	Poss=Yes	6	det	_	_
 6	cors	_	NOUN	NOMcom	Morph=NV	3	nmod	_	_
 7	Et	_	CCONJ	CONcoo	Morph=NV	8	cc	_	_
-8	je	_	PRON	PROper	PronType=Prs	12	conj	_	_
+8	je	_	PRON	PROper	PronType=Prs	3	conj	_	_
 9	du	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	10	case:det	_	_
 10	suen	_	PRON	PROpos	Poss=Yes|PronType=Prs	6	conj	_	_
 11	somes	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
 12	tuit	_	ADV	ADVgen	Morph=NV	11	nsubj	_	_
-13	fors	_	ADV	ADVgen	Morph=NV	12	obl	_	_
+13	fors	_	ADV	ADVgen	Morph=NV	11	obl	_	_
 
 # text = L' ermites l' ot parler
 # newdoc id = BeroulTristan_late12_verse
@@ -65259,7 +65259,7 @@
 7	mort	_	NOUN	NOMcom	Morph=NV	5	obl	_	_
 8	Et	_	CCONJ	CONcoo	Morph=NV	11	cc	_	_
 9	en	_	ADP	PRE	Morph=NV	10	case	_	_
-10	feu	_	NOUN	NOMcom	Morph=NV	14	conj	_	_
+10	feu	_	NOUN	NOMcom	Morph=NV	11	obl	_	_
 11	ardoir	_	VERB	VERinf	VerbForm=Inf	5	conj	_	_
 12	par	_	ADP	PRE	Morph=NV	14	case	_	_
 13	le	_	DET	DETdef	Definite=Def|PronType=Art	14	det	_	_
@@ -68302,8 +68302,8 @@
 28	anel	_	NOUN	NOMcom	Morph=NV	30	obj	_	_
 29	m'	_	PRON	PROper	PronType=Prs	30	iobj	_	_
 30	aportera	_	VERB	VERcjg	VerbForm=Fin	24	acl:relcl	_	_
-31	Porce	_	ADP	PRE.PROdem	Morph=NV	32	fixed	_	_
-32	qu'	_	SCONJ	CONsub	Morph=NV	34	mark	_	_
+31	Porce	_	ADP	PRE.PROdem	Morph=NV	34	mark	_	_
+32	qu'	_	SCONJ	CONsub	Morph=NV	31	fixed	_	_
 33	il	_	PRON	PROper	PronType=Prs	34	nsubj	_	_
 34	soit	_	VERB	VERcjg	VerbForm=Fin	21	advcl	_	_
 35	a	_	ADP	PRE	Morph=NV	37	case	_	_
@@ -85798,7 +85798,7 @@
 2	Deu	_	PROPN	NOMpro	_	6	nsubj	_	_
 3	est	_	VERB	VERcjg	VerbForm=Fin	6	cop	_	_
 4	de	_	ADP	PRE	_	5	case	_	_
-5	science	_	NOUN	NOMcom	_	6	flat	_	_
+5	science	_	NOUN	NOMcom	_	6	nmod	_	_
 6	sires	_	NOUN	NOMcom	_	0	root	_	_
 
 # text = é a lui sunt ápreste li pensed
