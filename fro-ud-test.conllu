@@ -97239,7 +97239,7 @@
 8	devant	_	ADV	ADVgen	_	7	advmod	_	_
 9	é	_	CCONJ	CONcoo	_	11	cc	_	_
 10	le	_	DET	DETdef	Definite=Def|PronType=Art	11	det	_	_
-11	tierz	_	PRON	PROord	NumType=Ord	16	conj	_	_
+11	tierz	_	PRON	PROord	NumType=Ord	6	conj	_	_
 12	se	_	PRON	PROper	PronType=Prs	16	expl	_	_
 13	furent	_	VERB	VERcjg	VerbForm=Fin	16	aux	_	_
 14	de	_	ADP	PRE	_	15	case	_	_
