@@ -40,12 +40,26 @@ As a result, UD_Old_French-SRCMF includes 8 full texts (Strasbourg, StLegier, St
 
 # Deviations from UD
 
-We added some more specific relations (subtypes) in the case of tokens entering a double dependency relation (typically : relative pronouns and  contracted forms) :  
-+ mark:nsubj
-+ mark:obl
-+ mark:obj
-+ advmod:obj
-+ advmod:comp: in this case, the double labelling accounts for the difficulty to decide between advmod and obl relations.
+We added some more specific relations (subtypes), either to specify a relation, or in the case of tokens entering a double dependency relation typically : relative pronouns and  contracted forms) :
++ acl:relcl : relative clause
++ aux:pass : passive auxiliary
++ case:det : contracted ‘case’ and ‘det’ (eg.  ‘del’ = ‘de’ + ‘le’)
++ cc:nc :  conjonction non coordinating
++ mark:obj :  mark and obj (eg. relative pronoun ‘que’)
++ mark:obl : mark and obl (eg. relative pronoun ‘cui’/’qui’)
++ nsubj:advmod : ??? je ne trouve pas d’occurrences
++ nsubj:obj : contracted nsubj + obj (eg. ‘quil’ = ‘qui’ + ‘le’)
++ advmod:obj: contracted advmod + obj (eg. ‘sis’ = ‘si’ + les’)
++ advneg:obj : contracted negation + obj (eg. ‘nes’ = ‘ne’ + ‘les’)
++ mark:advmod : mark and advmod (eg. ‘coment’ at the beginning of a subordinate clause)
++ advmod:obl: in this case, the double labelling accounts for the difficulty to decide between advmod and obl relations (‘en’ and ‘i’).
+
+We added some features :
+
++ Morph=VPar : perbal participle
++ Morph=VFin : finite verb
++ Morph=VInf : non finite verb
++ PronType=Ord : numeral
 
 Consult [the language specific documentation](http://universaldependencies.org/fro/dep/index.html) for further details concerning subtypes.
 
