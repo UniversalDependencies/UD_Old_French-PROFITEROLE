@@ -50,7 +50,7 @@ We added some more specific relations (subtypes), either to specify a relation, 
 + nsubj:advmod : ??? je ne trouve pas d’occurrences
 + nsubj:obj : contracted nsubj + obj (eg. ‘quil’ = ‘qui’ + ‘le’)
 + advmod:obj: contracted advmod + obj (eg. ‘sis’ = ‘si’ + les’)
-+ advneg:obj : contracted negation + obj (eg. ‘nes’ = ‘ne’ + ‘les’)
++ obj:advneg : contracted negation + obj (eg. ‘nes’ = ‘ne’ + ‘les’)
 + mark:advmod : mark and advmod (eg. ‘coment’ at the beginning of a subordinate clause)
 + advmod:obl: in this case, the double labelling accounts for the difficulty to decide between advmod and obl relations (‘en’ and ‘i’).
 
@@ -86,7 +86,7 @@ The whole SRCMF corpus (251,000 tokens) was actually automatically converted int
 
 # Changelog
 
-* 2018-03-26 v2.2
+* 2018-04-15 v2.2
   * Initial release
 
 <pre>
