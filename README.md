@@ -80,7 +80,7 @@ The SRCMF corpus results from the SRCMF project which took place in 2008-2012, f
 
 The SRCMF project consisted in the manual syntactic annotation of 15 texts (251,000 tokens) from the 9th to 13th C. Part-of-speech tags were for most of them retrieved from the already existing tagging of the texts (stemming from: Base de Français Medieval, Lyon, ENS de Lyon, IHRIM Laboratory [http://txm.bfm-corpus.org]([http://txm.bfm-corpus.org]), and the Nouveau Corpus d'Amsterdam [http://www.uni-stuttgart.de/lingrom/stein/corpus#nca]([http://www.uni-stuttgart.de/lingrom/stein/corpus#nca]))
 
-The contributors to the SRCMF project were: Stein, Achim; Prévost, Sophie; Rainsford, Tom; Mazziotta, Nicolas;  Bischoff Béatrice; Glikman, Julie; Lavrentiev, Alexei; Heiden, Serge; Guillot-Barbance, Céline.
+The contributors to the SRCMF project were: Stein, Achim; Prévost, Sophie; Rainsford, Tom; Mazziotta, Nicolas;  Bischoff Béatrice; Glikman, Julie; Lavrentiev, Alexei; Heiden, Serge; Guillot-Barbance, Céline; Marchello-Nizia, Christiane.
 
 The conversion from the original SRCMF annotation to the SRCMF-UD annotation was done automatically both for the POS and the syntactic relations, thanks to a set of elaborated rules.
 Some 1,200 syntactic relations left unlabelled were then manually annotated (Sophie Prévost), and significant spot-checking occurred, focusing on potential difficulties (eg. conj relation).
@@ -108,7 +108,7 @@ UPOS: converted with corrections
 XPOS: manual native
 Features: automatic
 Relations: automatic with corrections
-Contributors: Prévost Sophie; Collomb, Aurélie; Gerdes, Kim; Tellier, Isabelle, Courtin, Marine; Lavrentiev Alexei; Guillot-Barbance, Céline.
+Contributors: Prévost, Sophie; Collomb, Aurélie; Gerdes, Kim; Tellier, Isabelle, Courtin, Marine; Lavrentiev, Alexei; Guillot-Barbance, Céline.
 Contributing: here source
 Contact: sophie.prevost@ens.fr
 ===============================================================================
