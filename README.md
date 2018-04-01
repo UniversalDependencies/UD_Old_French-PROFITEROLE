@@ -1,17 +1,16 @@
 # Summary
 
-UD_Old_French-SRCMF is a conversion of (part of) the SRCMF corpus(Syntactic Reference Corpus of Medieval French [srcmf.org](http://srcmf.org/)).   
+UD_Old_French-SRCMF is a conversion of (part of) the SRCMF corpus (Syntactic Reference Corpus of Medieval French [srcmf.org](http://srcmf.org/)).
 
 # Introduction
 
-UD_Old_French-SRCMF consists in 10 texts spanning from 9th to 13th century.  
+UD_Old_French-SRCMF consists in 10 texts spanning from 9th to 13th century. It includes 17678 sentences and 170 741 tokens.
 
-It includes XX sentences and 172 530 tokens.
 Sentences are annotated with the following metadata :
 + sent_id : a unique id for each sentence in the treebank
-+ text : the sentence which is analysed
++ text : the sentence
 + newdoc id : a unique id for each of the texts. This id can be split on underscores to get back :
-    + text
+    + name of the text
     + date
     + form : verse and/or prose
 
@@ -22,43 +21,49 @@ The following table lists the texts used in this treebank :
 | ------ | ------ | ------ | ------ |
 | Strasbourg_842_prose | anonymous | Serments de Strasbourg | 115 |
 | StLegier_1000_verse | anonymous | Vie de saint Léger | 1,388 |
-| StAlexis_1050_verse | anonymous | Vie de saint Alexis | 4,868 |
-| Roland_1100_verse | anonymous | Chanson de Roland | 28,997 |
-| Lapidaire_mid12_prose | anonymous | Lapidaire en prose | 4,765 |
-| QuatreLivresReis_late12_prose | anonymous | Quatre livres des reis | 13,061 |
-| BeroulTristan_late12_verse | Beroul, Tristan | Tristan de Beroul  | 27,052 |
-| TroyesYvain_1180_verse | Chrestien de Troyes, Yvain | Yvain de Chretien de Troyes | 41,702 |
-| Aucassin_early13_verse-prose | anonymous | Aucassin et Nicolet | 9,946 |
-| Graal_1225_prose | anonymous | Queste del Saint Graal | 40,636 |
+| StAlexis_1050_verse | anonymous | Vie de saint Alexis | 4,750 |
+| Roland_1100_verse | anonymous | Chanson de Roland | 28,752 |
+| Lapidaire_mid12_prose | anonymous | Lapidaire en prose | 4,708 |
+| QuatreLivresReis_late12_prose | anonymous | Quatre livres des reis | 12,949 |
+| BeroulTristan_late12_verse | Beroul, Tristan | Tristan de Beroul  | 26,766 |
+| TroyesYvain_1180_verse | Chrestien de Troyes, Yvain | Yvain de Chretien de Troyes | 41,256 |
+| Aucassin_early13_verse-prose | anonymous | Aucassin et Nicolet | 9,838 |
+| Graal_1225_prose | anonymous | Queste del Saint Graal | 40,219 |
 
 
 # Structure
 
 The corpus results from a conversion from the SRCMF corpus.
+
 In the SRCMF projet, texts with less than about 40,000 words were entirely annotated, while texts with more than 40,000 words were sampled in three parts (beginning, middle and end of the text) to reach a total amount of about 40000 words.
+
 As a result, UD_Old_French-SRCMF includes 8 full texts (Strasbourg, StLegier, StAlexis, Roland, Lapidaire, BeroulTristan, TroyesYvain, Aucassin) and 2 sampled ones (QuatreLivresReis and Graal).
 
 # Deviations from UD
 
-We added some more specific relations (subtypes), either to specify a relation, or in the case of tokens entering a double dependency relation typically : relative pronouns and  contracted forms) :
-+ acl:relcl : relative clause
-+ aux:pass : passive auxiliary
-+ case:det : contracted ‘case’ and ‘det’ (eg.  ‘del’ = ‘de’ + ‘le’)
-+ cc:nc :  conjonction non coordinating
-+ mark:obj :  mark and obj (eg. relative pronoun ‘que’)
-+ mark:obl : mark and obl (eg. relative pronoun ‘cui’/’qui’)
-+ nsubj:advmod : ??? je ne trouve pas d’occurrences
-+ nsubj:obj : contracted nsubj + obj (eg. ‘quil’ = ‘qui’ + ‘le’)
-+ advmod:obj: contracted advmod + obj (eg. ‘sis’ = ‘si’ + les’)
-+ obj:advneg : contracted negation + obj (eg. ‘nes’ = ‘ne’ + ‘les’)
-+ mark:advmod : mark and advmod (eg. ‘coment’ at the beginning of a subordinate clause)
-+ advmod:obl: in this case, the double labelling accounts for the difficulty to decide between advmod and obl relations (‘en’ and ‘i’).
+We added some more specific relations (subtypes), either to specify a relation, or in the case of tokens entering a double dependency relation (typically : relative pronouns and  contracted forms) :
+
++ `acl:relcl` : relative clause
++ `advmod:obl` : contracted `advmod` + `obl` (eg. _sin_ = _si_ + _en_)
++ `aux:pass` : passive auxiliary
++ `case:det` : contracted `case` + `det` (eg. _del_ = _de_ + _le_)
++ `cc:nc` : non coordinating conjunction (eg. _et_ at the beginning of a sentence)
++ `mark:advmod` : `mark` and `advmod` (eg. _coment_ at the beginning of a subordinate clause)
++ `mark:obj` : `mark` and `obj` (eg. relative pronoun _que_)
++ `mark:obl` : `mark` and `obl` (eg. relative pronoun _cui_ / _qui_ )
++ `nsubj:advmod` : contracted `nsubj` + `advmod` (eg. _jon_ = _jo_ + _en_)
++ `nsubj:obj` : contracted `nsubj` + `obj` (eg. _quil_ = _qui_ + _le_)
++ `obj:advmod` : contracted `advmod` + `obj` (eg. _sis_ = _si_ + _les_)
++ `obj:advneg` : contracted `negation` + `obj` (eg. _nes_ = _ne_ + _les_)
++ `obj:obl` : contracted `obl` + `obj` (eg. _oul_ = _ou_ + _le_)
++ `obl:advmod `: the double labelling accounts for the difficulty to decide between obl and advmod relations (`en` and `i`).
 
 We added some features :
 
-+ Morph=VPar : perbal participle
 + Morph=VFin : finite verb
 + Morph=VInf : non finite verb
++ Morph=VPar : verbal participle
++ Polarity=Int : interrogative
 + PronType=Ord : numeral
 
 Consult [the language specific documentation](http://universaldependencies.org/fro/dep/index.html) for further details concerning subtypes.
@@ -70,8 +75,11 @@ Consult [the language specific documentation](http://universaldependencies.org/f
 UD_Old_French-SRCMF results from the conversion of (part of) the SRCMF corpus (Syntactic Reference Corpus of Medieval French [srcmf.org](srcmf.org)).
 
 This conversion was achieved by Aurélie Collomb, in the frame of a internship funded by lab Lattice (Paris, CNRS, ENS & Université Sorbonne Nouvelle Paris 3, PSL & USPC), and supervised by Sophie Prévost, Isabelle Tellier and Kim Gerdes. Marine Courtin achieved the deposit of the files, and especially took in charge the validation of the corpus through the successive steps of the process.
+
 The SRCMF corpus results from the SRCMF project which took place in 2008-2012, funded by the ANR (France) and the DFG (Germany), and supervised by Sophie Prévost and Achim Stein.
-The SRCMF project consisted in the manual syntactic annotation of 15 texts (251,000 tokens) from the 9th to 13th C. Part-of-speech tags were for most of them retrieved from the already existing tagging of the texts (stemming from: Base de Français Medieval, Lyon, ENS de Lyon, IHRIM Laboratory [http://txm.bfm-corpus.org]([http://txm.bfm-corpus.org]), and the Nouveau Corpus d'Amsterdam [http://www.uni-stuttgart.de/lingrom/stein/corpus#nca]([http://www.uni-stuttgart.de/lingrom/stein/corpus#nca]))  
+
+The SRCMF project consisted in the manual syntactic annotation of 15 texts (251,000 tokens) from the 9th to 13th C. Part-of-speech tags were for most of them retrieved from the already existing tagging of the texts (stemming from: Base de Français Medieval, Lyon, ENS de Lyon, IHRIM Laboratory [http://txm.bfm-corpus.org]([http://txm.bfm-corpus.org]), and the Nouveau Corpus d'Amsterdam [http://www.uni-stuttgart.de/lingrom/stein/corpus#nca]([http://www.uni-stuttgart.de/lingrom/stein/corpus#nca]))
+
 The contributors to the SRCMF project were: Stein, Achim; Prévost, Sophie; Rainsford, Tom; Mazziotta, Nicolas;  Bischoff Béatrice; Glikman, Julie; Lavrentiev, Alexei; Heiden, Serge; Guillot-Barbance, Céline.
 
 The conversion from the original SRCMF annotation to the SRCMF-UD annotation was done automatically both for the POS and the syntactic relations, thanks to a set of elaborated rules.
@@ -82,7 +90,7 @@ The whole SRCMF corpus (251,000 tokens) was actually automatically converted int
 
 ## References
 
-* (citation)
+* Stein, A. et Prévost, S. 2013. Syntactic annotation of medieval texts : the Syntactic Reference Corpus of Medieval French (SRCMF). In P. Bennett, M. Durrell, S. Scheible and R. Whitt (éds) New Methods in Historical Corpus Linguistics, Corpus Linguistics and International Perspectives on Language, CLIP Vol. 3. Tübingen: Narr., p. 75-82. [halshs-01122079]
 
 # Changelog
 
@@ -92,7 +100,7 @@ The whole SRCMF corpus (251,000 tokens) was actually automatically converted int
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.2
-License: CC BY-NC-SA License
+License: CC BY-NC-SA 3.0
 Includes text: yes
 Genre: literary, religious, historical, juridic, didactic
 Lemmas: not available
