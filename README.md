@@ -39,6 +39,22 @@ In the SRCMF projet, texts with less than about 40,000 words were entirely annot
 
 As a result, UD_Old_French-SRCMF includes 8 full texts (Strasbourg, StLegier, StAlexis, Roland, Lapidaire, BeroulTristan, TroyesYvain, Aucassin) and 2 sampled ones (QuatreLivresReis and Graal).
 
+The treebank is split as follows (in number of tokens) :
+
+| ID | Train | Test | Dev |
+| ------ | ------ | ------ | ------ |
+| Strasbourg_842_prose | 115 | 0 | 0 |
+| StLegier_1000_verse | 1388 | 0 | 0 |
+| StAlexis_1050_verse | 4750 | 0 | 0 |
+| Roland_1100_verse | 18752 | 4999 | 5001 |
+| Lapidaire_mid12_prose | 0 | 2361 | 2347 |
+| QuatreLivresReis_late12_prose | 12949 | 0 | 0 |
+| BeroulTristan_late12_verse | 16748 | 5001 | 5017 |
+| TroyesYvain_1180_verse | 41256 | 0 | 0 |
+| Aucassin_early13_verse-prose | 9838 | 0 | 0 |
+| Graal_1225_prose | 30225 | 4997 | 4997 |
+| Total | 136021 | 17358 | 17362 |
+
 # Deviations from UD
 
 We added some more specific relations (subtypes), either to specify a relation, or in the case of tokens entering a double dependency relation (typically : relative pronouns and  contracted forms) :
