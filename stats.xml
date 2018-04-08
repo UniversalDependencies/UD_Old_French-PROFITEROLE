@@ -5,18 +5,97 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></total>
+    <total><sentences>17678</sentences><tokens>170741</tokens><words>170741</words><fused>0</fused></total>
   </size>
   <lemmas unique="0" /><!--  -->
-  <forms unique="0" /><!--  -->
+  <forms unique="16743" /><!-- et, li, de, en, il, a, que, la, ne, le, si, l', vos, est, qui -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="0">
+  <tags unique="12">
+    <tag name="ADJ">6599</tag><!-- _ -->
+    <tag name="ADP">16365</tag><!-- _ -->
+    <tag name="ADV">20098</tag><!-- _ -->
+    <tag name="AUX">430</tag><!-- _ -->
+    <tag name="CCONJ">10148</tag><!-- _ -->
+    <tag name="DET">17215</tag><!-- _ -->
+    <tag name="INTJ">131</tag><!-- _ -->
+    <tag name="NOUN">26291</tag><!-- _ -->
+    <tag name="PRON">25210</tag><!-- _ -->
+    <tag name="PROPN">5543</tag><!-- _ -->
+    <tag name="SCONJ">5674</tag><!-- _ -->
+    <tag name="VERB">37037</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="0">
+  <feats unique="23">
+    <feat name="Definite" value="Def" upos="ADP,DET">10892</feat><!-- la, li, le, l', les, au, des, del, el, as -->
+    <feat name="Definite" value="Ind" upos="DET">1238</feat><!-- un, une, .i., uns, un', unes, I, u·, úne, U -->
+    <feat name="Morph" value="VFin" upos="ADJ,ADP,ADV,CCONJ,INTJ,NOUN,PROPN,VERB">45</feat><!-- a, Os, ad, Et, acorde, aiüe, alge, asuage, chastie, cuntredie -->
+    <feat name="Morph" value="VInf" upos="ADJ,NOUN">11</feat><!-- deçoivre, Fuïr, clergier, curre, droiturier, enconbrier, espleiter, parler, pleisir, ácustumiers -->
+    <feat name="Morph" value="VPar" upos="ADJ,ADP,ADV,NOUN,PROPN">181</feat><!-- dolenz, semblant, dolent, voiant, avenanz, mort, senblant, vaillant, vaillanz, confés -->
+    <feat name="NumType" value="Card" upos="ADJ,DET,PRON">1032</feat><!-- .ii., milie, deus, dui, trois, dous, cent, .iii., troi, quatre -->
+    <feat name="NumType" value="Ord" upos="DET,PRON">64</feat><!-- tierz, quarte, terce, disme, premiere, quarz, sedme, noefme, premere, quinte -->
+    <feat name="Polarity" value="Int" upos="ADV">4</feat><!-- enne, en, ene -->
+    <feat name="Polarity" value="Neg" upos="ADV,PRON">4164</feat><!-- ne, n', mie, pas, nel, non, nes, nen, point, nu -->
+    <feat name="Poss" value="Yes" upos="ADJ,DET,PRON">4240</feat><!-- sa, son, ses, sun, vostre, lor, nostre, ma, mon, mes -->
+    <feat name="PronType" value="Art" upos="ADP,DET">12130</feat><!-- la, li, le, l', les, un, une, au, des, del -->
+    <feat name="PronType" value="Dem" upos="ADP,ADV,DET,PRON">6189</feat><!-- en, i, ce, cil, an, ceste, cest, cele, ço, ces -->
+    <feat name="PronType" value="Ind" upos="ADJ,DET,PRON">3530</feat><!-- tel, autre, tuit, toz, nule, nus, nul, tot, rien, altre -->
+    <feat name="PronType" value="Int" upos="DET,PRON">190</feat><!-- que, qui, coi, quel, ou, qu', quoi, quei, ki, qel -->
+    <feat name="PronType" value="Ord" upos="ADJ">29</feat><!-- premier, tierce, cinquieme, premiere, premiers, tierz, disme, premeraine, premierz, prime -->
+    <feat name="PronType" value="Prs" upos="PRON,SCONJ">16846</feat><!-- il, vos, li, le, l', je, s', se, ele, me -->
+    <feat name="PronType" value="Prs,Rel" upos="PRON">3705</feat><!-- qui, que, ki, qu', ou, cui, quoi, dunt, u, don -->
+    <feat name="PronType" value="Rel" upos="DET">74</feat><!-- quel, quele, quelque, quiex, qel, quels, qual, quex, quanz, ques -->
+    <feat name="Tense" value="Past" upos="VERB">5009</feat><!-- fait, dit, mort, mis, fet, esté, venuz, pris, morz, ocis -->
+    <feat name="Tense" value="Pres" upos="VERB">438</feat><!-- querant, curant, plorant, recreant, parlant, recreanz, trenchant, veant, curanz, dolans -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">27997</feat><!-- est, a, ad, dist, fu, ot, fet, avoit, estoit, ai -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">4021</feat><!-- estre, dire, venir, avoir, aler, parler, faire, veoir, fere, feire -->
+    <feat name="VerbForm" value="Part" upos="VERB">5447</feat><!-- fait, dit, mort, mis, fet, esté, venuz, pris, morz, ocis -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="0">
+  <deps unique="44">
+    <dep name="acl">1657</dep>
+    <dep name="acl:relcl">2752</dep>
+    <dep name="advcl">3873</dep>
+    <dep name="advmod">16720</dep>
+    <dep name="advmod:obl">4</dep>
+    <dep name="amod">4462</dep>
+    <dep name="appos">668</dep>
+    <dep name="aux">4321</dep>
+    <dep name="aux:pass">441</dep>
+    <dep name="case">13208</dep>
+    <dep name="case:det">2143</dep>
+    <dep name="cc">4592</dep>
+    <dep name="cc:nc">5504</dep>
+    <dep name="ccomp">1347</dep>
+    <dep name="compound">2</dep>
+    <dep name="conj">5118</dep>
+    <dep name="cop">2962</dep>
+    <dep name="csubj">257</dep>
+    <dep name="det">16540</dep>
+    <dep name="discourse">140</dep>
+    <dep name="dislocated">251</dep>
+    <dep name="expl">1446</dep>
+    <dep name="fixed">25</dep>
+    <dep name="flat">1100</dep>
+    <dep name="iobj">3408</dep>
+    <dep name="mark">7057</dep>
+    <dep name="mark:advmod">8</dep>
+    <dep name="mark:obj">6</dep>
+    <dep name="mark:obl">11</dep>
+    <dep name="nmod">2963</dep>
+    <dep name="nsubj">16262</dep>
+    <dep name="nsubj:advmod">3</dep>
+    <dep name="nsubj:obj">89</dep>
+    <dep name="nummod">738</dep>
+    <dep name="obj">13683</dep>
+    <dep name="obj:advmod">9</dep>
+    <dep name="obj:advneg">6</dep>
+    <dep name="obj:obl">1</dep>
+    <dep name="obl">13971</dep>
+    <dep name="obl:advmod">1235</dep>
+    <dep name="parataxis">477</dep>
+    <dep name="root">17678</dep>
+    <dep name="vocative">1072</dep>
+    <dep name="xcomp">2531</dep>
   </deps>
 </treebank>
