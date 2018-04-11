@@ -1,33 +1,42 @@
-Sun Feb 11 20:48:19 CET 2018
-perl -I perllib/lib/perl5 -I tools tools/evaluate_treebank.pl --verbose UD_Old_French
 Running the following version of tools/evaluate_treebank.pl:
-commit c1cb17aec6a5505b56b885f578dc6b1093bb4b30
+commit 87d374bbd458d29331d76014d05c52eaac32518d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Feb 11 20:27:50 2018 +0100
-Already on 'master'
-Your branch is up-to-date with 'origin/master'.
-Evaluating the following revision of UD_Old_French:
-commit e04b601a0e36234bc23a4ed10211e36946cf3443
+Date:   Wed Apr 11 09:21:53 2018 +0200
+Evaluating the following revision of UD_Old_French-SRCMF:
+commit eb03f275a1df4378297f0f2b1f874771fb6dfde6
+Merge: 5f19ea0 bbe719e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 11 14:05:03 2017 +0100
-WARNING: No data found in './UD_Old_French'
-Size: counted 1 of 0 words (nodes).
-Size: min(0, log((N/1000)**2)) = 0.
+Size: counted 170741 of 170741 words (nodes).
+Size: min(0, log((N/1000)**2)) = 10.2802955768468.
 Size: maximum value 13.815511 is for 1000000 words or more.
-Split: Did not find more than 10000 training words.
-Split: Did not find at least 10000 development words.
-Split: Did not find at least 10000 test words.
-Lemmas: No lemmas found.
-Universal POS tags: 0 out of 17 found in the corpus.
-Universal POS tags: source of annotation (from README) factor is 0.1.
-Features: 0 out of 0 total words have one or more features.
+Split: Found more than 10000 training words.
+Split: Found at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: '_' is the most frequent lemma.
+Universal POS tags: 12 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.9.
+Features: 89595 out of 170741 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
-Universal relations: 0 out of 37 found in the corpus.
+Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.1.
+Udapi: found 38648 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 170741 words.
 Genres: found 1 out of 14 known.
-Availability: README does not say Includes text: yes
-Availability: No words found.
-STARS = 0
-UD_Old_French	0	0
-Switched to branch 'dev'
-Your branch is up-to-date with 'origin/dev'.
+validate.py --lang fro --max-err=10 UD_Old_French-SRCMF/fro_srcmf-ud-dev.conllu
+*** PASSED ***
+validate.py --lang fro --max-err=10 UD_Old_French-SRCMF/fro_srcmf-ud-test.conllu
+*** PASSED ***
+validate.py --lang fro --max-err=10 UD_Old_French-SRCMF/fro_srcmf-ud-train.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
+(weight=0.0769230769230769) * (score{genres}=0.0714285714285714) = 0.00549450549450549
+(weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
+(weight=0.256410256410256) * (score{size}=0.744112606893161) = 0.19079810433158
+(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
+(weight=0.0769230769230769) * (score{tags}=0.635294117647059) = 0.048868778280543
+(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
+(weight=0.0769230769230769) * (score{udeprels}=0.0810810810810811) = 0.00623700623700624
+(TOTAL score=0.33729583024107) * (availability=1) * (validity=1) = 0.33729583024107
+STARS = 1.5
+UD_Old_French-SRCMF	0.33729583024107	1.5
