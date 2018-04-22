@@ -118,7 +118,7 @@ The whole SRCMF corpus (251,000 tokens) was actually automatically converted int
 Data available since: UD v2.2
 License: CC BY-NC-SA 3.0
 Includes text: yes
-Genre: literary, religious, historical, juridic, didactic
+Genre: nonfiction legal poetry
 Lemmas: not available
 UPOS: converted with corrections
 XPOS: manual native
