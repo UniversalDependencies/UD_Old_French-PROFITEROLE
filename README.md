@@ -55,6 +55,12 @@ The treebank is split as follows (in number of tokens) :
 | Graal_1225_prose | 30225 | 4997 | 4997 |
 | Total | 136021 | 17358 | 17362 |
 
+It is to be noticed that most of Dev and Test data is taken from texts that also exist in Training data, but these are large texts, so it does not make the testing too easy…
+One text (Lapidaire) is represented only in dev/test but not in train.
+Pre-1100 texts are only in Train, because they seem too small to reserve anything for testing.
+The rest of the data (136021 tokens) is for Training corpus.
+
+
 # Deviations from UD
 
 We added some more specific relations (subtypes), either to specify a relation, or in the case of tokens entering a double dependency relation (typically : relative pronouns and  contracted forms) :
