@@ -1,10 +1,10 @@
 Running the following version of tools/evaluate_treebank.pl:
-commit 87d374bbd458d29331d76014d05c52eaac32518d
+commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Apr 11 09:21:53 2018 +0200
+Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Old_French-SRCMF:
-commit eb03f275a1df4378297f0f2b1f874771fb6dfde6
-Merge: 5f19ea0 bbe719e
+commit 2bd8f5549db7ba0426712c60f9851ac48700af60
+Merge: 634a8bf 5826cad
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 170741 of 170741 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.2802955768468.
@@ -21,7 +21,7 @@ Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.1.
 Udapi: found 38648 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 170741 words.
-Genres: found 1 out of 14 known.
+Genres: found 3 out of 17 known.
 validate.py --lang fro --max-err=10 UD_Old_French-SRCMF/fro_srcmf-ud-dev.conllu
 *** PASSED ***
 validate.py --lang fro --max-err=10 UD_Old_French-SRCMF/fro_srcmf-ud-test.conllu
@@ -30,13 +30,13 @@ validate.py --lang fro --max-err=10 UD_Old_French-SRCMF/fro_srcmf-ud-train.conll
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
-(weight=0.0769230769230769) * (score{genres}=0.0714285714285714) = 0.00549450549450549
+(weight=0.0769230769230769) * (score{genres}=0.176470588235294) = 0.0135746606334842
 (weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
 (weight=0.256410256410256) * (score{size}=0.744112606893161) = 0.19079810433158
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.635294117647059) = 0.048868778280543
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.0810810810810811) = 0.00623700623700624
-(TOTAL score=0.33729583024107) * (availability=1) * (validity=1) = 0.33729583024107
+(TOTAL score=0.345375985380049) * (availability=1) * (validity=1) = 0.345375985380049
 STARS = 1.5
-UD_Old_French-SRCMF	0.33729583024107	1.5
+UD_Old_French-SRCMF	0.345375985380049	1.5
