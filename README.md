@@ -55,6 +55,12 @@ The treebank is split as follows (in number of tokens) :
 | Graal_1225_prose | 30225 | 4997 | 4997 |
 | Total | 136021 | 17358 | 17362 |
 
+It is to be noticed that most of Dev and Test data is taken from texts that also exist in Training data, but these are large texts, so it does not make the testing too easy…
+One text (Lapidaire) is represented only in Dev/Test but not in train.
+Pre-1100 texts are only in Train, because they seem too small to reserve anything for testing.
+The rest of the data (136 021 /170 741 tokens) is for Train corpus.
+
+
 # Deviations from UD
 
 We added some more specific relations (subtypes), either to specify a relation, or in the case of tokens entering a double dependency relation (typically : relative pronouns and  contracted forms) :
@@ -118,13 +124,13 @@ The whole SRCMF corpus (251,000 tokens) was actually automatically converted int
 Data available since: UD v2.2
 License: CC BY-NC-SA 3.0
 Includes text: yes
-Genre: literary, religious, historical, juridic, didactic
+Genre: nonfiction legal poetry
 Lemmas: not available
 UPOS: converted with corrections
 XPOS: manual native
 Features: automatic
 Relations: automatic with corrections
-Contributors: Prévost, Sophie; Collomb, Aurélie; Gerdes, Kim; Tellier, Isabelle; Courtin, Marine; Lavrentiev, Alexei; Guillot-Barbance, Céline.
+Contributors: Prévost, Sophie; Collomb, Aurélie; Gerdes, Kim; Tellier, Isabelle; Courtin, Marine; Lavrentiev, Alexei; Guillot-Barbance, Céline
 Contributing: here source
 Contact: sophie.prevost@ens.fr
 ===============================================================================
