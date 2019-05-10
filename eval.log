@@ -3,8 +3,8 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Old_French-SRCMF:
-commit 2bd8f5549db7ba0426712c60f9851ac48700af60
-Merge: 634a8bf 5826cad
+commit e4e45a57c3c6e96ec58b4c7b143b54860e603669
+Merge: e895122 81411d8
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 170741 of 170741 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.2802955768468.
