@@ -16400,7 +16400,7 @@
 29	roi	_	NOUN	NOMcom	_	27	appos	_	_
 30	Pellés	_	PROPN	NOMpro	_	29	flat	_	_
 31	dom	_	PRON	PROrel	PronType=Prs,Rel	37	obl	_	_
-32	ele	_	PRON	PROper	PronType=Prs	36	aux	_	_
+32	ele	_	PRON	PROper	PronType=Prs	36	nsubj	_	_
 33	avoit	_	VERB	VERcjg	VerbForm=Fin	27	acl	_	_
 34	maintes	_	DET	DETind	PronType=Ind	35	det	_	_
 35	foiz	_	NOUN	NOMcom	_	36	obl	_	_
@@ -17186,7 +17186,7 @@
 8	com	_	SCONJ	CONsub	_	12	mark	_	_
 9	se	_	SCONJ	CONsub	_	12	mark	_	_
 10	il	_	PRON	PROper	PronType=Prs	12	nsubj	_	_
-11	les	_	PRON	PROper	PronType=Prs	16	aux	_	_
+11	les	_	PRON	PROper	PronType=Prs	16	obj	_	_
 12	eust	_	VERB	VERcjg	VerbForm=Fin	7	advcl	_	_
 13	de	_	ADP	PRE	_	16	case	_	_
 14	sa	_	DET	DETpos	Poss=Yes	16	det	_	_
