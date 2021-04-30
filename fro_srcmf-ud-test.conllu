@@ -23324,7 +23324,7 @@
 9	cume	_	SCONJ	CONsub	_	12	case	_	_
 10	tutes	_	DET	DETind	PronType=Ind	12	det	_	_
 11	les	_	DET	DETdef	Definite=Def|PronType=Art	12	det	_	_
-12	altres	_	PRON	PROind	PronType=Ind	8	obl:mod	_	_
+12	altres	_	PRON	PROind	PronType=Ind	8	obl	_	_
 
 # text = Se hom la ported en la buche et ele remetet si li trublet le sens
 # newdoc id = Lapidaire_mid12_prose

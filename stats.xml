@@ -56,7 +56,7 @@
     <feat name="VerbForm" value="Part" upos="ADJ,AUX,NOUN,VERB">5445</feat><!-- fait, dit, mort, mis, fet, esté, venuz, pris, morz, ocis -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="43">
+  <deps unique="42">
     <dep name="acl">1702</dep>
     <dep name="acl:relcl">2757</dep>
     <dep name="advcl">3841</dep>
@@ -93,9 +93,8 @@
     <dep name="obj:advmod">9</dep>
     <dep name="obj:advneg">6</dep>
     <dep name="obj:obl">1</dep>
-    <dep name="obl">14022</dep>
+    <dep name="obl">14025</dep>
     <dep name="obl:advmod">1235</dep>
-    <dep name="obl:mod">3</dep>
     <dep name="parataxis">477</dep>
     <dep name="root">17678</dep>
     <dep name="vocative">1072</dep>
