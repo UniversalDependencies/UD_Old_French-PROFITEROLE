@@ -2326,7 +2326,7 @@
 4	ma	_	DET	DETpos	Poss=Yes	5	det	_	_
 5	cumpaigne	_	NOUN	NOMcom	_	3	obj	_	_
 6	.XX.	_	NUM	PROcar	NumType=Card	7	nummod	_	_
-7	milie	_	PRON	PROcar	NumType=Card	5	nmod:appos	_	_
+7	milie	_	PRON	PROcar	NumType=Card	5	nmod	_	_
 8	ad	_	ADP	PRE	_	9	case	_	_
 9	escuz	_	NOUN	NOMcom	_	5	nmod	_	_
 10	e	_	CCONJ	CONcoo	_	12	cc	_	_
