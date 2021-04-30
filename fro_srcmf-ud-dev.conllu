@@ -322,7 +322,7 @@
 12	e	_	CCONJ	CONcoo	_	14	cc	_	_
 13	mil	_	NUM	DETcar	NumType=Card	14	nummod	_	_
 14	hosturs	_	NOUN	NOMcom	_	4	conj	_	_
-15	muers	_	ADJ	ADJqua	Morph=VPar	14	amod	_	_
+15	muers	_	ADJ	ADJqua	VerbForm=Part	14	amod	_	_
 16	D'	_	ADP	PRE	_	17	case	_	_
 17	or	_	NOUN	NOMcom	_	23	obl	_	_
 18	e	_	CCONJ	CONcoo	_	20	cc	_	_
@@ -1324,7 +1324,7 @@
 17	e	_	CCONJ	CONcoo	_	19	cc:nc	_	_
 18	mil	_	NUM	DETcar	NumType=Card	19	nummod	_	_
 19	hosturs	_	NOUN	NOMcom	_	8	conj	_	_
-20	muez	_	ADJ	ADJqua	Morph=VPar	19	amod	_	_
+20	muez	_	ADJ	ADJqua	VerbForm=Part	19	amod	_	_
 21	D'	_	ADP	PRE	_	22	case	_	_
 22	or	_	NOUN	NOMcom	_	29	obl	_	_
 23	e	_	CCONJ	CONcoo	_	25	cc	_	_
@@ -1661,7 +1661,7 @@
 2	dis	_	NUM	DETcar	NumType=Card	3	nummod	_	_
 3	messages	_	NOUN	NOMcom	_	7	obj	_	_
 4	ad	_	AUX	VERcjg	VerbForm=Fin	5	aux	_	_
-5	fait	_	NOUN	NOMcom	Morph=VPar	0	root	_	_
+5	fait	_	NOUN	NOMcom	VerbForm=Part	0	root	_	_
 6	enz	_	ADV	ADVgen	_	7	advmod	_	_
 7	hosteler	_	VERB	VERinf	VerbForm=Inf	5	xcomp	_	_
 
@@ -1904,7 +1904,7 @@
 18	e	_	CCONJ	CONcoo	_	20	cc	_	_
 19	mil	_	NUM	DETcar	NumType=Card	20	nummod	_	_
 20	hosturs	_	NOUN	NOMcom	_	9	conj	_	_
-21	muables	_	ADJ	ADJqua	Morph=VPar	20	amod	_	_
+21	muables	_	ADJ	ADJqua	VerbForm=Part	20	amod	_	_
 22	Quatre	_	NUM	DETcar	NumType=Card	23	nummod	_	_
 23	cenz	_	NUM	DETcar	NumType=Card	24	nummod	_	_
 24	muls	_	NOUN	NOMcom	_	9	conj	_	_
@@ -3326,7 +3326,7 @@
 2	mei	_	PRON	PROper	PronType=Prs	4	iobj	_	_
 3	avez	_	AUX	VERcjg	VerbForm=Fin	4	aux	_	_
 4	turnet	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	_
-5	fals	_	ADJ	ADJqua	Morph=VPar	6	amod	_	_
+5	fals	_	ADJ	ADJqua	VerbForm=Part	6	amod	_	_
 6	jugement	_	NOUN	NOMcom	_	4	obj	_	_
 
 # text = Dreiz emperere veiz me ci en present
@@ -3558,7 +3558,7 @@
 13	ci	_	ADV	ADVgen	_	11	advmod	_	_
 14	sire	_	NOUN	NOMcom	_	11	vocative	_	_
 15	vostre	_	DET	DETpos	Poss=Yes	16	nsubj	_	_
-16	veiant	_	NOUN	NOMcom	Morph=VPar	11	advcl	_	_
+16	veiant	_	NOUN	NOMcom	VerbForm=Part	11	advcl	_	_
 
 # text = Ço dist li reis
 # newdoc id = Roland_1100_verse
@@ -4722,7 +4722,7 @@
 6	otrier	_	VERB	VERinf	VerbForm=Inf	7	advcl	_	_
 7	Pris	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	_
 8	e	_	CCONJ	CONcoo	_	9	cc	_	_
-9	liez	_	ADJ	ADJqua	Morph=VPar	7	conj	_	_
+9	liez	_	ADJ	ADJqua	VerbForm=Part	7	conj	_	_
 10	serez	_	AUX	VERcjg	VerbForm=Fin	7	aux:pass	_	_
 11	par	_	ADP	PRE	_	12	case	_	_
 12	poësted	_	NOUN	NOMcom	_	7	obl	_	_
@@ -4899,7 +4899,7 @@
 3	avrunt	_	AUX	VERcjg	VerbForm=Fin	6	aux	_	_
 4	li	_	DET	DETdef	Definite=Def|PronType=Art	5	det	_	_
 5	meillor	_	ADJ	ADJqua	_	6	nsubj	_	_
-6	cumperee	_	NOUN	NOMcom	Morph=VPar	0	root	_	_
+6	cumperee	_	NOUN	NOMcom	VerbForm=Part	0	root	_	_
 
 # text = Dient paien
 # newdoc id = Roland_1100_verse
@@ -7573,7 +7573,7 @@
 # sent_id = 3858
 1	Or	_	ADV	ADVgen	_	2	advmod	_	_
 2	fait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
-3	senblant	_	NOUN	NOMcom	Morph=VPar	2	xcomp	_	_
+3	senblant	_	NOUN	NOMcom	VerbForm=Part	2	xcomp	_	_
 4	con	_	SCONJ	CONsub	_	7	mark	_	_
 5	s'	_	SCONJ	CONsub	_	7	mark	_	_
 6	ele	_	PRON	PROper	PronType=Prs	7	nsubj	_	_
@@ -8573,7 +8573,7 @@
 4	n'	_	ADV	ADVneg	Polarity=Neg	7	advmod	_	_
 5	en	_	ADV	PROadv	PronType=Dem	7	obl:advmod	_	_
 6	ait	_	AUX	VERcjg	VerbForm=Fin	7	aux	_	_
-7	pechié	_	NOUN	NOMcom	Morph=VPar	1	obj	_	_
+7	pechié	_	NOUN	NOMcom	VerbForm=Part	1	obj	_	_
 
 # text = n' i faudra mie
 # newdoc id = BeroulTristan_late12_verse
@@ -8603,7 +8603,7 @@
 15	faire	_	VERB	VERinf	VerbForm=Inf	14	xcomp	_	_
 16	un	_	DET	DETndf	Definite=Ind|PronType=Art	17	det	_	_
 17	feu	_	NOUN	NOMcom	_	15	obj	_	_
-18	ardant	_	ADJ	ADJqua	Morph=VPar	17	amod	_	_
+18	ardant	_	ADJ	ADJqua	VerbForm=Part	17	amod	_	_
 
 # text = Et je m' en entrerai el ré
 # newdoc id = BeroulTristan_late12_verse
@@ -11717,7 +11717,7 @@
 8	Asez	_	ADV	ADVgen	_	10	advmod	_	_
 9	en	_	ADV	PROadv	PronType=Dem	11	advmod	_	_
 10	veïsiez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
-11	senblant	_	NOUN	NOMcom	Morph=VPar	10	obj	_	_
+11	senblant	_	NOUN	NOMcom	VerbForm=Part	10	obj	_	_
 
 # text = Ainz par ma foi ne tant ne quant Ne veïstes qu' il m' aprismast Ne mespreïst ne me baisast
 # newdoc id = BeroulTristan_late12_verse
@@ -14166,7 +14166,7 @@
 # sent_id = 4396
 1	Tristran	_	PROPN	NOMpro	_	2	nsubj	_	_
 2	faisoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
-3	Senblant	_	NOUN	NOMcom	Morph=VPar	2	xcomp	_	_
+3	Senblant	_	NOUN	NOMcom	VerbForm=Part	2	xcomp	_	_
 4	conme	_	SCONJ	CONsub	_	7	mark	_	_
 5	se	_	SCONJ	CONsub	_	7	mark	_	_
 6	il	_	PRON	PROper	PronType=Prs	7	nsubj	_	_
@@ -15351,7 +15351,7 @@
 12	et	_	CCONJ	CONcoo	_	13	cc	_	_
 13	riche	_	ADJ	ADJqua	_	11	conj	_	_
 14	par	_	ADP	PRE	_	15	case	_	_
-15	semblant	_	NOUN	NOMcom	Morph=VPar	11	obl	_	_
+15	semblant	_	NOUN	NOMcom	VerbForm=Part	11	obl	_	_
 
 # text = et en estoit li ponz d' une pierre precieuse ouvrez a letres d' or mout soutilment
 # newdoc id = Graal_1225_prose
@@ -16303,7 +16303,7 @@
 5	ne	_	ADV	ADVneg	Polarity=Neg	8	advmod	_	_
 6	fu	_	AUX	VERcjg	VerbForm=Fin	8	cop	_	_
 7	pas	_	ADV	ADVneg	Polarity=Neg	8	advmod	_	_
-8	ennuble	_	ADJ	ADJqua	Morph=VPar	0	root	_	_
+8	ennuble	_	ADJ	ADJqua	VerbForm=Part	0	root	_	_
 
 # text = et de ceste chose furent esbahiz li fol et li sage
 # newdoc id = Graal_1225_prose
@@ -20606,7 +20606,7 @@
 10	li	_	DET	DETdef	Definite=Def|PronType=Art	11	det	_	_
 11	rois	_	NOUN	NOMcom	_	13	nsubj	_	_
 12	Artus	_	PROPN	NOMpro	_	11	flat	_	_
-13	joianz	_	ADJ	ADJqua	Morph=VPar	0	root	_	_
+13	joianz	_	ADJ	ADJqua	VerbForm=Part	0	root	_	_
 14	et	_	CCONJ	CONcoo	_	15	cc	_	_
 15	liez	_	ADJ	ADJqua	_	13	conj	_	_
 16	de	_	ADP	PRE	_	17	case	_	_
@@ -23275,7 +23275,7 @@
 8	est	_	AUX	VERcjg	VerbForm=Fin	3	cop	_	_
 9	mais	_	CCONJ	CONcoo	_	12	cc	_	_
 10	de	_	ADP	PRE	_	12	case	_	_
-11	tempree	_	ADJ	ADJqua	Morph=VPar	12	amod	_	_
+11	tempree	_	ADJ	ADJqua	VerbForm=Part	12	amod	_	_
 12	culur	_	NOUN	NOMcom	_	3	obl	_	_
 13	et	_	CCONJ	CONcoo	_	14	cc	_	_
 14	purpre	_	ADJ	ADJqua	_	11	conj	_	_
@@ -24038,7 +24038,7 @@
 # text = Luisante est et neire et legiere et plaigne
 # newdoc id = Lapidaire_mid12_prose
 # sent_id = 17202
-1	Luisante	_	ADJ	ADJqua	Morph=VPar	0	root	_	_
+1	Luisante	_	ADJ	ADJqua	VerbForm=Part	0	root	_	_
 2	est	_	AUX	VERcjg	VerbForm=Fin	1	cop	_	_
 3	et	_	CCONJ	CONcoo	_	4	cc	_	_
 4	neire	_	ADJ	ADJqua	_	1	conj	_	_

@@ -35,7 +35,7 @@
     <feat name="Definite" value="Ind" upos="DET">1238</feat><!-- un, une, .i., uns, un', unes, I, u·, úne, U -->
     <feat name="Morph" value="VFin" upos="ADJ,ADP,ADV,CCONJ,INTJ,NOUN,PROPN">34</feat><!-- a, Os, ad, Et, acorde, aiüe, alge, asuage, chastie, cuntredie -->
     <feat name="Morph" value="VInf" upos="ADJ,NOUN">11</feat><!-- deçoivre, Fuïr, clergier, curre, droiturier, enconbrier, espleiter, parler, pleisir, ácustumiers -->
-    <feat name="Morph" value="VPar" upos="ADJ,ADP,ADV,AUX,NOUN,PROPN">181</feat><!-- dolenz, semblant, dolent, voiant, avenanz, mort, senblant, vaillant, vaillanz, confés -->
+    <feat name="Morph" value="VPar" upos="ADP,ADV,PROPN">15</feat><!-- voiant, errant, oiant, Flurit, Perdut, Sevree -->
     <feat name="NumType" value="Card" upos="ADJ,DET,NUM,PRON">1032</feat><!-- .ii., milie, deus, dui, trois, dous, cent, .iii., troi, quatre -->
     <feat name="NumType" value="Ord" upos="ADJ,DET,PRON">93</feat><!-- tierz, premiere, tierce, disme, quarte, quarz, sedme, terce, premier, quinte -->
     <feat name="Polarity" value="Neg" upos="ADV,PRON">4162</feat><!-- ne, n', mie, pas, nel, non, nes, point, nen, nu -->
@@ -51,7 +51,7 @@
     <feat name="Tense" value="Pres" upos="ADJ,VERB">438</feat><!-- querant, curant, plorant, recreant, parlant, recreanz, trenchant, veant, curanz, dolans -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">28007</feat><!-- est, a, ad, dist, fu, ot, fet, avoit, estoit, ai -->
     <feat name="VerbForm" value="Inf" upos="AUX,NOUN,VERB">4021</feat><!-- estre, dire, venir, avoir, aler, parler, faire, veoir, fere, feire -->
-    <feat name="VerbForm" value="Part" upos="ADJ,AUX,NOUN,VERB">5445</feat><!-- fait, dit, mort, mis, fet, esté, venuz, pris, morz, ocis -->
+    <feat name="VerbForm" value="Part" upos="ADJ,AUX,NOUN,VERB">5611</feat><!-- fait, dit, mort, mis, fet, esté, venuz, pris, morz, ocis -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="42">

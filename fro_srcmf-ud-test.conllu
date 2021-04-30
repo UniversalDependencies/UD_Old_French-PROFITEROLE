@@ -240,7 +240,7 @@
 1	la	_	DET	DETdef	Definite=Def|PronType=Art	2	det	_	_
 2	noit	_	NOUN	NOMcom	_	4	nsubj	_	_
 3	est	_	AUX	VERcjg	VerbForm=Fin	4	cop	_	_
-4	aserie	_	ADJ	ADJqua	Morph=VPar	0	root	_	_
+4	aserie	_	ADJ	ADJqua	VerbForm=Part	0	root	_	_
 
 # text = Carles se dort li empereres riches
 # newdoc id = Roland_1100_verse
@@ -368,7 +368,7 @@
 # sent_id = 664
 1	Sun	_	DET	DETpos	Poss=Yes	2	det	_	_
 2	cors	_	NOUN	NOMcom	_	6	obj	_	_
-3	demenie	_	ADJ	ADJqua	Morph=VPar	2	amod	_	_
+3	demenie	_	ADJ	ADJqua	VerbForm=Part	2	amod	_	_
 4	mult	_	ADV	ADVgen	_	5	advmod	_	_
 5	fierement	_	ADV	ADVgen	_	6	advmod	_	_
 6	asalt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
@@ -1013,7 +1013,7 @@
 3	Francs	_	PROPN	NOMpro	_	4	obj	_	_
 4	retendrai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
 5	ben	_	ADV	ADVgen	_	6	advmod	_	_
-6	vaillanz	_	ADJ	ADJqua	Morph=VPar	3	amod	_	_
+6	vaillanz	_	ADJ	ADJqua	VerbForm=Part	3	amod	_	_
 
 # text = Passez les porz trestut soürement
 # newdoc id = Roland_1100_verse
@@ -2990,7 +2990,7 @@
 4	a	_	ADP	PRE	Morph=VFin	0	root	_	_
 5	la	_	DET	DETdef	Definite=Def|PronType=Art	6	det	_	_
 6	barbe	_	NOUN	NOMcom	_	4	obj	_	_
-7	flurie	_	ADJ	ADJqua	Morph=VPar	6	amod	_	_
+7	flurie	_	ADJ	ADJqua	VerbForm=Part	6	amod	_	_
 
 # text = Jamais n' ert jurn qu' il n' en ait doel e ire
 # newdoc id = Roland_1100_verse
@@ -4205,7 +4205,7 @@
 19	verrez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
 20	l'	_	DET	DETdef	Definite=Def|PronType=Art	21	det	_	_
 21	acer	_	NOUN	NOMcom	_	19	obj	_	_
-22	sanglent	_	ADJ	ADJqua	Morph=VPar	21	amod	_	_
+22	sanglent	_	ADJ	ADJqua	VerbForm=Part	21	amod	_	_
 
 # text = Franceis sunt bon
 # newdoc id = Roland_1100_verse
@@ -5051,7 +5051,7 @@
 1	mult	_	ADV	ADVgen	_	4	advmod	_	_
 2	li	_	PRON	PROper	PronType=Prs	4	iobj	_	_
 3	sunt	_	AUX	VERcjg	VerbForm=Fin	4	aux	_	_
-4	avenanz	_	ADJ	ADJqua	Morph=VPar	0	root	_	_
+4	avenanz	_	ADJ	ADJqua	VerbForm=Part	0	root	_	_
 
 # text = Mais sun espiet vait li bers palmeiant
 # newdoc id = Roland_1100_verse
@@ -6637,7 +6637,7 @@
 3	hanste	_	NOUN	NOMcom	_	8	obl	_	_
 4	el	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	5	case:det	_	_
 5	camp	_	NOUN	NOMcom	_	8	obl	_	_
-6	mort	_	NOUN	NOMcom	Morph=VPar	8	xcomp	_	_
+6	mort	_	NOUN	NOMcom	VerbForm=Part	8	xcomp	_	_
 7	le	_	PRON	PROper	PronType=Prs	8	obj	_	_
 8	tresturnet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
 
@@ -7273,7 +7273,7 @@
 4	l'	_	DET	DETdef	Definite=Def|PronType=Art	5	det	_	_
 5	un	_	PRON	PROind	PronType=Ind	6	obj	_	_
 6	geter	_	VERB	VERinf	VerbForm=Inf	3	xcomp	_	_
-7	mort	_	NOUN	NOMcom	Morph=VPar	6	xcomp	_	_
+7	mort	_	NOUN	NOMcom	VerbForm=Part	6	xcomp	_	_
 8	su	_	ADP	PRE	_	10	case	_	_
 9	l'	_	DET	DETdef	Definite=Def|PronType=Art	10	det	_	_
 10	altre	_	PRON	PROind	PronType=Ind	6	obl	_	_
@@ -10190,7 +10190,7 @@
 7	sort	_	VERB	VERcjg	VerbForm=Fin	2	acl	_	_
 8	Sont	_	AUX	VERcjg	VerbForm=Fin	10	aux	_	_
 9	devenu	_	AUX	VERppe	Tense=Past|VerbForm=Part	10	cop	_	_
-10	taisant	_	ADJ	ADJqua	Morph=VPar	0	root	_	_
+10	taisant	_	ADJ	ADJqua	VerbForm=Part	0	root	_	_
 11	et	_	CCONJ	CONcoo	_	12	cc	_	_
 12	sort	_	ADJ	ADJqua	_	10	conj	_	_
 
@@ -10365,7 +10365,7 @@
 3	en	_	ADV	PROadv	PronType=Dem	4	obl	_	_
 4	torne	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
 5	Chiere	_	NOUN	NOMcom	_	6	nsubj	_	_
-6	encline	_	ADJ	ADJqua	Morph=VPar	4	acl	_	_
+6	encline	_	ADJ	ADJqua	VerbForm=Part	4	acl	_	_
 7	marriz	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	conj	_	_
 8	et	_	CCONJ	CONcoo	_	9	cc	_	_
 9	morne	_	ADJ	ADJqua	_	6	conj	_	_
@@ -11248,7 +11248,7 @@
 15	i	_	ADV	PROadv	PronType=Dem	16	obl	_	_
 16	ara	_	VERB	VERcjg	VerbForm=Fin	2	acl	_	_
 17	ferai	_	VERB	VERcjg	VerbForm=Fin	14	amod	_	_
-18	dolent	_	ADJ	ADJqua	Morph=VPar	17	xcomp	_	_
+18	dolent	_	ADJ	ADJqua	VerbForm=Part	17	xcomp	_	_
 
 # text = Fiert le destrier
 # newdoc id = BeroulTristan_late12_verse
@@ -15520,7 +15520,7 @@
 11	furent	_	AUX	VERcjg	VerbForm=Fin	12	aux:pass	_	_
 12	corrocié	_	VERB	VERppe	Tense=Past|VerbForm=Part	5	acl:relcl	_	_
 13	que	_	SCONJ	CONsub_pre	_	14	mark	_	_
-14	joiant	_	ADJ	ADJqua	Morph=VPar	9	amod	_	_
+14	joiant	_	ADJ	ADJqua	VerbForm=Part	9	amod	_	_
 
 # text = car par la proece des compaignons de la table reonde estoit li ostiex le roi Artus redoutez sor touz autres
 # newdoc id = Graal_1225_prose
@@ -15967,7 +15967,7 @@
 4	ou	_	CCONJ	CONcoo	_	5	cc	_	_
 5	damoisele	_	NOUN	NOMcom	_	3	conj	_	_
 6	fust	_	AUX	VERcjg	VerbForm=Fin	7	cop	_	_
-7	espousee	_	NOUN	NOMcom	Morph=VPar	10	advcl	_	_
+7	espousee	_	NOUN	NOMcom	VerbForm=Part	10	advcl	_	_
 8	fust	_	AUX	VERcjg	VerbForm=Fin	9	cop	_	_
 9	amie	_	NOUN	NOMcom	_	10	advcl	_	_
 10	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
@@ -17394,7 +17394,7 @@
 1	et	_	CCONJ	CONcoo	_	4	cc:nc	_	_
 2	lors	_	ADV	ADVgen	_	4	advmod	_	_
 3	fu	_	AUX	VERcjg	VerbForm=Fin	4	cop	_	_
-4	pensis	_	ADJ	ADJqua	Morph=VPar	0	root	_	_
+4	pensis	_	ADJ	ADJqua	VerbForm=Part	0	root	_	_
 5	durement	_	ADV	ADVgen	_	4	advmod	_	_
 
 # text = et en cel penser li comencent les lermes a coler tot contreval la face
@@ -17470,7 +17470,7 @@
 5	si	_	ADV	ADVgen	_	6	advmod	_	_
 6	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
 7	trop	_	ADV	ADVgen	_	8	advmod	_	_
-8	dolenz	_	ADJ	ADJqua	Morph=VPar	6	xcomp	_	_
+8	dolenz	_	ADJ	ADJqua	VerbForm=Part	6	xcomp	_	_
 
 # text = Ha Diex je ne me cuidoie ja mes dessevrer de ceste compaignie que fortune m' avoit envoiee
 # newdoc id = Graal_1225_prose
@@ -20966,7 +20966,7 @@
 7	ot	_	AUX	VERcjg	VerbForm=Fin	8	aux	_	_
 8	pris	_	VERB	VERppe	Tense=Past|VerbForm=Part	4	acl:relcl	_	_
 9	a	_	ADP	PRE	_	10	case	_	_
-10	descovert	_	NOUN	NOMcom	Morph=VPar	8	xcomp	_	_
+10	descovert	_	NOUN	NOMcom	VerbForm=Part	8	xcomp	_	_
 11	le	_	PRON	PROper	PronType=Prs	12	obj	_	_
 12	fiert	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
 13	si	_	ADV	ADVgen	_	14	advmod	_	_
