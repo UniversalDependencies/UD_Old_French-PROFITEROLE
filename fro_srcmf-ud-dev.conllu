@@ -10186,7 +10186,7 @@
 9	penout	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
 10	de	_	ADP	PRE	_	12	case	_	_
 11	cel	_	DET	DETdem	PronType=Dem	12	obj	_	_
-12	deçoivre	_	NOUN	NOMcom	Morph=VInf	9	obl	_	_
+12	deçoivre	_	NOUN	NOMcom	VerbForm=Inf	9	obl	_	_
 13	Qui	_	PRON	PROrel	PronType=Prs,Rel	18	nsubj	_	_
 14	de	_	ADP	PRE	_	16	case	_	_
 15	l'	_	DET	DETdef	Definite=Def|PronType=Art	16	det	_	_

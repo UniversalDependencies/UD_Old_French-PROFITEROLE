@@ -5510,7 +5510,7 @@
 # newdoc id = Roland_1100_verse
 # sent_id = 1125
 1	laiset	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
-2	curre	_	NOUN	NOMcom	Morph=VInf	1	xcomp	_	_
+2	curre	_	NOUN	NOMcom	VerbForm=Inf	1	xcomp	_	_
 3	a	_	ADP	PRE	_	4	case	_	_
 4	esforz	_	NOUN	NOMcom	_	2	obl	_	_
 
