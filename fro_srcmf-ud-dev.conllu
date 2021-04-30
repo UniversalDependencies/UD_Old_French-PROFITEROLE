@@ -10414,7 +10414,7 @@
 2	me	_	PRON	PROper	PronType=Prs	3	obj	_	_
 3	fist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
 4	parler	_	VERB	VERinf	VerbForm=Inf	3	xcomp	_	_
-5	premeraine	_	ADJ	ADJord	PronType=Ord	3	acl	_	_
+5	premeraine	_	ADJ	ADJord	NumType=Ord	3	acl	_	_
 
 # text = Onques de ce que je i quis N' i out mot dit ce vos plevis mervellos conplaignement Et mervellos gemissement
 # newdoc id = BeroulTristan_late12_verse
@@ -21748,13 +21748,13 @@
 # newdoc id = Lapidaire_mid12_prose
 # sent_id = 17032
 1	Un	_	DET	DETndf	Definite=Ind|PronType=Art	3	det	_	_
-2	tierz	_	ADJ	ADJord	PronType=Ord	3	amod	_	_
+2	tierz	_	ADJ	ADJord	NumType=Ord	3	amod	_	_
 3	adamas	_	NOUN	NOMcom	_	4	nsubj	_	_
 4	est	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
 5	en	_	ADP	PRE	_	6	case	_	_
 6	Cypre	_	PROPN	NOMpro	_	4	obl	_	_
 7	li	_	DET	DETdef	Definite=Def|PronType=Art	8	det	_	_
-8	quarz	_	ADJ	ADJord	PronType=Ord	3	conj	_	_
+8	quarz	_	ADJ	ADJord	NumType=Ord	3	conj	_	_
 9	en	_	ADP	PRE	_	10	case	_	_
 10	Grece	_	PROPN	NOMpro	_	6	conj	_	_
 

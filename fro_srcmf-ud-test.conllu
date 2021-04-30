@@ -14765,7 +14765,7 @@
 1	Ainz	_	ADV	ADVgen	_	11	advmod	_	_
 2	que	_	SCONJ	CONsub	_	6	mark	_	_
 3	li	_	DET	DETdef	Definite=Def|PronType=Art	5	det	_	_
-4	premier	_	ADJ	ADJord	PronType=Ord	5	amod	_	_
+4	premier	_	ADJ	ADJord	NumType=Ord	5	amod	_	_
 5	mois	_	NOUN	NOMcom	_	6	nsubj	_	_
 6	pasast	_	VERB	VERcjg	VerbForm=Fin	11	advcl	_	_
 7	Fu	_	AUX	VERcjg	VerbForm=Fin	11	aux:pass	_	_
@@ -23048,7 +23048,7 @@
 14	quant	_	SCONJ	CONsub	_	17	mark	_	_
 15	ele	_	PRON	PROper	PronType=Prs	17	nsubj	_	_
 16	est	_	AUX	VERcjg	VerbForm=Fin	17	cop	_	_
-17	quinzieme	_	ADJ	ADJord	PronType=Ord	7	advcl	_	_
+17	quinzieme	_	ADJ	ADJord	NumType=Ord	7	advcl	_	_
 
 # text = Ceste ne crient fu nul
 # newdoc id = Lapidaire_mid12_prose
@@ -23452,7 +23452,7 @@
 # newdoc id = Lapidaire_mid12_prose
 # sent_id = 17362
 1	La	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	_
-2	tierce	_	ADJ	ADJord	PronType=Ord	3	amod	_	_
+2	tierce	_	ADJ	ADJord	NumType=Ord	3	amod	_	_
 3	maniere	_	NOUN	NOMcom	_	8	nsubj	_	_
 4	de	_	ADP	PRE	_	5	case	_	_
 5	orite	_	NOUN	NOMcom	_	3	nmod	_	_
@@ -25003,7 +25003,7 @@
 # newdoc id = Lapidaire_mid12_prose
 # sent_id = 17481
 1	La	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	_
-2	tierce	_	ADJ	ADJord	PronType=Ord	3	amod	_	_
+2	tierce	_	ADJ	ADJord	NumType=Ord	3	amod	_	_
 3	maniere	_	NOUN	NOMcom	_	4	nsubj	_	_
 4	ad	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
 5	treis	_	NUM	DETcar	NumType=Card	6	nummod	_	_
