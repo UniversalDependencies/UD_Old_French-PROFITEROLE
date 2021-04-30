@@ -30,7 +30,7 @@
     <tag name="VERB">29779</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="22">
+  <feats unique="21">
     <feat name="Definite" value="Def" upos="ADP,AUX,DET">10890</feat><!-- la, li, le, l', les, au, des, del, el, as -->
     <feat name="Definite" value="Ind" upos="DET">1238</feat><!-- un, une, .i., uns, un', unes, I, u·, úne, U -->
     <feat name="Morph" value="VFin" upos="ADJ,ADP,ADV,AUX,CCONJ,INTJ,NOUN,PROPN,VERB">45</feat><!-- a, Os, ad, Et, acorde, aiüe, alge, asuage, chastie, cuntredie -->
@@ -38,13 +38,12 @@
     <feat name="Morph" value="VPar" upos="ADJ,ADP,ADV,AUX,NOUN,PROPN">181</feat><!-- dolenz, semblant, dolent, voiant, avenanz, mort, senblant, vaillant, vaillanz, confés -->
     <feat name="NumType" value="Card" upos="ADJ,DET,NUM,PRON">1032</feat><!-- .ii., milie, deus, dui, trois, dous, cent, .iii., troi, quatre -->
     <feat name="NumType" value="Ord" upos="ADJ,DET,PRON">93</feat><!-- tierz, premiere, tierce, disme, quarte, quarz, sedme, terce, premier, quinte -->
-    <feat name="Polarity" value="Int" upos="ADV">4</feat><!-- enne, en, ene -->
     <feat name="Polarity" value="Neg" upos="ADV,PRON">4162</feat><!-- ne, n', mie, pas, nel, non, nes, point, nen, nu -->
     <feat name="Poss" value="Yes" upos="ADJ,AUX,DET,PRON">4240</feat><!-- sa, son, ses, sun, vostre, lor, nostre, ma, mon, mes -->
     <feat name="PronType" value="Art" upos="ADP,AUX,DET">12128</feat><!-- la, li, le, l', les, un, une, au, des, del -->
     <feat name="PronType" value="Dem" upos="ADP,ADV,AUX,DET,PRON">6189</feat><!-- en, i, ce, cil, an, ceste, cest, cele, ço, ces -->
     <feat name="PronType" value="Ind" upos="ADJ,ADV,DET,PRON,SCONJ">3523</feat><!-- tel, autre, tuit, toz, nule, nus, nul, tot, rien, altre -->
-    <feat name="PronType" value="Int" upos="DET,PRON">190</feat><!-- que, qui, coi, quel, ou, qu', quoi, quei, ki, qel -->
+    <feat name="PronType" value="Int" upos="ADV,DET,PRON">194</feat><!-- que, qui, coi, quel, ou, qu', quoi, quei, ki, qel -->
     <feat name="PronType" value="Prs" upos="ADV,DET,PRON,SCONJ">16844</feat><!-- il, vos, li, le, l', je, s', se, ele, me -->
     <feat name="PronType" value="Prs,Rel" upos="ADP,ADV,CCONJ,PRON,SCONJ">3703</feat><!-- qui, que, ki, qu', ou, cui, quoi, dunt, u, don -->
     <feat name="PronType" value="Rel" upos="DET">74</feat><!-- quel, quele, quelque, quiex, qel, quels, qual, quex, quanz, ques -->
