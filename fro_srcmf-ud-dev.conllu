@@ -8291,10 +8291,10 @@
 12	cest	_	DET	DETdem	PronType=Dem	13	det	_	_
 13	chaitif	_	NOUN	NOMcom	_	10	obl	_	_
 14	Qui	_	PRON	PROrel	PronType=Prs,Rel	15	nsubj	_	_
-15	a	_	VERB	VERcjg	Morph=VFin	13	acl:relcl	_	_
+15	a	_	VERB	VERcjg	VerbForm=Fin	13	acl:relcl	_	_
 16	traval	_	NOUN	NOMcom	_	15	obj	_	_
 17	et	_	CCONJ	CONcoo	_	18	cc	_	_
-18	a	_	VERB	VERcjg	Morph=VFin	15	conj	_	_
+18	a	_	VERB	VERcjg	VerbForm=Fin	15	conj	_	_
 19	duel	_	NOUN	NOMcom	_	18	obj	_	_
 20	vif	_	VERB	VERcjg	VerbForm=Fin	19	amod	_	_
 

@@ -33,7 +33,7 @@
   <feats unique="21">
     <feat name="Definite" value="Def" upos="ADP,AUX,DET">10890</feat><!-- la, li, le, l', les, au, des, del, el, as -->
     <feat name="Definite" value="Ind" upos="DET">1238</feat><!-- un, une, .i., uns, un', unes, I, u·, úne, U -->
-    <feat name="Morph" value="VFin" upos="ADJ,ADP,ADV,AUX,CCONJ,INTJ,NOUN,PROPN,VERB">45</feat><!-- a, Os, ad, Et, acorde, aiüe, alge, asuage, chastie, cuntredie -->
+    <feat name="Morph" value="VFin" upos="ADJ,ADP,ADV,CCONJ,INTJ,NOUN,PROPN">34</feat><!-- a, Os, ad, Et, acorde, aiüe, alge, asuage, chastie, cuntredie -->
     <feat name="Morph" value="VInf" upos="ADJ,NOUN">11</feat><!-- deçoivre, Fuïr, clergier, curre, droiturier, enconbrier, espleiter, parler, pleisir, ácustumiers -->
     <feat name="Morph" value="VPar" upos="ADJ,ADP,ADV,AUX,NOUN,PROPN">181</feat><!-- dolenz, semblant, dolent, voiant, avenanz, mort, senblant, vaillant, vaillanz, confés -->
     <feat name="NumType" value="Card" upos="ADJ,DET,NUM,PRON">1032</feat><!-- .ii., milie, deus, dui, trois, dous, cent, .iii., troi, quatre -->
@@ -49,7 +49,7 @@
     <feat name="PronType" value="Rel" upos="DET">74</feat><!-- quel, quele, quelque, quiex, qel, quels, qual, quex, quanz, ques -->
     <feat name="Tense" value="Past" upos="ADJ,AUX,NOUN,VERB">5007</feat><!-- fait, dit, mort, mis, fet, esté, venuz, pris, morz, ocis -->
     <feat name="Tense" value="Pres" upos="ADJ,VERB">438</feat><!-- querant, curant, plorant, recreant, parlant, recreanz, trenchant, veant, curanz, dolans -->
-    <feat name="VerbForm" value="Fin" upos="AUX,VERB">27996</feat><!-- est, a, ad, dist, fu, ot, fet, avoit, estoit, ai -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">28007</feat><!-- est, a, ad, dist, fu, ot, fet, avoit, estoit, ai -->
     <feat name="VerbForm" value="Inf" upos="AUX,NOUN,VERB">4021</feat><!-- estre, dire, venir, avoir, aler, parler, faire, veoir, fere, feire -->
     <feat name="VerbForm" value="Part" upos="ADJ,AUX,NOUN,VERB">5445</feat><!-- fait, dit, mort, mis, fet, esté, venuz, pris, morz, ocis -->
   </feats>
