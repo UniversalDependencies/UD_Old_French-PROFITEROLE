@@ -93,8 +93,6 @@ We added some features:
 - `Morph=VFin` : finite verb
 - `Morph=VInf` : non finite verb
 - `Morph=VPar` : verbal participle
-- `Polarity=Int` : interrogative
-- `PronType=Ord` : numeral
 
 Consult [the language specific documentation](http://universaldependencies.org/fro/dep/index.html)
 for further details.

@@ -30,33 +30,31 @@
     <tag name="VERB">29779</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="23">
+  <feats unique="21">
     <feat name="Definite" value="Def" upos="ADP,AUX,DET">10890</feat><!-- la, li, le, l', les, au, des, del, el, as -->
     <feat name="Definite" value="Ind" upos="DET">1238</feat><!-- un, une, .i., uns, un', unes, I, u·, úne, U -->
-    <feat name="Morph" value="VFin" upos="ADJ,ADP,ADV,AUX,CCONJ,INTJ,NOUN,PROPN,VERB">45</feat><!-- a, Os, ad, Et, acorde, aiüe, alge, asuage, chastie, cuntredie -->
-    <feat name="Morph" value="VInf" upos="ADJ,NOUN">11</feat><!-- deçoivre, Fuïr, clergier, curre, droiturier, enconbrier, espleiter, parler, pleisir, ácustumiers -->
-    <feat name="Morph" value="VPar" upos="ADJ,ADP,ADV,AUX,NOUN,PROPN">181</feat><!-- dolenz, semblant, dolent, voiant, avenanz, mort, senblant, vaillant, vaillanz, confés -->
+    <feat name="Morph" value="VFin" upos="ADJ,ADP,ADV,CCONJ,INTJ,NOUN,PROPN">34</feat><!-- a, Os, ad, Et, acorde, aiüe, alge, asuage, chastie, cuntredie -->
+    <feat name="Morph" value="VInf" upos="ADJ">2</feat><!-- droiturier, ácustumiers -->
+    <feat name="Morph" value="VPar" upos="ADP,ADV,PROPN">15</feat><!-- voiant, errant, oiant, Flurit, Perdut, Sevree -->
     <feat name="NumType" value="Card" upos="ADJ,DET,NUM,PRON">1032</feat><!-- .ii., milie, deus, dui, trois, dous, cent, .iii., troi, quatre -->
-    <feat name="NumType" value="Ord" upos="DET,PRON">64</feat><!-- tierz, quarte, terce, disme, premiere, quarz, sedme, noefme, premere, quinte -->
-    <feat name="Polarity" value="Int" upos="ADV">4</feat><!-- enne, en, ene -->
+    <feat name="NumType" value="Ord" upos="ADJ,DET,PRON">93</feat><!-- tierz, premiere, tierce, disme, quarte, quarz, sedme, terce, premier, quinte -->
     <feat name="Polarity" value="Neg" upos="ADV,PRON">4162</feat><!-- ne, n', mie, pas, nel, non, nes, point, nen, nu -->
     <feat name="Poss" value="Yes" upos="ADJ,AUX,DET,PRON">4240</feat><!-- sa, son, ses, sun, vostre, lor, nostre, ma, mon, mes -->
     <feat name="PronType" value="Art" upos="ADP,AUX,DET">12128</feat><!-- la, li, le, l', les, un, une, au, des, del -->
     <feat name="PronType" value="Dem" upos="ADP,ADV,AUX,DET,PRON">6189</feat><!-- en, i, ce, cil, an, ceste, cest, cele, ço, ces -->
     <feat name="PronType" value="Ind" upos="ADJ,ADV,DET,PRON,SCONJ">3523</feat><!-- tel, autre, tuit, toz, nule, nus, nul, tot, rien, altre -->
-    <feat name="PronType" value="Int" upos="DET,PRON">190</feat><!-- que, qui, coi, quel, ou, qu', quoi, quei, ki, qel -->
-    <feat name="PronType" value="Ord" upos="ADJ">29</feat><!-- premier, tierce, cinquieme, premiere, premiers, tierz, disme, premeraine, premierz, prime -->
+    <feat name="PronType" value="Int" upos="ADV,DET,PRON">194</feat><!-- que, qui, coi, quel, ou, qu', quoi, quei, ki, qel -->
     <feat name="PronType" value="Prs" upos="ADV,DET,PRON,SCONJ">16844</feat><!-- il, vos, li, le, l', je, s', se, ele, me -->
     <feat name="PronType" value="Prs,Rel" upos="ADP,ADV,CCONJ,PRON,SCONJ">3703</feat><!-- qui, que, ki, qu', ou, cui, quoi, dunt, u, don -->
     <feat name="PronType" value="Rel" upos="DET">74</feat><!-- quel, quele, quelque, quiex, qel, quels, qual, quex, quanz, ques -->
     <feat name="Tense" value="Past" upos="ADJ,AUX,NOUN,VERB">5007</feat><!-- fait, dit, mort, mis, fet, esté, venuz, pris, morz, ocis -->
     <feat name="Tense" value="Pres" upos="ADJ,VERB">438</feat><!-- querant, curant, plorant, recreant, parlant, recreanz, trenchant, veant, curanz, dolans -->
-    <feat name="VerbForm" value="Fin" upos="AUX,VERB">27996</feat><!-- est, a, ad, dist, fu, ot, fet, avoit, estoit, ai -->
-    <feat name="VerbForm" value="Inf" upos="AUX,NOUN,VERB">4021</feat><!-- estre, dire, venir, avoir, aler, parler, faire, veoir, fere, feire -->
-    <feat name="VerbForm" value="Part" upos="ADJ,AUX,NOUN,VERB">5445</feat><!-- fait, dit, mort, mis, fet, esté, venuz, pris, morz, ocis -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">28007</feat><!-- est, a, ad, dist, fu, ot, fet, avoit, estoit, ai -->
+    <feat name="VerbForm" value="Inf" upos="AUX,NOUN,VERB">4030</feat><!-- estre, dire, venir, avoir, aler, parler, faire, veoir, fere, feire -->
+    <feat name="VerbForm" value="Part" upos="ADJ,AUX,NOUN,VERB">5611</feat><!-- fait, dit, mort, mis, fet, esté, venuz, pris, morz, ocis -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="45">
+  <deps unique="42">
     <dep name="acl">1702</dep>
     <dep name="acl:relcl">2757</dep>
     <dep name="advcl">3841</dep>
@@ -83,10 +81,8 @@
     <dep name="flat">1100</dep>
     <dep name="iobj">3408</dep>
     <dep name="mark">6925</dep>
-    <dep name="mark:advmod">8</dep>
-    <dep name="mark:obl">3</dep>
-    <dep name="nmod">3021</dep>
-    <dep name="nmod:appos">3</dep>
+    <dep name="mark:advmod">11</dep>
+    <dep name="nmod">3024</dep>
     <dep name="nsubj">16271</dep>
     <dep name="nsubj:advmod">3</dep>
     <dep name="nsubj:obj">89</dep>
@@ -95,9 +91,8 @@
     <dep name="obj:advmod">9</dep>
     <dep name="obj:advneg">6</dep>
     <dep name="obj:obl">1</dep>
-    <dep name="obl">14022</dep>
+    <dep name="obl">14025</dep>
     <dep name="obl:advmod">1235</dep>
-    <dep name="obl:mod">3</dep>
     <dep name="parataxis">477</dep>
     <dep name="root">17678</dep>
     <dep name="vocative">1072</dep>
