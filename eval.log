@@ -1,0 +1,44 @@
+Running the following version of UD tools:
+commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 2 22:17:19 2021 +0100
+Evaluating the following revision of UD_Old_French-SRCMF:
+commit 6a252e4442b7b746af6c00d5d96d5a1e0d5003cf
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed Nov 3 14:54:25 2021 +0100
+Size: counted 199699 of 199699 words (nodes).
+Size: min(0, log((N/1000)**2)) = 10.5936224657959.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Found more than 10000 training words.
+Split: Found at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: '_' is the most frequent lemma.
+Universal POS tags: 15 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.9.
+Features: 90374 out of 199699 total words have one or more features.
+Features: source of annotation (from README) factor is 0.4.
+Universal relations: 32 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 0.1.
+Udapi:
+               TOTAL      35239
+Udapi: found 35239 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 199699 words.
+Genres: found 3 out of 17 known.
+validate.py --lang fro --max-err=10 UD_Old_French-SRCMF/fro_srcmf-ud-dev.conllu
+*** PASSED ***
+validate.py --lang fro --max-err=10 UD_Old_French-SRCMF/fro_srcmf-ud-test.conllu
+*** PASSED ***
+validate.py --lang fro --max-err=10 UD_Old_French-SRCMF/fro_srcmf-ud-train.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.0769230769230769) * (score{features}=0.2) = 0.0153846153846154
+(weight=0.0769230769230769) * (score{genres}=0.176470588235294) = 0.0135746606334842
+(weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
+(weight=0.256410256410256) * (score{size}=0.766791963376915) = 0.196613323942799
+(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
+(weight=0.0769230769230769) * (score{tags}=0.794117647058823) = 0.0610859728506787
+(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
+(weight=0.0769230769230769) * (score{udeprels}=0.0864864864864865) = 0.00665280665280665
+(TOTAL score=0.348439584592589) * (availability=1) * (validity=1) = 0.348439584592589
+STARS = 1.5
+UD_Old_French-SRCMF	0.348439584592589	1.5
