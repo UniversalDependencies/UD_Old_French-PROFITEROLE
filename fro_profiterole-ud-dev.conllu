@@ -218,7 +218,7 @@
 # newdoc id = Roland_1100_verse
 # sent_id = 110
 1	Sa	_	DET	DETpos	Poss=Yes	2	det	_	XmlId=w_58_01207
-2	custume	_	NOUN	NOMcom	_	6	nsubj	_	XmlId=w_58_01208
+2	custume	_	NOUN	NOMcom	_	6	nsubj:outer	_	XmlId=w_58_01208
 3	est	_	AUX	VERcjg	VerbForm=Fin	6	cop	_	XmlId=w_58_01209
 4	qu'	_	SCONJ	CONsub	_	6	mark	_	SpaceAfter=No|XmlId=w_58_01210
 5	il	_	PRON	PROper	PronType=Prs	6	nsubj	_	XmlId=w_58_01211
