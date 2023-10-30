@@ -146,7 +146,9 @@ on the [upstream repository](https://gitlab.huma-num.fr/profiterole/srcmf-ud/-/r
 
 # Changelog
 
-- 2021-10-29 v2.0
+- 2023-11-15 v2.13
+  - Treebank renamed from UD\_Old\_French-SRCMF to UD\_Old\_French-PROFITEROLE.
+- 2021-10-29 v2.9
   - Significant bugfix and data addition
   - Trees now have punctuation
   - See the [upstream release](https://gitlab.huma-num.fr/profiterole/srcmf-ud/-/releases/v2.9.0)
