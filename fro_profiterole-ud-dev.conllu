@@ -218,11 +218,11 @@
 # newdoc id = Roland_1100_verse
 # sent_id = 110
 1	Sa	_	DET	DETpos	Poss=Yes	2	det	_	XmlId=w_58_01207
-2	custume	_	NOUN	NOMcom	_	3	nsubj	_	XmlId=w_58_01208
-3	est	_	AUX	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01209
+2	custume	_	NOUN	NOMcom	_	6	nsubj	_	XmlId=w_58_01208
+3	est	_	AUX	VERcjg	VerbForm=Fin	6	cop	_	XmlId=w_58_01209
 4	qu'	_	SCONJ	CONsub	_	6	mark	_	SpaceAfter=No|XmlId=w_58_01210
 5	il	_	PRON	PROper	PronType=Prs	6	nsubj	_	XmlId=w_58_01211
-6	parolet	_	VERB	VERcjg	VerbForm=Fin	3	ccomp	_	XmlId=w_58_01212
+6	parolet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01212
 7	a	_	ADP	PRE	_	8	case	_	XmlId=w_58_01213
 8	leisir	_	NOUN	NOMcom	_	6	obl	_	SpaceAfter=No|XmlId=w_58_01214
 9	.	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_58_01215
