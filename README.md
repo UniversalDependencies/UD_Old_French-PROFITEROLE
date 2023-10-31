@@ -1,6 +1,10 @@
 UD_Old_French-PROFITEROLE
 =========================
 
+Attention: the main development of this treebank happens on the [GitLab of the Profiterole
+Project](https://gitlab.huma-num.fr/profiterole/srcmf-ud), please file bug reports and requests
+there.
+
 ## Summary
 
 UD_Old_French-PROFITEROLE is an expansion of the previous UD_Old_French-SRCMF (which was a
@@ -15,8 +19,6 @@ dependencies, which are currently running a process of correction. Texs will be 
 they are corrected. Middle French texts that were annotated in the PROFITEROLE project are to be
 found in
 [UD_Middle_French-PROFITEROLE](https://github.com/UniversalDependencies/UD_Old_French-PROFITEROLE).
-
-Main development happens on the [GitLab of the Profiterole Project](https://gitlab.huma-num.fr/profiterole/srcmf-ud), please file bug reports and requests there.
 
 ## Introduction
 
