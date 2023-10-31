@@ -34,7 +34,6 @@ Sentences are annotated with the following metadata:
   - date
   - form : verse and/or prose
 
-
 The following table lists the texts used in this treebank:
 
 | ID                            | Name of the text       |       Author        | Tokens | Trees |
@@ -56,9 +55,9 @@ The following table lists the texts used in this treebank:
 
 ## Structure
 
-In both SRCMF and PROFITEROLE projects, texts with less than about 40 000 words were entirely
-annotated, while texts with more than 40 000 words were sampled in three parts (beginning, middle
-and end of the text) to reach a total amount of about 40000 words.
+In both of the SRCMF and PROFITEROLE projects, documents with less than about 40 000 words were
+entirely annotated, while texts with more than 40 000 words were sampled in three parts (beginning,
+middle and end of the text) to reach a total amount of about 40000 words.
 
 As a result, UD_Old_French-PROFITEROLE includes 10 full texts (Strasbourg, StEulalie, StLegier,
 StAlexis, Roland, Lapidaire, BeroulTristan, TroyesYvain, Aucassin, ClariConstantinople) and 2
@@ -119,8 +118,10 @@ contributors to the syntactic part of the PROFITEROLE project were: Prévost, So
 la Clergerie, Eric; Regnault, Mathilde; Grobol, Loïc; Crabbé, Benoît; Dehouck, Mathieu; Lavrentiev,
 Alexei.
 
-UD_Old_French-SRCMF resulted from the conversion of (part of) the SRCMF corpus (Syntactic Reference Corpus of Medieval French [srcmf.org](srcmf.org)).
-The SRCMF corpus resulted from the SRCMF project which took place in 2008-2012, funded by the ANR (France) and the DFG (Germany), and supervised by Sophie Prévost and Achim Stein.
+UD_Old_French-SRCMF resulted from the conversion of (part of) the SRCMF corpus (Syntactic Reference
+Corpus of Medieval French [srcmf.org](srcmf.org)). The SRCMF corpus resulted from the SRCMF project
+which took place in 2008-2012, funded by the ANR (France) and the DFG (Germany), and supervised by
+Sophie Prévost and Achim Stein.
 
 The SRCMF project consisted in the manual syntactic annotation of 15 texts (251,000 tokens) from the
 9th to 13th C. Part-of-speech tags were for most of them retrieved from the already existing tagging
