@@ -1,30 +1,44 @@
-# Summary
+UD_Old_French-PROFITEROLE
+=========================
 
-UD_Old_French-SRCMF is a conversion of (part of) the SRCMF corpus (Syntactic Reference Corpus of
-Medieval French [srcmf.org](http://srcmf.org/)).
+## Summary
 
-Main development happens on the [GitLab of the Profiterole Project](https://gitlab.huma-num.fr/profiterole/srcmf-ud).
+UD_Old_French-PROFITEROLE is an expansion of the previous UD_Old_French-SRCMF (which was a
+conversion of (part of) the SRCMF corpus (Syntactic Reference Corpus of Medieval French
+[srcmf.org](http://srcmf.org/)).
 
-# Introduction
+UD_Old_French-PROFITEROLE includes the texts of the previous UD_Old_French-SRCMF, plus Old French
+texts that were annotated in the frame of the PROFITEROLE funded project (Projet
+[ANR-16-CE38-0010](https://www.lattice.cnrs.fr/projets/projets-passes/projets-anr/projet-anr-profiterole),
+2017-2022, supervised by Sophie Prévost) Texts were automatically annotated with part-of-speech and
+dependencies, which are currently running a process of correction. Texs will be released in UD as
+they are corrected. Middle French texts that were annotated in the PROFITEROLE project are to be
+found in
+[UD_Middle_French-PROFITEROLE](https://github.com/UniversalDependencies/UD_Old_French-PROFITEROLE).
 
-UD_Old_French-SRCMF consists in 10 texts spanning from 9th to 13th century. It includes 18 029
-sentences and 199 699 tokens.
+Main development happens on the [GitLab of the Profiterole Project](https://gitlab.huma-num.fr/profiterole/srcmf-ud), please file bug reports and requests there.
+
+## Introduction
+
+UD_Old_French-PROFITEROLE consists in 12 texts spanning from 9th to 13th century. It includes 19765
+sentences and 227137 tokens.
 
 Sentences are annotated with the following metadata:
 
 - `sent_id` : a unique id for each sentence in the treebank
 - `text` : the sentence
-- `newdoc_id` : a unique id for each of the texts. This id can be split on underscores to get back :
+- `newdoc id` : a unique id for each of the texts. This id can be split on underscores to get back :
   - name of the text
   - date
   - form : verse and/or prose
 
 
-The following table lists the texts used in this treebank :
+The following table lists the texts used in this treebank:
 
 | ID                            | Name of the text       |       Author        | Tokens | Trees |
 | :---------------------------- | :--------------------- | :-----------------: | -----: | ----: |
 | Strasbourg_842_prose          | Serments de Strasbourg |      anonymous      |    131 |     3 |
+| StEulalie_900_verse            | Séquence de Sainte Eulalie | anonymous      |    212 |    21 |
 | StLegier_1000_verse           | Vie de saint Léger     |      anonymous      |   1665 |   189 |
 | StAlexis_1050_verse           | Vie de saint Alexis    |      anonymous      |   5662 |   572 |
 | Roland_1100_verse             | Chanson de Roland      |      anonymous      |  34803 |  3890 |
@@ -32,45 +46,50 @@ The following table lists the texts used in this treebank :
 | QuatreLivresReis_late12_prose | Quatre livres des reis |      anonymous      |  15030 |  1509 |
 | BeroulTristan_late12_verse    | Tristan de Beroul      |       Beroul        |  32596 |  3310 |
 | TroyesYvain_1180_verse        | Yvain de Chrestien     | Chrestien de Troyes |  47964 |  3880 |
-| Aucassin_early13_verse-prose  | Aucassin et Nicolet    |      anonymous      |  11639 |  1038 |
+| Aucassin_early13_verse_prose  | Aucassin et Nicolet    |      anonymous      |  11639 |  1038 |
 | Graal_1225_prose              | Queste del Saint Graal |      anonymous      |  44715 |  3114 |
-| Total                         |                        |                     | 199699 | 18029 |
+| ClariConstantinople_1300_prose | Conqueste de COnstantinople | Robert de Clari | 27226 | 1715 |
 
-# Structure
+ Total                          |                        |                     | 227137 | 19765 |
 
-The corpus results from a conversion from the SRCMF corpus.
+## Structure
 
-In the SRCMF projet, texts with less than about 40,000 words were entirely annotated, while texts
-with more than 40,000 words were sampled in three parts (beginning, middle and end of the text) to
-reach a total amount of about 40000 words.
+In both SRCMF and PROFITEROLE projects, texts with less than about 40 000 words were entirely
+annotated, while texts with more than 40 000 words were sampled in three parts (beginning, middle
+and end of the text) to reach a total amount of about 40000 words.
 
-As a result, UD_Old_French-SRCMF includes 8 full texts (Strasbourg, StLegier, StAlexis, Roland,
-Lapidaire, BeroulTristan, TroyesYvain, Aucassin) and 2 sampled ones (QuatreLivresReis and Graal).
+As a result, UD_Old_French-PROFITEROLE includes 10 full texts (Strasbourg, StEulalie, StLegier,
+StAlexis, Roland, Lapidaire, BeroulTristan, TroyesYvain, Aucassin, ClariConstantinople) and 2
+sampled ones (QuatreLivresReis and Graal). It should be noticed that ClariConstantinople presently
+includes only 27226 words. The remaining part will be released in May 2024.
 
 The treebank is split as follows (in number of tokens) :
 
-| ID                            |  Train |  Test |   Dev |
-| :---------------------------- | -----: | ----: | ----: |
-| Strasbourg_842_prose          |    131 |     0 |     0 |
-| StLegier_1000_verse           |   1665 |     0 |     0 |
-| StAlexis_1050_verse           |   5662 |     0 |     0 |
-| Roland_1100_verse             |  22593 |  6080 |  6130 |
-| Lapidaire_mid12_prose         |      0 |  2802 |  2692 |
-| QuatreLivresReis_late12_prose |  15024 |     6 |     0 |
-| BeroulTristan_late12_verse    |  20404 |  6060 |  6132 |
-| TroyesYvain_1180_verse        |  47964 |     0 |     0 |
-| Aucassin_early13_verse-prose  |  11639 |     0 |     0 |
-| Graal_1225_prose              |  33538 |  5578 |  5599 |
-| Total                         | 158620 | 20526 | 20553 |
+| ID                             |  Train |  Test |   Dev |
+| :----------------------------- | -----: | ----: | ----: |
+| Strasbourg_842_prose           |    131 |     0 |     0 |
+| StEulalie_900_verse            |    212 |     0 |     0 |
+| StLegier_1000_verse            |   1665 |     0 |     0 |
+| StAlexis_1050_verse            |   5662 |     0 |     0 |
+| Roland_1100_verse              |  22593 |  6080 |  6130 |
+| Lapidaire_mid12_prose          |      0 |  2802 |  2692 |
+| QuatreLivresReis_late12_prose  |  15024 |     6 |     0 |
+| BeroulTristan_late12_verse     |  20404 |  6060 |  6132 |
+| TroyesYvain_1180_verse         |  47964 |     0 |     0 |
+| Aucassin_early13_verse_prose   |  11639 |     0 |     0 |
+| Graal_1225_prose               |  33538 |  5578 |  5599 |
+| ClariConstantinople_1300_prose |  21058 |  2993 |  3175 |
+| Total                          | 179890 | 23519 | 23728 |
 
 Note that most of Dev and Test data is taken from texts that also exist in Training data, but these
 are large texts, so it does not make the testing too easy… One text (Lapidaire) is represented only
 in Dev/Test but not in train. Pre-1100 texts are only in Train, because they seem too small to
 reserve anything for testing. The rest of the data is for Train corpus.
 
-# Deviations from UD
+## Deviations from UD
 
-We added some more specific relations (subtypes), either to specify a relation, or in the case of tokens entering a double dependency relation (typically : relative pronouns and  contracted forms) :
+We added some more specific relations (subtypes), either to specify a relation, or in the case of
+tokens entering a double dependency relation (typically : relative pronouns and  contracted forms) :
 
 - `acl:relcl` : relative clause
 - `advmod:obl` : contracted `advmod` + `obl` (e.g. _sin_ = _si_ + _en_)
@@ -86,22 +105,20 @@ We added some more specific relations (subtypes), either to specify a relation, 
 - `obl:advmod` : the double labelling accounts for the difficulty to decide between obl and advmod
   relations (`en` and `i`).
 
-We added some features:
-
-- `Morph=VFin` : finite verb
-- `Morph=VInf` : non-finite verb
-- `Morph=VPar` : verbal participle
-
 Consult [the language specific documentation](http://universaldependencies.org/fro/dep/index.html)
 for further details.
 
-# Acknowledgments
+## Acknowledgments
 
-UD_Old_French-SRCMF results from the conversion of (part of) the SRCMF corpus (Syntactic Reference
-Corpus of Medieval French [srcmf.org](srcmf.org)).
+UD_Old_French-PROFITEROLE results from the UD_Old_French-SRCMF as well as from the automatic
+annotation (PROFITEROLE project, 2017-2022) of other Old French texts (with the SRCMF corpus being
+used as a training corpus), which were/are then manually corrected along with the UD guidelines. The
+contributors to the syntactic part of the PROFITEROLE project were: Prévost, Sophie; Villemonte de
+la Clergerie, Eric; Regnault, Mathilde; Grobol, Loïc; Crabbé, Benoît; Dehouck, Mathieu; Lavrentiev,
+Alexei.
 
-The SRCMF corpus results from the SRCMF project which took place in 2008-2012, funded by the ANR
-(France) and the DFG (Germany), and supervised by Sophie Prévost and Achim Stein.
+UD_Old_French-SRCMF resulted from the conversion of (part of) the SRCMF corpus (Syntactic Reference Corpus of Medieval French [srcmf.org](srcmf.org)).
+The SRCMF corpus resulted from the SRCMF project which took place in 2008-2012, funded by the ANR (France) and the DFG (Germany), and supervised by Sophie Prévost and Achim Stein.
 
 The SRCMF project consisted in the manual syntactic annotation of 15 texts (251,000 tokens) from the
 9th to 13th C. Part-of-speech tags were for most of them retrieved from the already existing tagging
@@ -114,39 +131,46 @@ Mazziotta, Nicolas;  Bischoff Béatrice; Glikman, Julie; Lavrentiev, Alexei; Hei
 Guillot-Barbance, Céline; Marchello-Nizia, Christiane.
 
 The whole SRCMF corpus (251,000 tokens) was converted into UD dependencies, but only 172,000 tokens
-have so far undergone a significant checking: the remaining 80,000 tokens will be added to
-UD_Old_French-SRCMF in a future release.
+had undergone a significant checking.
 
 The conversion from the original SRCMF annotation to the SRCMF-UD annotation was done automatically
 both for the POS and the syntactic relations, thanks to a set of elaborated rules. Some 1,200
 syntactic relations left unlabelled were then manually annotated (Sophie Prévost), and significant
 spot-checking occurred, focusing on potential difficulties (e.g. conj relation).
 
-This conversion was achieved by Aurélie Collomb, in the frame of a internship funded by lab Lattice
-(Paris, CNRS, ENS & Université Sorbonne Nouvelle Paris 3, PSL & USPC), and supervised by Sophie
-Prévost, Isabelle Tellier and Kim Gerdes. Marine Courtin achieved the deposit of the files, and
-especially took in charge the validation of the corpus through the successive steps of the process.
+This conversion was achieved by Aurélie Collomb, during an internship funded by lab Lattice (Paris,
+CNRS, ENS & Université Sorbonne Nouvelle Paris 3, PSL & USPC), and supervised by Sophie Prévost,
+Isabelle Tellier and Kim Gerdes. Marine Courtin achieved the deposit of the files, and especially
+took in charge the validation of the corpus through the successive steps of the process.
 
 A significant review of this initial release has been done on the occasion of the UD 2.6 release by
 Loïc Grobol and Sophie Prévost in the frame of the [ANR PROFITEROLE
 project](https://www.lattice.cnrs.fr/projets/projet-anr-profiterole) in order to improve the
-compliance of the corpus to UD guidelines. This includes both automatic corrections using
-the graph rewriting system [GREW](http://grew.fr) (Bonfante et al., 2018) and extensive manual corrections.
+compliance of the corpus to UD guidelines. This includes both automatic correction and extensive
+manual corrections.
 
 A significant import of data from the *Base de français medieval* has been done by Loïc Grobol,
 Alexei Lavrentiev and Sophie Prévost on the occasion of the UD 2.9 release. Most notably, this
 release adds punctuation tokens for most trees as well as around 350 new trees, consisting mostly of
 averbal sentences and fixes a number of conformity bugs with the UD guidelines. See the full changes
-on the [upstream repository](https://gitlab.huma-num.fr/profiterole/srcmf-ud/-/releases/v2.9.0)
+in the [upstream repository](https://gitlab.huma-num.fr/profiterole/srcmf-ud/-/releases/v2.9.0)
 
 ## References
 
-- Stein, Achim, and Sophie Prévost. 2013. [‘Syntactic Annotation of Medieval Texts: The Syntactic Reference Corpus of Medieval French (SRCMF)’](https://halshs.archives-ouvertes.fr/halshs-01122079). In *New Methods in Historical Corpora*, edited by Paul Bennett, Martin Durrell, Silke Scheible, and Richard J. Whitt, 275–82. Corpus Linguistics and International Perspectives on Language. Gunter Narr Verlag.
-- Bonfante, Guillaume, Bruno Guillaume, and Guy Perrier 2018. [*Application of Graph Rewriting to Natural Language Processing*](https://hal.inria.fr/hal-01814386.). Vol. 1. ISTE Wiley.
+- Prévost, Sophie, Mathieu Dehouck, Alexei Lavrentiev, Serge Heiden et Loïc Grobol. To appear.
+  ['Profiterole : un corpus morpho-syntaxique et syntaxique de français médiéval'], Corpus
+- Stein, Achim, and Sophie Prévost. 2013. [‘Syntactic Annotation of Medieval Texts: The Syntactic
+  Reference Corpus of Medieval French
+  (SRCMF)’](https://halshs.archives-ouvertes.fr/halshs-01122079). In *New Methods in Historical
+  Corpora*, edited by Paul Bennett, Martin Durrell, Silke Scheible, and Richard J. Whitt, 275–82.
+  Corpus Linguistics and International Perspectives on Language. Gunter Narr Verlag.
 
-# Changelog
+## Changelog
 
-- 2023-11-15 v2.13
+- 2022-10-31 v2.13
+  - Adds StEulalie and ClariConstantinople
+  - See the [upstream release](https://gitlab.huma-num.fr/profiterole/srcmf-ud/-/releases/v2.13.0)
+    for more details
   - Treebank renamed from UD\_Old\_French-SRCMF to UD\_Old\_French-PROFITEROLE.
 - 2021-10-29 v2.9
   - Significant bugfix and data addition
