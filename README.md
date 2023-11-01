@@ -11,6 +11,8 @@ UD_Old_French-PROFITEROLE is an expansion of the previous UD_Old_French-SRCMF (w
 conversion of (part of) the SRCMF corpus (Syntactic Reference Corpus of Medieval French
 [srcmf.org](http://srcmf.org/)).
 
+# Introduction
+
 UD_Old_French-PROFITEROLE includes the texts of the previous UD_Old_French-SRCMF, plus Old French
 texts that were annotated in the frame of the PROFITEROLE funded project (Projet
 [ANR-16-CE38-0010](https://www.lattice.cnrs.fr/projets/projets-passes/projets-anr/projet-anr-profiterole),
@@ -19,8 +21,6 @@ dependencies, which are currently running a process of correction. Texs will be 
 they are corrected. Middle French texts that were annotated in the PROFITEROLE project are to be
 found in
 [UD_Middle_French-PROFITEROLE](https://github.com/UniversalDependencies/UD_Old_French-PROFITEROLE).
-
-# Introduction
 
 UD_Old_French-PROFITEROLE consists in 12 texts spanning from 9th to 13th century. It includes 19765
 sentences and 227137 tokens.
