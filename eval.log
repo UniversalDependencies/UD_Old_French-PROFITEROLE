@@ -1,13 +1,13 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
-Evaluating the following revision of UD_Old_French-SRCMF:
-commit b3196e7143d0ab35a82cd19105ddebfef3c46f75
+Date:   Sat Nov 4 17:10:55 2023 +0100
+Evaluating the following revision of UD_Old_French-PROFITEROLE:
+commit ecb0e218465b04598fa8d90627408ec4d82d645a
+Merge: f08ec91 e8c794b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 14 12:01:07 2022 +0100
-Size: counted 199699 of 199699 words (nodes).
-Size: min(0, log((N/1000)**2)) = 10.5936224657959.
+Size: counted 227137 of 227137 words (nodes).
+Size: min(0, log((N/1000)**2)) = 10.8511067193259.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
@@ -15,45 +15,45 @@ Split: Found at least 10000 test words.
 Lemmas: '_' is the most frequent lemma.
 Universal POS tags: 15 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 90374 out of 199699 total words have one or more features.
+Features: 101816 out of 227137 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
-Universal relations: 32 out of 37 found in the corpus.
+Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.1.
 Udapi:
-               TOTAL      35239
-Udapi: found 35239 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 199699 words.
+               TOTAL      39464
+Udapi: found 39464 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 227137 words.
 Genres: found 3 out of 17 known.
-/net/work/people/zeman/unidep/tools/validate.py --lang fro --max-err=10 UD_Old_French-SRCMF/fro_srcmf-ud-dev.conllu
-[Line 225 Sent 110 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [2, 5] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-Syntax errors: 1
-*** FAILED *** with 1 errors
-Exit code: 1
-/net/work/people/zeman/unidep/tools/validate.py --lang fro --max-err=10 UD_Old_French-SRCMF/fro_srcmf-ud-test.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang fro --max-err=10 UD_Old_French-PROFITEROLE/fro_profiterole-ud-dev.conllu
+[Line 20922 Sent 8632 Node 9]: [L3 Warning fixed-gap] Gaps in fixed expression [9, 11] 'se * non'
+Warnings: 1
 *** PASSED ***
-/net/work/people/zeman/unidep/tools/validate.py --lang fro --max-err=10 UD_Old_French-SRCMF/fro_srcmf-ud-train.conllu
-[Line 6507 Sent 10344 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [1, 4] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 10122 Sent 10547 Node 35]: [L3 Syntax too-many-subjects] Multiple subjects [23, 34] not subtyped as ':outer'.
-[Line 28542 Sent 11562 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [2, 10] not subtyped as ':outer'.
-[Line 70364 Sent 14014 Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [6, 9] not subtyped as ':outer'.
-[Line 85059 Sent 14869 Node 14]: [L3 Syntax too-many-subjects] Multiple subjects [2, 10] not subtyped as ':outer'.
-[Line 124579 Sent 1773 Node 3]: [L3 Syntax too-many-subjects] Multiple subjects [2, 8] not subtyped as ':outer'.
-[Line 131364 Sent 2290 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [1, 8] not subtyped as ':outer'.
-[Line 133897 Sent 2477 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [1, 7] not subtyped as ':outer'.
-[Line 181045 Sent 7167 Node 28]: [L3 Syntax too-many-subjects] Multiple subjects [1, 23] not subtyped as ':outer'.
-...suppressing further errors regarding Syntax
-Syntax errors: 11
-*** FAILED *** with 11 errors
-Exit code: 1
-Validity: 0.01
+/net/work/people/zeman/unidep/tools/validate.py --lang fro --max-err=10 UD_Old_French-PROFITEROLE/fro_profiterole-ud-test.conllu
+[Line 25667 Sent 9260 Node 10]: [L3 Warning fixed-gap] Gaps in fixed expression [10, 12] 'se * non'
+Warnings: 1
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang fro --max-err=10 UD_Old_French-PROFITEROLE/fro_profiterole-ud-train.conllu
+[Line 2546 Sent 10142 Node 28]: [L3 Warning fixed-gap] Gaps in fixed expression [28, 30] 'se * non'
+[Line 10202 Sent 10550 Node 11]: [L3 Warning fixed-gap] Gaps in fixed expression [11, 13] 'se * non'
+[Line 19406 Sent 11061 Node 16]: [L3 Warning fixed-gap] Gaps in fixed expression [16, 18] 'se * non'
+[Line 20222 Sent 11101 Node 26]: [L3 Warning fixed-gap] Gaps in fixed expression [26, 29] 'se * * non'
+[Line 22849 Sent 11252 Node 15]: [L3 Warning fixed-gap] Gaps in fixed expression [15, 18] 'se * * non'
+[Line 61343 Sent 13522 Node 11]: [L3 Warning fixed-gap] Gaps in fixed expression [11, 13] 'se * non'
+[Line 73710 Sent 14203 Node 7]: [L3 Warning fixed-gap] Gaps in fixed expression [7, 10] 'se * * non'
+[Line 81620 Sent 14660 Node 8]: [L3 Warning fixed-gap] Gaps in fixed expression [8, 11] 'se * * non'
+[Line 86163 Sent 14934 Node 22]: [L3 Warning fixed-gap] Gaps in fixed expression [22, 24] 'se * non'
+...suppressing further errors regarding Warning
+Warnings: 23
+*** PASSED ***
+Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.2) = 0.0153846153846154
 (weight=0.0769230769230769) * (score{genres}=0.176470588235294) = 0.0135746606334842
 (weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
-(weight=0.256410256410256) * (score{size}=0.766791963376915) = 0.196613323942799
+(weight=0.256410256410256) * (score{size}=0.785429295124426) = 0.201392126954981
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.794117647058823) = 0.0610859728506787
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.0864864864864865) = 0.00665280665280665
-(TOTAL score=0.348439584592589) * (availability=1) * (validity=0.01) = 0.00348439584592589
-STARS = 0
-UD_Old_French-SRCMF	0.00348439584592589	0
+(weight=0.0769230769230769) * (score{udeprels}=0.0891891891891892) = 0.00686070686070686
+(TOTAL score=0.353426287812671) * (availability=1) * (validity=1) = 0.353426287812671
+STARS = 2
+UD_Old_French-PROFITEROLE	0.353426287812671	2
