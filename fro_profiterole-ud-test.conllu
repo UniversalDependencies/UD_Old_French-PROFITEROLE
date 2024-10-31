@@ -32393,7 +32393,7 @@
 4	en	_	ADP	PRE	_	6	case	_	XmlId=w_28_00054
 5	ichel	_	DET	DETdem	PronType=Dem	6	det	_	XmlId=w_28_00055
 6	tans	_	NOUN	NOMcom	_	2	obl	_	XmlId=w_28_00056
-7	que	_	PRON	PROrel	PronType=Rel	12	mark	_	XmlId=w_28_00057
+7	que	_	SCONJ	PROrel	PronType=Rel	12	mark	_	XmlId=w_28_00057
 8	li	_	DET	DETdef	Definite=Def|PronType=Art	9	det	_	XmlId=w_28_00058
 9	papes	_	NOUN	NOMcom	_	12	nsubj	_	XmlId=w_28_00059
 10	Innocens	_	PROPN	NOMpro	_	9	flat	_	XmlId=w_28_00060
@@ -32440,7 +32440,7 @@
 12	ou	_	CCONJ	CONcoo	_	10	cc	_	XmlId=w_28_00093
 13	.iiij.	_	PRON	PROcar	NumType=Card	10	conj	_	SpaceAfter=No|XmlId=w_28_00094
 14	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_00095
-15	que	_	PRON	PROrel	PronType=Rel	18	mark	_	XmlId=w_28_00096
+15	que	_	SCONJ	PROrel	PronType=Rel	18	mark	_	XmlId=w_28_00096
 16	uns	_	DET	DETndf	Definite=Ind|PronType=Art	17	det	_	XmlId=w_28_00097
 17	prestres	_	NOUN	NOMcom	_	18	nsubj	_	XmlId=w_28_00098
 18	estoit	_	VERB	VERcjg	VerbForm=Fin	4	advcl	_	SpaceAfter=No|XmlId=w_28_00099
@@ -35616,7 +35616,7 @@
 3	logierent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_02699
 4	au	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	5	case:det	_	XmlId=w_28_02700
 5	miex	_	ADV	ADVgen	_	3	obl	_	XmlId=w_28_02701
-6	qu'	_	PRON	PROrel	PronType=Rel	8	mark	_	SpaceAfter=No|XmlId=w_28_02702
+6	qu'	_	SCONJ	PROrel	PronType=Rel	8	mark	_	SpaceAfter=No|XmlId=w_28_02702
 7	il	_	PRON	PROper	PronType=Prs	8	nsubj	_	XmlId=w_28_02703
 8	peurent	_	VERB	VERcjg	VerbForm=Fin	3	acl	_	SpaceAfter=No|XmlId=w_28_02704
 9	.	_	PUNCT	PONfrt	_	3	punct	_	XmlId=w_28_02705
@@ -36433,7 +36433,7 @@
 23	fait	_	VERB	VERppe	Tense=Past|VerbForm=Part	19	acl:relcl	_	SpaceAfter=No|XmlId=w_28_03360
 24	,	_	PUNCT	PONfbl	_	31	punct	_	XmlId=w_28_03361
 25	et	_	CCONJ	CONcoo	_	31	cc	_	XmlId=w_28_03362
-26	qu'	_	PRON	PROrel	PronType=Rel	31	mark	_	SpaceAfter=No|XmlId=w_28_03363
+26	qu'	_	SCONJ	PROrel	PronType=Rel	31	mark	_	SpaceAfter=No|XmlId=w_28_03363
 27	il	_	PRON	PROper	PronType=Prs	31	nsubj	_	XmlId=w_28_03364
 28	ne	_	ADV	ADVneg	Polarity=Neg	31	advmod	_	XmlId=w_28_03365
 29	pooient	_	AUX	VERcjg	VerbForm=Fin	31	aux	_	XmlId=w_28_03366
@@ -37624,7 +37624,7 @@
 4	armerent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_04372
 5	au	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	6	case:det	_	XmlId=w_28_04373
 6	miex	_	ADV	ADVgen	_	4	obl	_	XmlId=w_28_04374
-7	qu'	_	PRON	PROrel	PronType=Rel	9	mark	_	SpaceAfter=No|XmlId=w_28_04375
+7	qu'	_	SCONJ	PROrel	PronType=Rel	9	mark	_	SpaceAfter=No|XmlId=w_28_04375
 8	il	_	PRON	PROper	PronType=Prs	9	nsubj	_	XmlId=w_28_04376
 9	peurent	_	VERB	VERcjg	VerbForm=Fin	6	acl	_	SpaceAfter=No|XmlId=w_28_04377
 10	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_04378
@@ -38283,7 +38283,7 @@
 13	au	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	15	case:det	_	XmlId=w_28_04907
 14	plus	_	ADV	ADVgen	_	15	advmod	_	XmlId=w_28_04908
 15	tost	_	ADV	ADVgen	_	10	advmod	_	XmlId=w_28_04909
-16	qu'	_	PRON	PROrel	PronType=Rel	18	mark	_	SpaceAfter=No|XmlId=w_28_04910
+16	qu'	_	SCONJ	PROrel	PronType=Rel	18	mark	_	SpaceAfter=No|XmlId=w_28_04910
 17	il	_	PRON	PROper	PronType=Prs	18	nsubj	_	XmlId=w_28_04911
 18	peut	_	VERB	VERcjg	VerbForm=Fin	15	acl	_	XmlId=w_28_04912
 19	;	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_04913
@@ -39877,7 +39877,7 @@
 3	leur	_	PRON	PROper	PronType=Prs	4	iobj	_	XmlId=w_28_06128
 4	donrai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_06129
 5	plus	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_06130
-6	que	_	PRON	PROrel	PronType=Rel	11	mark	_	XmlId=w_28_06131
+6	que	_	SCONJ	PROrel	PronType=Rel	11	mark	_	XmlId=w_28_06131
 7	jou	_	PRON	PROper	PronType=Prs	11	nsubj	_	XmlId=w_28_06132
 8	ne	_	ADV	ADVneg	Polarity=Neg	11	advmod	_	XmlId=w_28_06133
 9	leur	_	PRON	PROper	PronType=Prs	11	iobj	_	XmlId=w_28_06134
@@ -39935,7 +39935,7 @@
 9	au	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	11	case:det	_	XmlId=w_28_06174
 10	plus	_	ADV	ADVgen	_	14	advmod	_	XmlId=w_28_06175
 11	hautement	_	ADV	ADVgen	_	8	advmod	_	XmlId=w_28_06176
-12	qu'	_	PRON	PROrel	PronType=Rel	14	mark	_	SpaceAfter=No|XmlId=w_28_06177
+12	qu'	_	SCONJ	PROrel	PronType=Rel	14	mark	_	SpaceAfter=No|XmlId=w_28_06177
 13	il	_	PRON	PROper	PronType=Prs	14	nsubj	_	XmlId=w_28_06178
 14	porroit	_	VERB	VERcjg	VerbForm=Fin	11	acl	_	SpaceAfter=No|XmlId=w_28_06179
 15	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_06180
@@ -41744,7 +41744,7 @@
 4	il	_	PRON	PROper	PronType=Prs	3	nsubj	_	XmlId=w_28_07611
 5	plus	_	ADV	ADVgen	_	6	advmod	_	XmlId=w_28_07612
 6	pres	_	ADV	ADVgen	_	12	advmod	_	XmlId=w_28_07613
-7	qu'	_	PRON	PROrel	PronType=Rel	9	mark	_	SpaceAfter=No|XmlId=w_28_07614
+7	qu'	_	SCONJ	PROrel	PronType=Rel	9	mark	_	SpaceAfter=No|XmlId=w_28_07614
 8	il	_	PRON	PROper	PronType=Prs	9	nsubj	_	XmlId=w_28_07615
 9	peust	_	VERB	VERcjg	VerbForm=Fin	6	advcl	_	XmlId=w_28_07616
 10	de	_	ADP	PRE	_	12	case	_	XmlId=w_28_07617
@@ -42830,7 +42830,7 @@
 13	lui	_	PRON	PROper	PronType=Prs	4	obl	_	XmlId=w_28_08461
 14	;	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_08462
 
-# text = si se mist en le mer, _ che qu'il ne voloit mie que le gent de le vile le presissent.
+# text = si se mist en le mer, pour che qu'il ne voloit mie que le gent de le vile le presissent.
 # newdoc id = ClariConstantinople_1300_prose
 # sent_id = clari-528
 1	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_08463
@@ -42840,7 +42840,7 @@
 5	le	_	DET	DETdef	Definite=Def|PronType=Art	6	det	_	XmlId=w_28_08467
 6	mer	_	NOUN	NOMcom	_	3	obl	_	SpaceAfter=No|XmlId=w_28_08468
 7	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_08469
-pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
+8	pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 9	che	_	PRON	PROdem	PronType=Dem	3	obl	_	XmlId=w_28_08471
 10	qu'	_	SCONJ	CONsub	_	13	mark	_	SpaceAfter=No|XmlId=w_28_08472
 11	il	_	PRON	PROper	PronType=Prs	13	nsubj	_	XmlId=w_28_08473
@@ -45383,7 +45383,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 4	au	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	6	case:det	_	XmlId=w_28_10490
 5	plus	_	ADV	ADVgen	_	9	advmod	_	XmlId=w_28_10491
 6	belement	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_10492
-7	qu'	_	PRON	PROrel	PronType=Rel	9	mark	_	SpaceAfter=No|XmlId=w_28_10493
+7	qu'	_	SCONJ	PROrel	PronType=Rel	9	mark	_	SpaceAfter=No|XmlId=w_28_10493
 8	il	_	PRON	PROper	PronType=Prs	9	nsubj	_	XmlId=w_28_10494
 9	peut	_	VERB	VERcjg	VerbForm=Fin	6	advcl	_	SpaceAfter=No|XmlId=w_28_10495
 10	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_10496
@@ -46565,7 +46565,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	ordena	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_11446
 3	le	_	DET	DETdef	Definite=Def|PronType=Art	4	det	_	XmlId=w_28_11447
 4	miex	_	ADV	ADVgen	_	7	obl	_	XmlId=w_28_11448
-5	qu'	_	PRON	PROrel	PronType=Rel	7	mark	_	SpaceAfter=No|XmlId=w_28_11449
+5	qu'	_	SCONJ	PROrel	PronType=Rel	7	mark	_	SpaceAfter=No|XmlId=w_28_11449
 6	il	_	PRON	PROper	PronType=Prs	7	nsubj	_	XmlId=w_28_11450
 7	peut	_	VERB	VERcjg	VerbForm=Fin	2	acl	_	XmlId=w_28_11451
 8	se	_	DET	DETpos	Poss=Yes	9	det	_	XmlId=w_28_11452
@@ -47446,7 +47446,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 36	a	_	ADP	PRE	_	38	mark	_	XmlId=w_28_12151
 37	estre	_	AUX	VERinf	VerbForm=Inf	38	cop	_	XmlId=w_28_12152
 38	rois	_	NOUN	NOMcom	_	35	xcomp	_	XmlId=w_28_12153
-39	que	_	PRON	PROrel	PronType=Rel	43	mark	_	XmlId=w_28_12154
+39	que	_	SCONJ	PROrel	PronType=Rel	43	mark	_	XmlId=w_28_12154
 40	mesire	_	NOUN	NOMcom	_	43	nsubj	_	XmlId=w_28_12155
 41	Guis	_	PROPN	NOMpro	_	40	flat	_	XmlId=w_28_12156
 42	n'	_	ADV	ADVneg	Polarity=Neg	43	advmod	_	SpaceAfter=No|XmlId=w_28_12157
@@ -47530,7 +47530,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 4	donnast	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_12215
 5	a	_	ADP	PRE	_	6	case	_	XmlId=w_28_12216
 6	cui	_	PRON	PROrel	PronType=Rel	4	obl	_	XmlId=w_28_12217
-7	que	_	PRON	PROrel	PronType=Rel	9	mark	_	XmlId=w_28_12218
+7	que	_	SCONJ	PROrel	PronType=Rel	9	mark	_	XmlId=w_28_12218
 8	ele	_	PRON	PROper	PronType=Prs	9	nsubj	_	XmlId=w_28_12219
 9	vausist	_	VERB	VERcjg	VerbForm=Fin	6	acl:relcl	_	XmlId=w_28_12220
 10	qui	_	PRON	PROrel	PronType=Rel	11	nsubj	_	XmlId=w_28_12221
@@ -50065,7 +50065,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 12	par	_	ADP	PRE	_	14	case	_	XmlId=w_28_14212
 13	boins	_	ADJ	ADJqua	_	14	amod	_	XmlId=w_28_14213
 14	messages	_	NOUN	NOMcom	_	11	obl	_	XmlId=w_28_14214
-15	que	_	PRON	PROrel	PronType=Rel	19	mark	_	XmlId=w_28_14215
+15	que	_	SCONJ	PROrel	PronType=Rel	19	mark	_	XmlId=w_28_14215
 16	il	_	PRON	PROper	PronType=Prs	19	nsubj	_	XmlId=w_28_14216
 17	estoient	_	AUX	VERcjg	VerbForm=Fin	19	aux	_	XmlId=w_28_14217
 18	la	_	ADV	ADVgen	_	19	advmod	_	XmlId=w_28_14218
@@ -50098,7 +50098,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 14	sen	_	DET	DETpos	Poss=Yes	15	det	_	XmlId=w_28_14241
 15	argent	_	NOUN	NOMcom	_	11	conj	_	SpaceAfter=No|XmlId=w_28_14242
 16	,	_	PUNCT	PONfbl	_	20	punct	_	XmlId=w_28_14243
-17	qu'	_	PRON	PROrel	PronType=Rel	20	mark	_	SpaceAfter=No|XmlId=w_28_14244
+17	qu'	_	SCONJ	PROrel	PronType=Rel	20	mark	_	SpaceAfter=No|XmlId=w_28_14244
 18	il	_	PRON	PROper	PronType=Prs	20	nsubj	_	XmlId=w_28_14245
 19	leur	_	PRON	PROper	PronType=Prs	20	iobj	_	XmlId=w_28_14246
 20	envoieroit	_	VERB	VERcjg	VerbForm=Fin	4	ccomp	_	XmlId=w_28_14247
@@ -51711,7 +51711,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 16	et	_	CCONJ	CONcoo	_	18	cc	_	XmlId=w_28_15542
 17	de	_	ADP	PRE	_	18	case	_	XmlId=w_28_15543
 18	toile	_	NOUN	NOMcom	_	15	conj	_	XmlId=w_28_15544
-19	que	_	PRON	PROrel	PronType=Rel	27	mark	_	XmlId=w_28_15545
+19	que	_	SCONJ	PROrel	PronType=Rel	27	mark	_	XmlId=w_28_15545
 20	cil	_	PRON	PROdem	PronType=Dem	27	nsubj	_	XmlId=w_28_15546
 21	qui	_	PRON	PROrel	PronType=Rel	23	nsubj	_	XmlId=w_28_15547
 22	i	_	ADV	PROadv	_	23	obl:advmod	_	XmlId=w_28_15548
@@ -53024,7 +53024,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 19	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_16635
 20	chevauchoient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_16636
 21	un	_	DET	DETndf	Definite=Ind|PronType=Art	22	det	_	XmlId=w_28_16637
-22	petit	_	ADJ	ADJqua	_	24	admod	_	XmlId=w_28_16638
+22	petit	_	ADJ	ADJqua	_	24	amod	_	XmlId=w_28_16638
 23	en	_	ADP	PRE	_	24	case	_	XmlId=w_28_16639
 24	sus	_	ADV	ADVgen	_	20	advmod	_	XmlId=w_28_16640
 25	par	_	ADP	PRE	_	26	case	_	XmlId=w_28_16641
@@ -56492,7 +56492,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 17	si	_	ADV	ADVgen	_	18	advmod	_	XmlId=w_28_19423
 18	atira	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_19424
 19	on	_	PRON	PROind	PronType=Ind	18	nsubj	_	XmlId=w_28_19425
-20	que	_	PRON	PROrel	PronType=Rel	32	mark	_	XmlId=w_28_19426
+20	que	_	SCONJ	PROrel	PronType=Rel	32	mark	_	XmlId=w_28_19426
 21	mesires	_	NOUN	NOMcom	_	32	nsubj	_	XmlId=w_28_19427
 22	Pierres	_	PROPN	NOMpro	_	21	flat	_	XmlId=w_28_19428
 23	de	_	ADP	PRE	_	24	case	_	XmlId=w_28_19429
@@ -59489,7 +59489,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 5	en	_	ADP	PRE	_	7	case	_	XmlId=w_28_21814
 6	chu	_	DET	DETdem	PronType=Dem	7	det	_	XmlId=w_28_21815
 7	tempore	_	NOUN	NOMcom	_	2	obl	_	XmlId=w_28_21816
-8	que	_	PRON	PROrel	PronType=Rel	13	mark	_	XmlId=w_28_21817
+8	que	_	SCONJ	PROrel	PronType=Rel	13	mark	_	XmlId=w_28_21817
 9	Morchofles	_	PROPN	NOMpro	_	13	nsubj	_	XmlId=w_28_21818
 10	li	_	DET	DETdef	Definite=Def|PronType=Art	11	det	_	XmlId=w_28_21819
 11	traïtres	_	NOUN	NOMcom	_	9	appos	_	XmlId=w_28_21820
@@ -59629,7 +59629,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 24	ou	_	CCONJ	CONcoo	PronType=Rel	25	cc	_	XmlId=w_28_21946
 25	chent	_	PRON	PROcar	NumType=Card	22	conj	_	SpaceAfter=No|XmlId=w_28_21947
 26	,	_	PUNCT	PONfbl	_	31	punct	_	XmlId=w_28_21948
-27	que	_	PRON	PROrel	PronType=Rel	31	mark	_	XmlId=w_28_21949
+27	que	_	SCONJ	PROrel	PronType=Rel	31	mark	_	XmlId=w_28_21949
 28	chis	_	DET	DETdem	PronType=Dem	29	det	_	XmlId=w_28_21950
 29	Jehans	_	PROPN	NOMpro	_	31	nsubj	_	XmlId=w_28_21951
 30	li	_	PRON	PROper	PronType=Prs	31	iobj	_	XmlId=w_28_21952
@@ -61905,7 +61905,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 10	le	_	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_28_23738
 11	plus	_	ADV	ADVgen	_	12	advmod	_	XmlId=w_28_23739
 12	belement	_	ADV	ADVgen	_	9	advmod	_	XmlId=w_28_23740
-13	qu'	_	PRON	PROrel	PronType=Rel	15	mark	_	SpaceAfter=No|XmlId=w_28_23741
+13	qu'	_	SCONJ	PROrel	PronType=Rel	15	mark	_	SpaceAfter=No|XmlId=w_28_23741
 14	il	_	PRON	PROper	PronType=Prs	15	nsubj	_	XmlId=w_28_23742
 15	peut	_	VERB	VERcjg	VerbForm=Fin	12	advcl	_	SpaceAfter=No|XmlId=w_28_23743
 16	,	_	PUNCT	PONfbl	_	9	punct	_	XmlId=w_28_23744
@@ -63697,7 +63697,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 11	au	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	13	case:det	_	XmlId=w_28_25171
 12	plus	_	ADV	ADVgen	_	13	advmod	_	XmlId=w_28_25172
 13	pres	_	ADV	ADVgen	_	18	advmod	_	XmlId=w_28_25173
-14	qu'	_	PRON	PROrel	PronType=Rel	16	mark	_	SpaceAfter=No|XmlId=w_28_25174
+14	qu'	_	SCONJ	PROrel	PronType=Rel	16	mark	_	SpaceAfter=No|XmlId=w_28_25174
 15	il	_	PRON	PROper	PronType=Prs	16	nsubj	_	XmlId=w_28_25175
 16	peurent	_	VERB	VERcjg	VerbForm=Fin	13	advcl	_	XmlId=w_28_25176
 17	des	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	18	case:det	_	XmlId=w_28_25177
@@ -64088,7 +64088,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 21	mains	_	NOUN	NOMcom	_	18	conj	_	XmlId=w_28_25483
 22	au	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	23	case:det	_	XmlId=w_28_25484
 23	miex	_	ADV	ADVgen	_	14	obl	_	XmlId=w_28_25485
-24	qu'	_	PRON	PROrel	PronType=Rel	26	mark	_	SpaceAfter=No|XmlId=w_28_25486
+24	qu'	_	SCONJ	PROrel	PronType=Rel	26	mark	_	SpaceAfter=No|XmlId=w_28_25486
 25	il	_	PRON	PROper	PronType=Prs	26	nsubj	_	XmlId=w_28_25487
 26	peut	_	VERB	VERcjg	VerbForm=Fin	23	advcl	_	SpaceAfter=No|XmlId=w_28_25488
 27	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_25489
@@ -67934,7 +67934,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 10	rikes	_	ADJ	ADJqua	_	11	amod	_	XmlId=w_28_28608
 11	saintuaires	_	NOUN	NOMcom	_	6	obj	_	SpaceAfter=No|XmlId=w_28_28609
 12	,	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_28610
-13	que	_	PRON	PROrel	PronType=Rel	16	mark	_	XmlId=w_28_28611
+13	que	_	SCONJ	PROrel	PronType=Rel	16	mark	_	XmlId=w_28_28611
 14	on	_	PRON	PROind	PronType=Ind	16	nsubj	_	XmlId=w_28_28612
 15	i	_	ADV	PROadv	_	16	obl:advmod	_	XmlId=w_28_28613
 16	trova	_	VERB	VERcjg	VerbForm=Fin	6	advcl	_	XmlId=w_28_28614
@@ -70375,7 +70375,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 7	et	_	CCONJ	CONcoo	_	9	cc	_	XmlId=w_28_30634
 8	l'	_	DET	DETdef	Definite=Def|PronType=Art	9	det	_	SpaceAfter=No|XmlId=w_28_30635
 9	empeerris	_	NOUN	NOMcom	_	6	conj	_	XmlId=w_28_30636
-10	que	_	PRON	PROrel	PronType=Rel	15	mark	_	XmlId=w_28_30637
+10	que	_	SCONJ	PROrel	PronType=Rel	15	mark	_	XmlId=w_28_30637
 11	li	_	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_28_30638
 12	uns	_	PRON	PROind	PronType=Ind	15	nsubj	_	XmlId=w_28_30639
 13	des	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	14	case:det	_	XmlId=w_28_30640
@@ -74626,7 +74626,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	feroit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_34135
 3	le	_	DET	DETdef	Definite=Def|PronType=Art	4	det	_	XmlId=w_28_34136
 4	miex	_	NOUN	ADVgen	_	2	obj	_	XmlId=w_28_34137
-5	qu'	_	PRON	PROrel	PronType=Rel	7	mark	_	SpaceAfter=No|XmlId=w_28_34138
+5	qu'	_	SCONJ	PROrel	PronType=Rel	7	mark	_	SpaceAfter=No|XmlId=w_28_34138
 6	il	_	PRON	PROper	PronType=Prs	7	nsubj	_	XmlId=w_28_34139
 7	porroit	_	VERB	VERcjg	VerbForm=Fin	4	acl	_	SpaceAfter=No|XmlId=w_28_34140
 8	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_28_34141
@@ -75100,7 +75100,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 1	Entre	_	ADP	PRE	_	3	case	_	XmlId=w_28_34508
 2	ches	_	DET	DETdem	PronType=Dem	3	det	_	XmlId=w_28_34509
 3	entrefaites	_	NOUN	NOMcom	_	11	obl	_	XmlId=w_28_34510
-4	que	_	PRON	PROrel	PronType=Rel	7	mark	_	XmlId=w_28_34511
+4	que	_	SCONJ	PROrel	PronType=Rel	7	mark	_	XmlId=w_28_34511
 5	li	_	DET	DETdef	Definite=Def|PronType=Art	6	det	_	XmlId=w_28_34512
 6	marchis	_	NOUN	NOMcom	_	7	nsubj	_	XmlId=w_28_34513
 7	ouvra	_	VERB	VERcjg	VerbForm=Fin	3	acl	_	XmlId=w_28_34514
@@ -75863,7 +75863,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 53	plus	_	ADV	ADVgen	_	54	advmod	_	XmlId=w_28_35173
 54	bele	_	ADJ	ADJqua	_	55	amod	_	XmlId=w_28_35174
 55	concorde	_	NOUN	NOMcom	_	51	conj	_	XmlId=w_28_35175
-56	que	_	PRON	PROrel	PronType=Rel	58	mark	_	XmlId=w_28_35176
+56	que	_	SCONJ	PROrel	PronType=Rel	58	mark	_	XmlId=w_28_35176
 57	il	_	PRON	PROper	PronType=Prs	58	nsubj	_	XmlId=w_28_35177
 58	peurent	_	VERB	VERcjg	VerbForm=Fin	54	advcl	_	SpaceAfter=No|XmlId=w_28_35178
 59	,	_	PUNCT	PONfbl	_	65	punct	_	XmlId=w_28_35179
