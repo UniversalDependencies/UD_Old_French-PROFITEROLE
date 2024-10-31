@@ -32431,7 +32431,7 @@
 3	incarnations	_	NOUN	NOMcom	_	4	nsubj	_	XmlId=w_28_00084
 4	estoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_00085
 5	de	_	ADP	PRE	_	11	case	_	XmlId=w_28_00086
-6	.m.	_	DET	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_00087
+6	.m.	_	NUM	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_00087
 7	et	_	CCONJ	CONcoo	_	6	flat	_	XmlId=w_28_00088
 8	cc.	_	PRON	PROcar	NumType=Card	6	flat	_	XmlId=w_28_00089
 9	et	_	CCONJ	CONcoo	_	6	flat	_	XmlId=w_28_00090
@@ -33602,7 +33602,7 @@
 # sent_id = clari-46
 1	si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_01104
 2	laissa	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_01105
-3	.l.m.	_	DET	DETcar	NumType=Card	4	nummod	_	XmlId=w_28_01106
+3	.l.m.	_	NUM	DETcar	NumType=Card	4	nummod	_	XmlId=w_28_01106
 4	livres	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_01107
 5	as	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	6	case:det	_	XmlId=w_28_01108
 6	croisiés	_	NOUN	VERppe	Tense=Past|VerbForm=Part	2	obl	_	XmlId=w_28_01109
@@ -34344,7 +34344,7 @@
 21	laissié	_	VERB	VERppe	Tense=Past|VerbForm=Part	14	acl:relcl	_	XmlId=w_28_01693
 22	as	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	23	case:det	_	XmlId=w_28_01694
 23	croisiés	_	NOUN	VERppe	Tense=Past|VerbForm=Part	21	obl	_	XmlId=w_28_01695
-24	.xxv.	_	DET	DETcar	NumType=Card	25	nummod	_	XmlId=w_28_01696
+24	.xxv.	_	NUM	DETcar	NumType=Card	25	nummod	_	XmlId=w_28_01696
 25	mile	_	DET	DETcar	NumType=Card	24	flat	_	XmlId=w_28_01697
 26	livres	_	NOUN	NOMcom	_	14	nmod	_	SpaceAfter=No|XmlId=w_28_01698
 27	.	_	PUNCT	PONfrt	_	10	punct	_	XmlId=w_28_01699
@@ -34611,13 +34611,13 @@
 9	waissiaus	_	NOUN	NOMcom	_	8	obj	_	XmlId=w_28_01906
 10	a	_	ADP	PRE	_	11	mark	_	XmlId=w_28_01907
 11	passer	_	VERB	VERinf	VerbForm=Inf	8	xcomp	_	XmlId=w_28_01908
-12	.iiij. m.	_	DET	DETcar	_	13	nummod	_	XmlId=w_28_01909
+12	.iiij. m.	_	NUM	DETcar	_	13	nummod	_	XmlId=w_28_01909
 13	chevaliers	_	NOUN	NOMcom	_	11	obj	_	XmlId=w_28_01910
 14	et	_	CCONJ	CONcoo	_	16	cc	_	XmlId=w_28_01911
 15	leur	_	DET	DETpos	Poss=Yes	16	det	_	XmlId=w_28_01912
 16	harnas	_	NOUN	NOMcom	_	13	conj	_	XmlId=w_28_01913
 17	et	_	CCONJ	CONcoo	_	19	cc	_	XmlId=w_28_01914
-18	.c.m.	_	DET	DETcar	NumType=Card	19	nummod	_	XmlId=w_28_01915
+18	.c.m.	_	NUM	DETcar	NumType=Card	19	nummod	_	XmlId=w_28_01915
 19	hommes	_	NOUN	NOMcom	_	13	conj	_	XmlId=w_28_01916
 20	a	_	ADP	PRE	_	21	case	_	XmlId=w_28_01917
 21	pié	_	NOUN	NOMcom	_	19	nmod	_	SpaceAfter=No|XmlId=w_28_01918
@@ -34772,14 +34772,14 @@
 13	a	_	ADP	PRE	_	14	mark	_	XmlId=w_28_02023
 14	liwer	_	VERB	VERinf	VerbForm=Inf	12	xcomp	_	XmlId=w_28_02024
 15	a	_	ADP	PRE	_	17	case	_	XmlId=w_28_02025
-16	.iiij.m.	_	DET	DETcar	NumType=Card	17	nummod	_	XmlId=w_28_02026
+16	.iiij.m.	_	NUM	DETcar	NumType=Card	17	nummod	_	XmlId=w_28_02026
 17	chevaliers	_	NOUN	NOMcom	_	14	obl	_	XmlId=w_28_02027
 18	et	_	CCONJ	CONcoo	_	20	cc	_	XmlId=w_28_02028
 19	leurs	_	DET	DETpos	Poss=Yes	20	det	_	XmlId=w_28_02029
 20	harnas	_	NOUN	NOMcom	_	17	conj	_	XmlId=w_28_02030
 21	et	_	CCONJ	CONcoo	_	24	cc	_	XmlId=w_28_02031
 22	a	_	ADP	PRE	_	24	case	_	XmlId=w_28_02032
-23	.c.m.	_	DET	DETcar	NumType=Card	24	nummod	_	XmlId=w_28_02033
+23	.c.m.	_	NUM	DETcar	NumType=Card	24	nummod	_	XmlId=w_28_02033
 24	hommes	_	NOUN	NOMcom	_	17	conj	_	XmlId=w_28_02034
 25	a	_	ADP	PRE	_	26	case	_	XmlId=w_28_02035
 26	pié	_	NOUN	NOMcom	_	24	nmod	_	SpaceAfter=No|XmlId=w_28_02036
@@ -34902,7 +34902,7 @@
 4	assés	_	ADV	ADVgen	_	5	advmod	_	XmlId=w_28_02121
 5	navie	_	NOUN	NOMcom	_	3	obj	_	XmlId=w_28_02122
 6	pour	_	ADP	PRE	_	8	case	_	XmlId=w_28_02123
-7	.c.m.	_	DET	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_02124
+7	.c.m.	_	NUM	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_02124
 8	mars	_	NOUN	NOMcom	_	3	obl	_	SpaceAfter=No|XmlId=w_28_02125
 9	,	_	PUNCT	PONfbl	_	12	punct	_	XmlId=w_28_02126
 10	se	_	SCONJ	CONsub	_	12	mark	_	XmlId=w_28_02127
@@ -34953,7 +34953,7 @@
 2	si	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_02168
 3	vous	_	PRON	PROper	PronType=Prs	4	iobj	_	XmlId=w_28_02169
 4	mesrons	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_02170
-5	chinquante	_	DET	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_02171
+5	chinquante	_	NUM	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_02171
 6	galies	_	NOUN	NOMcom	_	4	obj	_	XmlId=w_28_02172
 7	a	_	ADP	PRE	_	9	case	_	XmlId=w_28_02173
 8	no	_	DET	DETpos	Poss=Yes	9	det	_	XmlId=w_28_02174
@@ -34971,7 +34971,7 @@
 6	nous	_	PRON	PROper	PronType=Prs	7	nsubj	_	XmlId=w_28_02182
 7	nommerons	_	VERB	VERcjg	VerbForm=Fin	4	acl:relcl	_	XmlId=w_28_02183
 8	en	_	ADP	PRE	_	10	case	_	XmlId=w_28_02184
-9	un	_	DET	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_02185
+9	un	_	NUM	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_02185
 10	an	_	NOUN	NOMcom	_	14	obl	_	SpaceAfter=No|XmlId=w_28_02186
 11	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_02187
 12	nous	_	PRON	PROper	PronType=Prs	14	nsubj	_	XmlId=w_28_02188
@@ -35017,7 +35017,7 @@
 11	seroit	_	AUX	VERcjg	VerbForm=Fin	12	cop	_	XmlId=w_28_02216
 12	trop	_	ADV	ADVgen	_	8	ccomp	_	XmlId=w_28_02217
 13	en	_	ADP	PRE	_	15	case	_	XmlId=w_28_02218
-14	.c.m.	_	DET	DETcar	NumType=Card	15	nummod	_	XmlId=w_28_02219
+14	.c.m.	_	NUM	DETcar	NumType=Card	15	nummod	_	XmlId=w_28_02219
 15	mars	_	NOUN	NOMcom	_	12	obl	_	SpaceAfter=No|XmlId=w_28_02220
 16	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_02221
 
@@ -35033,7 +35033,7 @@
 7	fisent	_	VERB	VERcjg	VerbForm=Fin	3	advcl	_	XmlId=w_28_02228
 8	markié	_	NOUN	VERppe	Tense=Past|VerbForm=Part	7	obj	_	XmlId=w_28_02229
 9	par	_	ADP	PRE	_	11	case	_	XmlId=w_28_02230
-10	.lxxx.m.	_	DET	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_02231
+10	.lxxx.m.	_	NUM	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_02231
 11	mars	_	NOUN	NOMcom	_	7	obl	_	XmlId=w_28_02232
 12	et	_	CCONJ	CONcoo	_	13	cc	_	XmlId=w_28_02233
 13	.vij.	_	PRON	PROcar	NumType=Card	10	conj	_	SpaceAfter=No|XmlId=w_28_02234
@@ -35066,7 +35066,7 @@
 6	il	_	PRON	PROper	PronType=Prs	7	nsubj	_	XmlId=w_28_02257
 7	voloit	_	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	XmlId=w_28_02258
 8	avoir	_	VERB	VERinf	VerbForm=Inf	7	xcomp	_	XmlId=w_28_02259
-9	.xxv.m.	_	DET	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_02260
+9	.xxv.m.	_	NUM	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_02260
 10	mars	_	NOUN	NOMcom	_	8	obj	_	XmlId=w_28_02261
 11	d'	_	ADP	PRE	_	12	case	_	SpaceAfter=No|XmlId=w_28_02262
 12	eres	_	NOUN	NOMcom	_	10	nmod	_	XmlId=w_28_02263
@@ -35099,7 +35099,7 @@
 18	volentiers	_	ADV	ADVgen	_	17	advmod	_	XmlId=w_28_02286
 19	paier	_	VERB	VERinf	VerbForm=Inf	17	xcomp	_	XmlId=w_28_02287
 20	les	_	DET	DETdef	Definite=Def|PronType=Art	22	det	_	XmlId=w_28_02288
-21	.xxv.m.	_	DET	DETcar	NumType=Card	22	nummod	_	XmlId=w_28_02289
+21	.xxv.m.	_	NUM	DETcar	NumType=Card	22	nummod	_	XmlId=w_28_02289
 22	mars	_	NOUN	NOMcom	_	19	obj	_	SpaceAfter=No|XmlId=w_28_02290
 23	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_28_02291
 
@@ -35254,7 +35254,7 @@
 4	y	_	ADV	PROadv	_	6	obl:advmod	_	XmlId=w_28_02401
 5	furent	_	AUX	VERcjg	VerbForm=Fin	6	aux	_	XmlId=w_28_02402
 6	venu	_	VERB	VERppe	Tense=Past|VerbForm=Part	11	advcl	_	XmlId=w_28_02403
-7	tout	_	PRON	PROind	PronType=Ind	8	obl:advmod	_	XmlId=w_28_02404
+7	tout	_	PRON	PROind	PronType=Ind	8	advmod	_	XmlId=w_28_02404
 8	ensanle	_	ADV	ADVgen	_	6	advmod	_	SpaceAfter=No|XmlId=w_28_02405
 9	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_02406
 10	si	_	ADV	ADVgen	_	11	advmod	_	XmlId=w_28_02407
@@ -35356,7 +35356,7 @@
 15	en	_	ADV	PROadv	_	19	nmod	_	XmlId=w_28_02483
 16	i	_	ADV	PROadv	_	17	obl:advmod	_	XmlId=w_28_02484
 17	eut	_	VERB	VERcjg	VerbForm=Fin	4	advcl	_	XmlId=w_28_02485
-18	.xxv.m.	_	DET	DETcar	NumType=Card	19	nummod	_	XmlId=w_28_02486
+18	.xxv.m.	_	NUM	DETcar	NumType=Card	19	nummod	_	XmlId=w_28_02486
 19	mars	_	NOUN	NOMcom	_	17	obl	_	SpaceAfter=No|XmlId=w_28_02487
 20	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_28_02488
 
@@ -35583,7 +35583,7 @@
 39	qui	_	PRON	PROrel	PronType=Rel	40	nsubj	_	XmlId=w_28_02678
 40	estoit	_	VERB	VERcjg	VerbForm=Fin	28	acl:relcl	_	XmlId=w_28_02679
 41	a	_	ADP	PRE	_	43	case	_	XmlId=w_28_02680
-42	une	_	DET	DETcar	NumType=Card	43	nummod	_	XmlId=w_28_02681
+42	une	_	NUM	DETcar	NumType=Card	43	nummod	_	XmlId=w_28_02681
 43	liwe	_	NOUN	NOMcom	_	40	obl	_	XmlId=w_28_02682
 44	de	_	ADP	PRE	_	45	case	_	XmlId=w_28_02683
 45	Venice	_	PROPN	NOMpro	_	43	nmod	_	SpaceAfter=No|XmlId=w_28_02684
@@ -35748,7 +35748,7 @@
 13	et	_	CCONJ	CONcoo	_	14	cc	_	XmlId=w_28_02807
 14	doi	_	PRON	PROcar	NumType=Card	12	conj	_	XmlId=w_28_02808
 15	ensanle	_	ADV	ADVgen	_	11	advmod	_	XmlId=w_28_02809
-16	deus	_	DET	DETcar	NumType=Card	17	nummod	_	XmlId=w_28_02810
+16	deus	_	NUM	DETcar	NumType=Card	17	nummod	_	XmlId=w_28_02810
 17	noiaus	_	NOUN	NOMcom	_	11	obj	_	XmlId=w_28_02811
 18	de	_	ADP	PRE	_	19	case	_	XmlId=w_28_02812
 19	chire	_	NOUN	NOMcom	_	17	nmod	_	SpaceAfter=No|XmlId=w_28_02813
@@ -35801,7 +35801,7 @@
 3	a	_	ADP	PRE	_	4	case	_	XmlId=w_28_02840
 4	cascun	_	PRON	PROind	PronType=Ind	2	obl	_	XmlId=w_28_02841
 5	des	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	7	case:det	_	XmlId=w_28_02842
-6	deux	_	ADJ	ADJcar	NumType=Card	7	nummod	_	XmlId=w_28_02843
+6	deux	_	NUM	ADJcar	NumType=Card	7	nummod	_	XmlId=w_28_02843
 7	Veniciens	_	PROPN	NOMpro	_	4	nmod	_	XmlId=w_28_02844
 8	un	_	PRON	PROind	PronType=Ind	2	obj	_	XmlId=w_28_02845
 9	de	_	ADP	PRE	_	11	case	_	XmlId=w_28_02846
@@ -35913,7 +35913,7 @@
 23	appareillaissent	_	VERB	VERcjg	VerbForm=Fin	17	ccomp	_	XmlId=w_28_02932
 24	navie	_	NOUN	NOMcom	_	23	obj	_	XmlId=w_28_02933
 25	a	_	ADP	PRE	_	27	case	_	XmlId=w_28_02934
-26	.iiij.m.	_	DET	DETcar	NumType=Card	27	nummod	_	XmlId=w_28_02935
+26	.iiij.m.	_	NUM	DETcar	NumType=Card	27	nummod	_	XmlId=w_28_02935
 27	chevaliers	_	NOUN	NOMcom	_	23	obl	_	XmlId=w_28_02936
 28	et	_	CCONJ	CONcoo	_	31	cc	_	XmlId=w_28_02937
 29	a	_	ADP	PRE	_	31	case	_	XmlId=w_28_02938
@@ -35921,7 +35921,7 @@
 31	harnas	_	NOUN	NOMcom	_	27	conj	_	XmlId=w_28_02940
 32	et	_	CCONJ	CONcoo	_	35	cc	_	XmlId=w_28_02941
 33	a	_	ADP	PRE	_	35	case	_	XmlId=w_28_02942
-34	.c.m.	_	DET	DETcar	NumType=Card	35	nummod	_	XmlId=w_28_02943
+34	.c.m.	_	NUM	DETcar	NumType=Card	35	nummod	_	XmlId=w_28_02943
 35	hommes	_	NOUN	NOMcom	_	27	conj	_	XmlId=w_28_02944
 36	a	_	ADP	PRE	_	37	case	_	XmlId=w_28_02945
 37	pié	_	NOUN	NOMcom	_	35	nmod	_	SpaceAfter=No|XmlId=w_28_02946
@@ -35933,7 +35933,7 @@
 1	et	_	CCONJ	CONcoo	_	8	cc:nc	_	XmlId=w_28_02948
 2	des	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	5	case:det	_	XmlId=w_28_02949
 3	ches	_	DET	DETdem	PronType=Dem	5	det	_	XmlId=w_28_02950
-4	.iiij.m.	_	DET	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_02951
+4	.iiij.m.	_	NUM	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_02951
 5	chevaliers	_	NOUN	NOMcom	_	8	obl	_	XmlId=w_28_02952
 6	n'	_	ADV	ADVneg	Polarity=Neg	8	advmod	_	SpaceAfter=No|XmlId=w_28_02953
 7	i	_	ADV	PROadv	_	8	obl:advmod	_	XmlId=w_28_02954
@@ -35942,7 +35942,7 @@
 10	mie	_	ADV	ADVneg	Polarity=Neg	8	advmod	_	XmlId=w_28_02957
 11	plus	_	ADV	ADVgen	_	14	advmod	_	XmlId=w_28_02958
 12	d'	_	ADP	PRE	_	14	case	_	SpaceAfter=No|XmlId=w_28_02959
-13	un	_	DET	DETcar	NumType=Card	14	nummod	_	XmlId=w_28_02960
+13	un	_	NUM	DETcar	NumType=Card	14	nummod	_	XmlId=w_28_02960
 14	millier	_	NOUN	NOMcom	_	8	obl	_	SpaceAfter=No|XmlId=w_28_02961
 15	,	_	PUNCT	PONfbl	_	19	punct	_	XmlId=w_28_02962
 16	qu'	_	SCONJ	CONsub	_	19	mark	_	SpaceAfter=No|XmlId=w_28_02963
@@ -35960,7 +35960,7 @@
 1	ne	_	CCONJ	CONcoo	_	11	cc:nc	_	XmlId=w_28_02971
 2	de	_	ADP	PRE	_	6	case	_	XmlId=w_28_02972
 3	ches	_	DET	DETdem	PronType=Dem	6	det	_	XmlId=w_28_02973
-4	.c.	_	DET	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_02974
+4	.c.	_	NUM	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_02974
 5	mille	_	ADJ	ADJcar	NumType=Card	4	flat	_	XmlId=w_28_02975
 6	hommes	_	NOUN	NOMcom	_	11	obl	_	XmlId=w_28_02976
 7	a	_	ADP	PRE	_	8	case	_	XmlId=w_28_02977
@@ -36031,7 +36031,7 @@
 6	cascuns	_	DET	DETind	PronType=Ind	7	det	_	XmlId=w_28_03032
 7	chevaliers	_	NOUN	NOMcom	_	8	nsubj	_	XmlId=w_28_03033
 8	donroit	_	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	XmlId=w_28_03034
-9	quatre	_	DET	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_03035
+9	quatre	_	NUM	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_03035
 10	mars	_	NOUN	NOMcom	_	8	obj	_	SpaceAfter=No|XmlId=w_28_03036
 11	,	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_03037
 12	et	_	CCONJ	CONcoo	_	14	cc	_	XmlId=w_28_03038
@@ -36043,7 +36043,7 @@
 18	serjans	_	NOUN	NOMcom	_	7	conj	_	XmlId=w_28_03044
 19	a	_	ADP	PRE	_	20	case	_	XmlId=w_28_03045
 20	cheval	_	NOUN	NOMcom	_	18	nmod	_	XmlId=w_28_03046
-21	deus	_	DET	DETcar	NumType=Card	22	nummod	_	XmlId=w_28_03047
+21	deus	_	NUM	DETcar	NumType=Card	22	nummod	_	XmlId=w_28_03047
 22	mars	_	NOUN	NOMcom	_	10	conj	_	SpaceAfter=No|XmlId=w_28_03048
 23	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_03049
 
@@ -36059,7 +36059,7 @@
 7	,	_	PUNCT	PONfbl	_	9	punct	_	XmlId=w_28_03056
 8	si	_	ADV	ADVgen	_	9	advmod	_	XmlId=w_28_03057
 9	donroit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_03058
-10	un	_	DET	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_03059
+10	un	_	NUM	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_03059
 11	marc	_	NOUN	NOMcom	_	9	obj	_	SpaceAfter=No|XmlId=w_28_03060
 12	.	_	PUNCT	PONfrt	_	9	punct	_	XmlId=w_28_03061
 
@@ -36086,7 +36086,7 @@
 1	si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_03075
 2	remesent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_03076
 3	encore	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_03077
-4	.l.	_	DET	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_03078
+4	.l.	_	NUM	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_03078
 5	mile	_	DET	DETcar	NumType=Card	4	flat	_	XmlId=w_28_03079
 6	mars	_	NOUN	NOMcom	_	2	nsubj	_	XmlId=w_28_03080
 7	a	_	ADP	PRE	_	8	mark	_	XmlId=w_28_03081
@@ -36205,7 +36205,7 @@
 5	rien	_	PRON	PROind	PronType=Ind	4	obj	_	XmlId=w_28_03176
 6	passé	_	VERB	VERppe	Tense=Past|VerbForm=Part	4	advcl	_	XmlId=w_28_03177
 7	a	_	AUX	VERcjg	VerbForm=Fin	6	aux	_	XmlId=w_28_03178
-8	un	_	DET	DETcar	NumType=Card	9	nummod	_	XmlId=w_28_03179
+8	un	_	NUM	DETcar	NumType=Card	9	nummod	_	XmlId=w_28_03179
 9	an	_	NOUN	NOMcom	_	6	nsubj	_	XmlId=w_28_03180
 10	et	_	CCONJ	CONcoo	_	11	cc	_	XmlId=w_28_03181
 11	demi	_	NOUN	NOMcom	_	8	conj	_	SpaceAfter=No|XmlId=w_28_03182
@@ -36401,7 +36401,7 @@
 10	encore	_	ADV	ADVgen	_	9	advmod	_	XmlId=w_28_03332
 11	a	_	ADP	PRE	_	12	mark	_	XmlId=w_28_03333
 12	paier	_	VERB	VERinf	VerbForm=Inf	9	xcomp	_	XmlId=w_28_03334
-13	.xxxvi.m.	_	DET	DETcar	NumType=Card	14	nummod	_	XmlId=w_28_03335
+13	.xxxvi.m.	_	NUM	DETcar	NumType=Card	14	nummod	_	XmlId=w_28_03335
 14	mars	_	NOUN	NOMcom	_	9	nsubj	_	XmlId=w_28_03336
 15	;	_	PUNCT	PONfbl	_	9	punct	_	XmlId=w_28_03337
 
@@ -36554,7 +36554,7 @@
 10	veullent	_	VERB	VERcjg	VerbForm=Fin	36	advcl	_	XmlId=w_28_03463
 11	rendre	_	VERB	VERinf	VerbForm=Inf	10	xcomp	_	XmlId=w_28_03464
 12	ches	_	DET	DETdem	PronType=Dem	14	det	_	XmlId=w_28_03465
-13	.xxxvi.m.	_	DET	DETcar	NumType=Card	14	nummod	_	XmlId=w_28_03466
+13	.xxxvi.m.	_	NUM	DETcar	NumType=Card	14	nummod	_	XmlId=w_28_03466
 14	mars	_	NOUN	NOMcom	_	11	obj	_	XmlId=w_28_03467
 15	que	_	PRON	PROrel	PronType=Rel	18	obj	_	XmlId=w_28_03468
 16	il	_	PRON	PROper	PronType=Prs	18	nsubj	_	XmlId=w_28_03469
@@ -36667,7 +36667,7 @@
 29	nous	_	PRON	PROper	PronType=Prs	30	iobj	_	XmlId=w_28_03562
 30	paierés	_	VERB	VERcjg	VerbForm=Fin	25	ccomp	_	XmlId=w_28_03563
 31	ches	_	DET	DETdem	PronType=Dem	33	det	_	XmlId=w_28_03564
-32	.xxxvi.m.	_	DET	DETcar	NumType=Card	33	nummod	_	XmlId=w_28_03565
+32	.xxxvi.m.	_	NUM	DETcar	NumType=Card	33	nummod	_	XmlId=w_28_03565
 33	mars	_	NOUN	NOMcom	_	30	obj	_	XmlId=w_28_03566
 34	que	_	PRON	PROrel	PronType=Rel	37	obj	_	XmlId=w_28_03567
 35	vous	_	PRON	PROper	PronType=Prs	37	nsubj	_	XmlId=w_28_03568
@@ -36855,7 +36855,7 @@
 2	che	_	PRON	PROdem	PronType=Dem	6	nsubj	_	XmlId=w_28_03710
 3	n'	_	ADV	ADVneg	Polarity=Neg	6	advmod	_	SpaceAfter=No|XmlId=w_28_03711
 4	est	_	AUX	VERcjg	VerbForm=Fin	6	aux	_	XmlId=w_28_03712
-5	mi	_	NOUN	NOMcom	_	6	obl:advmod	_	XmlId=w_28_03713
+5	mi	_	NOUN	NOMcom	_	6	advmod	_	XmlId=w_28_03713
 6	remés	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_28_03714
 7	en	_	ADP	PRE	_	8	case	_	XmlId=w_28_03715
 8	mi	_	NOUN	NOMcom	_	6	obl	_	SpaceAfter=No|XmlId=w_28_03716
@@ -37127,7 +37127,7 @@
 6	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_03916
 7	avec	_	ADP	PRE	_	8	case	_	XmlId=w_28_03917
 8	lui	_	PRON	PROper	PronType=Prs	6	obl	_	XmlId=w_28_03918
-9	chinquante	_	DET	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_03919
+9	chinquante	_	NUM	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_03919
 10	galies	_	NOUN	NOMcom	_	6	obj	_	XmlId=w_28_03920
 11	tout	_	ADV	PROind	PronType=Ind	14	advmod	_	XmlId=w_28_03921
 12	a	_	ADP	PRE	_	14	case	_	XmlId=w_28_03922
@@ -37172,7 +37172,7 @@
 # sent_id = clari-230
 1	si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_03950
 2	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_03951
-3	quatre	_	DET	DETcar	NumType=Card	4	nummod	_	XmlId=w_28_03952
+3	quatre	_	NUM	DETcar	NumType=Card	4	nummod	_	XmlId=w_28_03952
 4	buisines	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_03953
 5	d'	_	ADP	PRE	_	6	case	_	SpaceAfter=No|XmlId=w_28_03954
 6	argent	_	NOUN	NOMcom	_	4	nmod	_	XmlId=w_28_03955
@@ -37286,7 +37286,7 @@
 3	y	_	ADV	PROadv	_	4	obl:advmod	_	XmlId=w_28_04086
 4	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_04087
 5	bien	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_04088
-6	chent	_	DET	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_04089
+6	chent	_	NUM	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_04089
 7	paire	_	NOUN	NOMcom	_	4	obl	_	XmlId=w_28_04090
 8	de	_	ADP	PRE	_	9	case	_	XmlId=w_28_04091
 9	busines	_	NOUN	NOMcom	_	7	nmod	_	SpaceAfter=No|XmlId=w_28_04092
@@ -38090,7 +38090,7 @@
 4	le	_	DET	DETdef	Definite=Def|PronType=Art	5	det	_	XmlId=w_28_04738
 5	vile	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_04739
 6	en	_	ADP	PRE	_	8	case	_	XmlId=w_28_04740
-7	deus	_	DET	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_04741
+7	deus	_	NUM	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_04741
 8	moitiés	_	NOUN	NOMcom	_	2	obl	_	SpaceAfter=No|XmlId=w_28_04742
 9	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_04743
 10	si	_	ADV	ADVgen	_	15	mark	_	XmlId=w_28_04744
@@ -38133,7 +38133,7 @@
 19	qui	_	PRON	PROrel	PronType=Rel	20	nsubj	_	XmlId=w_28_04777
 20	dura	_	VERB	VERcjg	VerbForm=Fin	7	acl:relcl	_	XmlId=w_28_04778
 21	bien	_	ADV	ADVgen	_	20	advmod	_	XmlId=w_28_04779
-22	une	_	DET	DETcar	NumType=Card	23	nummod	_	XmlId=w_28_04780
+22	une	_	NUM	DETcar	NumType=Card	23	nummod	_	XmlId=w_28_04780
 23	nuit	_	NOUN	NOMcom	_	20	obl	_	XmlId=w_28_04781
 24	et	_	CCONJ	CONcoo	_	25	cc	_	XmlId=w_28_04782
 25	demi	_	ADJ	ADJqua	_	26	amod	_	XmlId=w_28_04783
@@ -38828,7 +38828,7 @@
 27	li	_	PRON	PROper	PronType=Prs	29	iobj	_	XmlId=w_28_05338
 28	fesist	_	VERB	VERcjg	VerbForm=Fin	6	advcl	_	XmlId=w_28_05339
 29	donner	_	VERB	VERinf	VerbForm=Inf	28	xcomp	_	XmlId=w_28_05340
-30	cent	_	DET	DETcar	NumType=Card	31	nummod	_	XmlId=w_28_05341
+30	cent	_	NUM	DETcar	NumType=Card	31	nummod	_	XmlId=w_28_05341
 31	mars	_	NOUN	NOMcom	_	29	obj	_	XmlId=w_28_05342
 32	:	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_05343
 
@@ -38926,7 +38926,7 @@
 3	ne	_	ADV	ADVneg	Polarity=Neg	7	advmod	_	XmlId=w_28_05408
 4	sont	_	AUX	VERcjg	VerbForm=Fin	7	cop	_	XmlId=w_28_05409
 5	que	_	ADV	ADVgen	_	7	advmod	_	XmlId=w_28_05410
-6	deus	_	DET	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_05411
+6	deus	_	NUM	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_05411
 7	hommes	_	NOUN	NOMcom	_	0	root	_	XmlId=w_28_05412
 8	qui	_	PRON	PROrel	PronType=Rel	10	nsubj	_	XmlId=w_28_05413
 9	doivent	_	AUX	VERcjg	VerbForm=Fin	10	aux	_	XmlId=w_28_05414
@@ -39325,7 +39325,7 @@
 9	il	_	PRON	PROper	PronType=Prs	11	nsubj	_	XmlId=w_28_05711
 10	les	_	PRON	PROper	PronType=Prs	11	obj	_	XmlId=w_28_05712
 11	cachast	_	VERB	VERcjg	VerbForm=Fin	5	ccomp	_	XmlId=w_28_05713
-12	hors	_	ADV	ADVgen	_	15	advmod	_	XmlId=w_28_05714
+12	hors	_	ADV	ADVgen	_	15	case	_	XmlId=w_28_05714
 13	de	_	ADP	PRE	_	15	case	_	XmlId=w_28_05715
 14	se	_	DET	DETpos	Poss=Yes	15	det	_	XmlId=w_28_05716
 15	tere	_	NOUN	NOMcom	_	11	obl	_	XmlId=w_28_05717
@@ -40649,7 +40649,7 @@
 6	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_06747
 7	si	_	ADV	ADVgen	_	8	advmod	_	XmlId=w_28_06748
 8	prist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_06749
-9	deus	_	DET	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_06750
+9	deus	_	NUM	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_06750
 10	grandesmes	_	ADJ	ADJqua	_	11	amod	_	XmlId=w_28_06751
 11	pierres	_	NOUN	NOMcom	_	8	obj	_	SpaceAfter=No|XmlId=w_28_06752
 12	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_06753
@@ -40878,7 +40878,7 @@
 17	qu'	_	SCONJ	CONsub	_	19	mark	_	SpaceAfter=No|XmlId=w_28_06932
 18	il	_	PRON	PROper	PronType=Prs	19	expl	_	XmlId=w_28_06933
 19	avoit	_	VERB	VERcjg	VerbForm=Fin	16	ccomp	_	XmlId=w_28_06934
-20	trois	_	DET	DETcar	NumType=Card	22	nummod	_	XmlId=w_28_06935
+20	trois	_	NUM	DETcar	NumType=Card	22	nummod	_	XmlId=w_28_06935
 21	joules	_	ADJ	ADJqua	_	22	amod	_	XmlId=w_28_06936
 22	vaslés	_	NOUN	NOMcom	_	19	obl	_	XmlId=w_28_06937
 23	en	_	ADP	PRE	_	25	case	_	XmlId=w_28_06938
@@ -40952,7 +40952,7 @@
 8	faitement	_	ADV	ADVgen	_	9	advmod	_	XmlId=w_28_06986
 9	estoient	_	VERB	VERcjg	VerbForm=Fin	5	ccomp	_	XmlId=w_28_06987
 10	chil	_	DET	DETdem	PronType=Dem	12	det	_	XmlId=w_28_06988
-11	troi	_	ADJ	ADJcar	NumType=Card	12	nummod	_	XmlId=w_28_06989
+11	troi	_	NUM	ADJcar	NumType=Card	12	nummod	_	XmlId=w_28_06989
 12	vaslet	_	NOUN	NOMcom	_	9	nsubj	_	XmlId=w_28_06990
 13	de	_	ADP	PRE	_	15	case	_	XmlId=w_28_06991
 14	chu	_	DET	DETdem	PronType=Dem	15	det	_	XmlId=w_28_06992
@@ -41009,7 +41009,7 @@
 6	pour	_	ADP	PRE	_	7	mark	_	XmlId=w_28_07039
 7	prendre	_	VERB	VERinf	VerbForm=Inf	5	advcl	_	XmlId=w_28_07040
 8	ches	_	DET	DETdem	PronType=Dem	10	det	_	XmlId=w_28_07041
-9	trois	_	ADJ	ADJcar	NumType=Card	10	nummod	_	XmlId=w_28_07042
+9	trois	_	NUM	ADJcar	NumType=Card	10	nummod	_	XmlId=w_28_07042
 10	freres	_	NOUN	NOMcom	_	7	obj	_	SpaceAfter=No|XmlId=w_28_07043
 11	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_07044
 
@@ -41062,7 +41062,7 @@
 # newdoc id = ClariConstantinople_1300_prose
 # sent_id = clari-432
 1	Li	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_28_07074
-2	doi	_	PRON	PROcar	NumType=Card	3	nummod	_	XmlId=w_28_07075
+2	doi	_	NUM	PROcar	NumType=Card	3	nummod	_	XmlId=w_28_07075
 3	autre	_	PRON	PROind	PronType=Ind	6	nsubj	_	XmlId=w_28_07076
 4	s'	_	PRON	PROper	PronType=Prs	6	expl	_	SpaceAfter=No|XmlId=w_28_07077
 5	en	_	ADV	PROadv	_	6	obl	_	XmlId=w_28_07078
@@ -45155,7 +45155,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 38	li	_	DET	DETdef	Definite=Def|PronType=Art	39	det	_	XmlId=w_28_10301
 39	croisié	_	NOUN	NOMcom	Tense=Past|VerbForm=Part	37	nsubj	_	XmlId=w_28_10302
 40	atirer	_	VERB	VERinf	VerbForm=Inf	37	xcomp	_	XmlId=w_28_10303
-41	deus	_	DET	DETcar	NumType=Card	42	nummod	_	XmlId=w_28_10304
+41	deus	_	NUM	DETcar	NumType=Card	42	nummod	_	XmlId=w_28_10304
 42	chevaliers	_	NOUN	NOMcom	_	40	obj	_	XmlId=w_28_10305
 43	molt	_	ADV	ADVgen	_	44	advmod	_	XmlId=w_28_10306
 44	bien	_	ADV	ADVgen	_	40	advmod	_	XmlId=w_28_10307
@@ -45464,7 +45464,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 11	fist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_10550
 12	on	_	PRON	PROind	PronType=Ind	11	nsubj	_	XmlId=w_28_10551
 13	laiier	_	VERB	VERinf	VerbForm=Inf	11	xcomp	_	XmlId=w_28_10552
-14	deus	_	DET	DETcar	NumType=Card	15	nummod	_	XmlId=w_28_10553
+14	deus	_	NUM	DETcar	NumType=Card	15	nummod	_	XmlId=w_28_10553
 15	galies	_	NOUN	NOMcom	_	13	obj	_	XmlId=w_28_10554
 16	pour	_	ADP	PRE	_	17	mark	_	XmlId=w_28_10555
 17	atendre	_	VERB	VERinf	VerbForm=Inf	13	advcl	_	XmlId=w_28_10556
@@ -45514,7 +45514,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 11	si	_	ADV	ADVgen	_	12	advmod	_	XmlId=w_28_10592
 12	trouverent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_10593
 13	ches	_	DET	DETdem	PronType=Dem	15	det	_	XmlId=w_28_10594
-14	deus	_	ADJ	ADJcar	NumType=Card	15	nummod	_	XmlId=w_28_10595
+14	deus	_	NUM	ADJcar	NumType=Card	15	nummod	_	XmlId=w_28_10595
 15	galies	_	NOUN	NOMcom	_	12	obj	_	XmlId=w_28_10596
 16	que	_	PRON	PROrel	PronType=Rel	20	obj	_	XmlId=w_28_10597
 17	on	_	PRON	PROind	PronType=Ind	20	nsubj	_	XmlId=w_28_10598
@@ -45759,7 +45759,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 9	a	_	ADP	PRE	_	11	case	_	XmlId=w_28_10785
 10	l'	_	DET	DETdef	Definite=Def|PronType=Art	11	det	_	SpaceAfter=No|XmlId=w_28_10786
 11	ost	_	NOUN	NOMcom	_	8	obl	_	XmlId=w_28_10787
-12	.cc.	_	DET	DETcar	NumType=Card	13	nummod	_	XmlId=w_28_10788
+12	.cc.	_	NUM	DETcar	NumType=Card	13	nummod	_	XmlId=w_28_10788
 13	mile	_	DET	DETcar	NumType=Card	12	flat	_	XmlId=w_28_10789
 14	mars	_	NOUN	NOMcom	_	8	obj	_	SpaceAfter=No|XmlId=w_28_10790
 15	,	_	PUNCT	PONfbl	_	19	punct	_	XmlId=w_28_10791
@@ -45769,7 +45769,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 19	tenroit	_	VERB	VERcjg	VerbForm=Fin	8	conj	_	XmlId=w_28_10795
 20	le	_	DET	DETdef	Definite=Def|PronType=Art	21	det	_	XmlId=w_28_10796
 21	navie	_	NOUN	NOMcom	_	19	obj	_	XmlId=w_28_10797
-22	un	_	DET	DETcar	NumType=Card	23	nummod	_	XmlId=w_28_10798
+22	un	_	NUM	DETcar	NumType=Card	23	nummod	_	XmlId=w_28_10798
 23	an	_	NOUN	NOMcom	_	19	obl	_	XmlId=w_28_10799
 24	a	_	ADP	PRE	_	26	case	_	XmlId=w_28_10800
 25	sen	_	DET	DETpos	Poss=Yes	26	det	_	XmlId=w_28_10801
@@ -45798,7 +45798,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 48	de	_	ADP	PRE	_	50	case	_	XmlId=w_28_10824
 49	sa	_	DET	DETpos	Poss=Yes	50	det	_	XmlId=w_28_10825
 50	vie	_	NOUN	NOMcom	_	47	nmod	_	XmlId=w_28_10826
-51	.x.m.	_	DET	DETcar	NumType=Card	52	nummod	_	XmlId=w_28_10827
+51	.x.m.	_	NUM	DETcar	NumType=Card	52	nummod	_	XmlId=w_28_10827
 52	hommes	_	NOUN	NOMcom	_	44	obj	_	XmlId=w_28_10828
 53	a	_	ADP	PRE	_	54	case	_	XmlId=w_28_10829
 54	armes	_	NOUN	NOMcom	_	52	nmod	_	XmlId=w_28_10830
@@ -45834,7 +45834,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 84	viande	_	NOUN	NOMcom	_	68	obj	_	XmlId=w_28_10860
 85	dusques	_	ADP	PRE	_	88	case	_	XmlId=w_28_10861
 86	a	_	ADP	PRE	_	88	case	_	XmlId=w_28_10862
-87	un	_	DET	DETcar	NumType=Card	88	nummod	_	XmlId=w_28_10863
+87	un	_	NUM	DETcar	NumType=Card	88	nummod	_	XmlId=w_28_10863
 88	an	_	NOUN	NOMcom	_	68	obl	_	SpaceAfter=No|XmlId=w_28_10864
 89	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_28_10865
 
@@ -45991,7 +45991,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 6	doit	_	AUX	VERcjg	VerbForm=Fin	7	aux	_	XmlId=w_28_10979
 7	sivir	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_28_10980
 8	que	_	SCONJ	CONsub	_	7	advmod	_	XmlId=w_28_10981
-9	un	_	DET	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_10982
+9	un	_	NUM	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_10982
 10	an	_	NOUN	NOMcom	_	7	obl	_	XmlId=w_28_10983
 
 # text = et ja est la moitiés de l'anee passee ! »
@@ -46110,7 +46110,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 15	nostre	_	DET	DETpos	Poss=Yes	16	det	_	XmlId=w_28_11074
 16	estore	_	NOUN	NOMcom	_	13	conj	_	XmlId=w_28_11075
 17	encore	_	ADV	ADVgen	_	11	advmod	_	XmlId=w_28_11076
-18	un	_	DET	DETcar	NumType=Card	19	nummod	_	XmlId=w_28_11077
+18	un	_	NUM	DETcar	NumType=Card	19	nummod	_	XmlId=w_28_11077
 19	an	_	NOUN	NOMcom	_	11	obl	_	XmlId=w_28_11078
 20	a	_	ADP	PRE	_	22	case	_	XmlId=w_28_11079
 21	sen	_	DET	DETpos	Poss=Yes	22	det	_	XmlId=w_28_11080
@@ -46225,7 +46225,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 # sent_id = clari-700
 1	et	_	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_28_11170
 2	mena	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_11171
-3	deus	_	DET	DETcar	NumType=Card	4	nummod	_	XmlId=w_28_11172
+3	deus	_	NUM	DETcar	NumType=Card	4	nummod	_	XmlId=w_28_11172
 4	galies	_	NOUN	NOMcom	_	2	obj	_	SpaceAfter=No|XmlId=w_28_11173
 5	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_11174
 
@@ -47338,7 +47338,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 5	qui	_	PRON	PROrel	PronType=Rel	6	nsubj	_	XmlId=w_28_12050
 6	mors	_	VERB	VERppe	Tense=Past|VerbForm=Part	4	acl:relcl	_	XmlId=w_28_12051
 7	fu	_	AUX	VERcjg	VerbForm=Fin	6	cop	_	XmlId=w_28_12052
-8	deus	_	DET	DETcar	NumType=Card	9	nummod	_	XmlId=w_28_12053
+8	deus	_	NUM	DETcar	NumType=Card	9	nummod	_	XmlId=w_28_12053
 9	sereurs	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_12054
 10	mariees	_	VERB	VERppe	Tense=Past|VerbForm=Part	9	acl	_	XmlId=w_28_12055
 11	:	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_12056
@@ -48103,7 +48103,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 19	de	_	ADP	PRE	_	21	case	_	XmlId=w_28_12661
 20	le	_	DET	DETdef	Definite=Def|PronType=Art	21	det	_	XmlId=w_28_12662
 21	vile	_	NOUN	NOMcom	_	18	nmod	_	XmlId=w_28_12663
-22	.c.	_	DET	DETcar	NumType=Card	23	nummod	_	XmlId=w_28_12664
+22	.c.	_	NUM	DETcar	NumType=Card	23	nummod	_	XmlId=w_28_12664
 23	besans	_	NOUN	NOMcom	_	14	obl	_	SpaceAfter=No|XmlId=w_28_12665
 24	,	_	PUNCT	PONfbl	_	23	punct	_	XmlId=w_28_12666
 25	qui	_	PRON	PROrel	PronType=Rel	27	nsubj	_	XmlId=w_28_12667
@@ -48460,7 +48460,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	le	_	DET	DETdef	Definite=Def|PronType=Art	4	det	_	XmlId=w_28_12952
 4	blé	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_12953
 5	a	_	ADP	PRE	_	7	case	_	XmlId=w_28_12954
-6	.x.	_	DET	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_12955
+6	.x.	_	NUM	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_12955
 7	besans	_	NOUN	NOMcom	_	2	obl	_	XmlId=w_28_12956
 8	qui	_	PRON	PROrel	PronType=Rel	9	nsubj	_	XmlId=w_28_12957
 9	estoit	_	VERB	VERcjg	VerbForm=Fin	4	acl:relcl	_	XmlId=w_28_12958
@@ -48826,7 +48826,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 # sent_id = clari-835
 1	Je	_	PRON	PROper	PronType=Prs	2	nsubj	_	XmlId=w_28_13245
 2	prendrai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_13246
-3	quatre	_	DET	DETcar	NumType=Card	4	nummod	_	XmlId=w_28_13247
+3	quatre	_	NUM	DETcar	NumType=Card	4	nummod	_	XmlId=w_28_13247
 4	galies	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_13248
 5	avec	_	ADP	PRE	_	6	case	_	XmlId=w_28_13249
 6	mi	_	PRON	PROper	PronType=Prs	2	obl	_	SpaceAfter=No|XmlId=w_28_13250
@@ -49061,7 +49061,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 9	chis	_	PRON	PROdem	PronType=Dem	16	nsubj	_	XmlId=w_28_13423
 10	eut	_	AUX	VERcjg	VerbForm=Fin	16	aux	_	XmlId=w_28_13424
 11	ses	_	DET	DETpos	Poss=Yes	13	det	_	XmlId=w_28_13425
-12	quatre	_	ADJ	ADJcar	NumType=Card	13	nummod	_	XmlId=w_28_13426
+12	quatre	_	NUM	ADJcar	NumType=Card	13	nummod	_	XmlId=w_28_13426
 13	galies	_	NOUN	NOMcom	_	16	obj	_	XmlId=w_28_13427
 14	molt	_	ADV	ADVgen	_	15	advmod	_	XmlId=w_28_13428
 15	bien	_	ADV	ADVgen	_	16	advmod	_	XmlId=w_28_13429
@@ -49202,7 +49202,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 4	aler	_	VERB	VERinf	VerbForm=Inf	2	xcomp	_	XmlId=w_28_13540
 5	trestoutes	_	DET	DETind	PronType=Ind	8	det	_	XmlId=w_28_13541
 6	leur	_	DET	DETpos	Poss=Yes	8	det	_	XmlId=w_28_13542
-7	chent	_	DET	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_13543
+7	chent	_	NUM	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_13543
 8	galies	_	NOUN	NOMcom	_	2	obj	_	SpaceAfter=No|XmlId=w_28_13544
 9	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_13545
 
@@ -49276,7 +49276,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 9	de	_	ADP	PRE	_	13	case	_	XmlId=w_28_13598
 10	toutes	_	DET	DETind	PronType=Ind	13	det	_	XmlId=w_28_13599
 11	les	_	DET	DETdef	Definite=Def|PronType=Art	13	det	_	XmlId=w_28_13600
-12	chent	_	DET	DETcar	NumType=Card	13	nummod	_	XmlId=w_28_13601
+12	chent	_	NUM	DETcar	NumType=Card	13	nummod	_	XmlId=w_28_13601
 13	galies	_	NOUN	NOMcom	_	16	obl	_	XmlId=w_28_13602
 14	n'	_	ADV	ADVneg	Polarity=Neg	16	advmod	_	SpaceAfter=No|XmlId=w_28_13603
 15	en	_	ADV	PROadv	_	16	obl:advmod	_	XmlId=w_28_13604
@@ -49835,7 +49835,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 16	qui	_	PRON	PROrel	PronType=Rel	17	nsubj	_	XmlId=w_28_14025
 17	estoit	_	VERB	VERcjg	VerbForm=Fin	8	acl:relcl	_	XmlId=w_28_14026
 18	bien	_	ADV	ADVgen	_	20	advmod	_	XmlId=w_28_14027
-19	chent	_	DET	DETcar	NumType=Card	20	nummod	_	XmlId=w_28_14028
+19	chent	_	NUM	DETcar	NumType=Card	20	nummod	_	XmlId=w_28_14028
 20	liwes	_	NOUN	NOMcom	_	17	obl	_	XmlId=w_28_14029
 21	en	_	ADP	PRE	_	22	case	_	XmlId=w_28_14030
 22	sus	_	ADV	ADVgen	_	20	advmod	_	XmlId=w_28_14031
@@ -49891,7 +49891,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 10	il	_	PRON	PROper	PronType=Prs	11	nsubj	_	XmlId=w_28_14069
 11	vinrent	_	VERB	VERcjg	VerbForm=Fin	2	advcl	_	XmlId=w_28_14070
 12	a	_	ADP	PRE	_	14	case	_	XmlId=w_28_14071
-13	une	_	DET	DETcar	NumType=Card	14	nummod	_	XmlId=w_28_14072
+13	une	_	NUM	DETcar	NumType=Card	14	nummod	_	XmlId=w_28_14072
 14	liwe	_	NOUN	NOMcom	_	11	obl	_	XmlId=w_28_14073
 15	de	_	ADP	PRE	_	16	case	_	XmlId=w_28_14074
 16	Coustantinoble	_	PROPN	NOMpro	_	14	nmod	_	SpaceAfter=No|XmlId=w_28_14075
@@ -50263,7 +50263,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 7	que	_	SCONJ	CONsub	_	9	mark	_	XmlId=w_28_14357
 8	on	_	PRON	PROind	PronType=Ind	9	nsubj	_	XmlId=w_28_14358
 9	presist	_	VERB	VERcjg	VerbForm=Fin	5	ccomp	_	XmlId=w_28_14359
-10	dis	_	DET	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_14360
+10	dis	_	NUM	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_14360
 11	galies	_	NOUN	NOMcom	_	9	obj	_	XmlId=w_28_14361
 12	et	_	CCONJ	CONcoo	_	15	cc	_	XmlId=w_28_14362
 13	que	_	SCONJ	CONsub	_	15	mark	_	XmlId=w_28_14363
@@ -50332,7 +50332,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 1	Si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_14418
 2	atirerent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_14419
 3	ches	_	DET	DETdem	PronType=Dem	5	det	_	XmlId=w_28_14420
-4	dis	_	ADJ	ADJcar	NumType=Card	5	nummod	_	XmlId=w_28_14421
+4	dis	_	NUM	ADJcar	NumType=Card	5	nummod	_	XmlId=w_28_14421
 5	galies	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_14422
 6	et	_	CCONJ	CONcoo	_	8	cc	_	XmlId=w_28_14423
 7	le	_	DET	DETdef	Definite=Def|PronType=Art	8	det	_	XmlId=w_28_14424
@@ -50626,7 +50626,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 10	bien	_	ADV	ADVgen	_	14	advmod	_	XmlId=w_28_14636
 11	dusques	_	ADP	PRE	_	14	case	_	XmlId=w_28_14637
 12	a	_	ADP	PRE	_	14	case	_	XmlId=w_28_14638
-13	chent	_	DET	DETcar	NumType=Card	14	nummod	_	XmlId=w_28_14639
+13	chent	_	NUM	DETcar	NumType=Card	14	nummod	_	XmlId=w_28_14639
 14	paire	_	NOUN	NOMcom	_	3	obl	_	SpaceAfter=No|XmlId=w_28_14640
 15	,	_	PUNCT	PONfbl	_	17	punct	_	XmlId=w_28_14641
 16	et	_	CCONJ	CONcoo	_	17	cc	_	XmlId=w_28_14642
@@ -51477,7 +51477,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 11	de	_	ADP	PRE	_	12	case	_	XmlId=w_28_15343
 12	sit	_	NOUN	NOMcom	_	8	obl	_	XmlId=w_28_15344
 13	a	_	ADP	PRE	_	15	case	_	XmlId=w_28_15345
-14	deus	_	DET	DETcar	NumType=Card	15	nummod	_	XmlId=w_28_15346
+14	deus	_	NUM	DETcar	NumType=Card	15	nummod	_	XmlId=w_28_15346
 15	liwes	_	NOUN	NOMcom	_	8	obl	_	SpaceAfter=No|XmlId=w_28_15347
 16	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_15348
 
@@ -51495,7 +51495,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 9	a	_	ADP	PRE	_	10	case	_	XmlId=w_28_15357
 10	mains	_	ADV	ADVgen	_	13	advmod	_	XmlId=w_28_15358
 11	de	_	ADP	PRE	_	13	case	_	XmlId=w_28_15359
-12	quatre	_	DET	DETcar	NumType=Card	13	nummod	_	XmlId=w_28_15360
+12	quatre	_	NUM	DETcar	NumType=Card	13	nummod	_	XmlId=w_28_15360
 13	liwes	_	NOUN	NOMcom	_	3	obl	_	XmlId=w_28_15361
 14	d'	_	ADP	PRE	_	15	case	_	SpaceAfter=No|XmlId=w_28_15362
 15	illuec	_	ADV	ADVgen	_	13	nmod	_	XmlId=w_28_15363
@@ -51635,7 +51635,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 14	qui	_	PRON	PROrel	PronType=Rel	16	nsubj	_	XmlId=w_28_15473
 15	bien	_	ADV	ADVgen	_	16	advmod	_	XmlId=w_28_15474
 16	avoient	_	VERB	VERcjg	VerbForm=Fin	6	acl:relcl	_	XmlId=w_28_15475
-17	trente	_	DET	DETcar	NumType=Card	18	nummod	_	XmlId=w_28_15476
+17	trente	_	NUM	DETcar	NumType=Card	18	nummod	_	XmlId=w_28_15476
 18	toises	_	NOUN	NOMcom	_	16	obj	_	XmlId=w_28_15477
 19	de	_	ADP	PRE	_	20	case	_	XmlId=w_28_15478
 20	lonc	_	ADJ	ADJqua	_	18	nmod	_	XmlId=w_28_15479
@@ -51689,7 +51689,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 5	si	_	ADV	ADVgen	_	6	advmod	_	XmlId=w_28_15515
 6	les	_	ADJ	ADJqua	_	0	root	_	XmlId=w_28_15516
 7	que	_	SCONJ	CONsub	_	13	mark	_	XmlId=w_28_15517
-8	trois	_	DET	DETcar	NumType=Card	9	nummod	_	XmlId=w_28_15518
+8	trois	_	NUM	DETcar	NumType=Card	9	nummod	_	XmlId=w_28_15518
 9	chevalier	_	NOUN	NOMcom	_	13	nsubj	_	XmlId=w_28_15519
 10	armé	_	VERB	VERppe	Tense=Past|VerbForm=Part	9	acl	_	XmlId=w_28_15520
 11	i	_	ADV	PROadv	_	13	obl:advmod	_	XmlId=w_28_15521
@@ -51765,7 +51765,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 20	tere	_	NOUN	NOMcom	_	12	obl	_	XmlId=w_28_15583
 21	pres	_	ADV	ADVgen	_	24	advmod	_	XmlId=w_28_15584
 22	de	_	ADP	PRE	_	24	case	_	XmlId=w_28_15585
-23	quarante	_	DET	DETcar	NumType=Card	24	nummod	_	XmlId=w_28_15586
+23	quarante	_	NUM	DETcar	NumType=Card	24	nummod	_	XmlId=w_28_15586
 24	toises	_	NOUN	NOMcom	_	12	obl	_	XmlId=w_28_15587
 25	ou	_	CCONJ	CONcoo	_	26	cc	_	XmlId=w_28_15588
 26	plus	_	ADV	ADVgen	_	23	conj	_	XmlId=w_28_15589
@@ -51985,7 +51985,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 77	gent	_	NOUN	NOMcom	_	74	obj	_	XmlId=w_28_15775
 78	et	_	CCONJ	CONcoo	_	79	cc	_	XmlId=w_28_15776
 79	fist	_	VERB	VERcjg	VerbForm=Fin	52	conj	_	XmlId=w_28_15777
-80	.xvij.	_	DET	DETcar	NumType=Card	81	nummod	_	XmlId=w_28_15778
+80	.xvij.	_	NUM	DETcar	NumType=Card	81	nummod	_	XmlId=w_28_15778
 81	batailles	_	NOUN	NOMcom	_	79	obj	_	XmlId=w_28_15779
 82	;	_	PUNCT	PONfbl	_	52	punct	_	XmlId=w_28_15780
 
@@ -51994,14 +51994,14 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 # sent_id = clari-993
 1	en	_	ADP	PRE	_	4	case	_	XmlId=w_28_15781
 2	ches	_	DET	DETdem	PronType=Dem	4	det	_	XmlId=w_28_15782
-3	.xvij.	_	DET	DETcar	NumType=Card	4	nummod	_	XmlId=w_28_15783
+3	.xvij.	_	NUM	DETcar	NumType=Card	4	nummod	_	XmlId=w_28_15783
 4	batailles	_	NOUN	NOMcom	_	5	obl	_	XmlId=w_28_15784
 5	esmoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_15785
 6	on	_	PRON	PROind	PronType=Ind	5	nsubj	_	XmlId=w_28_15786
 7	bien	_	ADV	ADVgen	_	5	advmod	_	XmlId=w_28_15787
 8	pres	_	ADV	ADVgen	_	11	advmod	_	XmlId=w_28_15788
 9	de	_	ADP	PRE	_	11	case	_	XmlId=w_28_15789
-10	.c.m.	_	DET	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_15790
+10	.c.m.	_	NUM	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_15790
 11	hommes	_	NOUN	NOMcom	_	5	obl	_	XmlId=w_28_15791
 12	a	_	ADP	PRE	_	13	case	_	XmlId=w_28_15792
 13	cheval	_	NOUN	NOMcom	_	11	nmod	_	SpaceAfter=No|XmlId=w_28_15793
@@ -52017,7 +52017,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 5	plus	_	ADV	ADVgen	_	3	obj	_	XmlId=w_28_15799
 6	de	_	ADP	PRE	_	9	case	_	XmlId=w_28_15800
 7	ches	_	DET	DETdem	PronType=Dem	9	det	_	XmlId=w_28_15801
-8	.xvij.	_	DET	DETcar	NumType=Card	9	nummod	_	XmlId=w_28_15802
+8	.xvij.	_	NUM	DETcar	NumType=Card	9	nummod	_	XmlId=w_28_15802
 9	batailles	_	NOUN	NOMcom	_	5	nmod	_	XmlId=w_28_15803
 10	entour	_	ADP	PRE	_	12	case	_	XmlId=w_28_15804
 11	l'	_	DET	DETdef	Definite=Def|PronType=Art	12	det	_	SpaceAfter=No|XmlId=w_28_15805
@@ -52124,10 +52124,10 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	ne	_	ADV	ADVneg	Polarity=Neg	3	advmod	_	XmlId=w_28_15882
 3	fisent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_15883
 4	que	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_15884
-5	.vij.	_	DET	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_15885
+5	.vij.	_	NUM	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_15885
 6	batalles	_	NOUN	NOMcom	_	3	obj	_	XmlId=w_28_15886
 7	de	_	ADP	PRE	_	10	case	_	XmlId=w_28_15887
-8	.vij.	_	DET	DETcar	NumType=Card	9	nummod	_	XmlId=w_28_15888
+8	.vij.	_	NUM	DETcar	NumType=Card	9	nummod	_	XmlId=w_28_15888
 9	chens	_	DET	DETcar	NumType=Card	8	flat	_	XmlId=w_28_15889
 10	chevaliers	_	NOUN	NOMcom	_	6	nmod	_	SpaceAfter=No|XmlId=w_28_15890
 11	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_15891
@@ -52246,7 +52246,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 14	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_15980
 15	si	_	ADV	ADVgen	_	21	mark	_	XmlId=w_28_15981
 16	que	_	SCONJ	CONsub	_	15	fixed	_	XmlId=w_28_15982
-17	trois	_	DET	DETcar	NumType=Card	18	nummod	_	XmlId=w_28_15983
+17	trois	_	NUM	DETcar	NumType=Card	18	nummod	_	XmlId=w_28_15983
 18	compaingnies	_	NOUN	NOMcom	_	21	nsubj	_	XmlId=w_28_15984
 19	ou	_	CCONJ	CONcoo	_	20	cc	_	XmlId=w_28_15985
 20	quatre	_	PRON	PROcar	NumType=Card	17	conj	_	XmlId=w_28_15986
@@ -52283,7 +52283,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 5	eurent	_	AUX	VERcjg	VerbForm=Fin	6	aux	_	XmlId=w_28_16009
 6	atiré	_	VERB	VERppe	Tense=Past|VerbForm=Part	18	advcl	_	XmlId=w_28_16010
 7	les	_	DET	DETdef	Definite=Def|PronType=Art	9	det	_	XmlId=w_28_16011
-8	trois	_	ADJ	ADJcar	NumType=Card	9	nummod	_	XmlId=w_28_16012
+8	trois	_	NUM	ADJcar	NumType=Card	9	nummod	_	XmlId=w_28_16012
 9	batailles	_	NOUN	NOMcom	_	6	obj	_	XmlId=w_28_16013
 10	qui	_	PRON	PROrel	PronType=Rel	12	nsubj	_	XmlId=w_28_16014
 11	se	_	PRON	PROper	PronType=Prs	12	expl	_	XmlId=w_28_16015
@@ -52372,7 +52372,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 # sent_id = clari-1013
 1	et	_	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_28_16079
 2	ches	_	DET	DETdem	PronType=Dem	4	det	_	XmlId=w_28_16080
-3	quatre	_	ADJ	ADJcar	NumType=Card	4	nummod	_	XmlId=w_28_16081
+3	quatre	_	NUM	ADJcar	NumType=Card	4	nummod	_	XmlId=w_28_16081
 4	batalles	_	NOUN	NOMcom	_	5	obj	_	XmlId=w_28_16082
 5	warda	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_16083
 6	li	_	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_28_16084
@@ -52476,7 +52476,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 # sent_id = clari-1016
 1	Et	_	CCONJ	CONcoo	_	15	cc:nc	_	XmlId=w_28_16171
 2	ches	_	DET	DETdem	PronType=Dem	4	det	_	XmlId=w_28_16172
-3	quatre	_	ADJ	ADJcar	NumType=Card	4	nummod	_	XmlId=w_28_16173
+3	quatre	_	NUM	ADJcar	NumType=Card	4	nummod	_	XmlId=w_28_16173
 4	batalles	_	NOUN	NOMcom	_	15	nsubj	_	SpaceAfter=No|XmlId=w_28_16174
 5	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_16175
 6	que	_	PRON	PROrel	PronType=Rel	11	obj	_	XmlId=w_28_16176
@@ -52628,7 +52628,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 22	qui	_	PRON	PROrel	PronType=Rel	23	nsubj	_	XmlId=w_28_16306
 23	eurent	_	VERB	VERcjg	VerbForm=Fin	8	acl:relcl	_	XmlId=w_28_16307
 24	les	_	DET	DETdef	Definite=Def|PronType=Art	26	det	_	XmlId=w_28_16308
-25	trois	_	ADJ	ADJcar	NumType=Card	26	nummod	_	XmlId=w_28_16309
+25	trois	_	NUM	ADJcar	NumType=Card	26	nummod	_	XmlId=w_28_16309
 26	batalles	_	NOUN	NOMcom	_	23	obj	_	SpaceAfter=No|XmlId=w_28_16310
 27	,	_	PUNCT	PONfbl	_	23	punct	_	XmlId=w_28_16311
 28	se	_	PRON	PROper	PronType=Prs	29	expl	_	XmlId=w_28_16312
@@ -52987,7 +52987,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 7	quarte	_	ADJ	ADJord	NumType=Ord	8	amod	_	XmlId=w_28_16597
 8	part	_	NOUN	NOMcom	_	4	obl	_	XmlId=w_28_16598
 9	d'	_	ADP	PRE	_	11	case	_	SpaceAfter=No|XmlId=w_28_16599
-10	une	_	DET	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_16600
+10	une	_	NUM	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_16600
 11	liwe	_	NOUN	NOMcom	_	8	nmod	_	XmlId=w_28_16601
 12	loins	_	ADV	ADVgen	_	14	obl	_	XmlId=w_28_16602
 13	du	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	14	case:det	_	XmlId=w_28_16603
@@ -53095,7 +53095,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 # newdoc id = ClariConstantinople_1300_prose
 # sent_id = clari-1042
 1	Et	_	CCONJ	CONcoo	_	12	cc:nc	_	XmlId=w_28_16687
-2	trois	_	DET	DETcar	NumType=Card	3	nummod	_	XmlId=w_28_16688
+2	trois	_	NUM	DETcar	NumType=Card	3	nummod	_	XmlId=w_28_16688
 3	compaingnies	_	NOUN	NOMcom	_	12	nsubj	_	XmlId=w_28_16689
 4	ou	_	CCONJ	CONcoo	_	5	cc	_	XmlId=w_28_16690
 5	quatre	_	PRON	PROcar	NumType=Card	2	conj	_	XmlId=w_28_16691
@@ -53152,7 +53152,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 7	gent	_	NOUN	NOMcom	_	4	obl	_	XmlId=w_28_16734
 8	a	_	ADP	PRE	_	11	case	_	XmlId=w_28_16735
 9	tot	_	ADV	ADVgen	_	11	advmod	_	XmlId=w_28_16736
-10	nuef	_	DET	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_16737
+10	nuef	_	NUM	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_16737
 11	batalles	_	NOUN	NOMcom	_	4	obl	_	SpaceAfter=No|XmlId=w_28_16738
 12	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_16739
 
@@ -53166,14 +53166,14 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 5	chelui	_	PRON	PROdem	PronType=Dem	4	obl	_	XmlId=w_28_16744
 6	de	_	ADP	PRE	_	9	case	_	XmlId=w_28_16745
 7	ches	_	DET	DETdem	PronType=Dem	9	det	_	XmlId=w_28_16746
-8	nuef	_	DET	DETcar	NumType=Card	9	nummod	_	XmlId=w_28_16747
+8	nuef	_	NUM	DETcar	NumType=Card	9	nummod	_	XmlId=w_28_16747
 9	batalles	_	NOUN	NOMcom	_	5	nmod	_	SpaceAfter=No|XmlId=w_28_16748
 10	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_16749
 11	ou	_	CCONJ	CONcoo	_	14	obl	_	XmlId=w_28_16750
 12	il	_	PRON	PROimp	PronType=Prs	14	expl	_	XmlId=w_28_16751
 13	n'	_	ADV	ADVneg	Polarity=Neg	14	advmod	_	SpaceAfter=No|XmlId=w_28_16752
 14	eust	_	VERB	VERcjg	VerbForm=Fin	5	acl:relcl	_	XmlId=w_28_16753
-15	.iij.m.	_	DET	DETcar	NumType=Card	16	nummod	_	XmlId=w_28_16754
+15	.iij.m.	_	NUM	DETcar	NumType=Card	16	nummod	_	XmlId=w_28_16754
 16	chevaliers	_	NOUN	NOMcom	_	14	obl	_	SpaceAfter=No|XmlId=w_28_16755
 17	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_16756
 18	ou	_	CCONJ	CONcoo	_	19	cc	_	XmlId=w_28_16757
@@ -53202,7 +53202,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 9	ost	_	NOUN	NOMcom	_	10	obj	_	XmlId=w_28_16776
 10	eslongié	_	VERB	VERppe	Tense=Past|VerbForm=Part	18	advcl	_	XmlId=w_28_16777
 11	bien	_	ADV	ADVgen	_	10	advmod	_	XmlId=w_28_16778
-12	deux	_	DET	DETcar	NumType=Card	13	nummod	_	XmlId=w_28_16779
+12	deux	_	NUM	DETcar	NumType=Card	13	nummod	_	XmlId=w_28_16779
 13	arbalestees	_	NOUN	NOMcom	_	10	obl	_	SpaceAfter=No|XmlId=w_28_16780
 14	,	_	PUNCT	PONfbl	_	18	punct	_	XmlId=w_28_16781
 15	si	_	DET	DETpos	Poss=Yes	16	det	_	XmlId=w_28_16782
@@ -53553,7 +53553,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 8	de	_	ADP	PRE	_	9	case	_	XmlId=w_28_17055
 9	rekief	_	NOUN	NOMcom	_	7	obl	_	XmlId=w_28_17056
 10	par	_	ADP	PRE	_	12	case	_	XmlId=w_28_17057
-11	deus	_	DET	DETcar	NumType=Card	12	nummod	_	XmlId=w_28_17058
+11	deus	_	NUM	DETcar	NumType=Card	12	nummod	_	XmlId=w_28_17058
 12	messages	_	NOUN	NOMcom	_	7	obl	_	XmlId=w_28_17059
 13	que	_	SCONJ	CONsub	_	20	mark	_	XmlId=w_28_17060
 14	pour	_	ADP	PRE	_	15	case	_	XmlId=w_28_17061
@@ -54277,7 +54277,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 7	haut	_	ADJ	ADJqua	_	8	amod	_	XmlId=w_28_17631
 8	homme	_	NOUN	NOMcom	_	4	conj	_	XmlId=w_28_17632
 9	des	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	11	case:det	_	XmlId=w_28_17633
-10	trois	_	ADJ	ADJcar	NumType=Card	11	nummod	_	XmlId=w_28_17634
+10	trois	_	NUM	ADJcar	NumType=Card	11	nummod	_	XmlId=w_28_17634
 11	batailles	_	NOUN	NOMcom	_	4	nmod	_	XmlId=w_28_17635
 12	li	_	DET	DETdef	Definite=Def|PronType=Art	13	det	_	XmlId=w_28_17636
 13	un	_	PRON	PROind	PronType=Ind	2	obl	_	XmlId=w_28_17637
@@ -55250,7 +55250,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	si	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_18394
 3	furent	_	VERB	VERcjg	VerbForm=Fin	4	aux:pass	_	XmlId=w_28_18395
 4	aportees	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_28_18396
-5	deus	_	DET	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_18397
+5	deus	_	NUM	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_18397
 6	caiieres	_	NOUN	NOMcom	_	4	nsubj	_	XmlId=w_28_18398
 7	a	_	ADP	PRE	_	8	case	_	XmlId=w_28_18399
 8	or	_	NOUN	NOMcom	_	6	nmod	_	SpaceAfter=No|XmlId=w_28_18400
@@ -55327,7 +55327,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 20	i	_	ADV	PROadv	_	22	obl:advmod	_	XmlId=w_28_18455
 21	a	_	AUX	VERcjg	VerbForm=Fin	22	aux	_	XmlId=w_28_18456
 22	esté	_	VERB	VERppe	Tense=Past|VerbForm=Part	9	acl:relcl	_	XmlId=w_28_18457
-23	set	_	DET	DETcar	NumType=Card	24	nummod	_	XmlId=w_28_18458
+23	set	_	NUM	DETcar	NumType=Card	24	nummod	_	XmlId=w_28_18458
 24	ans	_	NOUN	NOMcom	_	22	obl	_	SpaceAfter=No|XmlId=w_28_18459
 25	.	_	PUNCT	PONfrt	_	5	punct	_	XmlId=w_28_18460
 
@@ -55808,7 +55808,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 7	si	_	ADV	ADVgen	_	11	advmod	_	XmlId=w_28_18858
 8	en	_	ADV	PROadv	_	11	obl:advmod	_	XmlId=w_28_18859
 9	fu	_	AUX	VERcjg	VerbForm=Fin	11	aux	_	XmlId=w_28_18860
-10	tous	_	PRON	PROind	PronType=Ind	11	obl	_	XmlId=w_28_18861
+10	tous	_	PRON	PROind	PronType=Ind	11	advmod	_	XmlId=w_28_18861
 11	courchiés	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_28_18862
 12	,	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_18863
 
@@ -56287,7 +56287,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 24	tere	_	NOUN	NOMcom	_	25	nsubj	_	XmlId=w_28_19241
 25	estoit	_	VERB	VERcjg	VerbForm=Fin	14	ccomp	_	XmlId=w_28_19242
 26	encore	_	ADV	ADVgen	_	25	advmod	_	XmlId=w_28_19243
-27	cent	_	DET	DETcar	NumType=Card	28	nummod	_	XmlId=w_28_19244
+27	cent	_	NUM	DETcar	NumType=Card	28	nummod	_	XmlId=w_28_19244
 28	journees	_	NOUN	NOMcom	_	25	obl	_	XmlId=w_28_19245
 29	dela	_	ADP	PRE	_	30	case	_	XmlId=w_28_19246
 30	Jherusalem	_	PROPN	NOMpro	_	28	nmod	_	SpaceAfter=No|XmlId=w_28_19247
@@ -56327,7 +56327,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 14	il	_	PRON	PROper	PronType=Prs	15	nsubj	_	XmlId=w_28_19273
 15	mut	_	VERB	VERcjg	VerbForm=Fin	3	ccomp	_	XmlId=w_28_19274
 16	bien	_	ADV	ADVgen	_	15	advmod	_	XmlId=w_28_19275
-17	soixante	_	DET	DETcar	NumType=Card	18	nummod	_	XmlId=w_28_19276
+17	soixante	_	NUM	DETcar	NumType=Card	18	nummod	_	XmlId=w_28_19276
 18	hommes	_	NOUN	NOMcom	_	15	obj	_	XmlId=w_28_19277
 19	de	_	ADP	PRE	_	21	case	_	XmlId=w_28_19278
 20	se	_	DET	DETpos	Poss=Yes	21	det	_	XmlId=w_28_19279
@@ -56683,7 +56683,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 19	il	_	PRON	PROper	PronType=Prs	20	nsubj	_	XmlId=w_28_19565
 20	feroient	_	VERB	VERcjg	VerbForm=Fin	10	acl	_	XmlId=w_28_19566
 21	abatre	_	VERB	VERinf	VerbForm=Inf	20	xcomp	_	XmlId=w_28_19567
-22	cinquante	_	DET	DETcar	NumType=Card	23	nummod	_	XmlId=w_28_19568
+22	cinquante	_	NUM	DETcar	NumType=Card	23	nummod	_	XmlId=w_28_19568
 23	toises	_	NOUN	NOMcom	_	21	obj	_	XmlId=w_28_19569
 24	des	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	25	case:det	_	XmlId=w_28_19570
 25	murs	_	NOUN	NOMcom	_	23	nmod	_	XmlId=w_28_19571
@@ -56846,7 +56846,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	paia	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_19684
 3	adonques	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_19685
 4	bien	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_19686
-5	.c.m.	_	DET	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_19687
+5	.c.m.	_	NUM	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_19687
 6	mars	_	NOUN	NOMcom	_	2	obj	_	SpaceAfter=No|XmlId=w_28_19688
 7	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_28_19689
 
@@ -56856,7 +56856,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 1	Et	_	CCONJ	CONcoo	_	6	cc:nc	_	XmlId=w_28_19690
 2	de	_	ADP	PRE	_	5	case	_	XmlId=w_28_19691
 3	ches	_	DET	DETdem	PronType=Dem	5	det	_	XmlId=w_28_19692
-4	.c.m.	_	DET	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_19693
+4	.c.m.	_	NUM	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_19693
 5	mars	_	NOUN	NOMcom	_	10	nmod	_	XmlId=w_28_19694
 6	rechurent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_19695
 7	li	_	DET	DETdef	Definite=Def|PronType=Art	8	det	_	XmlId=w_28_19696
@@ -56883,7 +56883,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 # sent_id = clari-1235
 1	et	_	CCONJ	CONcoo	_	9	cc:nc	_	XmlId=w_28_19710
 2	des	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	4	case:det	_	XmlId=w_28_19711
-3	.l.m.	_	DET	DETcar	NumType=Card	4	nummod	_	XmlId=w_28_19712
+3	.l.m.	_	NUM	DETcar	NumType=Card	4	nummod	_	XmlId=w_28_19712
 4	mars	_	NOUN	NOMcom	_	12	nmod	_	XmlId=w_28_19713
 5	qui	_	PRON	PROrel	PronType=Rel	6	nsubj	_	XmlId=w_28_19714
 6	remesent	_	VERB	VERcjg	VerbForm=Fin	4	acl:relcl	_	SpaceAfter=No|XmlId=w_28_19715
@@ -56891,7 +56891,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 8	leur	_	PRON	PROper	PronType=Prs	9	iobj	_	XmlId=w_28_19717
 9	paia	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_19718
 10	on	_	PRON	PROind	PronType=Ind	9	nsubj	_	XmlId=w_28_19719
-11	.xxxvi.m.	_	DET	DETcar	NumType=Card	12	nummod	_	XmlId=w_28_19720
+11	.xxxvi.m.	_	NUM	DETcar	NumType=Card	12	nummod	_	XmlId=w_28_19720
 12	mars	_	NOUN	NOMcom	_	9	obj	_	XmlId=w_28_19721
 13	que	_	PRON	PROrel	PronType=Rel	17	obj	_	XmlId=w_28_19722
 14	li	_	DET	DETdef	Definite=Def|PronType=Art	15	det	_	XmlId=w_28_19723
@@ -56910,7 +56910,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 1	et	_	CCONJ	CONcoo	_	11	cc:nc	_	XmlId=w_28_19732
 2	des	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	3	case:det	_	XmlId=w_28_19733
 3	autres	_	PRON	PROind	PronType=Ind	5	nmod	_	XmlId=w_28_19734
-4	.xx.m.	_	DET	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_19735
+4	.xx.m.	_	NUM	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_19735
 5	mars	_	NOUN	NOMcom	_	11	obj	_	XmlId=w_28_19736
 6	qui	_	PRON	PROrel	PronType=Rel	7	nsubj	_	XmlId=w_28_19737
 7	remessent	_	VERB	VERcjg	VerbForm=Fin	5	acl:relcl	_	XmlId=w_28_19738
@@ -57117,11 +57117,11 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 4	le	_	DET	DETdef	Definite=Def|PronType=Art	5	det	_	XmlId=w_28_19895
 5	tere	_	NOUN	NOMcom	_	2	obl	_	XmlId=w_28_19896
 6	bien	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_19897
-7	vint	_	DET	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_19898
+7	vint	_	NUM	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_19898
 8	chités	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_19899
 9	et	_	CCONJ	CONcoo	_	12	cc	_	XmlId=w_28_19900
 10	bien	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_19901
-11	quarante	_	DET	DETcar	NumType=Card	12	nummod	_	XmlId=w_28_19902
+11	quarante	_	NUM	DETcar	NumType=Card	12	nummod	_	XmlId=w_28_19902
 12	castiax	_	NOUN	NOMcom	_	8	conj	_	XmlId=w_28_19903
 13	ou	_	CCONJ	CONcoo	_	14	cc	_	XmlId=w_28_19904
 14	plus	_	ADV	ADVgen	_	12	nmod	_	XmlId=w_28_19905
@@ -57159,7 +57159,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 6	avec	_	ADP	PRE	_	7	case	_	XmlId=w_28_19929
 7	Alexe	_	PROPN	NOMpro	_	2	obl	_	XmlId=w_28_19930
 8	largement	_	ADV	ADVgen	_	9	advmod	_	XmlId=w_28_19931
-9	trois	_	DET	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_19932
+9	trois	_	NUM	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_19932
 10	mois	_	NOUN	NOMcom	_	2	obl	_	SpaceAfter=No|XmlId=w_28_19933
 11	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_28_19934
 
@@ -57199,7 +57199,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 31	fait	_	VERB	VERppe	Tense=Past|VerbForm=Part	14	acl:relcl	_	XmlId=w_28_19965
 32	abatre	_	VERB	VERinf	VerbForm=Inf	31	xcomp	_	XmlId=w_28_19966
 33	bien	_	ADV	ADVgen	_	34	advmod	_	XmlId=w_28_19967
-34	chinquante	_	DET	DETcar	NumType=Card	35	nummod	_	XmlId=w_28_19968
+34	chinquante	_	NUM	DETcar	NumType=Card	35	nummod	_	XmlId=w_28_19968
 35	toises	_	NOUN	NOMcom	_	32	obl	_	XmlId=w_28_19969
 36	quant	_	SCONJ	CONsub	_	41	mark	_	XmlId=w_28_19970
 37	il	_	PRON	PROper	PronType=Prs	41	nsubj	_	XmlId=w_28_19971
@@ -57796,7 +57796,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 18	a	_	ADP	PRE	_	20	case	_	XmlId=w_28_20435
 19	l'	_	DET	DETdef	Definite=Def|PronType=Art	20	det	_	SpaceAfter=No|XmlId=w_28_20436
 20	empereur	_	NOUN	NOMcom	_	17	obl	_	XmlId=w_28_20437
-21	deus	_	DET	DETcar	NumType=Card	22	nummod	_	XmlId=w_28_20438
+21	deus	_	NUM	DETcar	NumType=Card	22	nummod	_	XmlId=w_28_20438
 22	chevaliers	_	NOUN	NOMcom	_	17	obj	_	SpaceAfter=No|XmlId=w_28_20439
 23	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_20440
 
@@ -57997,7 +57997,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	dux	_	NOUN	NOMcom	_	4	nsubj	_	XmlId=w_28_20592
 4	fist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_20593
 5	armer	_	VERB	VERinf	VerbForm=Inf	4	xcomp	_	XmlId=w_28_20594
-6	quatre	_	DET	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_20595
+6	quatre	_	NUM	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_20595
 7	galies	_	NOUN	NOMcom	_	5	obj	_	SpaceAfter=No|XmlId=w_28_20596
 8	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_20597
 
@@ -58500,7 +58500,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 4	aprés	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_21004
 5	plus	_	ADV	ADVgen	_	8	advmod	_	XmlId=w_28_21005
 6	de	_	ADP	PRE	_	8	case	_	XmlId=w_28_21006
-7	quinze	_	DET	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_21007
+7	quinze	_	NUM	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_21007
 8	jours	_	NOUN	NOMcom	_	2	obl	_	XmlId=w_28_21008
 9	que	_	ADV	ADVgen	_	12	mark	_	XmlId=w_28_21009
 10	li	_	DET	DETdef	Definite=Def|PronType=Art	11	det	_	XmlId=w_28_21010
@@ -58581,33 +58581,33 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 11	on	_	PRON	PROind	PronType=Ind	13	nsubj	_	XmlId=w_28_21069
 12	i	_	ADV	PROadv	_	13	obl:advmod	_	XmlId=w_28_21070
 13	vendoit	_	VERB	VERcjg	VerbForm=Fin	6	advcl	_	XmlId=w_28_21071
-14	un	_	DET	DETcar	NumType=Card	15	nummod	_	XmlId=w_28_21072
+14	un	_	NUM	DETcar	NumType=Card	15	nummod	_	XmlId=w_28_21072
 15	sestier	_	NOUN	NOMcom	_	13	obj	_	XmlId=w_28_21073
 16	de	_	ADP	PRE	_	17	case	_	XmlId=w_28_21074
 17	vin	_	NOUN	NOMcom	_	15	nmod	_	XmlId=w_28_21075
-18	.xij.	_	DET	DETcar	NumType=Card	19	nummod	_	XmlId=w_28_21076
+18	.xij.	_	NUM	DETcar	NumType=Card	19	nummod	_	XmlId=w_28_21076
 19	saus	_	NOUN	NOMcom	_	13	obl	_	SpaceAfter=No|XmlId=w_28_21077
 20	,	_	PUNCT	PONfbl	_	22	punct	_	XmlId=w_28_21078
-21	.xiiij.	_	DET	DETcar	NumType=Card	22	nummod	_	XmlId=w_28_21079
+21	.xiiij.	_	NUM	DETcar	NumType=Card	22	nummod	_	XmlId=w_28_21079
 22	saus	_	NOUN	NOMcom	_	19	conj	_	SpaceAfter=No|XmlId=w_28_21080
 23	,	_	PUNCT	PONfbl	_	25	punct	_	XmlId=w_28_21081
-24	.xv.	_	DET	DETcar	NumType=Card	25	nummod	_	XmlId=w_28_21082
+24	.xv.	_	NUM	DETcar	NumType=Card	25	nummod	_	XmlId=w_28_21082
 25	saus	_	NOUN	NOMcom	_	19	conj	_	XmlId=w_28_21083
 26	tele	_	DET	DETind	PronType=Ind	27	det	_	XmlId=w_28_21084
 27	eure	_	NOUN	NOMcom	_	28	nsubj	_	XmlId=w_28_21085
 28	fu	_	VERB	VERcjg	VerbForm=Fin	13	advcl	_	SpaceAfter=No|XmlId=w_28_21086
 29	,	_	PUNCT	PONfbl	_	28	punct	_	XmlId=w_28_21087
 30	et	_	CCONJ	CONcoo	_	13	cc	_	XmlId=w_28_21088
-31	une	_	DET	DETcar	NumType=Card	32	nummod	_	XmlId=w_28_21089
+31	une	_	NUM	DETcar	NumType=Card	32	nummod	_	XmlId=w_28_21089
 32	geline	_	NOUN	NOMcom	_	15	conj	_	XmlId=w_28_21090
-33	.xx.	_	DET	DETcar	NumType=Card	34	nummod	_	XmlId=w_28_21091
+33	.xx.	_	NUM	DETcar	NumType=Card	34	nummod	_	XmlId=w_28_21091
 34	saus	_	NOUN	NOMcom	_	19	conj	_	SpaceAfter=No|XmlId=w_28_21092
 35	,	_	PUNCT	PONfbl	_	36	punct	_	XmlId=w_28_21093
 36	et	_	CCONJ	CONcoo	_	13	cc	_	XmlId=w_28_21094
-37	un	_	DET	DETcar	NumType=Card	38	nummod	_	XmlId=w_28_21095
+37	un	_	NUM	DETcar	NumType=Card	38	nummod	_	XmlId=w_28_21095
 38	oef	_	NOUN	NOMcom	_	15	conj	_	SpaceAfter=No|XmlId=w_28_21096
 39	.	_	PUNCT	PONfrt	_	41	punct	_	XmlId=w_28_21097
-40	.ij.	_	DET	DETcar	NumType=Card	41	nummod	_	XmlId=w_28_21098
+40	.ij.	_	NUM	DETcar	NumType=Card	41	nummod	_	XmlId=w_28_21098
 41	deniers	_	NOUN	NOMcom	_	19	conj	_	XmlId=w_28_21099
 42	;	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_21100
 
@@ -58741,7 +58741,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	bien	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_21201
 4	li	_	DET	DETdef	Definite=Def|PronType=Art	5	det	_	XmlId=w_28_21202
 5	mur	_	NOUN	NOMcom	_	2	nsubj	_	XmlId=w_28_21203
-6	soisante	_	DET	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_21204
+6	soisante	_	NUM	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_21204
 7	piés	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_21205
 8	de	_	ADP	PRE	_	9	case	_	XmlId=w_28_21206
 9	haut	_	ADJ	ADJqua	_	7	nmod	_	XmlId=w_28_21207
@@ -58757,7 +58757,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 1	Et	_	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_28_21213
 2	fisent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_21214
 3	bien	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_21215
-4	quarante	_	DET	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_21216
+4	quarante	_	NUM	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_21216
 5	perrieres	_	NOUN	NOMcom	_	6	obj	_	XmlId=w_28_21217
 6	rengier	_	VERB	VERinf	VerbForm=Inf	2	xcomp	_	XmlId=w_28_21218
 7	par	_	ADP	PRE	_	8	case	_	XmlId=w_28_21219
@@ -58948,7 +58948,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 8	en	_	ADV	PROadv	_	9	obl	_	XmlId=w_28_21378
 9	deliverroit	_	VERB	VERcjg	VerbForm=Fin	4	ccomp	_	XmlId=w_28_21379
 10	dedens	_	ADP	PRE	_	12	case	_	XmlId=w_28_21380
-11	uit	_	DET	DETcar	NumType=Card	12	nummod	_	XmlId=w_28_21381
+11	uit	_	NUM	DETcar	NumType=Card	12	nummod	_	XmlId=w_28_21381
 12	jours	_	NOUN	NOMcom	_	9	obl	_	XmlId=w_28_21382
 13	;	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_21383
 
@@ -59302,7 +59302,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 54	i	_	ADV	PROadv	_	55	obl:advmod	_	XmlId=w_28_21648
 55	ataingnoit	_	VERB	VERcjg	VerbForm=Fin	63	advcl	_	XmlId=w_28_21649
 56	dedens	_	ADP	PRE	_	58	case	_	XmlId=w_28_21650
-57	uit	_	DET	DETcar	NumType=Card	58	nummod	_	XmlId=w_28_21651
+57	uit	_	NUM	DETcar	NumType=Card	58	nummod	_	XmlId=w_28_21651
 58	jours	_	NOUN	NOMcom	_	55	obl	_	SpaceAfter=No|XmlId=w_28_21652
 59	,	_	PUNCT	PONfbl	_	63	punct	_	XmlId=w_28_21653
 60	qu'	_	X	RED	_	63	mark	_	SpaceAfter=No|XmlId=w_28_21654
@@ -59587,7 +59587,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 94	Coustantinoble	_	PROPN	NOMpro	_	93	obj	_	XmlId=w_28_21903
 95	a	_	ADP	PRE	_	98	case	_	XmlId=w_28_21904
 96	tout	_	DET	DETind	PronType=Ind	98	det	_	XmlId=w_28_21905
-97	.c.m.	_	DET	DETcar	NumType=Card	98	nummod	_	XmlId=w_28_21906
+97	.c.m.	_	NUM	DETcar	NumType=Card	98	nummod	_	XmlId=w_28_21906
 98	hommes	_	NOUN	NOMcom	_	86	obl	_	XmlId=w_28_21907
 99	a	_	ADP	PRE	_	100	case	_	XmlId=w_28_21908
 100	armes	_	NOUN	NOMcom	_	98	nmod	_	SpaceAfter=No|XmlId=w_28_21909
@@ -59633,7 +59633,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 19	li	_	DET	DETdef	Definite=Def|PronType=Art	20	det	_	XmlId=w_28_21941
 20	empereres	_	NOUN	NOMcom	_	21	nsubj	_	XmlId=w_28_21942
 21	mandoit	_	VERB	VERcjg	VerbForm=Fin	31	advcl	_	XmlId=w_28_21943
-22	soisante	_	DET	DETcar	NumType=Card	23	nummod	_	XmlId=w_28_21944
+22	soisante	_	NUM	DETcar	NumType=Card	23	nummod	_	XmlId=w_28_21944
 23	chevaus	_	NOUN	NOMcom	_	21	obj	_	XmlId=w_28_21945
 24	ou	_	CCONJ	CONcoo	PronType=Rel	25	cc	_	XmlId=w_28_21946
 25	chent	_	PRON	PROcar	NumType=Card	22	conj	_	SpaceAfter=No|XmlId=w_28_21947
@@ -60039,7 +60039,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	si	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_22283
 4	issent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_22284
 5	hors	_	ADV	ADVgen	_	8	case	_	XmlId=w_28_22285
-6	de	_	ADP	PRE	_	8	case	_	XmlId=w_28_22286
+6	de	_	ADP	PRE	_	8	advmod	_	XmlId=w_28_22286
 7	leur	_	DET	DETpos	Poss=Yes	8	det	_	XmlId=w_28_22287
 8	tentes	_	NOUN	NOMcom	_	4	obl	_	XmlId=w_28_22288
 9	et	_	CCONJ	CONcoo	_	12	cc	_	XmlId=w_28_22289
@@ -60074,7 +60074,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	aus	_	PRON	PROper	PronType=Prs	1	nmod	_	XmlId=w_28_22310
 4	a	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_22311
 5	bien	_	ADV	ADVgen	_	6	advmod	_	XmlId=w_28_22312
-6	dis	_	DET	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_22313
+6	dis	_	NUM	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_22313
 7	chevax	_	NOUN	NOMcom	_	4	obj	_	XmlId=w_28_22314
 8	ou	_	CCONJ	CONcoo	_	9	cc	_	XmlId=w_28_22315
 9	douze	_	PRON	PROcar	NumType=Card	6	conj	_	XmlId=w_28_22316
@@ -60183,13 +60183,13 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 7	vont	_	VERB	VERcjg	VerbForm=Fin	4	advcl	_	XmlId=w_28_22395
 8	bien	_	ADV	ADVgen	_	7	advmod	_	XmlId=w_28_22396
 9	en	_	ADP	PRE	_	11	case	_	XmlId=w_28_22397
-10	une	_	DET	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_22398
+10	une	_	NUM	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_22398
 11	nuit	_	NOUN	NOMcom	_	7	obl	_	XmlId=w_28_22399
 12	et	_	CCONJ	CONcoo	_	15	cc	_	XmlId=w_28_22400
 13	en	_	ADP	PRE	_	15	case	_	XmlId=w_28_22401
-14	un	_	DET	DETcar	NumType=Card	15	nummod	_	XmlId=w_28_22402
+14	un	_	NUM	DETcar	NumType=Card	15	nummod	_	XmlId=w_28_22402
 15	jor	_	NOUN	NOMcom	_	11	conj	_	XmlId=w_28_22403
-16	sis	_	DET	DETcar	NumType=Card	17	nummod	_	XmlId=w_28_22404
+16	sis	_	NUM	DETcar	NumType=Card	17	nummod	_	XmlId=w_28_22404
 17	journees	_	NOUN	NOMcom	_	7	obl	_	XmlId=w_28_22405
 18	ou	_	CCONJ	CONcoo	_	19	cc	_	XmlId=w_28_22406
 19	set	_	PRON	PROcar	NumType=Card	16	conj	_	XmlId=w_28_22407
@@ -60617,7 +60617,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 54	non	_	NOUN	NOMcom	_	52	xcomp	_	SpaceAfter=No|XmlId=w_28_22741
 55	,	_	PUNCT	PONfbl	_	22	punct	_	XmlId=w_28_22742
 56	a	_	ADP	PRE	_	58	case	_	XmlId=w_28_22743
-57	dis	_	DET	DETcar	NumType=Card	58	nummod	_	XmlId=w_28_22744
+57	dis	_	NUM	DETcar	NumType=Card	58	nummod	_	XmlId=w_28_22744
 58	liwes	_	NOUN	NOMcom	_	46	obl	_	XmlId=w_28_22745
 59	loins	_	ADV	ADVgen	_	62	advmod	_	XmlId=w_28_22746
 60	de	_	ADP	PRE	_	62	case	_	XmlId=w_28_22747
@@ -60716,7 +60716,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 1	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_22816
 2	i	_	ADV	PROadv	_	3	obl:advmod	_	XmlId=w_28_22817
 3	sejorna	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_22818
-4	un	_	DET	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_22819
+4	un	_	NUM	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_22819
 5	jor	_	NOUN	NOMcom	_	3	obl	_	XmlId=w_28_22820
 6	;	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_22821
 
@@ -60753,7 +60753,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 9	bien	_	ADV	ADVgen	_	7	advmod	_	XmlId=w_28_22845
 10	dusques	_	ADP	PRE	_	13	case	_	XmlId=w_28_22846
 11	a	_	ADP	PRE	_	10	fixed	_	XmlId=w_28_22847
-12	.iiij.m.	_	DET	DETcar	NumType=Card	13	nummod	_	XmlId=w_28_22848
+12	.iiij.m.	_	NUM	DETcar	NumType=Card	13	nummod	_	XmlId=w_28_22848
 13	hommes	_	NOUN	NOMcom	_	7	obj	_	XmlId=w_28_22849
 14	a	_	ADP	PRE	_	15	case	_	XmlId=w_28_22850
 15	armes	_	NOUN	NOMcom	_	13	nmod	_	SpaceAfter=No|XmlId=w_28_22851
@@ -60880,7 +60880,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	il	_	PRON	PROper	PronType=Prs	4	nsubj	_	XmlId=w_28_22948
 4	vint	_	VERB	VERcjg	VerbForm=Fin	14	advcl	_	XmlId=w_28_22949
 5	a	_	ADP	PRE	_	7	case	_	XmlId=w_28_22950
-6	une	_	DET	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_22951
+6	une	_	NUM	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_22951
 7	liwe	_	NOUN	NOMcom	_	4	obl	_	XmlId=w_28_22952
 8	pres	_	ADV	ADVgen	_	11	advmod	_	XmlId=w_28_22953
 9	de	_	ADP	PRE	_	11	case	_	XmlId=w_28_22954
@@ -60978,7 +60978,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 # newdoc id = ClariConstantinople_1300_prose
 # sent_id = clari-1442
 1	et	_	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_28_23016
-2	molt	_	PRON	PROind	PronType=Ind	3	nsubj	_	XmlId=w_28_23017
+2	molt	_	PRON	PROind	PronType=Ind	3	advmod	_	XmlId=w_28_23017
 3	commenchierent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_23018
 4	a	_	ADP	PRE	_	5	mark	_	XmlId=w_28_23019
 5	reclamer	_	VERB	VERinf	VerbForm=Inf	3	xcomp	_	XmlId=w_28_23020
@@ -61060,7 +61060,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 1	et	_	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_28_23076
 2	prisent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_23077
 3	entour	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_23078
-4	uit	_	DET	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_23079
+4	uit	_	NUM	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_23079
 5	arbalestiers	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_23080
 6	que	_	PRON	PROrel	PronType=Rel	8	obj	_	XmlId=w_28_23081
 7	il	_	PRON	PROper	PronType=Prs	8	nsubj	_	XmlId=w_28_23082
@@ -61309,7 +61309,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 27	ansconne	_	NOUN	NOMcom	_	17	conj	_	SpaceAfter=No|XmlId=w_28_23261
 28	,	_	PUNCT	PONfbl	_	31	punct	_	XmlId=w_28_23262
 29	qui	_	PRON	PROrel	PronType=Rel	31	nsubj	_	XmlId=w_28_23263
-30	toute	_	PRON	PROind	PronType=Ind	31	obl	_	XmlId=w_28_23264
+30	toute	_	PRON	PROind	PronType=Ind	31	advmod	_	XmlId=w_28_23264
 31	estoit	_	VERB	VERcjg	VerbForm=Fin	27	acl:relcl	_	XmlId=w_28_23265
 32	d'	_	ADP	PRE	_	33	case	_	SpaceAfter=No|XmlId=w_28_23266
 33	or	_	NOUN	NOMcom	_	31	obl	_	XmlId=w_28_23267
@@ -62015,7 +62015,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 48	que	_	SCONJ	CONsub	_	50	mark	_	XmlId=w_28_23819
 49	on	_	PRON	PROind	PronType=Ind	50	nsubj	_	XmlId=w_28_23820
 50	prendroit	_	VERB	VERcjg	VerbForm=Fin	45	ccomp	_	XmlId=w_28_23821
-51	dis	_	DET	DETcar	NumType=Card	52	nummod	_	XmlId=w_28_23822
+51	dis	_	NUM	DETcar	NumType=Card	52	nummod	_	XmlId=w_28_23822
 52	Franchois	_	PROPN	NOMpro	_	50	obj	_	XmlId=w_28_23823
 53	des	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	55	case:det	_	XmlId=w_28_23824
 54	plus	_	ADV	ADVgen	_	55	advmod	_	XmlId=w_28_23825
@@ -62024,7 +62024,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 57	l'	_	DET	DETdef	Definite=Def|PronType=Art	58	det	_	SpaceAfter=No|XmlId=w_28_23828
 58	ost	_	NOUN	NOMcom	_	55	nmod	_	XmlId=w_28_23829
 59	et	_	CCONJ	CONcoo	_	61	cc	_	XmlId=w_28_23830
-60	dis	_	DET	DETcar	NumType=Card	61	nummod	_	XmlId=w_28_23831
+60	dis	_	NUM	DETcar	NumType=Card	61	nummod	_	XmlId=w_28_23831
 61	Venicien	_	PROPN	NOMpro	_	52	conj	_	XmlId=w_28_23832
 62	ensement	_	ADV	ADVgen	_	50	advmod	_	XmlId=w_28_23833
 63	des	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	65	case:det	_	XmlId=w_28_23834
@@ -62080,14 +62080,14 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 8	empereres	_	NOUN	NOMcom	_	5	acl:relcl	_	XmlId=w_28_23876
 9	aroit	_	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	XmlId=w_28_23877
 10	le	_	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_28_23878
-11	quarte	_	ADJ	ADJord	NumType=Ord	12	nummod	_	XmlId=w_28_23879
+11	quarte	_	NUM	ADJord	NumType=Ord	12	nummod	_	XmlId=w_28_23879
 12	partie	_	NOUN	NOMcom	_	9	obj	_	XmlId=w_28_23880
 13	de	_	ADP	PRE	_	15	case	_	XmlId=w_28_23881
 14	l'	_	DET	DETdef	Definite=Def|PronType=Art	15	det	_	SpaceAfter=No|XmlId=w_28_23882
 15	empire	_	NOUN	NOMcom	_	12	nmod	_	XmlId=w_28_23883
 16	et	_	CCONJ	CONcoo	_	19	cc	_	XmlId=w_28_23884
 17	le	_	DET	DETdef	Definite=Def|PronType=Art	19	det	_	XmlId=w_28_23885
-18	quarte	_	ADJ	ADJord	NumType=Ord	19	nummod	_	XmlId=w_28_23886
+18	quarte	_	NUM	ADJord	NumType=Ord	19	nummod	_	XmlId=w_28_23886
 19	part	_	NOUN	NOMcom	_	12	conj	_	XmlId=w_28_23887
 20	de	_	ADP	PRE	_	22	case	_	XmlId=w_28_23888
 21	la	_	DET	DETdef	Definite=Def|PronType=Art	22	det	_	XmlId=w_28_23889
@@ -62102,7 +62102,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 1	et	_	CCONJ	CONcoo	_	6	cc:nc	_	XmlId=w_28_23894
 2	les	_	DET	DETdef	Definite=Def|PronType=Art	5	det	_	XmlId=w_28_23895
 3	autres	_	ADJ	ADJind	PronType=Ind	5	amod	_	XmlId=w_28_23896
-4	trois	_	ADJ	ADJcar	NumType=Card	5	nummod	_	XmlId=w_28_23897
+4	trois	_	NUM	ADJcar	NumType=Card	5	nummod	_	XmlId=w_28_23897
 5	parties	_	NOUN	NOMcom	_	6	obj	_	XmlId=w_28_23898
 6	partiroit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_23899
 7	on	_	PRON	PROind	PronType=Ind	6	nsubj	_	XmlId=w_28_23900
@@ -62173,7 +62173,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 35	le	_	DET	DETdef	Definite=Def|PronType=Art	36	det	_	XmlId=w_28_23957
 36	vaillanche	_	NOUN	NOMcom	_	23	nmod	_	XmlId=w_28_23958
 37	de	_	ADP	PRE	_	39	case	_	XmlId=w_28_23959
-38	chinc	_	DET	DETcar	NumType=Card	39	nummod	_	XmlId=w_28_23960
+38	chinc	_	NUM	DETcar	NumType=Card	39	nummod	_	XmlId=w_28_23960
 39	sols	_	NOUN	NOMcom	_	36	nmod	_	XmlId=w_28_23961
 40	et	_	CCONJ	CONcoo	_	42	cc	_	XmlId=w_28_23962
 41	de	_	ADP	PRE	_	42	case	_	XmlId=w_28_23963
@@ -62473,7 +62473,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 7	il	_	PRON	PROimp	PronType=Prs	9	expl	_	XmlId=w_28_24197
 8	n'	_	ADV	ADVneg	Polarity=Neg	9	advmod	_	SpaceAfter=No|XmlId=w_28_24198
 9	eust	_	VERB	VERcjg	VerbForm=Fin	5	acl:relcl	_	XmlId=w_28_24199
-10	set	_	DET	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_24200
+10	set	_	NUM	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_24200
 11	estages	_	NOUN	NOMcom	_	9	obl	_	XmlId=w_28_24201
 12	ou	_	CCONJ	CONcoo	_	13	cc	_	XmlId=w_28_24202
 13	sis	_	PRON	PROcar	NumType=Card	10	conj	_	XmlId=w_28_24203
@@ -62493,7 +62493,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 5	devenres	_	NOUN	NOMcom	_	2	obl	_	SpaceAfter=No|XmlId=w_28_24213
 6	,	_	PUNCT	PONfbl	_	9	punct	_	XmlId=w_28_24214
 7	entor	_	ADP	PRE	_	9	case	_	XmlId=w_28_24215
-8	dis	_	DET	DETcar	NumType=Card	9	nummod	_	XmlId=w_28_24216
+8	dis	_	NUM	DETcar	NumType=Card	9	nummod	_	XmlId=w_28_24216
 9	jours	_	NOUN	NOMcom	_	2	obl	_	XmlId=w_28_24217
 10	devant	_	ADP	PRE	_	11	case	_	XmlId=w_28_24218
 11	Pasques	_	PROPN	NOMpro	_	9	nmod	_	XmlId=w_28_24219
@@ -63784,7 +63784,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	faisoient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_25234
 3	bien	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_25235
 4	geter	_	VERB	VERinf	VerbForm=Inf	2	xcomp	_	XmlId=w_28_25236
-5	soisante	_	DET	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_25237
+5	soisante	_	NUM	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_25237
 6	perrieres	_	NOUN	NOMcom	_	4	obj	_	XmlId=w_28_25238
 
 # text = et getoient a cascun caup seur les nes ;
@@ -63950,7 +63950,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 9	plus	_	ADV	ADVgen	_	10	advmod	_	XmlId=w_28_25352
 10	haut	_	ADJ	ADJqua	_	3	advmod	_	XmlId=w_28_25353
 11	de	_	ADP	PRE	_	13	case	_	XmlId=w_28_25354
-12	quatre	_	DET	DETcar	NumType=Card	13	nummod	_	XmlId=w_28_25355
+12	quatre	_	NUM	DETcar	NumType=Card	13	nummod	_	XmlId=w_28_25355
 13	nes	_	NOUN	NOMcom	_	3	obl	_	XmlId=w_28_25356
 14	ou	_	CCONJ	CONcoo	_	13	cc	_	XmlId=w_28_25357
 15	de	_	ADP	PRE	_	13	case	_	XmlId=w_28_25358
@@ -64063,10 +64063,10 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 6	chele	_	DET	DETdem	PronType=Dem	7	det	_	XmlId=w_28_25453
 7	nef	_	NOUN	NOMcom	_	4	nmod	_	XmlId=w_28_25454
 8	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_25455
-9	un	_	DET	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_25456
+9	un	_	NUM	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_25456
 10	Venicien	_	PROPN	NOMpro	_	8	obl	_	XmlId=w_28_25457
 11	et	_	CCONJ	CONcoo	_	13	cc	_	XmlId=w_28_25458
-12	deus	_	DET	DETcar	NumType=Card	13	nummod	_	XmlId=w_28_25459
+12	deus	_	NUM	DETcar	NumType=Card	13	nummod	_	XmlId=w_28_25459
 13	chevaliers	_	NOUN	NOMcom	_	10	conj	_	XmlId=w_28_25460
 14	armés	_	VERB	VERppe	Tense=Past|VerbForm=Part	13	acl	_	XmlId=w_28_25461
 15	;	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_25462
@@ -64217,7 +64217,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 14	li	_	DET	DETdef	Definite=Def|PronType=Art	15	det	_	XmlId=w_28_25575
 15	uns	_	PRON	PROind	PronType=Ind	11	nsubj	_	XmlId=w_28_25576
 16	des	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	18	case:det	_	XmlId=w_28_25577
-17	deus	_	ADJ	ADJcar	NumType=Card	18	nummod	_	XmlId=w_28_25578
+17	deus	_	NUM	ADJcar	NumType=Card	18	nummod	_	XmlId=w_28_25578
 18	chevaliers	_	NOUN	NOMcom	_	15	nmod	_	SpaceAfter=No|XmlId=w_28_25579
 19	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_25580
 
@@ -64741,7 +64741,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 # sent_id = clari-1637
 1	Quant	_	SCONJ	CONsub	_	6	mark	_	XmlId=w_28_26000
 2	ches	_	DET	DETdem	PronType=Dem	4	det	_	XmlId=w_28_26001
-3	deus	_	ADJ	ADJcar	NumType=Card	4	nummod	_	XmlId=w_28_26002
+3	deus	_	NUM	ADJcar	NumType=Card	4	nummod	_	XmlId=w_28_26002
 4	tors	_	NOUN	NOMcom	_	6	nsubj	_	XmlId=w_28_26003
 5	furent	_	VERB	VERcjg	VerbForm=Fin	6	aux:pass	_	XmlId=w_28_26004
 6	prises	_	VERB	VERppe	Tense=Past|VerbForm=Part	10	advcl	_	SpaceAfter=No|XmlId=w_28_26005
@@ -64932,11 +64932,11 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	avec	_	ADP	PRE	_	4	case	_	XmlId=w_28_26154
 4	lui	_	PRON	PROper	PronType=Prs	2	obl	_	XmlId=w_28_26155
 5	bien	_	ADV	ADVgen	_	6	advmod	_	XmlId=w_28_26156
-6	dis	_	DET	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_26157
+6	dis	_	NUM	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_26157
 7	chevaliers	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_26158
 8	et	_	CCONJ	CONcoo	_	11	cc	_	XmlId=w_28_26159
 9	bien	_	ADV	ADVgen	_	10	advmod	_	XmlId=w_28_26160
-10	soisante	_	DET	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_26161
+10	soisante	_	NUM	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_26161
 11	serjans	_	NOUN	NOMcom	_	7	conj	_	SpaceAfter=No|XmlId=w_28_26162
 12	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_28_26163
 
@@ -65594,7 +65594,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	bien	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_26696
 3	i	_	ADV	PROadv	_	4	obl:advmod	_	XmlId=w_28_26697
 4	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_26698
-5	soisante	_	DET	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_26699
+5	soisante	_	NUM	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_26699
 6	serjans	_	NOUN	NOMcom	_	4	obl	_	XmlId=w_28_26700
 7	avec	_	ADP	PRE	_	8	case	_	XmlId=w_28_26701
 8	lui	_	PRON	PROper	PronType=Prs	4	obl	_	SpaceAfter=No|XmlId=w_28_26702
@@ -66105,7 +66105,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 10	murs	_	NOUN	NOMcom	_	7	obl	_	XmlId=w_28_27099
 11	a	_	VERB	VERcjg	VerbForm=Fin	3	ccomp	_	XmlId=w_28_27100
 12	bien	_	ADV	ADVgen	_	13	advmod	_	XmlId=w_28_27101
-13	nuef	_	DET	DETcar	NumType=Card	14	nummod	_	XmlId=w_28_27102
+13	nuef	_	NUM	DETcar	NumType=Card	14	nummod	_	XmlId=w_28_27102
 14	liwes	_	NOUN	NOMcom	_	11	obl	_	SpaceAfter=No|XmlId=w_28_27103
 15	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_27104
 
@@ -66136,7 +66136,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 6	chités	_	NOUN	NOMcom	_	2	nsubj	_	XmlId=w_28_27122
 7	par	_	ADP	PRE	_	8	case	_	XmlId=w_28_27123
 8	dedens	_	ADP	PRE	_	2	obl	_	XmlId=w_28_27124
-9	deus	_	DET	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_27125
+9	deus	_	NUM	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_27125
 10	liwes	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_27126
 11	franchoises	_	ADJ	ADJqua	_	10	amod	_	XmlId=w_28_27127
 12	de	_	ADP	PRE	_	13	case	_	XmlId=w_28_27128
@@ -66426,7 +66426,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 20	qui	_	PRON	PROrel	PronType=Rel	24	nsubj	_	XmlId=w_28_27368
 21	estoient	_	AUX	VERcjg	VerbForm=Fin	24	cop	_	XmlId=w_28_27369
 22	encore	_	ADV	ADVgen	_	24	advmod	_	XmlId=w_28_27370
-23	chent	_	DET	DETcar	NumType=Card	24	nummod	_	XmlId=w_28_27371
+23	chent	_	NUM	DETcar	NumType=Card	24	nummod	_	XmlId=w_28_27371
 24	tans	_	NOUN	NOMcom	_	13	acl:relcl	_	XmlId=w_28_27372
 25	plus	_	ADV	ADVgen	_	24	advmod	_	XmlId=w_28_27373
 26	de	_	ADP	PRE	_	27	case	_	XmlId=w_28_27374
@@ -67290,14 +67290,14 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 1	et	_	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_28_28047
 2	prist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_28048
 3	on	_	PRON	PROind	PronType=Ind	2	nsubj	_	XmlId=w_28_28049
-4	dis	_	DET	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_28050
+4	dis	_	NUM	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_28050
 5	chevaliers	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_28051
 6	haus	_	ADJ	ADJqua	_	7	amod	_	XmlId=w_28_28052
 7	hommes	_	NOUN	NOMcom	_	5	appos	_	XmlId=w_28_28053
 8	des	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	9	case:det	_	XmlId=w_28_28054
 9	pelerins	_	NOUN	NOMcom	_	7	nmod	_	XmlId=w_28_28055
 10	et	_	CCONJ	CONcoo	_	12	cc	_	XmlId=w_28_28056
-11	dis	_	DET	DETcar	NumType=Card	12	nummod	_	XmlId=w_28_28057
+11	dis	_	NUM	DETcar	NumType=Card	12	nummod	_	XmlId=w_28_28057
 12	Veniciens	_	PROPN	NOMpro	_	5	conj	_	XmlId=w_28_28058
 13	que	_	PRON	PROrel	PronType=Rel	15	obj	_	XmlId=w_28_28059
 14	on	_	PRON	PROind	PronType=Ind	15	nsubj	_	XmlId=w_28_28060
@@ -67432,7 +67432,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 10	,	_	PUNCT	PONfbl	_	9	punct	_	XmlId=w_28_28173
 11	que	_	SCONJ	CONsub	_	19	mark	_	XmlId=w_28_28174
 12	es	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	16	case:det	_	XmlId=w_28_28175
-13	quarante	_	DET	DETcar	NumType=Card	16	nummod	_	XmlId=w_28_28176
+13	quarante	_	NUM	DETcar	NumType=Card	16	nummod	_	XmlId=w_28_28176
 14	plus	_	ADV	ADVgen	_	15	advmod	_	XmlId=w_28_28177
 15	rikes	_	ADJ	ADJqua	_	16	amod	_	XmlId=w_28_28178
 16	chités	_	NOUN	NOMcom	_	19	obl	_	XmlId=w_28_28179
@@ -67461,7 +67461,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 5	Griu	_	PROPN	NOMpro	_	3	nsubj	_	XmlId=w_28_28198
 6	que	_	SCONJ	CONsub	_	15	mark	_	XmlId=w_28_28199
 7	les	_	DET	DETdef	Definite=Def|PronType=Art	9	det	_	XmlId=w_28_28200
-8	deus	_	ADJ	ADJcar	NumType=Card	9	nummod	_	XmlId=w_28_28201
+8	deus	_	NUM	ADJcar	NumType=Card	9	nummod	_	XmlId=w_28_28201
 9	pars	_	NOUN	NOMcom	_	15	nsubj	_	XmlId=w_28_28202
 10	de	_	ADP	PRE	_	12	case	_	XmlId=w_28_28203
 11	l'	_	DET	DETdef	Definite=Def|PronType=Art	12	det	_	SpaceAfter=No|XmlId=w_28_28204
@@ -67752,7 +67752,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 10	marchis	_	NOUN	NOMcom	_	11	nsubj	_	XmlId=w_28_28445
 11	tenoit	_	VERB	VERcjg	VerbForm=Fin	6	acl:relcl	_	SpaceAfter=No|XmlId=w_28_28446
 12	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_28447
-13	chinc	_	DET	DETcar	NumType=Card	14	nummod	_	XmlId=w_28_28448
+13	chinc	_	NUM	DETcar	NumType=Card	14	nummod	_	XmlId=w_28_28448
 14	chens	_	DET	DETcar	NumType=Card	13	flat	_	XmlId=w_28_28449
 15	mansions	_	NOUN	NOMcom	_	2	obl	_	SpaceAfter=No|XmlId=w_28_28450
 16	,	_	PUNCT	PONfbl	_	15	punct	_	XmlId=w_28_28451
@@ -67786,7 +67786,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 4	i	_	ADV	PROadv	_	5	obl:advmod	_	XmlId=w_28_28471
 5	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_28472
 6	bien	_	ADV	ADVgen	_	5	advmod	_	XmlId=w_28_28473
-7	trente	_	DET	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_28474
+7	trente	_	NUM	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_28474
 8	capeles	_	NOUN	NOMcom	_	5	obl	_	SpaceAfter=No|XmlId=w_28_28475
 9	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_28476
 10	que	_	CCONJ	CONcoo	_	11	cc	_	XmlId=w_28_28477
@@ -67947,7 +67947,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 14	on	_	PRON	PROind	PronType=Ind	16	nsubj	_	XmlId=w_28_28612
 15	i	_	ADV	PROadv	_	16	obl:advmod	_	XmlId=w_28_28613
 16	trova	_	VERB	VERcjg	VerbForm=Fin	6	advcl	_	XmlId=w_28_28614
-17	deus	_	DET	DETcar	NumType=Card	18	nummod	_	XmlId=w_28_28615
+17	deus	_	NUM	DETcar	NumType=Card	18	nummod	_	XmlId=w_28_28615
 18	pieches	_	NOUN	NOMcom	_	16	obj	_	XmlId=w_28_28616
 19	de	_	ADP	PRE	_	22	case	_	XmlId=w_28_28617
 20	le	_	DET	DETdef	Definite=Def|PronType=Art	22	det	_	XmlId=w_28_28618
@@ -67992,7 +67992,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 18	,	_	PUNCT	PONfbl	_	22	punct	_	XmlId=w_28_28653
 19	et	_	CCONJ	CONcoo	_	22	cc	_	XmlId=w_28_28654
 20	les	_	DET	DETdef	Definite=Def|PronType=Art	22	det	_	XmlId=w_28_28655
-21	deux	_	ADJ	ADJcar	NumType=Card	22	nummod	_	XmlId=w_28_28656
+21	deux	_	NUM	ADJcar	NumType=Card	22	nummod	_	XmlId=w_28_28656
 22	cleus	_	NOUN	NOMcom	_	7	conj	_	XmlId=w_28_28657
 23	qu'	_	PRON	PROrel	PronType=Rel	25	obj	_	SpaceAfter=No|XmlId=w_28_28658
 24	il	_	PRON	PROper	PronType=Prs	25	nsubj	_	XmlId=w_28_28659
@@ -68156,7 +68156,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	il	_	PRON	PROimp	PronType=Prs	4	expl	_	XmlId=w_28_28793
 3	i	_	ADV	PROadv	_	4	obl:advmod	_	XmlId=w_28_28794
 4	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_28795
-5	deus	_	DET	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_28796
+5	deus	_	NUM	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_28796
 6	riches	_	ADJ	ADJqua	_	7	amod	_	XmlId=w_28_28797
 7	vaissiaus	_	NOUN	NOMcom	_	4	obl	_	XmlId=w_28_28798
 8	d'	_	ADP	PRE	_	9	case	_	SpaceAfter=No|XmlId=w_28_28799
@@ -68168,7 +68168,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 14	le	_	DET	DETdef	Definite=Def|PronType=Art	15	det	_	XmlId=w_28_28805
 15	capele	_	NOUN	NOMcom	_	13	nmod	_	XmlId=w_28_28806
 16	a	_	ADP	PRE	_	19	case	_	XmlId=w_28_28807
-17	deus	_	DET	DETcar	NumType=Card	19	nummod	_	XmlId=w_28_28808
+17	deus	_	NUM	DETcar	NumType=Card	19	nummod	_	XmlId=w_28_28808
 18	grosses	_	ADJ	ADJqua	_	19	amod	_	XmlId=w_28_28809
 19	caaines	_	NOUN	NOMcom	_	11	obl	_	XmlId=w_28_28810
 20	d'	_	ADP	PRE	_	21	case	_	SpaceAfter=No|XmlId=w_28_28811
@@ -68604,7 +68604,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	i	_	ADV	PROadv	_	4	obl:advmod	_	XmlId=w_28_29139
 4	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_29140
 5	bien	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_29141
-6	deus	_	DET	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_29142
+6	deus	_	NUM	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_29142
 7	chens	_	DET	DETcar	NumType=Card	6	flat	_	XmlId=w_28_29143
 8	mansions	_	NOUN	NOMcom	_	4	obl	_	SpaceAfter=No|XmlId=w_28_29144
 9	,	_	PUNCT	PONfbl	_	12	punct	_	XmlId=w_28_29145
@@ -69085,7 +69085,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	bien	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_29552
 4	chele	_	DET	DETdem	PronType=Dem	5	det	_	XmlId=w_28_29553
 5	tavle	_	NOUN	NOMcom	_	2	nsubj	_	XmlId=w_28_29554
-6	quatorze	_	DET	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_29555
+6	quatorze	_	NUM	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_29555
 7	piés	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_29556
 8	de	_	ADP	PRE	_	9	case	_	XmlId=w_28_29557
 9	lonc	_	ADJ	ADJqua	_	7	nmod	_	XmlId=w_28_29558
@@ -69181,7 +69181,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 4	moustier	_	NOUN	NOMcom	_	5	obl	_	XmlId=w_28_29636
 5	pendoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_29637
 6	bien	_	ADV	ADVgen	_	5	advmod	_	XmlId=w_28_29638
-7	chent	_	DET	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_29639
+7	chent	_	NUM	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_29639
 8	lampiers	_	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_28_29640
 9	;	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_29641
 
@@ -69223,7 +69223,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 5	cascun	_	DET	DETind	PronType=Ind	6	det	_	XmlId=w_28_29670
 6	lampier	_	NOUN	NOMcom	_	3	obl	_	XmlId=w_28_29671
 7	bien	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_29672
-8	vint	_	DET	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_29673
+8	vint	_	NUM	DETcar	NumType=Card	11	nummod	_	XmlId=w_28_29673
 9	et	_	CCONJ	CONcoo	_	8	flat	_	XmlId=w_28_29674
 10	chinc	_	DET	DETcar	NumType=Card	8	flat	_	XmlId=w_28_29675
 11	lampes	_	NOUN	NOMcom	_	3	obl	_	XmlId=w_28_29676
@@ -69244,7 +69244,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 8	ne	_	ADV	ADVneg	Polarity=Neg	9	advmod	_	XmlId=w_28_29687
 9	vausist	_	VERB	VERcjg	VerbForm=Fin	6	acl:relcl	_	XmlId=w_28_29688
 10	bien	_	ADV	ADVgen	_	9	advmod	_	XmlId=w_28_29689
-11	deus	_	DET	DETcar	NumType=Card	12	nummod	_	XmlId=w_28_29690
+11	deus	_	NUM	DETcar	NumType=Card	12	nummod	_	XmlId=w_28_29690
 12	chens	_	DET	DETcar	NumType=Card	11	flat	_	XmlId=w_28_29691
 13	mars	_	NOUN	NOMcom	_	9	obj	_	XmlId=w_28_29692
 14	d'	_	ADP	PRE	_	15	case	_	SpaceAfter=No|XmlId=w_28_29693
@@ -69502,7 +69502,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 13	qui	_	PRON	PROrel	PronType=Rel	15	nsubj	_	XmlId=w_28_29901
 14	bien	_	ADV	ADVgen	_	15	advmod	_	XmlId=w_28_29902
 15	avoit	_	VERB	VERcjg	VerbForm=Fin	12	acl:relcl	_	XmlId=w_28_29903
-16	trois	_	DET	DETcar	NumType=Card	17	nummod	_	XmlId=w_28_29904
+16	trois	_	NUM	DETcar	NumType=Card	17	nummod	_	XmlId=w_28_29904
 17	brachies	_	NOUN	NOMcom	_	15	obj	_	XmlId=w_28_29905
 18	a	_	ADP	PRE	_	20	case	_	XmlId=w_28_29906
 19	un	_	DET	DETndf	Definite=Ind|PronType=Art	20	det	_	XmlId=w_28_29907
@@ -69518,7 +69518,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_29913
 3	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_29914
 4	bien	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_29915
-5	chinquante	_	DET	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_29916
+5	chinquante	_	NUM	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_29916
 6	toises	_	NOUN	NOMcom	_	3	obj	_	XmlId=w_28_29917
 7	de	_	ADP	PRE	_	8	case	_	XmlId=w_28_29918
 8	haut	_	ADJ	ADJqua	_	6	nmod	_	XmlId=w_28_29919
@@ -69576,7 +69576,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 14	qui	_	PRON	PROrel	PronType=Rel	16	nsubj	_	XmlId=w_28_29959
 15	bien	_	ADV	ADVgen	_	16	advmod	_	XmlId=w_28_29960
 16	avoit	_	VERB	VERcjg	VerbForm=Fin	13	acl:relcl	_	XmlId=w_28_29961
-17	quinze	_	DET	DETcar	NumType=Card	18	nummod	_	XmlId=w_28_29962
+17	quinze	_	NUM	DETcar	NumType=Card	18	nummod	_	XmlId=w_28_29962
 18	piés	_	NOUN	NOMcom	_	16	obj	_	XmlId=w_28_29963
 19	de	_	ADP	PRE	_	20	case	_	XmlId=w_28_29964
 20	lonc	_	ADJ	ADJqua	_	18	nmod	_	XmlId=w_28_29965
@@ -69697,7 +69697,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 17	que	_	CCONJ	CONcoo	_	18	cc	_	XmlId=w_28_30060
 18	entor	_	ADV	ADVgen	_	8	conj	_	SpaceAfter=No|XmlId=w_28_30061
 19	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_30062
-20	dis	_	DET	DETcar	NumType=Card	21	nummod	_	XmlId=w_28_30063
+20	dis	_	NUM	DETcar	NumType=Card	21	nummod	_	XmlId=w_28_30063
 21	aires	_	NOUN	NOMcom	_	2	obl	_	XmlId=w_28_30064
 22	de	_	ADP	PRE	_	23	case	_	XmlId=w_28_30065
 23	hairons	_	NOUN	NOMcom	_	21	nmod	_	SpaceAfter=No|XmlId=w_28_30066
@@ -69729,7 +69729,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 15	le	_	DET	DETdef	Definite=Def|PronType=Art	16	det	_	XmlId=w_28_30088
 16	moustier	_	NOUN	NOMcom	_	14	xcomp	_	XmlId=w_28_30089
 17	des	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	19	case:det	_	XmlId=w_28_30090
-18	Set	_	ADJ	ADJcar	NumType=Card	19	nummod	_	XmlId=w_28_30091
+18	Set	_	NUM	ADJcar	NumType=Card	19	nummod	_	XmlId=w_28_30091
 19	Apostres	_	NOUN	NOMcom	_	16	nmod	_	SpaceAfter=No|XmlId=w_28_30092
 20	.	_	PUNCT	PONfrt	_	8	punct	_	XmlId=w_28_30093
 
@@ -69793,7 +69793,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 4	en	_	ADP	PRE	_	6	case	_	XmlId=w_28_30140
 5	chu	_	DET	DETdem	PronType=Dem	6	det	_	XmlId=w_28_30141
 6	moustier	_	NOUN	NOMcom	_	3	obl	_	XmlId=w_28_30142
-7	set	_	DET	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_30143
+7	set	_	NUM	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_30143
 8	cors	_	NOUN	NOMcom	_	3	nsubj	_	XmlId=w_28_30144
 9	d'	_	ADP	PRE	_	10	case	_	SpaceAfter=No|XmlId=w_28_30145
 10	apostres	_	NOUN	NOMcom	_	8	nmod	_	SpaceAfter=No|XmlId=w_28_30146
@@ -69971,7 +69971,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 19	mainent	_	VERB	VERcjg	VerbForm=Fin	12	acl:relcl	_	XmlId=w_28_30292
 20	en	_	ADP	PRE	_	21	case	_	XmlId=w_28_30293
 21	Constantinoble	_	PROPN	NOMpro	_	19	obl	_	XmlId=w_28_30294
-22	un	_	DET	DETcar	NumType=Card	23	nummod	_	XmlId=w_28_30295
+22	un	_	NUM	DETcar	NumType=Card	23	nummod	_	XmlId=w_28_30295
 23	an	_	NOUN	NOMcom	_	19	obl	_	SpaceAfter=No|XmlId=w_28_30296
 24	,	_	PUNCT	PONfbl	_	26	punct	_	XmlId=w_28_30297
 25	doivent	_	AUX	VERcjg	VerbForm=Fin	26	aux	_	XmlId=w_28_30298
@@ -70011,7 +70011,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	chele	_	DET	DETdem	PronType=Dem	3	det	_	XmlId=w_28_30324
 3	porte	_	NOUN	NOMcom	_	4	obl	_	XmlId=w_28_30325
 4	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_30326
-5	deux	_	DET	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_30327
+5	deux	_	NUM	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_30327
 6	olifans	_	NOUN	NOMcom	_	4	obl	_	XmlId=w_28_30328
 7	jetés	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	acl	_	XmlId=w_28_30329
 8	de	_	ADP	PRE	_	9	case	_	XmlId=w_28_30330
@@ -70113,7 +70113,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 14	uns	_	DET	DETndf	Definite=Ind|PronType=Art	15	det	_	XmlId=w_28_30410
 15	cars	_	NOUN	NOMcom	_	12	obl	_	XmlId=w_28_30411
 16	a	_	ADP	PRE	_	18	case	_	XmlId=w_28_30412
-17	quatre	_	DET	DETcar	NumType=Card	18	nummod	_	XmlId=w_28_30413
+17	quatre	_	NUM	DETcar	NumType=Card	18	nummod	_	XmlId=w_28_30413
 18	roes	_	NOUN	NOMcom	_	15	nmod	_	SpaceAfter=No|XmlId=w_28_30414
 19	,	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_30415
 20	que	_	PRON	PROrel	PronType=Rel	22	obj	_	XmlId=w_28_30416
@@ -70156,7 +70156,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	le	_	DET	DETdef	Definite=Def|PronType=Art	4	det	_	XmlId=w_28_30441
 4	caiiere	_	NOUN	NOMcom	_	5	obl	_	XmlId=w_28_30442
 5	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_30443
-6	quatre	_	DET	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_30444
+6	quatre	_	NUM	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_30444
 7	colombes	_	NOUN	NOMcom	_	5	obl	_	XmlId=w_28_30445
 8	qui	_	PRON	PROrel	PronType=Rel	9	nsubj	_	XmlId=w_28_30446
 9	portoient	_	VERB	VERcjg	VerbForm=Fin	7	acl:relcl	_	XmlId=w_28_30447
@@ -70300,7 +70300,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 5	i	_	ADV	PROadv	_	6	obl:advmod	_	XmlId=w_28_30561
 6	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_30562
 7	bien	_	ADV	ADVgen	_	6	advmod	_	XmlId=w_28_30563
-8	trente	_	DET	DETcar	NumType=Card	9	nummod	_	XmlId=w_28_30564
+8	trente	_	NUM	DETcar	NumType=Card	9	nummod	_	XmlId=w_28_30564
 9	degrés	_	NOUN	NOMcom	_	6	obl	_	XmlId=w_28_30565
 10	ou	_	CCONJ	CONcoo	_	11	cc	_	XmlId=w_28_30566
 11	quarante	_	PRON	PROcar	NumType=Card	8	conj	_	SpaceAfter=No|XmlId=w_28_30567
@@ -70364,7 +70364,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 1	Se	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_30617
 2	i	_	ADV	PROadv	_	3	obl:advmod	_	XmlId=w_28_30618
 3	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_30619
-4	deus	_	PRON	PROcar	NumType=Card	5	nummod	_	XmlId=w_28_30620
+4	deus	_	NUM	PROcar	NumType=Card	5	nummod	_	XmlId=w_28_30620
 5	jus	_	NOUN	NOMcom	_	3	obl	_	XmlId=w_28_30621
 6	ensanle	_	ADV	ADVgen	_	3	advmod	_	SpaceAfter=No|XmlId=w_28_30622
 7	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_30623
@@ -70422,7 +70422,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 11	qui	_	PRON	PROrel	PronType=Rel	13	nsubj	_	XmlId=w_28_30667
 12	bien	_	ADV	ADVgen	_	13	advmod	_	XmlId=w_28_30668
 13	avoit	_	VERB	VERcjg	VerbForm=Fin	10	acl:relcl	_	XmlId=w_28_30669
-14	quinze	_	DET	DETcar	NumType=Card	15	nummod	_	XmlId=w_28_30670
+14	quinze	_	NUM	DETcar	NumType=Card	15	nummod	_	XmlId=w_28_30670
 15	piés	_	NOUN	NOMcom	_	13	obj	_	XmlId=w_28_30671
 16	de	_	ADP	PRE	_	17	case	_	XmlId=w_28_30672
 17	haut	_	ADJ	ADJqua	_	15	nmod	_	XmlId=w_28_30673
@@ -70574,7 +70574,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 # sent_id = clari-1897
 1	Il	_	PRON	PROper	PronType=Prs	2	expl	_	XmlId=w_28_30796
 2	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_30797
-3	deus	_	DET	DETcar	NumType=Card	4	nummod	_	XmlId=w_28_30798
+3	deus	_	NUM	DETcar	NumType=Card	4	nummod	_	XmlId=w_28_30798
 4	ymages	_	NOUN	NOMcom	_	2	obl	_	XmlId=w_28_30799
 5	jetés	_	VERB	VERppe	Tense=Past|VerbForm=Part	4	acl	_	XmlId=w_28_30800
 6	de	_	ADP	PRE	_	7	case	_	XmlId=w_28_30801
@@ -70608,7 +70608,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 6	n'	_	ADV	ADVneg	Polarity=Neg	7	advmod	_	SpaceAfter=No|XmlId=w_28_30825
 7	ait	_	VERB	VERcjg	VerbForm=Fin	5	acl:relcl	_	XmlId=w_28_30826
 8	bien	_	ADV	ADVgen	_	7	advmod	_	XmlId=w_28_30827
-9	vint	_	DET	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_30828
+9	vint	_	NUM	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_30828
 10	piés	_	NOUN	NOMcom	_	7	obj	_	XmlId=w_28_30829
 11	de	_	ADP	PRE	_	12	case	_	XmlId=w_28_30830
 12	haut	_	ADJ	ADJqua	_	10	nmod	_	SpaceAfter=No|XmlId=w_28_30831
@@ -70696,7 +70696,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 # newdoc id = ClariConstantinople_1300_prose
 # sent_id = clari-1904
 1	Ches	_	DET	DETdem	PronType=Dem	3	det	_	XmlId=w_28_30893
-2	deux	_	ADJ	ADJcar	NumType=Card	3	nummod	_	XmlId=w_28_30894
+2	deux	_	NUM	ADJcar	NumType=Card	3	nummod	_	XmlId=w_28_30894
 3	ymages	_	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_28_30895
 4	si	_	ADV	ADVgen	_	5	advmod	_	XmlId=w_28_30896
 5	seoient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_30897
@@ -70785,7 +70785,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 14	il	_	PRON	PROimp	PronType=Prs	16	expl	_	XmlId=w_28_30968
 15	i	_	ADV	PROadv	_	16	obl:advmod	_	XmlId=w_28_30969
 16	avoit	_	VERB	VERcjg	VerbForm=Fin	3	advcl	_	XmlId=w_28_30970
-17	deus	_	DET	DETcar	NumType=Card	18	nummod	_	XmlId=w_28_30971
+17	deus	_	NUM	DETcar	NumType=Card	18	nummod	_	XmlId=w_28_30971
 18	colombes	_	NOUN	NOMcom	_	16	obl	_	XmlId=w_28_30972
 19	;	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_30973
 
@@ -70796,7 +70796,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_30975
 3	biem	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_30976
 4	cascune	_	PRON	PROind	PronType=Ind	2	nsubj	_	XmlId=w_28_30977
-5	trois	_	DET	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_30978
+5	trois	_	NUM	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_30978
 6	brachies	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_30979
 7	a	_	ADP	PRE	_	8	case	_	XmlId=w_28_30980
 8	homme	_	NOUN	NOMcom	_	6	nmod	_	XmlId=w_28_30981
@@ -70812,7 +70812,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_30987
 4	bien	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_30988
 5	cascune	_	PRON	PROind	PronType=Ind	3	nsubj	_	XmlId=w_28_30989
-6	chinquante	_	DET	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_30990
+6	chinquante	_	NUM	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_30990
 7	toises	_	NOUN	NOMcom	_	3	obj	_	XmlId=w_28_30991
 8	de	_	ADP	PRE	_	9	case	_	XmlId=w_28_30992
 9	haut	_	ADJ	ADJqua	_	7	nmod	_	XmlId=w_28_30993
@@ -71158,7 +71158,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 10	en	_	ADP	PRE	_	12	case	_	XmlId=w_28_31277
 11	le	_	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_28_31278
 12	chité	_	NOUN	NOMcom	_	7	obl	_	XmlId=w_28_31279
-13	.xxx m.	_	DET	DETcar	_	14	nummod	_	XmlId=w_28_31280
+13	.xxx m.	_	NUM	DETcar	_	14	nummod	_	XmlId=w_28_31280
 14	prestres	_	NOUN	NOMcom	_	7	obl	_	SpaceAfter=No|XmlId=w_28_31281
 15	,	_	PUNCT	PONfbl	_	17	punct	_	XmlId=w_28_31282
 16	que	_	CCONJ	CONcoo	_	17	cc	_	XmlId=w_28_31283
@@ -71879,7 +71879,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 18	esleussent	_	VERB	VERcjg	VerbForm=Fin	13	ccomp	_	XmlId=w_28_31888
 19	les	_	DET	DETdef	Definite=Def|PronType=Art	20	det	_	XmlId=w_28_31889
 20	leur	_	DET	DETpos	Poss=Yes	18	obj	_	XmlId=w_28_31890
-21	dis	_	PRON	PROcar	NumType=Card	20	nummod	_	SpaceAfter=No|XmlId=w_28_31891
+21	dis	_	NUM	PROcar	NumType=Card	20	nummod	_	SpaceAfter=No|XmlId=w_28_31891
 22	,	_	PUNCT	PONfbl	_	18	punct	_	XmlId=w_28_31892
 23	que	_	SCONJ	CONsub	_	28	mark	_	XmlId=w_28_31893
 24	il	_	PRON	PROper	PronType=Prs	28	nsubj	_	XmlId=w_28_31894
@@ -71889,7 +71889,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 28	eslit	_	VERB	VERppe	Tense=Past|VerbForm=Part	18	advcl	_	XmlId=w_28_31898
 29	les	_	DET	DETdef	Definite=Def|PronType=Art	30	det	_	XmlId=w_28_31899
 30	siens	_	ADJ	ADJpos	Poss=Yes	28	obj	_	XmlId=w_28_31900
-31	dis	_	NOUN	NOMcom	_	30	nummod	_	XmlId=w_28_31901
+31	dis	_	NUM	NOMcom	_	30	nummod	_	XmlId=w_28_31901
 32	;	_	PUNCT	PONfbl	_	13	punct	_	XmlId=w_28_31902
 
 # text = et quant li baron oïrent chou, si i vaut metre cascuns les siens.
@@ -72037,7 +72037,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	bien	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_32018
 4	cheste	_	DET	DETdem	PronType=Dem	5	det	_	XmlId=w_28_32019
 5	descorde	_	NOUN	NOMcom	_	2	nsubj	_	XmlId=w_28_32020
-6	quinze	_	DET	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_32021
+6	quinze	_	NUM	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_32021
 7	jors	_	NOUN	NOMcom	_	2	obl	_	SpaceAfter=No|XmlId=w_28_32022
 8	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_32023
 9	qu'	_	SCONJ	CONsub	_	14	mark	_	SpaceAfter=No|XmlId=w_28_32024
@@ -72252,7 +72252,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 8	moustier	_	NOUN	NOMcom	_	4	obl	_	SpaceAfter=No|XmlId=w_28_32201
 9	,	_	PUNCT	PONfbl	_	12	punct	_	XmlId=w_28_32202
 10	li	_	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_28_32203
-11	dis	_	DET	DETcar	NumType=Card	12	nummod	_	XmlId=w_28_32204
+11	dis	_	NUM	DETcar	NumType=Card	12	nummod	_	XmlId=w_28_32204
 12	Venicien	_	PROPN	NOMpro	_	4	dislocated	_	XmlId=w_28_32205
 13	et	_	CCONJ	CONcoo	_	15	cc	_	XmlId=w_28_32206
 14	li	_	DET	DETdef	Definite=Def|PronType=Art	15	det	_	XmlId=w_28_32207
@@ -72337,7 +72337,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 17	et	_	CCONJ	CONcoo	_	21	cc	_	XmlId=w_28_32274
 18	tout	_	DET	DETind	PronType=Ind	21	det	_	XmlId=w_28_32275
 19	li	_	DET	DETdef		21	det	_	XmlId=w_28_32276
-20	vint	_	ADJ	ADJcar	NumType=Card	21	nummod	_	XmlId=w_28_32277
+20	vint	_	NUM	ADJcar	NumType=Card	21	nummod	_	XmlId=w_28_32277
 21	eslisseeur	_	NOUN	NOMcom	_	12	conj	_	XmlId=w_28_32278
 22	omniement	_	ADV	ADVgen	_	24	advmod	_	XmlId=w_28_32279
 23	s'	_	PRON	PROper	PronType=Prs	24	expl	_	SpaceAfter=No|XmlId=w_28_32280
@@ -73115,11 +73115,11 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 # newdoc id = ClariConstantinople_1300_prose
 # sent_id = clari-2008
 1	et	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_32900
-2	doi	_	DET	DETcar	NumType=Card	3	nummod	_	XmlId=w_28_32901
+2	doi	_	NUM	DETcar	NumType=Card	3	nummod	_	XmlId=w_28_32901
 3	vesque	_	NOUN	NOMcom	_	4	nsubj	_	XmlId=w_28_32902
 4	soustenoient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_32903
 5	les	_	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_28_32904
-6	deus	_	ADJ	ADJcar	NumType=Card	7	nummod	_	XmlId=w_28_32905
+6	deus	_	NUM	ADJcar	NumType=Card	7	nummod	_	XmlId=w_28_32905
 7	bras	_	NOUN	NOMcom	_	4	obj	_	XmlId=w_28_32906
 8	le	_	DET	DETdef	Definite=Def|PronType=Art	9	det	_	XmlId=w_28_32907
 9	marchis	_	NOUN	NOMcom	_	7	nmod	_	XmlId=w_28_32908
@@ -73133,7 +73133,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 # newdoc id = ClariConstantinople_1300_prose
 # sent_id = clari-2009
 1	et	_	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_28_32914
-2	doi	_	DET	DETcar	NumType=Card	4	nummod	_	XmlId=w_28_32915
+2	doi	_	NUM	DETcar	NumType=Card	4	nummod	_	XmlId=w_28_32915
 3	autre	_	ADJ	ADJind	PronType=Ind	4	amod	_	XmlId=w_28_32916
 4	vesque	_	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_28_32917
 5	adestroient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_32918
@@ -73327,7 +73327,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 8	vestus	_	VERB	VERppe	Tense=Past|VerbForm=Part	21	advcl	_	SpaceAfter=No|XmlId=w_28_33062
 9	,	_	PUNCT	PONfbl	_	13	punct	_	XmlId=w_28_33063
 10	et	_	CCONJ	CONcoo	_	13	cc	_	XmlId=w_28_33064
-11	doi	_	DET	DETcar	NumType=Card	12	nummod	_	XmlId=w_28_33065
+11	doi	_	NUM	DETcar	NumType=Card	12	nummod	_	XmlId=w_28_33065
 12	vesque	_	NOUN	NOMcom	_	13	nsubj	_	XmlId=w_28_33066
 13	tenoient	_	VERB	VERcjg	VerbForm=Fin	8	conj	_	XmlId=w_28_33067
 14	le	_	DET	DETdef	Definite=Def|PronType=Art	15	det	_	XmlId=w_28_33068
@@ -73407,7 +73407,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 22	empereres	_	NOUN	NOMcom	_	24	nsubj	_	XmlId=w_28_33122
 23	Manuaus	_	PROPN	NOMpro	_	22	flat	_	XmlId=w_28_33123
 24	acata	_	VERB	VERcjg	VerbForm=Fin	14	acl:relcl	_	XmlId=w_28_33124
-25	.lxij.m.	_	DET	DETcar	NumType=Card	26	nummod	_	XmlId=w_28_33125
+25	.lxij.m.	_	NUM	DETcar	NumType=Card	26	nummod	_	XmlId=w_28_33125
 26	mars	_	NOUN	NOMcom	_	24	obl	_	SpaceAfter=No|XmlId=w_28_33126
 27	.	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_28_33127
 
@@ -73902,7 +73902,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 77	,	_	PUNCT	PONfbl	_	71	punct	_	XmlId=w_28_33537
 78	que	_	SCONJ	CONsub	_	88	mark	_	XmlId=w_28_33538
 79	teux	_	DET	DETind	PronType=Ind	82	det	_	XmlId=w_28_33539
-80	trois	_	ADJ	ADJcar	NumType=Card	81	nummod	_	XmlId=w_28_33540
+80	trois	_	NUM	ADJcar	NumType=Card	81	nummod	_	XmlId=w_28_33540
 81	chens	_	DET	DETcar	NumType=Card	80	flat	_	XmlId=w_28_33541
 82	chevaliers	_	NOUN	NOMcom	_	88	nsubj	_	XmlId=w_28_33542
 83	en	_	ADV	PROadv	_	85	obl	_	XmlId=w_28_33543
@@ -74206,7 +74206,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 17	qui	_	PRON	PROrel	PronType=Rel	18	nsubj	_	XmlId=w_28_33789
 18	estoit	_	VERB	VERcjg	VerbForm=Fin	16	acl:relcl	_	XmlId=w_28_33790
 19	bien	_	ADV	ADVgen	_	18	advmod	_	XmlId=w_28_33791
-20	quinze	_	DET	DETcar	NumType=Card	21	nummod	_	XmlId=w_28_33792
+20	quinze	_	NUM	DETcar	NumType=Card	21	nummod	_	XmlId=w_28_33792
 21	journees	_	NOUN	NOMcom	_	18	obl	_	XmlId=w_28_33793
 22	loins	_	ADV	ADVgen	_	24	advmod	_	XmlId=w_28_33794
 23	de	_	ADP	PRE	_	24	case	_	XmlId=w_28_33795
@@ -74441,7 +74441,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 27	de	_	ADP	PRE	_	28	case	_	XmlId=w_28_33976
 28	si	_	ADV	ADVgen	_	22	advmod	_	XmlId=w_28_33977
 29	a	_	ADP	PRE	_	31	case	_	XmlId=w_28_33978
-30	quinze	_	DET	DETcar	NumType=Card	31	nummod	_	XmlId=w_28_33979
+30	quinze	_	NUM	DETcar	NumType=Card	31	nummod	_	XmlId=w_28_33979
 31	journées	_	NOUN	NOMcom	_	22	obl	_	XmlId=w_28_33980
 32	loins	_	ADJ	ADJqua	_	31	amod	_	XmlId=w_28_33981
 33	de	_	ADP	PRE	_	34	case	_	XmlId=w_28_33982
@@ -74962,7 +74962,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 4	connissiés	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_34389
 5	vous	_	PRON	PROper	PronType=Prs	4	nsubj	_	XmlId=w_28_34390
 6	mes	_	DET	DETpos	Poss=Yes	8	det	_	XmlId=w_28_34391
-7	deux	_	DET	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_34392
+7	deux	_	NUM	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_34392
 8	enfans	_	NOUN	NOMcom	_	4	obj	_	XmlId=w_28_34393
 9	que	_	PRON	PROrel	PronType=Rel	11	obj	_	XmlId=w_28_34394
 10	jou	_	PRON	PROper	PronType=Prs	11	nsubj	_	XmlId=w_28_34395
@@ -75159,7 +75159,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 22	paistre	_	VERB	VERinf	VerbForm=Inf	20	acl	_	XmlId=w_28_34549
 23	plus	_	ADV	ADVgen	_	26	advmod	_	XmlId=w_28_34550
 24	de	_	ADP	PRE	_	26	case	_	XmlId=w_28_34551
-25	chent	_	DET	DETcar	NumType=Card	26	nummod	_	XmlId=w_28_34552
+25	chent	_	NUM	DETcar	NumType=Card	26	nummod	_	XmlId=w_28_34552
 26	hommes	_	NOUN	NOMcom	_	22	obj	_	SpaceAfter=No|XmlId=w_28_34553
 27	,	_	PUNCT	PONfbl	_	13	punct	_	XmlId=w_28_34554
 
@@ -75332,7 +75332,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_34690
 3	morurent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_34691
 4	bien	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_34692
-5	chinquante	_	DET	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_34693
+5	chinquante	_	NUM	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_34693
 6	chevaliers	_	NOUN	NOMcom	_	3	nsubj	_	XmlId=w_28_34694
 7	en	_	ADP	PRE	_	9	case	_	XmlId=w_28_34695
 8	chele	_	DET	DETdem	PronType=Dem	9	det	_	XmlId=w_28_34696
@@ -75553,7 +75553,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 30	,	_	PUNCT	PONfbl	_	1	punct	_	XmlId=w_28_34891
 31	si	_	ADV	ADVgen	_	32	advmod	_	XmlId=w_28_34892
 32	envoierent	_	VERB	VERcjg	VerbForm=Fin	1	advcl	_	XmlId=w_28_34893
-33	quatre	_	DET	DETcar	NumType=Card	34	nummod	_	XmlId=w_28_34894
+33	quatre	_	NUM	DETcar	NumType=Card	34	nummod	_	XmlId=w_28_34894
 34	messages	_	NOUN	NOMcom	_	32	obj	_	XmlId=w_28_34895
 35	a	_	ADP	PRE	_	37	case	_	XmlId=w_28_34896
 36	l'	_	DET	DETdef	Definite=Def|PronType=Art	37	det	_	SpaceAfter=No|XmlId=w_28_34897
@@ -75971,7 +75971,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 27	estoient	_	AUX	VERcjg	VerbForm=Fin	28	aux	_	XmlId=w_28_35259
 28	parti	_	VERB	VERppe	Tense=Past|VerbForm=Part	24	acl:relcl	_	XmlId=w_28_35260
 29	bien	_	ADV	ADVgen	_	30	advmod	_	XmlId=w_28_35261
-30	une	_	DET	DETcar	NumType=Card	31	nummod	_	XmlId=w_28_35262
+30	une	_	NUM	DETcar	NumType=Card	31	nummod	_	XmlId=w_28_35262
 31	liwe	_	NOUN	NOMcom	_	18	obl	_	XmlId=w_28_35263
 32	ou	_	CCONJ	CONcoo	_	33	cc	_	XmlId=w_28_35264
 33	deus	_	PRON	PROcar	NumType=Card	31	conj	_	SpaceAfter=No|XmlId=w_28_35265
@@ -76039,7 +76039,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	estoient	_	AUX	VERcjg	VerbForm=Fin	4	aux	_	XmlId=w_28_35311
 4	logié	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_28_35312
 5	bien	_	ADV	ADVgen	_	6	advmod	_	XmlId=w_28_35313
-6	deus	_	DET	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_35314
+6	deus	_	NUM	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_35314
 7	liwes	_	NOUN	NOMcom	_	4	obl	_	XmlId=w_28_35315
 8	ou	_	CCONJ	CONcoo	_	9	cc	_	XmlId=w_28_35316
 9	mains	_	ADV	ADVgen	_	6	obl	_	XmlId=w_28_35317
@@ -76511,7 +76511,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 21	tere	_	NOUN	NOMcom	_	18	nmod	_	XmlId=w_28_35695
 22	et	_	CCONJ	CONcoo	_	25	cc	_	XmlId=w_28_35696
 23	bien	_	ADV	ADVgen	_	24	advmod	_	XmlId=w_28_35697
-24	soisante	_	DET	DETcar	NumType=Card	25	nummod	_	XmlId=w_28_35698
+24	soisante	_	NUM	DETcar	NumType=Card	25	nummod	_	XmlId=w_28_35698
 25	chités	_	NOUN	NOMcom	_	18	conj	_	SpaceAfter=No|XmlId=w_28_35699
 26	,	_	PUNCT	PONfbl	_	29	punct	_	XmlId=w_28_35700
 27	estre	_	ADP	PRE	_	29	case	_	XmlId=w_28_35701
@@ -76548,7 +76548,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 1	et	_	CCONJ	CONcoo	_	7	cc:nc	_	XmlId=w_28_35728
 2	les	_	DET	DETdef	Definite=Def|PronType=Art	5	det	_	XmlId=w_28_35729
 3	autres	_	ADJ	ADJind	PronType=Ind	5	amod	_	XmlId=w_28_35730
-4	trois	_	ADJ	ADJcar	NumType=Card	5	nummod	_	XmlId=w_28_35731
+4	trois	_	NUM	ADJcar	NumType=Card	5	nummod	_	XmlId=w_28_35731
 5	parties	_	NOUN	NOMcom	_	7	nsubj	_	XmlId=w_28_35732
 6	furent	_	VERB	VERcjg	VerbForm=Fin	7	aux:pass	_	XmlId=w_28_35733
 7	departies	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_28_35734
@@ -76561,7 +76561,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 14	le	_	DET	DETdef	Definite=Def|PronType=Art	15	det	_	XmlId=w_28_35741
 15	motié	_	NOUN	NOMcom	_	13	obj	_	XmlId=w_28_35742
 16	des	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	18	case:det	_	XmlId=w_28_35743
-17	trois	_	ADJ	ADJcar	NumType=Card	18	nummod	_	XmlId=w_28_35744
+17	trois	_	NUM	ADJcar	NumType=Card	18	nummod	_	XmlId=w_28_35744
 18	parties	_	NOUN	NOMcom	_	15	nmod	_	XmlId=w_28_35745
 19	et	_	CCONJ	CONcoo	_	17	cc	_	XmlId=w_28_35746
 20	li	_	DET	DETdef	Definite=Def|PronType=Art	21	det	_	XmlId=w_28_35747
@@ -76660,7 +76660,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 6	cui	_	PRON	PROrel	PronType=Rel	8	obl	_	XmlId=w_28_35820
 7	on	_	PRON	PROind	PronType=Ind	8	nsubj	_	XmlId=w_28_35821
 8	donna	_	VERB	VERcjg	VerbForm=Fin	4	acl:relcl	_	XmlId=w_28_35822
-9	deus	_	DET	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_35823
+9	deus	_	NUM	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_35823
 10	chens	_	DET	DETcar	NumType=Card	9	flat	_	XmlId=w_28_35824
 11	fiés	_	NOUN	NOMcom	_	8	obj	_	XmlId=w_28_35825
 12	a	_	ADP	PRE	_	13	case	_	XmlId=w_28_35826
@@ -76754,7 +76754,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	valoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_35882
 3	li	_	DET	DETdef	Definite=Def|PronType=Art	4	det	_	XmlId=w_28_35883
 4	fiés	_	NOUN	NOMcom	_	2	nsubj	_	XmlId=w_28_35884
-5	trois	_	DET	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_35885
+5	trois	_	NUM	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_35885
 6	chens	_	DET	DETcar	NumType=Card	5	flat	_	XmlId=w_28_35886
 7	livrees	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_35887
 8	d'	_	ADP	PRE	_	9	case	_	SpaceAfter=No|XmlId=w_28_35888
@@ -77256,7 +77256,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	en	_	ADP	PRE	_	5	case	_	XmlId=w_28_36292
 4	chele	_	DET	DETdem	PronType=Dem	5	det	_	XmlId=w_28_36293
 5	vile	_	NOUN	NOMcom	_	2	obl	_	XmlId=w_28_36294
-6	deus	_	DET	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_36295
+6	deus	_	NUM	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_36295
 7	hautes	_	ADJ	ADJqua	_	8	amod	_	XmlId=w_28_36296
 8	colombes	_	NOUN	NOMcom	_	2	obl	_	SpaceAfter=No|XmlId=w_28_36297
 9	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_36298
@@ -77272,7 +77272,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 6	n'	_	ADV	ADVneg	Polarity=Neg	7	advmod	_	SpaceAfter=No|XmlId=w_28_36304
 7	ait	_	VERB	VERcjg	VerbForm=Fin	4	acl:relcl	_	XmlId=w_28_36305
 8	tost	_	ADV	ADVgen	_	7	advmod	_	XmlId=w_28_36306
-9	soisante	_	DET	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_36307
+9	soisante	_	NUM	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_36307
 10	toises	_	NOUN	NOMcom	_	7	obj	_	XmlId=w_28_36308
 11	ou	_	CCONJ	CONcoo	_	12	cc	_	XmlId=w_28_36309
 12	chinquante	_	PRON	PROcar	NumType=Card	10	conj	_	XmlId=w_28_36310
@@ -77318,7 +77318,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	cho	_	PRON	PROdem	PronType=Dem	2	nsubj	_	XmlId=w_28_36338
 4	de	_	ADP	PRE	_	7	case	_	XmlId=w_28_36339
 5	ches	_	DET	DETdem	PronType=Dem	7	det	_	XmlId=w_28_36340
-6	deus	_	ADJ	ADJcar	NumType=Card	7	nummod	_	XmlId=w_28_36341
+6	deus	_	NUM	ADJcar	NumType=Card	7	nummod	_	XmlId=w_28_36341
 7	colombes	_	NOUN	NOMcom	_	2	obl	_	XmlId=w_28_36342
 8	ou	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	12	obl	_	XmlId=w_28_36343
 9	sus	_	ADV	ADVgen	_	12	advmod	_	XmlId=w_28_36344
@@ -78167,7 +78167,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 43	i	_	ADV	PROadv	_	44	obl:advmod	_	XmlId=w_28_37011
 44	perdi	_	VERB	VERcjg	VerbForm=Fin	36	advcl	_	XmlId=w_28_37012
 45	on	_	PRON	PROind	PronType=Ind	44	nsubj	_	XmlId=w_28_37013
-46	trois	_	DET	DETcar	NumType=Card	47	nummod	_	XmlId=w_28_37014
+46	trois	_	NUM	DETcar	NumType=Card	47	nummod	_	XmlId=w_28_37014
 47	chens	_	DET	DETcar	NumType=Card	46	flat	_	XmlId=w_28_37015
 48	chevaliers	_	NOUN	NOMcom	_	44	obj	_	XmlId=w_28_37016
 49	;	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_37017
@@ -79124,7 +79124,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 8	empereres	_	NOUN	NOMcom	_	10	nsubj	_	XmlId=w_28_37788
 9	i	_	ADV	PROadv	_	10	obl	_	XmlId=w_28_37789
 10	envoia	_	VERB	VERcjg	VerbForm=Fin	3	advcl	_	XmlId=w_28_37790
-11	deus	_	DET	DETcar	NumType=Card	12	nummod	_	XmlId=w_28_37791
+11	deus	_	NUM	DETcar	NumType=Card	12	nummod	_	XmlId=w_28_37791
 12	chevaliers	_	NOUN	NOMcom	_	10	obj	_	XmlId=w_28_37792
 13	haus	_	ADJ	ADJqua	_	14	amod	_	XmlId=w_28_37793
 14	hommes	_	NOUN	NOMcom	_	12	appos	_	SpaceAfter=No|XmlId=w_28_37794
@@ -79246,7 +79246,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	li	_	PRON	PROper	PronType=Prs	4	iobj	_	XmlId=w_28_37882
 3	fist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37883
 4	baillier	_	VERB	VERinf	VerbForm=Inf	3	xcomp	_	XmlId=w_28_37884
-5	soisante	_	DET	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_37885
+5	soisante	_	NUM	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_37885
 6	sommiers	_	NOUN	NOMcom	_	4	obj	_	XmlId=w_28_37886
 7	tous	_	ADV	ADVgen	_	8	advmod	_	XmlId=w_28_37887
 8	carkiés	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	acl	_	XmlId=w_28_37888
@@ -79294,7 +79294,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 20	il	_	PRON	PROper	PronType=Prs	21	nsubj	_	XmlId=w_28_37926
 21	trainoit	_	VERB	VERcjg	VerbForm=Fin	18	advcl	_	XmlId=w_28_37927
 22	bien	_	ADV	ADVgen	_	23	advmod	_	XmlId=w_28_37928
-23	set	_	DET	DETcar	NumType=Card	24	nummod	_	XmlId=w_28_37929
+23	set	_	NUM	DETcar	NumType=Card	24	nummod	_	XmlId=w_28_37929
 24	piés	_	NOUN	NOMcom	_	21	obl	_	XmlId=w_28_37930
 25	ou	_	CCONJ	CONcoo	_	26	cc	_	XmlId=w_28_37931
 26	uit	_	PRON	PROcar	NumType=Card	23	conj	_	XmlId=w_28_37932
