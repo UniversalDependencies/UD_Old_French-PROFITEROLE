@@ -50432,7 +50432,7 @@
 # sent_id = clari-924
 1	et	_	CCONJ	CONcoo	_	14	cc:nc	_	XmlId=w_28_14496
 2	chil	_	PRON	PROdem	PronType=Dem	14	nsubj	_	XmlId=w_28_14497
-3	qu'	_	PRON	PROrel	PronType=Rel|Typo=Yes	5	nsubj	_	SpaceAfter=No|XmlId=w_28_14498
+3	qu'	_	PRON	PROrel	PronType=Rel|Typo=Yes	5	nsubj	_	SpaceAfter=No|XmlId=w_28_14498|SpaceTypo=Yes
 4	il	_	X	PROper	_	3	goeswith	_	XmlId=w_28_14499
 5	estoient	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	XmlId=w_28_14500
 6	es	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	7	case:det	_	XmlId=w_28_14501
