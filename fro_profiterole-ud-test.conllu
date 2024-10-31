@@ -46885,7 +46885,7 @@
 19	il	_	PRON	PROper	PronType=Prs	20	nsubj	_	XmlId=w_28_11698
 20	fuoient	_	VERB	VERcjg	VerbForm=Fin	17	ccomp	_	SpaceAfter=No|XmlId=w_28_11699
 21	,	_	PUNCT	PONfbl	_	23	punct	_	XmlId=w_28_11700
-22	se	_	ADV	ADVgen	_	23	expl	_	XmlId=w_28_11701
+22	se	_	PRON	ADVgen	_	23	expl	_	XmlId=w_28_11701
 23	ist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_11702
 24	il	_	PRON	PROper	PronType=Prs	23	nsubj	_	XmlId=w_28_11703
 25	hors	_	ADV	ADVgen	_	28	case	_	XmlId=w_28_11704
@@ -49181,7 +49181,7 @@
 22	ne	_	ADV	ADVneg	Polarity=Neg	25	advmod	_	XmlId=w_28_13532
 23	s'	_	PRON	PROper	PronType=Prs	25	expl	_	SpaceAfter=No|XmlId=w_28_13533
 24	i	_	ADV	PROadv	_	25	obl:advmod	_	XmlId=w_28_13534
-25	armerent	_	VERB	VERcjg	VerbForm=Fin	15	advcl	_	SpaceAfter=No|XmlId=w_28_13535
+25	armerent	_	VERB	VERcjg	VerbForm=Fin	16	advcl	_	SpaceAfter=No|XmlId=w_28_13535
 26	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_13536
 
 # text = si laissent il aler trestoutes leur chent galies,
@@ -52957,7 +52957,7 @@
 9	avangarde	_	NOUN	NOMcom	_	7	obj	_	SpaceAfter=No|XmlId=w_28_16580
 10	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_16581
 11	chevaucha	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_16582
-12	premiers	_	ADV	ADJord	NumType=Ord	11	advmod	_	XmlId=w_28_16583
+12	premiers	_	ADJ	ADJord	NumType=Ord	11	advcl	_	XmlId=w_28_16583
 13	encontre	_	ADP	PRE	_	15	case	_	XmlId=w_28_16584
 14	l'	_	DET	DETdef	Definite=Def|PronType=Art	15	det	_	SpaceAfter=No|XmlId=w_28_16585
 15	empereur	_	NOUN	NOMcom	_	11	obl	_	XmlId=w_28_16586
