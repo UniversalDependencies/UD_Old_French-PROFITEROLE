@@ -33593,7 +33593,7 @@
 8	que	_	SCONJ	CONsub	_	12	mark	_	XmlId=w_28_01098
 9	li	_	DET	DETdef	Definite=Def|PronType=Art	10	det	_	XmlId=w_28_01099
 10	cuens	_	NOUN	NOMcom	_	12	nsubj	_	XmlId=w_28_01100
-11	Tiebaus	_	PROPN	NOMpro	_	9	flat	_	XmlId=w_28_01101
+11	Tiebaus	_	PROPN	NOMpro	_	10	flat	_	XmlId=w_28_01101
 12	morut	_	VERB	VERcjg	VerbForm=Fin	4	ccomp	_	SpaceAfter=No|XmlId=w_28_01102
 13	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_01103
 
@@ -33671,7 +33671,7 @@
 16	,	_	PUNCT	PONfbl	_	15	punct	_	XmlId=w_28_01164
 17	et	_	CCONJ	CONcoo	_	18	cc	_	XmlId=w_28_01165
 18	maistres	_	NOUN	NOMcom	_	7	conj	_	XmlId=w_28_01166
-19	Foukes	_	PROPN	NOMpro	_	17	flat	_	XmlId=w_28_01167
+19	Foukes	_	PROPN	NOMpro	_	18	flat	_	XmlId=w_28_01167
 20	ausi	_	ADV	ADVgen	_	15	advmod	_	SpaceAfter=No|XmlId=w_28_01168
 21	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_01169
 22	si	_	ADV	ADVgen	_	26	advmod	_	XmlId=w_28_01170
@@ -40716,7 +40716,7 @@
 18	pesoit	_	VERB	VERcjg	VerbForm=Fin	14	ccomp	_	XmlId=w_28_06798
 19	qu'	_	SCONJ	CONsub	_	22	mark	_	SpaceAfter=No|XmlId=w_28_06799
 20	il	_	PRON	PROper	PronType=Prs	22	nsubj	_	XmlId=w_28_06800
-21	estoit	_	AUX	VERcjg	VerbForm=Fin	19	cop	_	XmlId=w_28_06801
+21	estoit	_	AUX	VERcjg	VerbForm=Fin	22	cop	_	XmlId=w_28_06801
 22	empereres	_	NOUN	NOMcom	_	18	ccomp	_	SpaceAfter=No|XmlId=w_28_06802
 23	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_06803
 
@@ -42922,7 +42922,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 5	en	_	ADP	PRE	_	7	case	_	XmlId=w_28_08520
 6	la	_	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_28_08521
 7	caiere	_	NOUN	NOMcom	_	4	obl	_	XmlId=w_28_08522
-8	Coustentin	_	PROPN	NOMpro	_	6	flat	_	SpaceAfter=No|XmlId=w_28_08523
+8	Coustentin	_	PROPN	NOMpro	_	7	flat	_	SpaceAfter=No|XmlId=w_28_08523
 9	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_08524
 
 # text = et puis qu'il fu assis en la caiere Coustentin, si l'aourerent tot comme saint empereeur.
@@ -48678,7 +48678,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 34	ne	_	CCONJ	CONcoo	_	35	cc	_	XmlId=w_28_13132
 35	blé	_	NOUN	NOMcom	_	33	conj	_	XmlId=w_28_13133
 36	dont	_	PRON	PROrel	PronType=Rel	41	obl	_	XmlId=w_28_13134
-37	nous	_	PRON	PROper	PronType=Prs	39	nsubj	_	XmlId=w_28_13135
+37	nous	_	PRON	PROper	PronType=Prs	41	nsubj	_	XmlId=w_28_13135
 38	nous	_	PRON	PROper	PronType=Prs	41	obj	_	XmlId=w_28_13136
 39	puissons	_	AUX	VERcjg	VerbForm=Fin	41	aux	_	XmlId=w_28_13137
 40	longement	_	ADV	ADVgen	_	41	advmod	_	XmlId=w_28_13138
@@ -49474,7 +49474,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	on	_	PRON	PROind	PronType=Ind	2	nsubj	_	XmlId=w_28_13748
 4	a	_	ADP	PRE	_	5	case	_	XmlId=w_28_13749
 5	monseigneur	_	NOUN	NOMcom	_	2	obl	_	XmlId=w_28_13750
-6	Hainfroi	_	PROPN	NOMpro	_	4	flat	_	XmlId=w_28_13751
+6	Hainfroi	_	PROPN	NOMpro	_	5	flat	_	XmlId=w_28_13751
 7	se	_	DET	DETpos	Poss=Yes	8	det	_	XmlId=w_28_13752
 8	femme	_	NOUN	NOMcom	_	2	obj	_	SpaceAfter=No|XmlId=w_28_13753
 9	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_13754
@@ -50849,7 +50849,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	les	_	PRON	PROper	PronType=Prs	3	obj	_	XmlId=w_28_14823
 3	misent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_14824
 4	par	_	ADP	PRE	_	5	case	_	XmlId=w_28_14825
-5	devant	_	ADV	ADVgen	_	3	case	_	XmlId=w_28_14826
+5	devant	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_14826
 6	en	_	ADP	PRE	_	7	case	_	XmlId=w_28_14827
 7	barges	_	NOUN	NOMcom	_	3	obl	_	XmlId=w_28_14828
 8	pour	_	ADP	PRE	_	9	mark	_	XmlId=w_28_14829
@@ -52623,7 +52623,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 17	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_16301
 18	et	_	CCONJ	CONcoo	_	19	cc	_	XmlId=w_28_16302
 19	mesires	_	NOUN	NOMcom	_	8	conj	_	XmlId=w_28_16303
-20	Henris	_	PROPN	NOMpro	_	18	flat	_	SpaceAfter=No|XmlId=w_28_16304
+20	Henris	_	PROPN	NOMpro	_	19	flat	_	SpaceAfter=No|XmlId=w_28_16304
 21	,	_	PUNCT	PONfbl	_	23	punct	_	XmlId=w_28_16305
 22	qui	_	PRON	PROrel	PronType=Rel	23	nsubj	_	XmlId=w_28_16306
 23	eurent	_	VERB	VERcjg	VerbForm=Fin	8	acl:relcl	_	XmlId=w_28_16307
@@ -53020,7 +53020,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 6	Pol	_	PROPN	NOMpro	_	3	nmod	_	XmlId=w_28_16622
 7	et	_	CCONJ	CONcoo	_	8	cc	_	XmlId=w_28_16623
 8	mesires	_	NOUN	NOMcom	_	3	conj	_	XmlId=w_28_16624
-9	Pierres	_	PROPN	NOMpro	_	7	flat	_	XmlId=w_28_16625
+9	Pierres	_	PROPN	NOMpro	_	8	flat	_	XmlId=w_28_16625
 10	d'	_	ADP	PRE	_	9	case	_	SpaceAfter=No|XmlId=w_28_16626
 11	Amiens	_	PROPN	NOMpro	_	9	nmod	_	SpaceAfter=No|XmlId=w_28_16627
 12	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_16628
@@ -53317,11 +53317,11 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 13	li	_	PRON	PROper	PronType=Prs	14	iobj	_	XmlId=w_28_16871
 14	loa	_	VERB	VERcjg	VerbForm=Fin	5	advcl	_	SpaceAfter=No|XmlId=w_28_16872
 15	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_16873
-16	et	_	CCONJ	CONcoo	_	cc	flat	_	XmlId=w_28_16874
+16	et	_	CCONJ	CONcoo	_	18 cc	_	XmlId=w_28_16874
 17	le	_	DET	DETdef	Definite=Def|PronType=Art	18	det	_	XmlId=w_28_16875
 18	bataille	_	NOUN	NOMcom	_	2	conj	_	XmlId=w_28_16876
 19	monseigneur	_	NOUN	NOMcom	_	18	nmod	_	XmlId=w_28_16877
-20	Henri	_	PROPN	NOMpro	_	18	flat	_	XmlId=w_28_16878
+20	Henri	_	PROPN	NOMpro	_	19	flat	_	XmlId=w_28_16878
 21	ausi	_	ADV	ADVgen	_	5	conj	_	SpaceAfter=No|XmlId=w_28_16879
 22	.	_	PUNCT	PONfrt	_	21	punct	_	XmlId=w_28_16880
 
@@ -53375,7 +53375,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 8	Pol	_	PROPN	NOMpro	_	5	nmod	_	XmlId=w_28_16917
 9	et	_	CCONJ	CONcoo	_	10	cc	_	XmlId=w_28_16918
 10	monseigneur	_	NOUN	NOMcom	_	5	conj	_	XmlId=w_28_16919
-11	Pierron	_	PROPN	NOMpro	_	9	flat	_	XmlId=w_28_16920
+11	Pierron	_	PROPN	NOMpro	_	10	flat	_	XmlId=w_28_16920
 12	d'	_	ADP	PRE	_	11	case	_	SpaceAfter=No|XmlId=w_28_16921
 13	Amiens	_	PROPN	NOMpro	_	11	flat	_	XmlId=w_28_16922
 14	virent	_	VERB	VERcjg	VerbForm=Fin	22	advcl	_	XmlId=w_28_16923
@@ -53498,7 +53498,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 12	Pol	_	PROPN	NOMpro	_	9	nmod	_	XmlId=w_28_17012
 13	ne	_	CCONJ	CONcoo	_	14	cc	_	XmlId=w_28_17013
 14	mesires	_	NOUN	NOMcom	_	9	conj	_	XmlId=w_28_17014
-15	Pierres	_	PROPN	NOMpro	_	13	flat	_	XmlId=w_28_17015
+15	Pierres	_	PROPN	NOMpro	_	14	flat	_	XmlId=w_28_17015
 16	d'	_	ADP	PRE	_	17	case	_	SpaceAfter=No|XmlId=w_28_17016
 17	Amiens	_	PROPN	NOMpro	_	15	nmod	_	XmlId=w_28_17017
 18	ne	_	ADV	ADVneg	Polarity=Neg	19	advmod	_	XmlId=w_28_17018
@@ -53528,7 +53528,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 # sent_id = clari-1063
 1	Et	_	CCONJ	CONcoo	_	7	cc:nc	_	XmlId=w_28_17035
 2	mesires	_	NOUN	NOMcom	_	7	nsubj	_	XmlId=w_28_17036
-3	Pierres	_	PROPN	NOMpro	_	1	flat	_	XmlId=w_28_17037
+3	Pierres	_	PROPN	NOMpro	_	2	flat	_	XmlId=w_28_17037
 4	d'	_	ADP	PRE	_	5	case	_	SpaceAfter=No|XmlId=w_28_17038
 5	Amiens	_	PROPN	NOMpro	_	3	nmod	_	XmlId=w_28_17039
 6	li	_	PRON	PROper	PronType=Prs	7	iobj	_	XmlId=w_28_17040
@@ -53586,7 +53586,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 6	Pol	_	PROPN	NOMpro	_	3	nmod	_	XmlId=w_28_17084
 7	et	_	CCONJ	CONcoo	_	8	cc	_	XmlId=w_28_17085
 8	mesires	_	NOUN	NOMcom	_	3	conj	_	XmlId=w_28_17086
-9	Pierres	_	PROPN	NOMpro	_	7	flat	_	XmlId=w_28_17087
+9	Pierres	_	PROPN	NOMpro	_	8	flat	_	XmlId=w_28_17087
 10	d'	_	ADP	PRE	_	11	case	_	SpaceAfter=No|XmlId=w_28_17088
 11	Amiens	_	PROPN	NOMpro	_	9	nmod	_	XmlId=w_28_17089
 12	li	_	PRON	PROper	PronType=Prs	13	iobj	_	XmlId=w_28_17090
@@ -53607,7 +53607,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 1	Adonques	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_17101
 2	vint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_17102
 3	mesires	_	NOUN	NOMcom	_	2	nsubj	_	XmlId=w_28_17103
-4	Pierres	_	PROPN	NOMpro	_	2	flat	_	XmlId=w_28_17104
+4	Pierres	_	PROPN	NOMpro	_	3	flat	_	XmlId=w_28_17104
 5	d'	_	ADP	PRE	_	6	case	_	SpaceAfter=No|XmlId=w_28_17105
 6	Amiens	_	PROPN	NOMpro	_	4	nmod	_	XmlId=w_28_17106
 7	et	_	CCONJ	CONcoo	_	8	cc	_	XmlId=w_28_17107
@@ -53706,7 +53706,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 5	Pol	_	PROPN	NOMpro	_	2	nmod	_	XmlId=w_28_17172
 6	et	_	CCONJ	CONcoo	_	7	cc	_	XmlId=w_28_17173
 7	mesires	_	NOUN	NOMcom	_	2	conj	_	XmlId=w_28_17174
-8	Pierres	_	PROPN	NOMpro	_	6	flat	_	XmlId=w_28_17175
+8	Pierres	_	PROPN	NOMpro	_	7	flat	_	XmlId=w_28_17175
 9	d'	_	ADP	PRE	_	10	case	_	SpaceAfter=No|XmlId=w_28_17176
 10	Amiens	_	PROPN	NOMpro	_	8	nmod	_	XmlId=w_28_17177
 11	veut	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_17178
@@ -53907,7 +53907,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 17	Pol	_	PROPN	NOMpro	_	14	nmod	_	XmlId=w_28_17329
 18	et	_	CCONJ	CONcoo	_	19	cc	_	XmlId=w_28_17330
 19	mesires	_	NOUN	NOMcom	_	14	conj	_	XmlId=w_28_17331
-20	Pierres	_	PROPN	NOMpro	_	18	flat	_	XmlId=w_28_17332
+20	Pierres	_	PROPN	NOMpro	_	19	flat	_	XmlId=w_28_17332
 21	d'	_	ADP	PRE	_	22	case	_	SpaceAfter=No|XmlId=w_28_17333
 22	Amiens	_	PROPN	NOMpro	_	20	nmod	_	XmlId=w_28_17334
 23	ne	_	ADV	ADVneg	Polarity=Neg	24	advmod	_	XmlId=w_28_17335
@@ -54008,7 +54008,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 13	Pol	_	PROPN	NOMpro	_	10	nmod	_	XmlId=w_28_17410
 14	et	_	CCONJ	CONcoo	_	15	cc	_	XmlId=w_28_17411
 15	monseigneur	_	NOUN	NOMcom	_	10	conj	_	XmlId=w_28_17412
-16	Pierre	_	PROPN	NOMpro	_	14	flat	_	XmlId=w_28_17413
+16	Pierre	_	PROPN	NOMpro	_	15	flat	_	XmlId=w_28_17413
 17	d'	_	ADP	PRE	_	16	case	_	SpaceAfter=No|XmlId=w_28_17414
 18	Amiens	_	PROPN	NOMpro	_	16	nmod	_	SpaceAfter=No|XmlId=w_28_17415
 19	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_17416
@@ -54326,7 +54326,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	estoient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_17672
 4	molt	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_17673
 5	en	_	ADP	PRE	_	6	case	_	XmlId=w_28_17674
-6	sus	_	ADV	ADVgen	_	9	case	_	XmlId=w_28_17675
+6	sus	_	ADV	ADVgen	_	9	advmod	_	XmlId=w_28_17675
 7	de	_	ADP	PRE	_	9	case	_	XmlId=w_28_17676
 8	l'	_	DET	DETdef	Definite=Def|PronType=Art	9	det	_	SpaceAfter=No|XmlId=w_28_17677
 9	ost	_	NOUN	NOMcom	_	3	obl	_	XmlId=w_28_17678
@@ -61263,7 +61263,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	cachierent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_23219
 3	l'	_	DET	DETdef	Definite=Def|PronType=Art	4	det	_	SpaceAfter=No|XmlId=w_28_23220
 4	empereur	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_23221
-5	Morchofle	_	PROPN	NOMpro	_	3	flat	_	XmlId=w_28_23222
+5	Morchofle	_	PROPN	NOMpro	_	4	flat	_	XmlId=w_28_23222
 6	largement	_	ADV	ADVgen	_	7	advmod	_	XmlId=w_28_23223
 7	demie	_	ADJ	ADJqua	_	8	amod	_	XmlId=w_28_23224
 8	liwe	_	NOUN	NOMcom	_	2	obl	_	SpaceAfter=No|XmlId=w_28_23225
@@ -61442,7 +61442,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	poinsent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_23362
 3	encontre	_	ADP	PRE	_	4	case	_	XmlId=w_28_23363
 4	seigneur	_	NOUN	NOMcom	_	2	obl	_	XmlId=w_28_23364
-5	Henri	_	PROPN	NOMpro	_	3	flat	_	XmlId=w_28_23365
+5	Henri	_	PROPN	NOMpro	_	4	flat	_	XmlId=w_28_23365
 6	pour	_	ADP	PRE	_	8	mark	_	XmlId=w_28_23366
 7	lui	_	PRON	PROper	PronType=Prs	8	obj	_	XmlId=w_28_23367
 8	secorre	_	VERB	VERinf	VerbForm=Inf	2	advcl	_	SpaceAfter=No|XmlId=w_28_23368
