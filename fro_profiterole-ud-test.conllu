@@ -33748,7 +33748,7 @@
 1	Il	_	PRON	PROper	PronType=Prs	3	nsubj	_	XmlId=w_28_01229
 2	i	_	ADV	PROadv	_	3	obl:advmod	_	XmlId=w_28_01230
 3	envoierent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_01231
-4	molt	_	DET	DETind	PronType=Ind	5	advmod	_	XmlId=w_28_01232
+4	molt	_	ADV	DETind	PronType=Ind	5	advmod	_	XmlId=w_28_01232
 5	boins	_	ADJ	ADJqua	_	6	amod	_	XmlId=w_28_01233
 6	messages	_	NOUN	NOMcom	_	3	obj	_	XmlId=w_28_01234
 7	pour	_	ADP	PRE	_	8	case	_	XmlId=w_28_01235
@@ -35254,7 +35254,7 @@
 4	y	_	ADV	PROadv	_	6	obl:advmod	_	XmlId=w_28_02401
 5	furent	_	AUX	VERcjg	VerbForm=Fin	6	aux	_	XmlId=w_28_02402
 6	venu	_	VERB	VERppe	Tense=Past|VerbForm=Part	11	advcl	_	XmlId=w_28_02403
-7	tout	_	PRON	PROind	PronType=Ind	8	advmod	_	XmlId=w_28_02404
+7	tout	_	PRON	PROind	PronType=Ind	6	obl	_	XmlId=w_28_02404
 8	ensanle	_	ADV	ADVgen	_	6	advmod	_	SpaceAfter=No|XmlId=w_28_02405
 9	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_02406
 10	si	_	ADV	ADVgen	_	11	advmod	_	XmlId=w_28_02407
@@ -36855,7 +36855,7 @@
 2	che	_	PRON	PROdem	PronType=Dem	6	nsubj	_	XmlId=w_28_03710
 3	n'	_	ADV	ADVneg	Polarity=Neg	6	advmod	_	SpaceAfter=No|XmlId=w_28_03711
 4	est	_	AUX	VERcjg	VerbForm=Fin	6	aux	_	XmlId=w_28_03712
-5	mi	_	NOUN	NOMcom	_	6	advmod	_	XmlId=w_28_03713
+5	mi	_	NOUN	NOMcom	_	6	obl	_	XmlId=w_28_03713
 6	remés	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_28_03714
 7	en	_	ADP	PRE	_	8	case	_	XmlId=w_28_03715
 8	mi	_	NOUN	NOMcom	_	6	obl	_	SpaceAfter=No|XmlId=w_28_03716
@@ -38100,7 +38100,7 @@
 14	en	_	ADV	PROadv	_	18	nmod	_	XmlId=w_28_04748
 15	eurent	_	VERB	VERcjg	VerbForm=Fin	2	advcl	_	XmlId=w_28_04749
 16	l'	_	DET	DETdef	Definite=Def|PronType=Art	18	det	_	SpaceAfter=No|XmlId=w_28_04750
-17	une	_	ADJ	ADJind	PronType=Ind	18	det	_	XmlId=w_28_04751
+17	une	_	ADJ	ADJind	PronType=Ind	18	amod	_	XmlId=w_28_04751
 18	moitié	_	NOUN	NOMcom	_	15	obj	_	XmlId=w_28_04752
 19	et	_	CCONJ	CONcoo	_	17	cc	_	XmlId=w_28_04753
 20	li	_	DET	DETdef	Definite=Def|PronType=Art	21	det	_	XmlId=w_28_04754
@@ -38403,7 +38403,7 @@
 8	despendu	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_28_04999
 9	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_05000
 10	que	_	CCONJ	CONcoo	_	13	cc	_	XmlId=w_28_05001
-11	ens	_	ADP	PRE	_	13	advmod	_	XmlId=w_28_05002
+11	ens	_	ADV	PRE	_	13	advmod	_	XmlId=w_28_05002
 12	u	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	13	case:det	_	XmlId=w_28_05003
 13	sejorner	_	NOUN	VERinf	VerbForm=Inf	8	obl	_	XmlId=w_28_05004
 14	qu'	_	PRON	PROrel	PronType=Rel	17	obj	_	SpaceAfter=No|XmlId=w_28_05005
@@ -38412,7 +38412,7 @@
 17	fait	_	VERB	VERppe	Tense=Past|VerbForm=Part	13	acl:relcl	_	SpaceAfter=No|XmlId=w_28_05008
 18	,	_	PUNCT	PONfbl	_	23	punct	_	XmlId=w_28_05009
 19	que	_	CCONJ	CONcoo	_	23	cc	_	XmlId=w_28_05010
-20	ens	_	ADP	PRE	_	23	advmod	_	XmlId=w_28_05011
+20	ens	_	ADV	PRE	_	23	advmod	_	XmlId=w_28_05011
 21	u	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	23	case:det	_	XmlId=w_28_05012
 22	grant	_	ADJ	ADJqua	_	23	amod	_	XmlId=w_28_05013
 23	loier	_	NOUN	NOMcom	_	13	conj	_	XmlId=w_28_05014
@@ -41780,7 +41780,7 @@
 13	il	_	PRON	PROper	PronType=Prs	15	nsubj	_	XmlId=w_28_07639
 14	le	_	PRON	PROper	PronType=Prs	15	obj	_	XmlId=w_28_07640
 15	pourfendi	_	VERB	VERcjg	VerbForm=Fin	2	advcl	_	XmlId=w_28_07641
-16	trestout	_	DET	DETind	PronType=Ind	15	advmod	_	XmlId=w_28_07642
+16	trestout	_	ADV	DETind	PronType=Ind	15	advmod	_	XmlId=w_28_07642
 17	dusques	_	ADP	PRE	_	19	case	_	XmlId=w_28_07643
 18	es	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	19	case:det	_	XmlId=w_28_07644
 19	dens	_	NOUN	NOMcom	_	15	obl	_	SpaceAfter=No|XmlId=w_28_07645
@@ -41915,7 +41915,7 @@
 17	rues	_	NOUN	NOMcom	_	14	obl	_	SpaceAfter=No|XmlId=w_28_07746
 18	,	_	PUNCT	PONfbl	_	12	punct	_	XmlId=w_28_07747
 19	qui	_	PRON	PROrel	PronType=Rel	22	nsubj	_	XmlId=w_28_07748
-20	tot	_	PRON	PROind	PronType=Ind	22	advmod	_	XmlId=w_28_07749
+20	tot	_	ADV	PROind	PronType=Ind	22	advmod	_	XmlId=w_28_07749
 21	estoient	_	AUX	VERcjg	VerbForm=Fin	22	aux	_	XmlId=w_28_07750
 22	esmari	_	VERB	VERppe	Tense=Past|VerbForm=Part	12	acl:relcl	_	XmlId=w_28_07751
 23	de	_	ADP	PRE	_	25	case	_	XmlId=w_28_07752
@@ -41947,7 +41947,7 @@
 5	Dieu	_	PROPN	NOMpro	_	6	nmod	_	XmlId=w_28_07770
 6	merchi	_	NOUN	NOMcom	_	10	obl	_	SpaceAfter=No|XmlId=w_28_07771
 7	,	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_07772
-8	ne	_	CCONJ	CONcoo	_	10	advmod	_	XmlId=w_28_07773
+8	ne	_	ADV	CONcoo	_	10	advmod	_	XmlId=w_28_07773
 9	me	_	PRON	PROper	PronType=Prs	10	obj	_	XmlId=w_28_07774
 10	tués	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_07775
 11	mie	_	ADV	ADVneg	Polarity=Neg	10	advmod	_	SpaceAfter=No|XmlId=w_28_07776
@@ -42191,7 +42191,7 @@
 4	s'	_	PRON	PROper	PronType=Prs	6	expl	_	SpaceAfter=No|XmlId=w_28_07962
 5	i	_	ADV	PROadv	_	6	obl:advmod	_	XmlId=w_28_07963
 6	acorderent	_	VERB	VERcjg	VerbForm=Fin	1	acl	_	XmlId=w_28_07964
-7	tout	_	PRON	PROind	PronType=Ind	6	advmod	_	XmlId=w_28_07965
+7	tout	_	ADV	PROind	PronType=Ind	6	advmod	_	XmlId=w_28_07965
 8	entr'	_	ADP	PRE	_	9	case	_	SpaceAfter=No|XmlId=w_28_07966
 9	aus	_	PRON	PROper	PronType=Prs	6	obl	_	SpaceAfter=No|XmlId=w_28_07967
 10	.	_	PUNCT	PONfrt	_	1	punct	_	XmlId=w_28_07968
@@ -42644,7 +42644,7 @@
 7	il	_	PRON	PROimp	PronType=Prs	9	expl	_	XmlId=w_28_08319
 8	y	_	ADV	PROadv	_	9	obl:advmod	_	XmlId=w_28_08320
 9	avoit	_	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	XmlId=w_28_08321
-10	chelui	_	PRON	PROdem	PronType=Dem	9	obl:advmod	_	XmlId=w_28_08322
+10	chelui	_	ADV	PROdem	PronType=Dem	9	obl:advmod	_	XmlId=w_28_08322
 11	qui	_	PRON	PROrel	PronType=Rel	12	nsubj	_	XmlId=w_28_08323
 12	eust	_	VERB	VERcjg	VerbForm=Fin	10	acl:relcl	_	XmlId=w_28_08324
 13	nul	_	DET	DETind	PronType=Ind	14	det	_	XmlId=w_28_08325
@@ -43059,7 +43059,7 @@
 7	si	_	ADV	ADVgen	_	11	advmod	_	XmlId=w_28_08642
 8	en	_	ADV	PROadv	_	11	obl:advmod	_	XmlId=w_28_08643
 9	furent	_	AUX	VERcjg	VerbForm=Fin	11	cop	_	XmlId=w_28_08644
-10	tout	_	PRON	PROind	PronType=Ind	11	advmod	_	XmlId=w_28_08645
+10	tout	_	ADV	PROind	PronType=Ind	11	advmod	_	XmlId=w_28_08645
 11	lié	_	ADJ	ADJqua	_	0	root	_	XmlId=w_28_08646
 12	du	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	14	case:det	_	XmlId=w_28_08647
 13	grant	_	ADJ	ADJqua	_	14	amod	_	XmlId=w_28_08648
@@ -44113,7 +44113,7 @@
 11	visages	_	NOUN	NOMcom	_	13	nsubj	_	XmlId=w_28_09470
 12	li	_	PRON	PROper	PronType=Prs	13	iobj	_	XmlId=w_28_09471
 13	iert	_	VERB	VERcjg	VerbForm=Fin	3	advcl	_	XmlId=w_28_09472
-14	droit	_	ADJ	ADJqua	_	13	advmod	_	XmlId=w_28_09473
+14	droit	_	ADV	ADJqua	_	13	advmod	_	XmlId=w_28_09473
 15	ens	_	ADV	ADVgen	_	17	case	_	XmlId=w_28_09474
 16	u	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	17	case:det	_	XmlId=w_28_09475
 17	cul	_	NOUN	NOMcom	_	14	nmod	_	XmlId=w_28_09476
@@ -45339,7 +45339,7 @@
 7	n'	_	ADV	ADVneg	Polarity=Neg	8	advmod	_	SpaceAfter=No|XmlId=w_28_10454
 8	aroit	_	VERB	VERcjg	VerbForm=Fin	4	ccomp	_	XmlId=w_28_10455
 9	jamais	_	ADV	ADVgen	_	8	advmod	_	XmlId=w_28_10456
-10	point	_	NOUN	NOMcom	_	8	advmod	_	XmlId=w_28_10457
+10	point	_	ADV	NOMcom	_	8	advmod	_	XmlId=w_28_10457
 11	de	_	ADP	PRE	_	13	case	_	XmlId=w_28_10458
 12	sen	_	DET	DETpos	Poss=Yes	13	det	_	XmlId=w_28_10459
 13	hyretage	_	NOUN	NOMcom	_	8	obj	_	SpaceAfter=No|XmlId=w_28_10460
@@ -45981,7 +45981,7 @@
 5	nous	_	PRON	PROper	PronType=Prs	7	obj	_	XmlId=w_28_10978
 6	doit	_	AUX	VERcjg	VerbForm=Fin	7	aux	_	XmlId=w_28_10979
 7	sivir	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_28_10980
-8	que	_	SCONJ	CONsub	_	7	advmod	_	XmlId=w_28_10981
+8	que	_	ADV	CONsub	_	7	advmod	_	XmlId=w_28_10981
 9	un	_	NUM	DETcar	NumType=Card	10	nummod	_	XmlId=w_28_10982
 10	an	_	NOUN	NOMcom	_	7	obl	_	XmlId=w_28_10983
 
@@ -46516,7 +46516,7 @@
 1	Quant	_	SCONJ	CONsub	_	5	mark	_	XmlId=w_28_11405
 2	il	_	PRON	PROper	PronType=Prs	5	nsubj	_	XmlId=w_28_11406
 3	furent	_	AUX	VERcjg	VerbForm=Fin	5	aux	_	XmlId=w_28_11407
-4	tot	_	PRON	PROind	PronType=Ind	5	advmod	_	XmlId=w_28_11408
+4	tot	_	ADV	PROind	PronType=Ind	5	advmod	_	XmlId=w_28_11408
 5	venu	_	VERB	VERppe	Tense=Past|VerbForm=Part	8	advcl	_	SpaceAfter=No|XmlId=w_28_11409
 6	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_11410
 7	si	_	ADV	ADVgen	_	8	advmod	_	XmlId=w_28_11411
@@ -46527,7 +46527,7 @@
 12	il	_	PRON	PROper	PronType=Prs	14	nsubj	_	XmlId=w_28_11416
 13	s'	_	PRON	PROper	PronType=Prs	14	expl	_	SpaceAfter=No|XmlId=w_28_11417
 14	armassent	_	VERB	VERcjg	VerbForm=Fin	8	ccomp	_	XmlId=w_28_11418
-15	tout	_	PRON	PROind	PronType=Ind	14	advmod	_	SpaceAfter=No|XmlId=w_28_11419
+15	tout	_	ADV	PROind	PronType=Ind	14	advmod	_	SpaceAfter=No|XmlId=w_28_11419
 16	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_11420
 
 # text = et quant il furent tout armé et li marchis eut faite toute se gent armer, si prit tous ches Latins avec lui,
@@ -46537,7 +46537,7 @@
 2	quant	_	SCONJ	CONsub	_	6	mark	_	XmlId=w_28_11422
 3	il	_	PRON	PROper	PronType=Prs	6	nsubj	_	XmlId=w_28_11423
 4	furent	_	AUX	VERcjg	VerbForm=Fin	6	aux	_	XmlId=w_28_11424
-5	tout	_	PRON	PROind	PronType=Ind	6	advmod	_	XmlId=w_28_11425
+5	tout	_	ADV	PROind	PronType=Ind	6	advmod	_	XmlId=w_28_11425
 6	armé	_	VERB	VERppe	Tense=Past|VerbForm=Part	18	advcl	_	XmlId=w_28_11426
 7	et	_	CCONJ	CONcoo	_	11	cc	_	XmlId=w_28_11427
 8	li	_	DET	DETdef	Definite=Def|PronType=Art	9	det	_	XmlId=w_28_11428
@@ -46917,7 +46917,7 @@
 1	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_11722
 2	y	_	ADV	PROadv	_	3	obl	_	XmlId=w_28_11723
 3	waaignierent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_11724
-4	molt	_	PRON	PROind	PronType=Ind	3	advmod	_	SpaceAfter=No|XmlId=w_28_11725
+4	molt	_	ADV	PROind	PronType=Ind	3	advmod	_	SpaceAfter=No|XmlId=w_28_11725
 5	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_11726
 6	et	_	CCONJ	CONcoo	_	8	cc	_	XmlId=w_28_11727
 7	li	_	DET	DETdef	Definite=Def|PronType=Art	8	det	_	XmlId=w_28_11728
@@ -47299,7 +47299,7 @@
 26	de	_	ADP	PRE	_	27	case	_	XmlId=w_28_12024
 27	Jherusalem	_	PROPN	NOMpro	_	25	nmod	_	XmlId=w_28_12025
 28	estoit	_	AUX	VERcjg	VerbForm=Fin	30	aux	_	XmlId=w_28_12026
-29	tous	_	PRON	PROind	PronType=Ind	25	advmod	_	XmlId=w_28_12027
+29	tous	_	ADV	PROind	PronType=Ind	25	advmod	_	XmlId=w_28_12027
 30	perdus	_	VERB	VERppe	Tense=Past|VerbForm=Part	21	conj	_	XmlId=w_28_12028
 31	et	_	CCONJ	CONcoo	_	36	cc	_	XmlId=w_28_12029
 32	que	_	SCONJ	CONsub	_	36	mark	_	XmlId=w_28_12030
@@ -47617,7 +47617,7 @@
 2	il	_	PRON	PROper	PronType=Prs	6	nsubj	_	XmlId=w_28_12286
 3	se	_	PRON	PROper	PronType=Prs	6	expl	_	XmlId=w_28_12287
 4	furent	_	AUX	VERcjg	VerbForm=Fin	6	aux	_	XmlId=w_28_12288
-5	tout	_	PRON	PROind	PronType=Ind	6	advmod	_	XmlId=w_28_12289
+5	tout	_	ADV	PROind	PronType=Ind	6	advmod	_	XmlId=w_28_12289
 6	assanlé	_	VERB	VERppe	Tense=Past|VerbForm=Part	16	advcl	_	SpaceAfter=No|XmlId=w_28_12290
 7	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_12291
 8	et	_	CCONJ	CONcoo	_	11	cc	_	XmlId=w_28_12292
@@ -49330,7 +49330,7 @@
 14	devant	_	ADP	PRE	_	15	case	_	XmlId=w_28_13645
 15	lui	_	PRON	PROper	PronType=Prs	13	obl	_	SpaceAfter=No|XmlId=w_28_13646
 16	,	_	PUNCT	PONfbl	_	21	punct	_	XmlId=w_28_13647
-17	ne	_	CCONJ	CONcoo	_	21	advmod	_	XmlId=w_28_13648
+17	ne	_	ADV	CONcoo	_	21	advmod	_	XmlId=w_28_13648
 18	ne	_	ADV	ADVneg	Polarity=Neg	21	advmod	_	XmlId=w_28_13649
 19	leur	_	PRON	PROper	PronType=Prs	21	iobj	_	XmlId=w_28_13650
 20	pooit	_	AUX	VERcjg	VerbForm=Fin	21	aux	_	XmlId=w_28_13651
@@ -49918,7 +49918,7 @@
 7	li	_	DET	DETdef	Definite=Def|PronType=Art	8	det	_	XmlId=w_28_14097
 8	vaissel	_	NOUN	NOMcom	_	4	conj	_	XmlId=w_28_14098
 9	furent	_	AUX	VERcjg	VerbForm=Fin	11	cop	_	XmlId=w_28_14099
-10	tout	_	PRON	PROind	PronType=Ind	11	advmod	_	XmlId=w_28_14100
+10	tout	_	ADV	PROind	PronType=Ind	11	advmod	_	XmlId=w_28_14100
 11	ensanle	_	ADV	ADVgen	_	14	advcl	_	SpaceAfter=No|XmlId=w_28_14101
 12	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_14102
 13	si	_	ADV	ADVgen	_	14	advmod	_	XmlId=w_28_14103
@@ -51890,7 +51890,7 @@
 14	et	_	CCONJ	CONcoo	_	16	cc	_	XmlId=w_28_15693
 15	par	_	ADP	PRE	_	16	case	_	XmlId=w_28_15694
 16	mer	_	NOUN	NOMcom	_	13	conj	_	XmlId=w_28_15695
-17	tot	_	PRON	PROind	PronType=Ind	18	advmod	_	XmlId=w_28_15696
+17	tot	_	ADV	PROind	PronType=Ind	18	advmod	_	XmlId=w_28_15696
 18	ensanle	_	ADV	ADVgen	_	8	advmod	_	SpaceAfter=No|XmlId=w_28_15697
 19	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_28_15698
 
@@ -52957,7 +52957,7 @@
 9	avangarde	_	NOUN	NOMcom	_	7	obj	_	SpaceAfter=No|XmlId=w_28_16580
 10	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_16581
 11	chevaucha	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_16582
-12	premiers	_	ADJ	ADJord	NumType=Ord	11	advmod	_	XmlId=w_28_16583
+12	premiers	_	ADV	ADJord	NumType=Ord	11	advmod	_	XmlId=w_28_16583
 13	encontre	_	ADP	PRE	_	15	case	_	XmlId=w_28_16584
 14	l'	_	DET	DETdef	Definite=Def|PronType=Art	15	det	_	SpaceAfter=No|XmlId=w_28_16585
 15	empereur	_	NOUN	NOMcom	_	11	obl	_	XmlId=w_28_16586
@@ -61739,7 +61739,7 @@
 6	et	_	CCONJ	CONcoo	_	7	cc	_	XmlId=w_28_23612
 7	lever	_	VERB	VERinf	VerbForm=Inf	3	conj	_	XmlId=w_28_23613
 8	bien	_	ADV	ADVgen	_	9	advmod	_	XmlId=w_28_23614
-9	haut	_	ADJ	ADJqua	_	7	advmod	_	XmlId=w_28_23615
+9	haut	_	ADV	ADJqua	_	7	advmod	_	XmlId=w_28_23615
 10	en	_	ADP	PRE	_	12	case	_	XmlId=w_28_23616
 11	le	_	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_28_23617
 12	galie	_	NOUN	NOMcom	_	7	obl	_	SpaceAfter=No|XmlId=w_28_23618
@@ -63919,7 +63919,7 @@
 7	le	_	DET	DETdef	Definite=Def|PronType=Art	8	det	_	XmlId=w_28_25350
 8	navie	_	NOUN	NOMcom	_	3	obl	_	XmlId=w_28_25351
 9	plus	_	ADV	ADVgen	_	10	advmod	_	XmlId=w_28_25352
-10	haut	_	ADJ	ADJqua	_	3	advmod	_	XmlId=w_28_25353
+10	haut	_	ADV	ADJqua	_	3	advmod	_	XmlId=w_28_25353
 11	de	_	ADP	PRE	_	13	case	_	XmlId=w_28_25354
 12	quatre	_	NUM	DETcar	NumType=Card	13	nummod	_	XmlId=w_28_25355
 13	nes	_	NOUN	NOMcom	_	3	obl	_	XmlId=w_28_25356
@@ -64146,7 +64146,7 @@
 1	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_25541
 2	le	_	PRON	PROper	PronType=Prs	3	obj	_	XmlId=w_28_25542
 3	decauperent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_25543
-4	tout	_	PRON	PROind	PronType=Ind	3	advmod	_	SpaceAfter=No|XmlId=w_28_25544
+4	tout	_	ADV	PROind	PronType=Ind	3	advmod	_	SpaceAfter=No|XmlId=w_28_25544
 5	.	_	PUNCT	PONfrt	_	3	punct	_	XmlId=w_28_25545
 
 # text = Si comme le mers reporta avant le nef, si se rahurta a chele tour ;
@@ -66864,7 +66864,7 @@
 7	s'	_	ADV	ADVgen	_	11	expl	_	SpaceAfter=No|XmlId=w_28_27730
 8	en	_	ADV	PROadv	_	11	nmod	_	XmlId=w_28_27731
 9	furent	_	AUX	VERcjg	VerbForm=Fin	11	cop	_	XmlId=w_28_27732
-10	tout	_	PRON	PROind	PronType=Ind	11	advmod	_	XmlId=w_28_27733
+10	tout	_	ADV	PROind	PronType=Ind	11	advmod	_	XmlId=w_28_27733
 11	lié	_	ADJ	ADJqua	_	0	root	_	XmlId=w_28_27734
 12	;	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_27735
 
@@ -69036,7 +69036,7 @@
 19	et	_	CCONJ	CONcoo	_	20	cc	_	XmlId=w_28_29536
 20	molues	_	VERB	VERppe	Tense=Past|VerbForm=Part	18	conj	_	SpaceAfter=No|XmlId=w_28_29537
 21	,	_	PUNCT	PONfbl	_	23	punct	_	XmlId=w_28_29538
-22	tout	_	PRON	PROind	PronType=Ind	23	advmod	_	XmlId=w_28_29539
+22	tout	_	ADV	PROind	PronType=Ind	23	advmod	_	XmlId=w_28_29539
 23	jeté	_	VERB	VERppe	Tense=Past|VerbForm=Part	16	acl	_	XmlId=w_28_29540
 24	ensanle	_	ADV	ADVgen	_	23	advmod	_	SpaceAfter=No|XmlId=w_28_29541
 25	,	_	PUNCT	PONfbl	_	23	punct	_	XmlId=w_28_29542
@@ -69089,7 +69089,7 @@
 22	clokiers	_	NOUN	NOMcom	_	19	obl	_	SpaceAfter=No|XmlId=w_28_29581
 23	,	_	PUNCT	PONfbl	_	26	punct	_	XmlId=w_28_29582
 24	qui	_	PRON	PROrel	PronType=Rel	26	nsubj	_	XmlId=w_28_29583
-25	tous	_	PRON	PROind	PronType=Ind	26	advmod	_	XmlId=w_28_29584
+25	tous	_	ADV	PROind	PronType=Ind	26	advmod	_	XmlId=w_28_29584
 26	estoit	_	VERB	VERcjg	VerbForm=Fin	22	acl:relcl	_	XmlId=w_28_29585
 27	d'	_	ADP	PRE	_	28	case	_	SpaceAfter=No|XmlId=w_28_29586
 28	argent	_	NOUN	NOMcom	_	26	obl	_	XmlId=w_28_29587
@@ -69234,7 +69234,7 @@
 8	moustier	_	NOUN	NOMcom	_	6	nmod	_	SpaceAfter=No|XmlId=w_28_29703
 9	,	_	PUNCT	PONfbl	_	12	punct	_	XmlId=w_28_29704
 10	qui	_	PRON	PROrel	PronType=Rel	12	nsubj	_	XmlId=w_28_29705
-11	tous	_	PRON	PROind	PronType=Ind	12	advmod	_	XmlId=w_28_29706
+11	tous	_	ADV	PROind	PronType=Ind	12	advmod	_	XmlId=w_28_29706
 12	estoit	_	VERB	VERcjg	VerbForm=Fin	3	acl:relcl	_	XmlId=w_28_29707
 13	d'	_	ADP	PRE	_	14	case	_	SpaceAfter=No|XmlId=w_28_29708
 14	argent	_	NOUN	NOMcom	_	12	obl	_	SpaceAfter=No|XmlId=w_28_29709
@@ -70039,7 +70039,7 @@
 9	tere	_	NOUN	NOMcom	_	10	obj	_	XmlId=w_28_30374
 10	conquise	_	VERB	VERppe	Tense=Past|VerbForm=Part	3	conj	_	SpaceAfter=No|XmlId=w_28_30375
 11	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_30376
-12	dont	_	PRON	PROrel	PronType=Rel	14	advmod	_	XmlId=w_28_30377
+12	dont	_	ADV	PROrel	PronType=Rel	14	advmod	_	XmlId=w_28_30377
 13	si	_	ADV	ADVgen	_	14	advmod	_	XmlId=w_28_30378
 14	venoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_30379
 15	li	_	DET	DETdef	Definite=Def|PronType=Art	16	det	_	XmlId=w_28_30380
@@ -71012,7 +71012,7 @@
 21	venroient	_	VERB	VERcjg	VerbForm=Fin	16	ccomp	_	XmlId=w_28_31173
 22	une	_	DET	DETndf	Definite=Ind|PronType=Art	23	det	_	XmlId=w_28_31174
 23	gent	_	NOUN	NOMcom	_	21	nsubj	_	XmlId=w_28_31175
-24	haut	_	ADJ	ADJqua	_	25	advmod	_	XmlId=w_28_31176
+24	haut	_	ADV	ADJqua	_	25	advmod	_	XmlId=w_28_31176
 25	tondue	_	VERB	VERppe	Tense=Past|VerbForm=Part	23	acl	_	XmlId=w_28_31177
 26	a	_	ADP	PRE	_	27	case	_	XmlId=w_28_31178
 27	costeles	_	NOUN	NOMcom	_	23	nmod	_	XmlId=w_28_31179
@@ -72970,7 +72970,7 @@
 11	mantel	_	NOUN	NOMcom	_	4	obj	_	SpaceAfter=No|XmlId=w_28_32811
 12	,	_	PUNCT	PONfbl	_	16	punct	_	XmlId=w_28_32812
 13	qui	_	PRON	PROrel	PronType=Rel	16	nsubj	_	XmlId=w_28_32813
-14	tous	_	PRON	PROind	PronType=Ind	16	advmod	_	XmlId=w_28_32814
+14	tous	_	ADV	PROind	PronType=Ind	16	advmod	_	XmlId=w_28_32814
 15	estoit	_	AUX	VERcjg	VerbForm=Fin	16	aux	_	XmlId=w_28_32815
 16	carkiés	_	VERB	VERppe	Tense=Past|VerbForm=Part	11	acl:relcl	_	XmlId=w_28_32816
 17	de	_	ADP	PRE	_	19	case	_	XmlId=w_28_32817
@@ -75583,7 +75583,7 @@
 16	chou	_	PRON	PROdem	PronType=Dem	18	nsubj	_	XmlId=w_28_34943
 17	ne	_	ADV	ADVneg	Polarity=Neg	18	advmod	_	XmlId=w_28_34944
 18	valoit	_	VERB	VERcjg	VerbForm=Fin	14	ccomp	_	XmlId=w_28_34945
-19	riens	_	PRON	PROind	PronType=Ind	18	advmod	_	XmlId=w_28_34946
+19	riens	_	ADV	PROind	PronType=Ind	18	advmod	_	XmlId=w_28_34946
 20	qu'	_	SCONJ	CONsub	_	23	mark	_	SpaceAfter=No|XmlId=w_28_34947
 21	il	_	PRON	PROper	PronType=Prs	23	nsubj	_	XmlId=w_28_34948
 22	ne	_	ADV	ADVneg	Polarity=Neg	23	advmod	_	XmlId=w_28_34949
@@ -76285,7 +76285,7 @@
 # text = De n'avés vous, fisent il, teres en vos païs dont vous vous puissiés warir ? »
 # newdoc id = ClariConstantinople_1300_prose
 # sent_id = clari-2150
-1	De	_	ADP	PRE	_	3	advmod	_	XmlId=w_28_35538
+1	De	_	ADV	PRE	_	3	advmod	_	XmlId=w_28_35538
 2	n'	_	ADV	ADVneg	Polarity=Neg	3	advmod	_	SpaceAfter=No|XmlId=w_28_35539
 3	avés	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_35540
 4	vous	_	PRON	PROper	PronType=Prs	3	nsubj	_	SpaceAfter=No|XmlId=w_28_35541
@@ -76323,7 +76323,7 @@
 4	fist	_	VERB	VERcjg	VerbForm=Fin	11	parataxis	_	XmlId=w_28_35568
 5	il	_	PRON	PROper	PronType=Prs	4	nsubj	_	SpaceAfter=No|XmlId=w_28_35569
 6	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_35570
-7	de	_	ADP	PRE	_	11	advmod	_	XmlId=w_28_35572
+7	de	_	ADV	PRE	_	11	advmod	_	XmlId=w_28_35572
 8	n'	_	ADV	ADVneg	Polarity=Neg	11	advmod	_	SpaceAfter=No|XmlId=w_28_35573
 9	avés	_	AUX	VERcjg	VerbForm=Fin	11	aux	_	XmlId=w_28_35574
 10	vous	_	PRON	PROper	PronType=Prs	11	nsubj	_	XmlId=w_28_35575
@@ -76611,7 +76611,7 @@
 # text = se li donnoit on plus tere.
 # newdoc id = ClariConstantinople_1300_prose
 # sent_id = clari-2166
-1	se	_	SCONJ	CONsub	_	3	advmod	_	XmlId=w_28_35808
+1	se	_	ADV	CONsub	_	3	advmod	_	XmlId=w_28_35808
 2	li	_	PRON	PROper	PronType=Prs	3	iobj	_	XmlId=w_28_35809
 3	donnoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_35810
 4	on	_	PRON	PROind	PronType=Ind	3	nsubj	_	XmlId=w_28_35811
