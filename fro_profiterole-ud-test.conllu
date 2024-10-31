@@ -49161,7 +49161,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	il	_	PRON	PROper	PronType=Prs	3	nsubj	_	XmlId=w_28_13512
 3	fu	_	VERB	VERcjg	VerbForm=Fin	14	advcl	_	XmlId=w_28_13513
 4	un	_	DET	DETndf	Definite=Ind|PronType=Art	5	det	_	XmlId=w_28_13514
-5	peu	_	PRON	PROind	PronType=Ind	6	advmod	_	XmlId=w_28_13515
+5	peu	_	ADV	PROind	PronType=Ind	6	advmod	_	XmlId=w_28_13515
 6	loins	_	ADV	ADVgen	_	3	obl	_	XmlId=w_28_13516
 7	et	_	CCONJ	CONcoo	_	11	cc	_	XmlId=w_28_13517
 8	li	_	DET	DETdef	Definite=Def|PronType=Art	9	det	_	XmlId=w_28_13518
@@ -49171,7 +49171,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 12	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_13522
 13	si	_	ADV	ADVgen	_	14	advmod	_	XmlId=w_28_13523
 14	eurent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_13524
-15	tel	_	DET	DETind	PronType=Ind	16	adj	_	XmlId=w_28_13525
+15	tel	_	DET	DETind	PronType=Ind	16	det	_	XmlId=w_28_13525
 16	haste	_	NOUN	NOMcom	_	14	obj	_	XmlId=w_28_13526
 17	de	_	ADP	PRE	_	19	mark	_	XmlId=w_28_13527
 18	chelui	_	PRON	PROdem	PronType=Dem	19	obj	_	XmlId=w_28_13528
@@ -50432,8 +50432,8 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 # sent_id = clari-924
 1	et	_	CCONJ	CONcoo	_	14	cc:nc	_	XmlId=w_28_14496
 2	chil	_	PRON	PROdem	PronType=Dem	14	nsubj	_	XmlId=w_28_14497
-3	qu'	_	PRON	PROrel	PronType=Rel	5	nsubj	_	SpaceAfter=No|XmlId=w_28_14498
-4	il	_	X	PROper	PronType=Prs|Typo=Yes	3	goeswith	_	XmlId=w_28_14499
+3	qu'	_	PRON	PROrel	PronType=Rel|Typo=Yes	5	nsubj	_	SpaceAfter=No|XmlId=w_28_14498
+4	il	_	X	PROper	_	3	goeswith	_	XmlId=w_28_14499
 5	estoient	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	XmlId=w_28_14500
 6	es	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	7	case:det	_	XmlId=w_28_14501
 7	galies	_	NOUN	NOMcom	_	5	obl	_	XmlId=w_28_14502
@@ -50951,7 +50951,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	uissier	_	NOUN	NOMcom	_	8	nsubj	_	XmlId=w_28_14914
 4	estoient	_	AUX	VERcjg	VerbForm=Fin	8	aux:pass	_	XmlId=w_28_14915
 5	en	_	ADP	PRE	_	7	case	_	XmlId=w_28_14916
-6	tele	_	DET	DETind	PronType=Ind	7	adj	_	XmlId=w_28_14917
+6	tele	_	DET	DETind	PronType=Ind	7	det	_	XmlId=w_28_14917
 7	maniere	_	NOUN	NOMcom	_	8	obl	_	XmlId=w_28_14918
 8	fait	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_28_14919
 9	que	_	SCONJ	CONsub	_	12	mark	_	XmlId=w_28_14920
@@ -65626,7 +65626,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 19	,	_	PUNCT	PONfbl	_	21	punct	_	XmlId=w_28_26729
 20	si	_	ADV	ADVgen	_	21	advmod	_	XmlId=w_28_26730
 21	eurent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_26731
-22	tel	_	DET	DETind	PronType=Ind	23	adj	_	XmlId=w_28_26732
+22	tel	_	DET	DETind	PronType=Ind	23	det	_	XmlId=w_28_26732
 23	peur	_	NOUN	NOMcom	_	21	obj	_	XmlId=w_28_26733
 24	qu'	_	SCONJ	CONsub	_	27	mark	_	SpaceAfter=No|XmlId=w_28_26734
 25	il	_	PRON	PROper	PronType=Prs	27	nsubj	_	XmlId=w_28_26735
@@ -69877,7 +69877,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 13	estoit	_	AUX	VERcjg	VerbForm=Fin	14	aux:pass	_	XmlId=w_28_30218
 14	fais	_	VERB	VERppe	Tense=Past|VerbForm=Part	8	acl:relcl	_	XmlId=w_28_30219
 15	par	_	ADP	PRE	_	17	case	_	XmlId=w_28_30220
-16	tel	_	DET	DETind	PronType=Ind	17	adj	_	XmlId=w_28_30221
+16	tel	_	DET	DETind	PronType=Ind	17	det	_	XmlId=w_28_30221
 17	encantement	_	NOUN	NOMcom	_	14	obl	_	XmlId=w_28_30222
 18	que	_	SCONJ	CONsub	_	21	mark	_	XmlId=w_28_30223
 19	li	_	DET	DETdef	Definite=Def|PronType=Art	20	det	_	XmlId=w_28_30224
