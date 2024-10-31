@@ -32421,7 +32421,7 @@
 7	empereres	_	NOUN	NOMcom	_	3	acl:relcl	_	XmlId=w_28_00078
 8	d'	_	ADP	PRE	_	9	case	_	SpaceAfter=No|XmlId=w_28_00079
 9	Alemaingne	_	PROPN	NOMpro	_	7	nmod	_	SpaceAfter=No|XmlId=w_28_00080
-10	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_00081
+10	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_00081
 
 # text = et le incarnations estoit de .m. et cc. et .iij. ans ou .iiij., que uns prestres estoit, maistres Foukes avoit a non, qui estoit de Nuelli, une parroisse qui est en l'evesquié de Paris.
 # newdoc id = ClariConstantinople_1300_prose
@@ -32938,7 +32938,7 @@
 16	mie	_	ADV	ADVneg	Polarity=Neg	15	advmod	_	XmlId=w_28_00535
 17	tous	_	PRON	PROind	PronType=Ind	18	obl	_	XmlId=w_28_00536
 18	nommer	_	VERB	VERinf	VerbForm=Inf	15	xcomp	_	SpaceAfter=No|XmlId=w_28_00537
-19	.	_	PUNCT	PONfrt	_	7	punct	_	XmlId=w_28_00538
+19	.	_	PUNCT	PONfrt	_	5	punct	_	XmlId=w_28_00538
 
 # text = Et de Champaigne y fu li mareschiax et Ogiers de Saint Cherun et Macaires de Sainte Manehout, et Clarembaus de Chapes et Miles de Braibant :
 # newdoc id = ClariConstantinople_1300_prose
@@ -33216,7 +33216,7 @@
 10	qui	_	PRON	PROrel	PronType=Rel	11	nsubj	_	XmlId=w_28_00777
 11	portoient	_	VERB	VERcjg	VerbForm=Fin	8	acl:relcl	_	XmlId=w_28_00778
 12	banieres	_	NOUN	NOMcom	_	11	obj	_	SpaceAfter=No|XmlId=w_28_00779
-13	.	_	PUNCT	PONfrt	_	11	punct	_	XmlId=w_28_00780
+13	.	_	PUNCT	PONfrt	_	9	punct	_	XmlId=w_28_00780
 
 # text = Et de chiax qui plus y fisent de proesches et d'armes, de riques et de povres, vous savons nous nommer une partie :
 # newdoc id = ClariConstantinople_1300_prose
@@ -33685,7 +33685,7 @@
 30	et	_	CCONJ	CONcoo	_	32	cc	_	XmlId=w_28_01178
 31	molt	_	ADV	ADVgen	_	32	advmod	_	XmlId=w_28_01179
 32	esmari	_	VERB	VERppe	Tense=Past|VerbForm=Part	26	conj	_	XmlId=w_28_01180
-33	;	_	PUNCT	PONfbl	_	32	punct	_	XmlId=w_28_01181
+33	;	_	PUNCT	PONfbl	_	26	punct	_	XmlId=w_28_01181
 
 # text = et s'asanlerent a un jour tout a Sessons,
 # newdoc id = ClariConstantinople_1300_prose
@@ -33967,7 +33967,7 @@
 5	vaurrent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_01400
 6	nul	_	PRON	PROind	PronType=Ind	7	obj	_	XmlId=w_28_01401
 7	prendre	_	VERB	VERinf	VerbForm=Inf	5	xcomp	_	SpaceAfter=No|XmlId=w_28_01402
-8	.	_	PUNCT	PONfrt	_	7	punct	_	XmlId=w_28_01403
+8	.	_	PUNCT	PONfrt	_	5	punct	_	XmlId=w_28_01403
 
 # text = Et quant il furent revenu, si fisent savoir as barons qu'il avoient fait.
 # newdoc id = ClariConstantinople_1300_prose
@@ -34595,7 +34595,7 @@
 13	autre	_	PRON	PROind	PronType=Ind	3	conj	_	XmlId=w_28_01894
 14	ausi	_	ADV	ADVgen	_	7	advmod	_	XmlId=w_28_01895
 15	cascuns	_	PRON	PROind	PronType=Ind	13	amod	_	SpaceAfter=No|XmlId=w_28_01896
-16	.	_	PUNCT	PONfrt	_	15	punct	_	XmlId=w_28_01897
+16	.	_	PUNCT	PONfrt	_	7	punct	_	XmlId=w_28_01897
 
 # text = Si kemanda on as messages que il liuaissent waissiaus a passer .iiij.m. chevaliers et leur harnas et .c.m. hommes a pié.
 # newdoc id = ClariConstantinople_1300_prose
@@ -35428,7 +35428,7 @@
 29	sans	_	ADP	PRE	_	31	case	_	XmlId=w_28_02543
 30	nule	_	DET	DETind	PronType=Ind	31	det	_	XmlId=w_28_02544
 31	faille	_	NOUN	NOMcom	_	20	obl	_	SpaceAfter=No|XmlId=w_28_02545
-32	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_02546
+32	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_02546
 
 # text = et il si fisent.
 # newdoc id = ClariConstantinople_1300_prose
@@ -35537,7 +35537,7 @@
 50	en	_	ADP	PRE	_	52	case	_	XmlId=w_28_02636
 51	le	_	DET	DETdef	Definite=Def|PronType=Art	52	det	_	XmlId=w_28_02637
 52	vile	_	NOUN	NOMcom	_	49	obl	_	SpaceAfter=No|XmlId=w_28_02638
-53	.	_	PUNCT	PONfrt	_	46	punct	_	XmlId=w_28_02639
+53	.	_	PUNCT	PONfrt	_	40	punct	_	XmlId=w_28_02639
 
 # text = Quant il virrent qu'il ne se pooient mie tout herbegier en le vile, si se consellierent entr'aus qu'il s'iroient logier en l'isle Saint Nicholai, qui tote estoit enclose de mer, qui estoit a une liwe de Venice.
 # newdoc id = ClariConstantinople_1300_prose
@@ -35740,7 +35740,7 @@
 5	fisent	_	VERB	VERcjg	VerbForm=Fin	2	advcl	_	XmlId=w_28_02799
 6	un	_	DET	DETndf	Definite=Ind|PronType=Art	7	det	_	XmlId=w_28_02800
 7	sort	_	NOUN	NOMcom	_	5	obj	_	SpaceAfter=No|XmlId=w_28_02801
-8	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_02802
+8	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_02802
 9	que	_	SCONJ	CONsub	_	11	mark	_	XmlId=w_28_02803
 10	il	_	PRON	PROper	PronType=Prs	11	nsubj	_	XmlId=w_28_02804
 11	faisoient	_	VERB	VERcjg	VerbForm=Fin	7	acl	_	XmlId=w_28_02805
@@ -35829,7 +35829,7 @@
 15	en	_	ADP	PRE	_	17	case	_	XmlId=w_28_02864
 16	l'	_	DET	DETdef	Definite=Def|PronType=Art	17	det	_	SpaceAfter=No|XmlId=w_28_02865
 17	estoire	_	NOUN	NOMcom	_	14	obl	_	SpaceAfter=No|XmlId=w_28_02866
-18	.	_	PUNCT	PONfrt	_	14	punct	_	XmlId=w_28_02867
+18	.	_	PUNCT	PONfrt	_	11	punct	_	XmlId=w_28_02867
 
 # text = Ensi se partirent.
 # newdoc id = ClariConstantinople_1300_prose
@@ -35952,7 +35952,7 @@
 20	as	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	22	case:det	_	XmlId=w_28_02967
 21	autres	_	ADJ	ADJind	PronType=Ind	22	amod	_	XmlId=w_28_02968
 22	pors	_	NOUN	NOMcom	_	19	obl	_	SpaceAfter=No|XmlId=w_28_02969
-23	,	_	PUNCT	PONfbl	_	19	punct	_	XmlId=w_28_02970
+23	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_02970
 
 # text = ne de ches .c. mille hommes a pié n'i avoit mie plus de .l. mile ou de .lx. :
 # newdoc id = ClariConstantinople_1300_prose
@@ -35976,7 +35976,7 @@
 17	ou	_	CCONJ	CONcoo	_	19	cc	_	XmlId=w_28_02987
 18	de	_	ADP	PRE	_	19	case	_	XmlId=w_28_02988
 19	.lx.	_	PRON	PROcar	NumType=Card	15	conj	_	XmlId=w_28_02989
-20	:	_	PUNCT	PONfbl	_	13	punct	_	XmlId=w_28_02990
+20	:	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_02990
 
 # text = « Dont nous volons, fist li dux, que vous nous paiés les convenanches, que on nous eut en convenent. »
 # newdoc id = ClariConstantinople_1300_prose
@@ -36243,7 +36243,7 @@
 17	vous	_	PRON	PROper	PronType=Prs	19	nsubj	_	XmlId=w_28_03206
 18	nous	_	PRON	PROper	PronType=Prs	19	iobj	_	XmlId=w_28_03207
 19	devés	_	VERB	VERcjg	VerbForm=Fin	15	acl:relcl	_	SpaceAfter=No|XmlId=w_28_03208
-20	.	_	PUNCT	PONfrt	_	13	punct	_	XmlId=w_28_03209
+20	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_28_03209
 
 # text = Et se vous ensi nel faites, sachiés que vous ne vous moverés de cheste isle devant la que nous serons paié, ne ne troverés qui vous port ne que boire ne que menger. »
 # newdoc id = ClariConstantinople_1300_prose
@@ -36343,7 +36343,7 @@
 20	et	_	CCONJ	CONcoo	_	21	cc	_	XmlId=w_28_03290
 21	molt	_	ADV	ADVgen	_	22	advmod	_	XmlId=w_28_03291
 22	esmari	_	VERB	VERppe	Tense=Past|VerbForm=Part	19	conj	_	SpaceAfter=No|XmlId=w_28_03292
-23	.	_	PUNCT	PONfrt	_	22	punct	_	XmlId=w_28_03293
+23	.	_	PUNCT	PONfrt	_	19	punct	_	XmlId=w_28_03293
 
 # text = Si refisent une autre cuelloite,
 # newdoc id = ClariConstantinople_1300_prose
@@ -36374,7 +36374,7 @@
 14	qui	_	PRON	PROrel	PronType=Rel	16	nsubj	_	XmlId=w_28_03313
 15	en	_	ADV	PROadv	_	16	obj	_	XmlId=w_28_03314
 16	eussent	_	VERB	VERcjg	VerbForm=Fin	13	ccomp	_	SpaceAfter=No|XmlId=w_28_03315
-17	.	_	PUNCT	PONfrt	_	10	punct	_	XmlId=w_28_03316
+17	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_28_03316
 
 # text = Si les paierent as Veniciens,
 # newdoc id = ClariConstantinople_1300_prose
@@ -36500,7 +36500,7 @@
 # text = « Seigneur, fist il, se nous laissons aler ches gens en leur païs, nous serons mais tous jours tenu pour malvais et pour trikeeur.
 # newdoc id = ClariConstantinople_1300_prose
 # sent_id = clari-194
-1	«	_	PUNCT	PONpga	_	24	punct	_	XmlId=w_28_03418
+1	«	_	PUNCT	PONpga	_	22	punct	_	XmlId=w_28_03418
 2	Seigneur	_	NOUN	NOMcom	_	22	vocative	_	SpaceAfter=No|XmlId=w_28_03419
 3	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_03420
 4	fist	_	VERB	VERcjg	VerbForm=Fin	22	parataxis	_	XmlId=w_28_03422
@@ -36527,7 +36527,7 @@
 25	et	_	CCONJ	CONcoo	_	27	cc	_	XmlId=w_28_03444
 26	pour	_	ADP	PRE	_	27	case	_	XmlId=w_28_03445
 27	trikeeur	_	NOUN	NOMcom	_	24	conj	_	SpaceAfter=No|XmlId=w_28_03446
-28	.	_	PUNCT	PONfrt	_	24	punct	_	XmlId=w_28_03447
+28	.	_	PUNCT	PONfrt	_	22	punct	_	XmlId=w_28_03447
 
 # text = Mais alons dusques a aus,
 # newdoc id = ClariConstantinople_1300_prose
@@ -36655,7 +36655,7 @@
 17	tele	_	DET	DETind	PronType=Ind	18	det	_	XmlId=w_28_03550
 18	maniere	_	NOUN	NOMcom	_	9	obl	_	XmlId=w_28_03551
 19	que	_	SCONJ	CONsub	_	51	mark	_	SpaceAfter=No|XmlId=w_28_03552
-20	,	_	PUNCT	PONfbl	_	25	punct	_	XmlId=w_28_03553
+20	,	_	PUNCT	PONfbl	_	24	punct	_	XmlId=w_28_03553
 21	se	_	SCONJ	CONsub	_	24	mark	_	XmlId=w_28_03554
 22	vous	_	PRON	PROper	PronType=Prs	24	nsubj	_	XmlId=w_28_03555
 23	nous	_	PRON	PROper	PronType=Prs	25	iobj	_	XmlId=w_28_03556
@@ -36879,7 +36879,7 @@
 13	remés	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	advcl	_	XmlId=w_28_03730
 14	en	_	ADP	PRE	_	15	case	_	XmlId=w_28_03731
 15	vous	_	PRON	PROper	PronType=Prs	13	obl	_	SpaceAfter=No|XmlId=w_28_03732
-16	.	_	PUNCT	PONfrt	_	13	punct	_	XmlId=w_28_03733
+16	.	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_28_03733
 
 # text = Mais faisons le bien !
 # newdoc id = ClariConstantinople_1300_prose
@@ -36949,7 +36949,7 @@
 12	se	_	SCONJ	CONsub	_	14	mark	_	XmlId=w_28_03778
 13	nous	_	PRON	PROper	PronType=Prs	14	nsubj	_	XmlId=w_28_03779
 14	poons	_	VERB	VERcjg	VerbForm=Fin	8	advcl	_	SpaceAfter=No|XmlId=w_28_03780
-15	.	_	PUNCT	PONfrt	_	8	punct	_	XmlId=w_28_03781
+15	.	_	PUNCT	PONfrt	_	7	punct	_	XmlId=w_28_03781
 
 # text = Et se vous me volés croire, nous y irons chest yver sejorner dusques vers le Pasque ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -37060,7 +37060,7 @@
 15	plus	_	ADV	ADVgen	_	16	advmod	_	XmlId=w_28_03865
 16	haut	_	ADJ	ADJqua	_	17	amod	_	XmlId=w_28_03866
 17	homme	_	NOUN	NOMcom	_	3	nmod	_	SpaceAfter=No|XmlId=w_28_03867
-18	.	_	PUNCT	PONfrt	_	17	punct	_	XmlId=w_28_03868
+18	.	_	PUNCT	PONfrt	_	8	punct	_	XmlId=w_28_03868
 
 # text = Adont si atirerent tout communaument leur oirre et leur navie tout entirement ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -37548,7 +37548,7 @@
 29	il	_	PRON	PROper	PronType=Prs	30	expl	_	XmlId=w_28_04312
 30	avoit	_	VERB	VERcjg	VerbForm=Fin	21	advcl	_	XmlId=w_28_04313
 31	illueques	_	ADV	ADVgen	_	30	advmod	_	SpaceAfter=No|XmlId=w_28_04314
-32	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_28_04315
+32	.	_	PUNCT	PONfrt	_	3	punct	_	XmlId=w_28_04315
 
 # text = Li Venicien et li pelerin se singlerent tant qu'il vinrent a Jadres la nuit de le feste saint Martin.
 # newdoc id = ClariConstantinople_1300_prose
@@ -37960,7 +37960,7 @@
 20	Engerrans	_	PROPN	NOMpro	_	19	flat	_	XmlId=w_28_04640
 21	de	_	ADP	PRE	_	22	case	_	XmlId=w_28_04641
 22	Bove	_	PROPN	NOMpro	_	20	nmod	_	SpaceAfter=No|XmlId=w_28_04642
-23	.	_	PUNCT	PONfrt	_	20	punct	_	XmlId=w_28_04643
+23	.	_	PUNCT	PONfrt	_	3	punct	_	XmlId=w_28_04643
 
 # text = Chil disent qu'il n'iroient mie contre le commandement l'apostoile, ne qu'il ne voloient mie estre eskemenié ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -37977,7 +37977,7 @@
 10	commandement	_	NOUN	NOMcom	_	6	obl	_	XmlId=w_28_04653
 11	l'	_	DET	DETdef	Definite=Def|PronType=Art	12	det	_	SpaceAfter=No|XmlId=w_28_04654
 12	apostoile	_	NOUN	NOMcom	_	10	nmod	_	SpaceAfter=No|XmlId=w_28_04655
-13	,	_	PUNCT	PONfbl	_	21	punct	_	XmlId=w_28_04656
+13	,	_	PUNCT	PONfbl	_	18	punct	_	XmlId=w_28_04656
 14	ne	_	CCONJ	CONcoo	_	18	cc	_	XmlId=w_28_04657
 15	qu'	_	SCONJ	CONsub	_	18	mark	_	SpaceAfter=No|XmlId=w_28_04658
 16	il	_	PRON	PROper	PronType=Prs	18	nsubj	_	XmlId=w_28_04659
@@ -38032,7 +38032,7 @@
 18	a	_	ADP	PRE	_	20	case	_	XmlId=w_28_04696
 19	le	_	DET	DETdef	Definite=Def|PronType=Art	20	det	_	XmlId=w_28_04697
 20	vile	_	NOUN	NOMcom	_	17	obl	_	SpaceAfter=No|XmlId=w_28_04698
-21	,	_	PUNCT	PONfbl	_	12	punct	_	XmlId=w_28_04699
+21	,	_	PUNCT	PONfbl	_	22	punct	_	XmlId=w_28_04699
 22	tant	_	ADV	ADVgen	_	13	advmod	_	XmlId=w_28_04700
 23	que	_	SCONJ	CONsub	_	28	mark	_	XmlId=w_28_04701
 24	chil	_	PRON	PROdem	PronType=Dem	28	nsubj	_	XmlId=w_28_04702
@@ -38546,14 +38546,14 @@
 17	et	_	CCONJ	CONcoo	_	19	cc	_	XmlId=w_28_05114
 18	autres	_	DET	DETind	PronType=Ind	19	det	_	XmlId=w_28_05115
 19	coses	_	NOUN	NOMcom	_	13	conj	_	SpaceAfter=No|XmlId=w_28_05116
-20	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_05117
+20	,	_	PUNCT	PONfbl	_	21	punct	_	XmlId=w_28_05117
 21	tant	_	ADV	ADVgen	_	12	advmod	_	XmlId=w_28_05118
 22	que	_	SCONJ	CONsub	_	26	mark	_	XmlId=w_28_05119
 23	nous	_	PRON	PROper	PronType=Prs	26	nsubj	_	XmlId=w_28_05120
 24	fuissiemes	_	AUX	VERcjg	VerbForm=Fin	26	aux:pass	_	XmlId=w_28_05121
 25	bien	_	ADV	ADVgen	_	26	advmod	_	XmlId=w_28_05122
 26	restoré	_	VERB	VERppe	Tense=Past|VerbForm=Part	12	advcl	_	SpaceAfter=No|XmlId=w_28_05123
-27	,	_	PUNCT	PONfbl	_	32	punct	_	XmlId=w_28_05124
+27	,	_	PUNCT	PONfbl	_	30	punct	_	XmlId=w_28_05124
 28	che	_	PRON	PROdem	PronType=Dem	30	nsubj	_	XmlId=w_28_05125
 29	me	_	PRON	PROper	PronType=Prs	30	iobj	_	XmlId=w_28_05126
 30	sanleroit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_05127
@@ -38931,7 +38931,7 @@
 12	Damediex	_	PROPN	NOMpro	_	7	appos	_	XmlId=w_28_05417
 13	et	_	CCONJ	CONcoo	_	14	cc	_	XmlId=w_28_05418
 14	jou	_	PRON	PROper	PronType=Prs	12	conj	_	SpaceAfter=No|XmlId=w_28_05419
-15	.	_	PUNCT	PONfrt	_	10	punct	_	XmlId=w_28_05420
+15	.	_	PUNCT	PONfrt	_	7	punct	_	XmlId=w_28_05420
 
 # text = Mais, se vous le loés, je douroie congié as Franchois et a tous chiaus de le loi de Romme, qui entor mi et me poosté sont. »
 # newdoc id = ClariConstantinople_1300_prose
@@ -39040,7 +39040,7 @@
 7	lié	_	ADJ	ADJqua	_	0	root	_	XmlId=w_28_05498
 8	que	_	SCONJ	CONsub	_	9	mark	_	XmlId=w_28_05499
 9	trop	_	ADV	ADVgen	_	7	advmod	_	SpaceAfter=No|XmlId=w_28_05500
-10	.	_	PUNCT	PONfrt	_	9	punct	_	XmlId=w_28_05501
+10	.	_	PUNCT	PONfrt	_	7	punct	_	XmlId=w_28_05501
 
 # text = Li empereres manda aprés que tout li Franchois et li autre a qui il avoit donné congié, qu'il venissent parler a lui priveement,
 # newdoc id = ClariConstantinople_1300_prose
@@ -39168,7 +39168,7 @@
 10	i	_	PRON	PROper	PronType=Prs	12	nsubj	_	XmlId=w_28_05598
 11	leur	_	PRON	PROper	PronType=Prs	12	iobj	_	XmlId=w_28_05599
 12	nomma	_	VERB	VERcjg	VerbForm=Fin	6	acl:relcl	_	SpaceAfter=No|XmlId=w_28_05600
-13	,	_	PUNCT	PONfbl	_	12	punct	_	XmlId=w_28_05601
+13	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_05601
 
 # text = et je vous manderai par mes messages que vous vous en voisiés,
 # newdoc id = ClariConstantinople_1300_prose
@@ -39844,7 +39844,7 @@
 31	aim	_	VERB	VERcjg	VerbForm=Fin	28	acl	_	XmlId=w_28_06107
 32	les	_	DET	DETdef	Definite=Def|PronType=Art	33	det	_	XmlId=w_28_06108
 33	Franchois	_	PROPN	NOMpro	_	31	obj	_	SpaceAfter=No|XmlId=w_28_06109
-34	,	_	PUNCT	PONfbl	_	13	punct	_	XmlId=w_28_06110
+34	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_06110
 
 # text = car je les aim
 # newdoc id = ClariConstantinople_1300_prose
@@ -40168,7 +40168,7 @@
 13	gent	_	NOUN	NOMcom	_	10	nmod	_	XmlId=w_28_06367
 14	avec	_	ADP	PRE	_	15	case	_	XmlId=w_28_06368
 15	lui	_	PRON	PROper	PronType=Prs	6	obl	_	SpaceAfter=No|XmlId=w_28_06369
-16	,	_	PUNCT	PONfbl	_	15	punct	_	XmlId=w_28_06370
+16	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_06370
 
 # text = et chevauchierent tant et errerent qu'il ne cesserent,
 # newdoc id = ClariConstantinople_1300_prose
@@ -40332,7 +40332,7 @@
 7	se	_	DET	DETpos	Poss=Yes	8	det	_	XmlId=w_28_06503
 8	cousine	_	NOUN	NOMcom	_	4	acl:relcl	_	XmlId=w_28_06504
 9	estoit	_	AUX	VERcjg	VerbForm=Fin	8	cop	_	SpaceAfter=No|XmlId=w_28_06505
-10	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_06506
+10	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_06506
 
 # text = et jut a lui a forche.
 # newdoc id = ClariConstantinople_1300_prose
@@ -40492,7 +40492,7 @@
 20	qui	_	PRON	PROrel	PronType=Rel	21	nsubj	_	XmlId=w_28_06627
 21	empereres	_	NOUN	NOMcom	_	18	acl:relcl	_	XmlId=w_28_06628
 22	estoit	_	AUX	VERcjg	VerbForm=Fin	21	cop	_	SpaceAfter=No|XmlId=w_28_06629
-23	,	_	PUNCT	PONfbl	_	21	punct	_	XmlId=w_28_06630
+23	,	_	PUNCT	PONfbl	_	15	punct	_	XmlId=w_28_06630
 
 # text = et se li fist requerre pour Dieu qu'il li pardonnast sen mautalent,
 # newdoc id = ClariConstantinople_1300_prose
@@ -40510,7 +40510,7 @@
 11	pardonnast	_	VERB	VERcjg	VerbForm=Fin	5	ccomp	_	XmlId=w_28_06641
 12	sen	_	DET	DETpos	Poss=Yes	13	det	_	XmlId=w_28_06642
 13	mautalent	_	NOUN	NOMcom	_	11	obj	_	SpaceAfter=No|XmlId=w_28_06643
-14	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_06644
+14	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_06644
 
 # text = et si li fist acroire que che ne fu se menchoingne non que on li avoit mis sus, tant que li empereres, qui enfes estoit, li pardonna sen mautalent,
 # newdoc id = ClariConstantinople_1300_prose
@@ -40547,7 +40547,7 @@
 30	pardonna	_	VERB	VERcjg	VerbForm=Fin	4	advcl	_	XmlId=w_28_06674
 31	sen	_	DET	DETpos	Poss=Yes	32	det	_	XmlId=w_28_06675
 32	mautalent	_	NOUN	NOMcom	_	30	obj	_	SpaceAfter=No|XmlId=w_28_06676
-33	,	_	PUNCT	PONfbl	_	30	punct	_	XmlId=w_28_06677
+33	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_06677
 
 # text = si li manda, tant que chis Andromes revint arriere,
 # newdoc id = ClariConstantinople_1300_prose
@@ -40562,7 +40562,7 @@
 8	Andromes	_	PROPN	NOMpro	_	9	nsubj	_	XmlId=w_28_06685
 9	revint	_	VERB	VERcjg	VerbForm=Fin	3	advcl	_	XmlId=w_28_06686
 10	arriere	_	ADV	ADVgen	_	9	advmod	_	SpaceAfter=No|XmlId=w_28_06687
-11	,	_	PUNCT	PONfbl	_	9	punct	_	XmlId=w_28_06688
+11	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_06688
 
 # text = et fu entor l'enfant, tant que li enfes le fist bailliu de tote se terre, et qu'il fu orguellex que trop de le balliie qu'il avoit.
 # newdoc id = ClariConstantinople_1300_prose
@@ -40627,7 +40627,7 @@
 5	se	_	DET	DETpos	Poss=Yes	6	det	_	XmlId=w_28_06738
 6	mere	_	NOUN	NOMcom	_	2	conj	_	XmlId=w_28_06739
 7	aussi	_	ADV	ADVgen	_	3	advmod	_	SpaceAfter=No|XmlId=w_28_06740
-8	.	_	PUNCT	PONfrt	_	7	punct	_	XmlId=w_28_06741
+8	.	_	PUNCT	PONfrt	_	3	punct	_	XmlId=w_28_06741
 
 # text = Quant il eut che fait, si prist deus grandesmes pierres,
 # newdoc id = ClariConstantinople_1300_prose
@@ -40667,7 +40667,7 @@
 7	en	_	ADP	PRE	_	9	case	_	XmlId=w_28_06766
 8	le	_	DET	DETdef	Definite=Def|PronType=Art	9	det	_	XmlId=w_28_06767
 9	mer	_	NOUN	NOMcom	_	6	obl	_	SpaceAfter=No|XmlId=w_28_06768
-10	.	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_28_06769
+10	.	_	PUNCT	PONfrt	_	5	punct	_	XmlId=w_28_06769
 
 # text = Aprés si se fist coroner tot a force a empereur.
 # newdoc id = ClariConstantinople_1300_prose
@@ -40682,7 +40682,7 @@
 8	force	_	NOUN	NOMcom	_	4	obl	_	XmlId=w_28_06777
 9	a	_	ADP	PRE	_	10	case	_	XmlId=w_28_06778
 10	empereur	_	NOUN	NOMcom	_	5	xcomp	_	SpaceAfter=No|XmlId=w_28_06779
-11	.	_	PUNCT	PONfrt	_	10	punct	_	XmlId=w_28_06780
+11	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_28_06780
 
 # text = Quant il fu coronés, si fait il prendre trestous chiax que il seut que il en pesoit qu'il estoit empereres,
 # newdoc id = ClariConstantinople_1300_prose
@@ -40728,7 +40728,7 @@
 12	male	_	ADJ	ADJqua	_	13	amod	_	XmlId=w_28_06815
 13	mort	_	NOUN	NOMcom	_	14	obl	_	XmlId=w_28_06816
 14	morir	_	VERB	VERinf	VerbForm=Inf	5	conj	_	SpaceAfter=No|XmlId=w_28_06817
-15	.	_	PUNCT	PONfrt	_	5	punct	_	XmlId=w_28_06818
+15	.	_	PUNCT	PONfrt	_	3	punct	_	XmlId=w_28_06818
 
 # text = Et prenoit toutes les beles femmes que il trovoit,
 # newdoc id = ClariConstantinople_1300_prose
@@ -40772,7 +40772,7 @@
 12	roi	_	NOUN	NOMcom	_	10	nmod	_	XmlId=w_28_06847
 13	de	_	ADP	PRE	_	14	case	_	XmlId=w_28_06848
 14	Franche	_	PROPN	NOMpro	_	12	nmod	_	SpaceAfter=No|XmlId=w_28_06849
-15	,	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_06850
+15	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_06850
 
 # text = et fist tant de si grans desloiautés, que onques nus traïtres ne nus mourdrissierres tant n'en fist comme il fist.
 # newdoc id = ClariConstantinople_1300_prose
@@ -40888,7 +40888,7 @@
 36	lignage	_	NOUN	NOMcom	_	34	xcomp	_	XmlId=w_28_06951
 37	d'	_	ADP	PRE	_	38	case	_	SpaceAfter=No|XmlId=w_28_06952
 38	Angle	_	PROPN	NOMpro	_	36	nmod	_	SpaceAfter=No|XmlId=w_28_06953
-39	,	_	PUNCT	PONfbl	_	28	punct	_	XmlId=w_28_06954
+39	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_06954
 
 # text = et estoient haut homme,
 # newdoc id = ClariConstantinople_1300_prose
@@ -41038,7 +41038,7 @@
 9	crever	_	VERB	VERinf	VerbForm=Inf	8	xcomp	_	XmlId=w_28_07065
 10	les	_	DET	DETdef	Definite=Def|PronType=Art	11	det	_	XmlId=w_28_07066
 11	iex	_	NOUN	NOMcom	_	9	obj	_	XmlId=w_28_07067
-12	;	_	PUNCT	PONfbl	_	9	punct	_	XmlId=w_28_07068
+12	;	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_07068
 
 # text = aprés il se rendi.
 # newdoc id = ClariConstantinople_1300_prose
@@ -41589,7 +41589,7 @@
 34	a	_	ADP	PRE	_	36	case	_	XmlId=w_28_07508
 35	chu	_	DET	DETdem	PronType=Dem	36	det	_	XmlId=w_28_07509
 36	balliu	_	NOUN	NOMcom	_	32	obl	_	SpaceAfter=No|XmlId=w_28_07510
-37	.	_	PUNCT	PONfrt	_	14	punct	_	XmlId=w_28_07511
+37	.	_	PUNCT	PONfrt	_	5	punct	_	XmlId=w_28_07511
 
 # text = Si ne fait il mais el,
 # newdoc id = ClariConstantinople_1300_prose
@@ -42288,7 +42288,7 @@
 8	tele	_	DET	DETind	PronType=Ind	9	det	_	XmlId=w_28_08035
 9	cose	_	NOUN	NOMcom	_	10	obj	_	XmlId=w_28_08036
 10	entreprise	_	VERB	VERppe	Tense=Past|VerbForm=Part	1	acl:relcl	_	SpaceAfter=No|XmlId=w_28_08037
-11	.	_	PUNCT	PONfrt	_	10	punct	_	XmlId=w_28_08038
+11	.	_	PUNCT	PONfrt	_	3	punct	_	XmlId=w_28_08038
 
 # text = Se jou le coroune, li empereres Andromes me tueroit
 # newdoc id = ClariConstantinople_1300_prose
@@ -42722,7 +42722,7 @@
 7	et	_	CCONJ	CONcoo	_	9	cc	_	XmlId=w_28_08377
 8	molt	_	ADV	ADVgen	_	9	advmod	_	XmlId=w_28_08378
 9	esperdus	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	conj	_	XmlId=w_28_08379
-10	;	_	PUNCT	PONfbl	_	9	punct	_	XmlId=w_28_08380
+10	;	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_08380
 
 # text = si s'en revint arriere eu palais, tant qu'il dist a se gent qu'il alaissent fremer les portes du palais, et qu'il s'armaissent et qu'il deffendissent le palais ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -43104,7 +43104,7 @@
 11	une	_	DET	DETndf	Definite=Ind|PronType=Art	13	det	_	XmlId=w_28_08675
 12	fine	_	ADJ	ADJqua	_	13	amod	_	XmlId=w_28_08676
 13	mervelle	_	NOUN	NOMcom	_	3	obl	_	SpaceAfter=No|XmlId=w_28_08677
-14	,	_	PUNCT	PONfbl	_	13	punct	_	XmlId=w_28_08678
+14	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_08678
 
 # text = si le departirent entr'aus.
 # newdoc id = ClariConstantinople_1300_prose
@@ -43548,7 +43548,7 @@
 29	Andromes	_	PROPN	NOMpro	_	31	nsubj	_	XmlId=w_28_09023
 30	avoit	_	AUX	VERcjg	VerbForm=Fin	31	aux	_	XmlId=w_28_09024
 31	destruit	_	VERB	VERppe	Tense=Past|VerbForm=Part	14	acl:relcl	_	SpaceAfter=No|XmlId=w_28_09025
-32	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_09026
+32	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_09026
 
 # text = et si avoit jut a forche a le femme chu haut homme.
 # newdoc id = ClariConstantinople_1300_prose
@@ -43918,7 +43918,7 @@
 17	de	_	ADP	PRE	_	18	case	_	XmlId=w_28_09307
 18	vous	_	PRON	PROper	PronType=Prs	16	nmod	_	XmlId=w_28_09308
 19	tous	_	PRON	PROind	PronType=Ind	18	nmod	_	SpaceAfter=No|XmlId=w_28_09309
-20	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_09310
+20	,	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_09310
 
 # text = mais je le vous baille a faire ent chou que vous vaurrés. »
 # newdoc id = ClariConstantinople_1300_prose
@@ -44454,7 +44454,7 @@
 9	sornon	_	NOUN	NOMcom	_	8	obj	_	XmlId=w_28_09735
 10	d'	_	ADP	PRE	_	11	case	_	SpaceAfter=No|XmlId=w_28_09736
 11	Angle	_	PROPN	NOMpro	_	8	xcomp	_	SpaceAfter=No|XmlId=w_28_09737
-12	.	_	PUNCT	PONfrt	_	8	punct	_	XmlId=w_28_09738
+12	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_28_09738
 
 # text = Aprés si li prist molt grans talens de veir sen frere qui en païsnie estoit en prison, tant qu'il prist messages,
 # newdoc id = ClariConstantinople_1300_prose
@@ -44848,7 +44848,7 @@
 19	en	_	ADV	PROadv	_	21	nmod	_	XmlId=w_28_10046
 20	seut	_	VERB	VERcjg	VerbForm=Fin	12	advcl	_	XmlId=w_28_10047
 21	mot	_	NOUN	NOMcom	_	20	obj	_	SpaceAfter=No|XmlId=w_28_10048
-22	.	_	PUNCT	PONfrt	_	21	punct	_	XmlId=w_28_10049
+22	.	_	PUNCT	PONfrt	_	11	punct	_	XmlId=w_28_10049
 
 # text = Quant il eut che fait, si s'en revint arriere en Coustantinoble,
 # newdoc id = ClariConstantinople_1300_prose
@@ -44894,7 +44894,7 @@
 6	empereeur	_	NOUN	NOMcom	_	4	xcomp	_	XmlId=w_28_10081
 7	a	_	ADP	PRE	_	8	case	_	XmlId=w_28_10082
 8	forche	_	NOUN	NOMcom	_	4	obl	_	SpaceAfter=No|XmlId=w_28_10083
-9	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_28_10084
+9	.	_	PUNCT	PONfrt	_	3	punct	_	XmlId=w_28_10084
 
 # text = Quant li maistres au fil l'empereeur Kyrsac vit que li oncles a l'enfant eut traÿ sen pere, et qu'il s'estoit fais empereres par traïson, si ne fait mais el,
 # newdoc id = ClariConstantinople_1300_prose
@@ -44966,7 +44966,7 @@
 15	empereeur	_	NOUN	NOMcom	_	13	nmod	_	XmlId=w_28_10141
 16	d'	_	ADP	PRE	_	17	case	_	SpaceAfter=No|XmlId=w_28_10142
 17	Alemaingne	_	PROPN	NOMpro	_	15	nmod	_	SpaceAfter=No|XmlId=w_28_10143
-18	,	_	PUNCT	PONfbl	_	13	punct	_	XmlId=w_28_10144
+18	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_10144
 
 # text = car il ne voloit mie que ses oncles ne le fesist destruire,
 # newdoc id = ClariConstantinople_1300_prose
@@ -44999,7 +44999,7 @@
 9	oncles	_	NOUN	NOMcom	_	7	appos	_	XmlId=w_28_10166
 10	n'	_	ADV	ADVneg	Polarity=Neg	11	advmod	_	SpaceAfter=No|XmlId=w_28_10167
 11	estoit	_	VERB	VERcjg	VerbForm=Fin	4	advcl	_	SpaceAfter=No|XmlId=w_28_10168
-12	.	_	PUNCT	PONfrt	_	11	punct	_	XmlId=w_28_10169
+12	.	_	PUNCT	PONfrt	_	5	punct	_	XmlId=w_28_10169
 
 # text = Or avés oï comment Kyrsac vint avant et comment il fu empereres et comment ses fix ala en Alemaingne, pour qui li croisié et li Venicien envoierent par le consel du marchis de Monferras, leur maistre, si comme vous avés oï en l'estoire devant, pour che qu'il eussent acoison d'aler en le tere de Coustantinoble.
 # newdoc id = ClariConstantinople_1300_prose
@@ -45172,7 +45172,7 @@
 12	venist	_	VERB	VERcjg	VerbForm=Fin	3	advcl	_	XmlId=w_28_10323
 13	a	_	ADP	PRE	_	14	case	_	XmlId=w_28_10324
 14	aus	_	PRON	PROper	PronType=Prs	12	obl	_	SpaceAfter=No|XmlId=w_28_10325
-15	,	_	PUNCT	PONfbl	_	12	punct	_	XmlId=w_28_10326
+15	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_10326
 
 # text = et se li manderent qu'il li aideroient sen droit a conquerre.
 # newdoc id = ClariConstantinople_1300_prose
@@ -45844,7 +45844,7 @@
 10	et	_	CCONJ	CONcoo	_	12	cc	_	XmlId=w_28_10875
 11	li	_	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_28_10876
 12	Venicien	_	PROPN	NOMpro	_	5	conj	_	SpaceAfter=No|XmlId=w_28_10877
-13	,	_	PUNCT	PONfbl	_	12	punct	_	XmlId=w_28_10878
+13	,	_	PUNCT	PONfbl	_	9	punct	_	XmlId=w_28_10878
 
 # text = et quant il furent tot assanlé, si se leva li dux de Venice,
 # newdoc id = ClariConstantinople_1300_prose
@@ -46331,7 +46331,7 @@
 7	combatre	_	VERB	VERinf	VerbForm=Inf	4	xcomp	_	XmlId=w_28_11256
 8	a	_	ADP	PRE	_	9	case	_	XmlId=w_28_11257
 9	lui	_	PRON	PROper	PronType=Prs	7	obl	_	XmlId=w_28_11258
-10	;	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_11259
+10	;	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_11259
 
 # text = et li empereres respondi qu'il n'avoit mie bien le cueur de ses gens ne l'aiwe ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -46587,7 +46587,7 @@
 10	gent	_	NOUN	NOMcom	_	3	conj	_	XmlId=w_28_11464
 11	avec	_	ADP	PRE	_	12	case	_	XmlId=w_28_11465
 12	lui	_	PRON	PROper	PronType=Prs	7	obl	_	SpaceAfter=No|XmlId=w_28_11466
-13	.	_	PUNCT	PONfrt	_	12	punct	_	XmlId=w_28_11467
+13	.	_	PUNCT	PONfrt	_	7	punct	_	XmlId=w_28_11467
 
 # text = Si ne fait mais el li marchis,
 # newdoc id = ClariConstantinople_1300_prose
@@ -46655,7 +46655,7 @@
 24	le	_	DET	DETdef	Definite=Def|PronType=Art	25	det	_	XmlId=w_28_11516
 25	porte	_	NOUN	NOMcom	_	23	obj	_	XmlId=w_28_11517
 26	aprés	_	ADV	ADVgen	_	23	advmod	_	SpaceAfter=No|XmlId=w_28_11518
-27	.	_	PUNCT	PONfrt	_	23	punct	_	XmlId=w_28_11519
+27	.	_	PUNCT	PONfrt	_	21	punct	_	XmlId=w_28_11519
 
 # text = Si comme li Vernas, qui l'empereeur avoit assis, vit que li marchis venoit durement pour combatre a lui, si s'esmuet il, et il et se gent, a venir encontre le marchis.
 # newdoc id = ClariConstantinople_1300_prose
@@ -46821,7 +46821,7 @@
 11	et	_	CCONJ	CONcoo	_	13	cc	_	XmlId=w_28_11650
 12	se	_	DET	DETpos	Poss=Yes	13	det	_	XmlId=w_28_11651
 13	gent	_	NOUN	NOMcom	_	10	conj	_	SpaceAfter=No|XmlId=w_28_11652
-14	,	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_11653
+14	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_11653
 
 # text = si en ochient mout.
 # newdoc id = ClariConstantinople_1300_prose
@@ -46849,7 +46849,7 @@
 12	commenchent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_11670
 13	a	_	ADP	PRE	_	14	mark	_	XmlId=w_28_11671
 14	desconfire	_	VERB	VERinf	VerbForm=Inf	12	xcomp	_	SpaceAfter=No|XmlId=w_28_11672
-15	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_11673
+15	,	_	PUNCT	PONfbl	_	12	punct	_	XmlId=w_28_11673
 
 # text = si tornent il en fuies.
 # newdoc id = ClariConstantinople_1300_prose
@@ -47182,7 +47182,7 @@
 3	feront	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_11939
 4	destruire	_	VERB	VERinf	VerbForm=Inf	3	xcomp	_	SpaceAfter=No|XmlId=w_28_11940
 5	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_28_11941
-6	»	_	PUNCT	PONpdr	_	4	punct	_	XmlId=w_28_11942
+6	»	_	PUNCT	PONpdr	_	3	punct	_	XmlId=w_28_11942
 
 # text = Quant li marchis oï ches nouveles, si ne fu mie a aise.
 # newdoc id = ClariConstantinople_1300_prose
@@ -47239,7 +47239,7 @@
 10	il	_	PRON	PROimp	PronType=Prs	12	expl	_	XmlId=w_28_11980
 11	fust	_	AUX	VERcjg	VerbForm=Fin	12	cop	_	XmlId=w_28_11981
 12	jours	_	NOUN	NOMcom	_	3	advcl	_	SpaceAfter=No|XmlId=w_28_11982
-13	,	_	PUNCT	PONfbl	_	12	punct	_	XmlId=w_28_11983
+13	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_11983
 
 # text = si s'en va il ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -47317,7 +47317,7 @@
 44	Sur	_	PROPN	NOMpro	_	36	obl	_	XmlId=w_28_12042
 45	et	_	CCONJ	CONcoo	_	46	cc	_	XmlId=w_28_12043
 46	Escaloune	_	PROPN	NOMpro	_	44	conj	_	SpaceAfter=No|XmlId=w_28_12044
-47	.	_	PUNCT	PONfrt	_	44	punct	_	XmlId=w_28_12045
+47	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_28_12045
 
 # text = Si avoit li rois qui mors fu deus sereurs mariees :
 # newdoc id = ClariConstantinople_1300_prose
@@ -47357,7 +47357,7 @@
 18	roiames	_	NOUN	NOMcom	_	20	nsubj	_	XmlId=w_28_12074
 19	estoit	_	AUX	VERcjg	VerbForm=Fin	20	aux	_	XmlId=w_28_12075
 20	eskeus	_	VERB	VERppe	Tense=Past|VerbForm=Part	14	acl:relcl	_	SpaceAfter=No|XmlId=w_28_12076
-21	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_12077
+21	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_12077
 
 # text = et mesires Hainfrois de Touron avoit le mainsnee.
 # newdoc id = ClariConstantinople_1300_prose
@@ -47403,7 +47403,7 @@
 26	,	_	PUNCT	PONfbl	_	28	punct	_	XmlId=w_28_12112
 27	au	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	28	case:det	_	XmlId=w_28_12113
 28	Temple	_	NOUN	NOMcom	_	3	obl	_	SpaceAfter=No|XmlId=w_28_12114
-29	,	_	PUNCT	PONfbl	_	28	punct	_	XmlId=w_28_12115
+29	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_12115
 
 # text = et disent entr'aus qu'il departesisent monseigneur Guion de se femme, pour chou que li roiames estoit eskeus a se femme, et qu'il li donnaissent autre baron qui fust plus soufisans a estre rois que mesire Guis n'estoit,
 # newdoc id = ClariConstantinople_1300_prose
@@ -47558,7 +47558,7 @@
 15	et	_	CCONJ	CONcoo	_	17	cc	_	XmlId=w_28_12239
 16	li	_	DET	DETdef	Definite=Def|PronType=Art	17	det	_	XmlId=w_28_12240
 17	Hospitaus	_	PROPN	NOMpro	_	11	conj	_	SpaceAfter=No|XmlId=w_28_12241
-18	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_12242
+18	,	_	PUNCT	PONfbl	_	1	punct	_	XmlId=w_28_12242
 
 # text = et se y fu li cuens de Tripe, qui estoit li mieudres chevaliers du roiame, qui cuidoit que le dame li donnast le corone,
 # newdoc id = ClariConstantinople_1300_prose
@@ -47589,7 +47589,7 @@
 24	donnast	_	VERB	VERcjg	VerbForm=Fin	19	ccomp	_	XmlId=w_28_12266
 25	le	_	DET	DETdef	Definite=Def|PronType=Art	26	det	_	XmlId=w_28_12267
 26	corone	_	NOUN	NOMcom	_	24	obj	_	SpaceAfter=No|XmlId=w_28_12268
-27	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_12269
+27	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_12269
 
 # text = et si i fu mesires Guis, qui avoit eu le roine a femme.
 # newdoc id = ClariConstantinople_1300_prose
@@ -47799,7 +47799,7 @@
 24	en	_	ADP	PRE	_	26	case	_	XmlId=w_28_12428
 25	se	_	DET	DETpos	Poss=Yes	26	det	_	XmlId=w_28_12429
 26	prison	_	NOUN	NOMcom	_	23	obl	_	SpaceAfter=No|XmlId=w_28_12430
-27	,	_	PUNCT	PONfbl	_	23	punct	_	XmlId=w_28_12431
+27	,	_	PUNCT	PONfbl	_	15	punct	_	XmlId=w_28_12431
 
 # text = se li dist que s'il li faisoit rendre Escaloune, qu'i le lairoit aler et grant partie de se gent avec li.
 # newdoc id = ClariConstantinople_1300_prose
@@ -47868,7 +47868,7 @@
 5	ferai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_12479
 6	rendre	_	VERB	VERinf	VerbForm=Inf	5	xcomp	_	XmlId=w_28_12480
 7	!	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_28_12481
-8	»	_	PUNCT	PONpdr	_	6	punct	_	XmlId=w_28_12482
+8	»	_	PUNCT	PONpdr	_	5	punct	_	XmlId=w_28_12482
 
 # text = Et Salehadins l'i mena.
 # newdoc id = ClariConstantinople_1300_prose
@@ -48767,7 +48767,7 @@
 6	fist	_	VERB	VERcjg	VerbForm=Fin	3	parataxis	_	XmlId=w_28_13208
 7	le	_	DET	DETdef	Definite=Def|PronType=Art	8	det	_	XmlId=w_28_13209
 8	marchis	_	NOUN	NOMcom	_	6	nsubj	_	SpaceAfter=No|XmlId=w_28_13210
-9	.	_	PUNCT	PONfrt	_	1	punct	_	XmlId=w_28_13211
+9	.	_	PUNCT	PONfrt	_	3	punct	_	XmlId=w_28_13211
 
 # text = - « Jel vous dirai, fist chis ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -48780,7 +48780,7 @@
 6	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_13218
 7	fist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_13219
 8	chis	_	PRON	PROdem	PronType=Dem	1	nsubj	_	XmlId=w_28_13220
-9	;	_	PUNCT	PONfbl	_	1	punct	_	XmlId=w_28_13221
+9	;	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_13221
 
 # text = nous avons chaiens en ceste vile nes et galies et barges et autres vaissiax,
 # newdoc id = ClariConstantinople_1300_prose
@@ -48838,7 +48838,7 @@
 10	que	_	PRON	PROrel	PronType=Rel	12	obj	_	XmlId=w_28_13261
 11	nous	_	PRON	PROper	PronType=Prs	12	nsubj	_	XmlId=w_28_13262
 12	arons	_	VERB	VERcjg	VerbForm=Fin	9	acl:relcl	_	XmlId=w_28_13263
-13	;	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_13264
+13	;	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_13264
 
 # text = si me meterai ains jour en mer, ausi com je m'en vausisse fuir.
 # newdoc id = ClariConstantinople_1300_prose
@@ -48939,7 +48939,7 @@
 21	que	_	PRON	PROrel	PronType=Rel	23	obj	_	XmlId=w_28_13342
 22	vous	_	PRON	PROper	PronType=Prs	23	nsubj	_	XmlId=w_28_13343
 23	arés	_	VERB	VERcjg	VerbForm=Fin	20	acl:relcl	_	SpaceAfter=No|XmlId=w_28_13344
-24	,	_	PUNCT	PONfbl	_	15	punct	_	XmlId=w_28_13345
+24	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_13345
 
 # text = et quant vous vesrés que eles seront toutes destendues aprés mi, et eles seront bien lanchies avant, adont si bescochiés trestous vos vaissiaus
 # newdoc id = ClariConstantinople_1300_prose
@@ -49152,7 +49152,7 @@
 6	aler	_	VERB	VERinf	VerbForm=Inf	4	xcomp	_	XmlId=w_28_13507
 7	grandesme	_	ADJ	ADJqua	_	8	amod	_	XmlId=w_28_13508
 8	aleure	_	NOUN	NOMcom	_	6	obl	_	SpaceAfter=No|XmlId=w_28_13509
-9	.	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_28_13510
+9	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_28_13510
 
 # text = Quant il fu un peu loins et li Sarrasin l'aperchoivent, si eurent tel haste de chelui sivir que onques ne s'i armerent,
 # newdoc id = ClariConstantinople_1300_prose
@@ -50521,7 +50521,7 @@
 15	grant	_	ADJ	ADJqua	_	11	dislocated	_	XmlId=w_28_14568
 16	et	_	CCONJ	CONcoo	_	17	cc	_	XmlId=w_28_14569
 17	petit	_	ADJ	ADJqua	_	15	conj	_	SpaceAfter=No|XmlId=w_28_14570
-18	,	_	PUNCT	PONfbl	_	15	punct	_	XmlId=w_28_14571
+18	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_14571
 
 # text = et quant il furent tout armé, si se confesserent tout
 # newdoc id = ClariConstantinople_1300_prose
@@ -50963,7 +50963,7 @@
 15	on	_	PRON	PROind	PronType=Ind	16	nsubj	_	XmlId=w_28_14926
 16	ouvroit	_	VERB	VERcjg	VerbForm=Fin	13	acl:relcl	_	XmlId=w_28_14927
 17	bien	_	ADV	ADVgen	_	16	advmod	_	SpaceAfter=No|XmlId=w_28_14928
-18	,	_	PUNCT	PONfbl	_	12	punct	_	XmlId=w_28_14929
+18	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_14929
 
 # text = si lanchoit on un pont hors, par ou li chevalier pooient issir hors a tere tot monté.
 # newdoc id = ClariConstantinople_1300_prose
@@ -51534,7 +51534,7 @@
 33	bataille	_	NOUN	NOMcom	_	31	nmod	_	XmlId=w_28_15401
 34	et	_	CCONJ	CONcoo	_	35	cc	_	XmlId=w_28_15402
 35	passerent	_	VERB	VERcjg	VerbForm=Fin	29	conj	_	SpaceAfter=No|XmlId=w_28_15403
-36	.	_	PUNCT	PONfrt	_	29	punct	_	XmlId=w_28_15404
+36	.	_	PUNCT	PONfrt	_	11	punct	_	XmlId=w_28_15404
 
 # text = Et quant il vinrent a le chité, si se logierent li haut homme
 # newdoc id = ClariConstantinople_1300_prose
@@ -51650,7 +51650,7 @@
 11	cordes	_	NOUN	NOMcom	_	8	obl	_	XmlId=w_28_15493
 12	as	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	13	case:det	_	XmlId=w_28_15494
 13	mas	_	NOUN	NOMcom	_	8	obl	_	SpaceAfter=No|XmlId=w_28_15495
-14	,	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_15496
+14	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_15496
 
 # text = et fist faire bons pons par deseure et bons puis encoste de cordes ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -51869,7 +51869,7 @@
 8	et	_	CCONJ	CONcoo	_	10	cc	_	XmlId=w_28_15676
 9	li	_	DET	DETdef	Definite=Def|PronType=Art	10	det	_	XmlId=w_28_15677
 10	Venicien	_	PROPN	NOMpro	_	7	conj	_	SpaceAfter=No|XmlId=w_28_15678
-11	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_15679
+11	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_15679
 
 # text = et prisent jor a l'endemain d'assalir le chité et par terre et par mer tot ensanle.
 # newdoc id = ClariConstantinople_1300_prose
@@ -51978,7 +51978,7 @@
 79	fist	_	VERB	VERcjg	VerbForm=Fin	52	conj	_	XmlId=w_28_15777
 80	.xvij.	_	NUM	DETcar	NumType=Card	81	nummod	_	XmlId=w_28_15778
 81	batailles	_	NOUN	NOMcom	_	79	obj	_	XmlId=w_28_15779
-82	;	_	PUNCT	PONfbl	_	52	punct	_	XmlId=w_28_15780
+82	;	_	PUNCT	PONfbl	_	41	punct	_	XmlId=w_28_15780
 
 # text = en ches .xvij. batailles esmoit on bien pres de .c.m. hommes a cheval.
 # newdoc id = ClariConstantinople_1300_prose
@@ -52073,7 +52073,7 @@
 18	et	_	CCONJ	CONcoo	_	20	cc	_	XmlId=w_28_15852
 19	les	_	DET	DETdef	Definite=Def|PronType=Art	20	det	_	XmlId=w_28_15853
 20	murs	_	NOUN	NOMcom	_	15	conj	_	SpaceAfter=No|XmlId=w_28_15854
-21	.	_	PUNCT	PONfrt	_	5	punct	_	XmlId=w_28_15855
+21	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_28_15855
 
 # text = Quant li Franchois se virrent si enclos a le reonde de ches batailles, si en furent molt espoenté
 # newdoc id = ClariConstantinople_1300_prose
@@ -52143,7 +52143,7 @@
 8	.l.	_	PRON	PROcar	NumType=Card	6	nsubj	_	XmlId=w_28_15906
 9	a	_	ADP	PRE	_	10	case	_	XmlId=w_28_15907
 10	pié	_	NOUN	NOMcom	_	6	obl	_	SpaceAfter=No|XmlId=w_28_15908
-11	.	_	PUNCT	PONfrt	_	10	punct	_	XmlId=w_28_15909
+11	.	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_28_15909
 
 # text = Aprés, quant eurent si faitement leur gent ordenee, si demanda li cuens de Flandres le premiere bataille
 # newdoc id = ClariConstantinople_1300_prose
@@ -52460,7 +52460,7 @@
 60	il	_	PRON	PROper	PronType=Prs	62	nsubj	_	XmlId=w_28_16167
 61	les	_	PRON	PROper	PronType=Prs	62	obj	_	XmlId=w_28_16168
 62	virent	_	VERB	VERcjg	VerbForm=Fin	52	advcl	_	SpaceAfter=No|XmlId=w_28_16169
-63	.	_	PUNCT	PONfrt	_	31	punct	_	XmlId=w_28_16170
+63	.	_	PUNCT	PONfrt	_	3	punct	_	XmlId=w_28_16170
 
 # text = Et ches quatre batalles, que je vous ai chi nommees par devant, warderent l'ost, pour peur que les batailles l'empereur qui estoient entor l'ost ne perchaissent ne ne damaissent l'ost ne les tentes ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -52820,7 +52820,7 @@
 9	en	_	ADP	PRE	_	11	case	_	XmlId=w_28_16475
 10	le	_	DET	DETdef	Definite=Def|PronType=Art	11	det	_	XmlId=w_28_16476
 11	cité	_	NOUN	NOMcom	_	6	obl	_	SpaceAfter=No|XmlId=w_28_16477
-12	,	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_16478
+12	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_16478
 
 # text = car trop estoient peu gent,
 # newdoc id = ClariConstantinople_1300_prose
@@ -52896,7 +52896,7 @@
 36	on	_	PRON	PROind	PronType=Ind	38	nsubj	_	XmlId=w_28_16535
 37	i	_	ADV	PROadv	_	38	obl:advmod	_	XmlId=w_28_16536
 38	savoit	_	VERB	VERcjg	VerbForm=Fin	30	acl:relcl	_	XmlId=w_28_16537
-39	;	_	PUNCT	PONfbl	_	23	punct	_	XmlId=w_28_16538
+39	;	_	PUNCT	PONfbl	_	19	punct	_	XmlId=w_28_16538
 
 # text = et quanke il kemandoient estoit fait ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -53169,7 +53169,7 @@
 17	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_16756
 18	ou	_	CCONJ	CONcoo	_	19	cc	_	XmlId=w_28_16757
 19	quatre	_	PRON	PROcar	NumType=Card	15	conj	_	SpaceAfter=No|XmlId=w_28_16758
-20	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_16759
+20	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_16759
 
 # text = ou chinc en tele i avoit il.
 # newdoc id = ClariConstantinople_1300_prose
@@ -53230,7 +53230,7 @@
 19	de	_	ADP	PRE	_	21	case	_	XmlId=w_28_16805
 20	l'	_	DET	DETdef	Definite=Def|PronType=Art	21	det	_	SpaceAfter=No|XmlId=w_28_16806
 21	ost	_	NOUN	NOMcom	_	12	obl	_	SpaceAfter=No|XmlId=w_28_16807
-22	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_16808
+22	,	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_16808
 
 # text = car se vous i conbatés et vous i aiés mester d'aïe, chil qui wardent l'ost ne vous porront aidier.
 # newdoc id = ClariConstantinople_1300_prose
@@ -53318,7 +53318,7 @@
 19	monseigneur	_	NOUN	NOMcom	_	18	nmod	_	XmlId=w_28_16877
 20	Henri	_	PROPN	NOMpro	_	19	flat	_	XmlId=w_28_16878
 21	ausi	_	ADV	ADVgen	_	5	conj	_	SpaceAfter=No|XmlId=w_28_16879
-22	.	_	PUNCT	PONfrt	_	21	punct	_	XmlId=w_28_16880
+22	.	_	PUNCT	PONfrt	_	5	punct	_	XmlId=w_28_16880
 
 # text = Et li cuens de Saint Pol ne mesires Pierres d'Amiens ne vaurrent retorner,
 # newdoc id = ClariConstantinople_1300_prose
@@ -53337,7 +53337,7 @@
 12	ne	_	ADV	ADVneg	Polarity=Neg	13	advmod	_	XmlId=w_28_16892
 13	vaurrent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_16893
 14	retorner	_	VERB	VERinf	VerbForm=Inf	13	xcomp	_	SpaceAfter=No|XmlId=w_28_16894
-15	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_16895
+15	,	_	PUNCT	PONfbl	_	13	punct	_	XmlId=w_28_16895
 
 # text = ains se raasturent en mi le camp tout coi a toute leur gent.
 # newdoc id = ClariConstantinople_1300_prose
@@ -53618,7 +53618,7 @@
 17	de	_	ADP	PRE	_	19	case	_	XmlId=w_28_17117
 18	la	_	DET	DETdef	Definite=Def|PronType=Art	19	det	_	XmlId=w_28_17118
 19	batalle	_	NOUN	NOMcom	_	16	nmod	_	SpaceAfter=No|XmlId=w_28_17119
-20	,	_	PUNCT	PONfbl	_	16	punct	_	XmlId=w_28_17120
+20	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_17120
 
 # text = si disent :
 # newdoc id = ClariConstantinople_1300_prose
@@ -53709,7 +53709,7 @@
 13	a	_	ADP	PRE	_	15	case	_	XmlId=w_28_17180
 14	l'	_	DET	DETdef	Definite=Def|PronType=Art	15	det	_	SpaceAfter=No|XmlId=w_28_17181
 15	empereur	_	NOUN	NOMcom	_	12	obl	_	SpaceAfter=No|XmlId=w_28_17182
-16	.	_	PUNCT	PONfrt	_	12	punct	_	XmlId=w_28_17183
+16	.	_	PUNCT	PONfrt	_	11	punct	_	XmlId=w_28_17183
 
 # text = Sire Diex ! » commenchierent il a dire et a crier,
 # newdoc id = ClariConstantinople_1300_prose
@@ -53725,7 +53725,7 @@
 9	et	_	CCONJ	CONcoo	_	11	cc	_	XmlId=w_28_17192
 10	a	_	ADP	PRE	_	11	mark	_	XmlId=w_28_17193
 11	crier	_	VERB	VERinf	VerbForm=Inf	8	conj	_	SpaceAfter=No|XmlId=w_28_17194
-12	,	_	PUNCT	PONfbl	_	1	punct	_	XmlId=w_28_17195
+12	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_17195
 
 # text = « Sire Diex, soiés hui warde d'aus et de toute leur compaingnie !
 # newdoc id = ClariConstantinople_1300_prose
@@ -53939,7 +53939,7 @@
 9	ne	_	ADV	ADVneg	Polarity=Neg	11	advmod	_	XmlId=w_28_17358
 10	vous	_	PRON	PROper	PronType=Prs	11	expl	_	XmlId=w_28_17359
 11	mouvés	_	VERB	VERcjg	VerbForm=Fin	4	acl:relcl	_	SpaceAfter=No|XmlId=w_28_17360
-12	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_17361
+12	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_17361
 
 # text = et sachiés que se vous ne chevauchiés, nous ne vous tenrons plus a nous ! »
 # newdoc id = ClariConstantinople_1300_prose
@@ -54365,7 +54365,7 @@
 8	mestiers	_	NOUN	NOMcom	_	10	nsubj	_	XmlId=w_28_17708
 9	en	_	ADV	PROadv	_	8	nmod	_	XmlId=w_28_17709
 10	estoit	_	VERB	VERcjg	VerbForm=Fin	5	advcl	_	SpaceAfter=No|XmlId=w_28_17710
-11	,	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_17711
+11	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_17711
 
 # text = et, d'autre part, entr'ax et l'empereur avoit uns grand caneus, uns grans conduis, par ou l'iawe venoit en Constantinoble, que, s'il i passaissent, il eussent grant damage de leur gent ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -54412,7 +54412,7 @@
 40	de	_	ADP	PRE	_	42	case	_	XmlId=w_28_17751
 41	leur	_	DET	DETpos	Poss=Yes	42	det	_	XmlId=w_28_17752
 42	gent	_	NOUN	NOMcom	_	39	nmod	_	XmlId=w_28_17753
-43	;	_	PUNCT	PONfbl	_	37	punct	_	XmlId=w_28_17754
+43	;	_	PUNCT	PONfbl	_	12	punct	_	XmlId=w_28_17754
 
 # text = et pour chou n'eurent il mie consel qu'il i alaissent.
 # newdoc id = ClariConstantinople_1300_prose
@@ -55025,7 +55025,7 @@
 14	faitement	_	ADV	ADVgen	_	16	advmod	_	XmlId=w_28_18242
 15	avoient	_	AUX	VERcjg	VerbForm=Fin	16	aux	_	XmlId=w_28_18243
 16	ouvré	_	VERB	VERppe	Tense=Past|VerbForm=Part	7	dislocated	_	SpaceAfter=No|XmlId=w_28_18244
-17	,	_	PUNCT	PONfbl	_	16	punct	_	XmlId=w_28_18245
+17	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_18245
 
 # text = et disent que li empereres s'en estoit fuis, et qu'il venissent en le chité et u palais comme u leur.
 # newdoc id = ClariConstantinople_1300_prose
@@ -55322,7 +55322,7 @@
 15	de	_	ADP	PRE	_	16	case	_	XmlId=w_28_18475
 16	prison	_	NOUN	NOMcom	_	13	obl	_	SpaceAfter=No|XmlId=w_28_18476
 17	.	_	PUNCT	PONfrt	_	13	punct	_	XmlId=w_28_18477
-18	»	_	PUNCT	PONpdr	_	13	punct	_	XmlId=w_28_18478
+18	»	_	PUNCT	PONpdr	_	9	punct	_	XmlId=w_28_18478
 
 # text = Adonques si fu Morchofles mis hors de prison,
 # newdoc id = ClariConstantinople_1300_prose
@@ -55464,7 +55464,7 @@
 35	,	_	PUNCT	PONfbl	_	32	punct	_	XmlId=w_28_18593
 36	avés	_	AUX	VERcjg	VerbForm=Fin	37	aux	_	XmlId=w_28_18594
 37	conquis	_	VERB	VERppe	Tense=Past|VerbForm=Part	10	acl:relcl	_	SpaceAfter=No|XmlId=w_28_18595
-38	,	_	PUNCT	PONfbl	_	37	punct	_	XmlId=w_28_18596
+38	,	_	PUNCT	PONfbl	_	12	punct	_	XmlId=w_28_18596
 
 # text = et avés remis le droit oir de Coustantinoble en sen siege
 # newdoc id = ClariConstantinople_1300_prose
@@ -55508,7 +55508,7 @@
 10	kiés	_	NOUN	NOMcom	_	1	acl	_	XmlId=w_28_18625
 11	du	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	12	case:det	_	XmlId=w_28_18626
 12	monde	_	NOUN	NOMcom	_	10	nmod	_	SpaceAfter=No|XmlId=w_28_18627
-13	.	_	PUNCT	PONfrt	_	10	punct	_	XmlId=w_28_18628
+13	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_28_18628
 
 # text = « Seigneur, fist li soudans, je vous vaurroie proier d'une cose que je vous dirai.
 # newdoc id = ClariConstantinople_1300_prose
@@ -55628,7 +55628,7 @@
 25	voliés	_	VERB	VERcjg	VerbForm=Fin	17	conj	_	XmlId=w_28_18731
 26	aidier	_	VERB	VERinf	VerbForm=Inf	25	xcomp	_	SpaceAfter=No|XmlId=w_28_18732
 27	.	_	PUNCT	PONfrt	_	17	punct	_	XmlId=w_28_18733
-28	»	_	PUNCT	PONpdr	_	17	punct	_	XmlId=w_28_18734
+28	»	_	PUNCT	PONpdr	_	4	punct	_	XmlId=w_28_18734
 
 # text = Et li baron respondirent qu'il s'en conselleroient,
 # newdoc id = ClariConstantinople_1300_prose
@@ -55765,7 +55765,7 @@
 3	l'	_	PRON	PROper	PronType=Prs	5	obj	_	SpaceAfter=No|XmlId=w_28_18848
 4	osseroient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_18849
 5	laissier	_	VERB	VERinf	VerbForm=Inf	4	xcomp	_	SpaceAfter=No|XmlId=w_28_18850
-6	.	_	PUNCT	PONfrt	_	5	punct	_	XmlId=w_28_18851
+6	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_28_18851
 
 # text = Quant li soudans oï chou, si en fu tous courchiés,
 # newdoc id = ClariConstantinople_1300_prose
@@ -55781,7 +55781,7 @@
 9	fu	_	AUX	VERcjg	VerbForm=Fin	11	aux	_	XmlId=w_28_18860
 10	tous	_	PRON	PROind	PronType=Ind	11	obl	_	XmlId=w_28_18861
 11	courchiés	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_28_18862
-12	,	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_18863
+12	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_18863
 
 # text = si s'en rala.
 # newdoc id = ClariConstantinople_1300_prose
@@ -55884,7 +55884,7 @@
 5	veir	_	VERB	VERinf	VerbForm=Inf	4	xcomp	_	XmlId=w_28_18943
 6	li	_	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_28_18944
 7	baron	_	NOUN	NOMcom	_	4	nsubj	_	SpaceAfter=No|XmlId=w_28_18945
-8	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_18946
+8	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_18946
 
 # text = et si le saluerent,
 # newdoc id = ClariConstantinople_1300_prose
@@ -56325,7 +56325,7 @@
 13	vis	_	NOUN	NOMcom	_	10	xcomp	_	XmlId=w_28_19296
 14	que	_	ADV	ADVgen	_	10	advmod	_	XmlId=w_28_19297
 15	dis	_	PRON	PROcar	NumType=Card	10	obl	_	SpaceAfter=No|XmlId=w_28_19298
-16	,	_	PUNCT	PONfbl	_	15	punct	_	XmlId=w_28_19299
+16	,	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_19299
 
 # text = et quant il vint de Jherusalem en Coustantinoble, n'en avoit il que deus vis.
 # newdoc id = ClariConstantinople_1300_prose
@@ -56547,7 +56547,7 @@
 13	tour	_	NOUN	NOMcom	_	5	obl	_	XmlId=w_28_19486
 14	de	_	ADP	PRE	_	15	case	_	XmlId=w_28_19487
 15	Galatha	_	PROPN	NOMpro	_	13	nmod	_	SpaceAfter=No|XmlId=w_28_19488
-16	,	_	PUNCT	PONfbl	_	13	punct	_	XmlId=w_28_19489
+16	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_19489
 
 # text = et se herbegierent illueques tout ensanle en unes mansions qui i estoient,
 # newdoc id = ClariConstantinople_1300_prose
@@ -56834,7 +56834,7 @@
 8	Venicien	_	PROPN	NOMpro	_	6	nsubj	_	XmlId=w_28_19697
 9	le	_	DET	DETdef	Definite=Def|PronType=Art	10	det	_	XmlId=w_28_19698
 10	moitié	_	NOUN	NOMcom	_	6	obj	_	SpaceAfter=No|XmlId=w_28_19699
-11	,	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_19700
+11	,	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_19700
 
 # text = car il devoient avoir le moitié des conquestes ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -56873,7 +56873,7 @@
 19	de	_	ADP	PRE	_	21	case	_	XmlId=w_28_19728
 20	leur	_	DET	DETpos	Poss=Yes	21	det	_	XmlId=w_28_19729
 21	navie	_	NOUN	NOMcom	_	17	obl	_	XmlId=w_28_19730
-22	;	_	PUNCT	PONfbl	_	12	punct	_	XmlId=w_28_19731
+22	;	_	PUNCT	PONfbl	_	9	punct	_	XmlId=w_28_19731
 
 # text = et des autres .xx.m. mars qui remessent as pelerins, rendi on a tous chiaus qui avoient presté de leur avoir au paiage du passage.
 # newdoc id = ClariConstantinople_1300_prose
@@ -57313,7 +57313,7 @@
 8	en	_	ADP	PRE	_	10	case	_	XmlId=w_28_20092
 9	ches	_	DET	DETdem	PronType=Dem	10	det	_	XmlId=w_28_20093
 10	Grius	_	PROPN	NOMpro	_	7	obl	_	SpaceAfter=No|XmlId=w_28_20094
-11	.	_	PUNCT	PONfrt	_	7	punct	_	XmlId=w_28_20095
+11	.	_	PUNCT	PONfrt	_	5	punct	_	XmlId=w_28_20095
 
 # text = Si s'en revinrent arriere en Coustantinoble ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -58100,7 +58100,7 @@
 9	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_20691
 10	nos	_	DET	DETpos	Poss=Yes	11	det	_	XmlId=w_28_20693
 11	convenenches	_	NOUN	NOMcom	_	3	obj	_	SpaceAfter=No|XmlId=w_28_20694
-12	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_20695
+12	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_20695
 
 # text = ne si n'en feras plus ?
 # newdoc id = ClariConstantinople_1300_prose
@@ -58111,7 +58111,7 @@
 4	en	_	ADV	PROadv	_	6	obl	_	XmlId=w_28_20699
 5	feras	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_20700
 6	plus	_	ADV	ADVgen	_	5	obj	_	XmlId=w_28_20701
-7	?	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_28_20702
+7	?	_	PUNCT	PONfrt	_	5	punct	_	XmlId=w_28_20702
 
 # text = - Naie, fist li empereres, je n'en ferai plus que fait en ai !
 # newdoc id = ClariConstantinople_1300_prose
@@ -58204,7 +58204,7 @@
 16	en	_	ADP	PRE	_	17	case	_	XmlId=w_28_20774
 17	avant	_	ADV	ADVgen	_	8	obl	_	SpaceAfter=No|XmlId=w_28_20775
 18	.	_	PUNCT	PONfrt	_	8	punct	_	XmlId=w_28_20776
-19	»	_	PUNCT	PONpdr	_	8	punct	_	XmlId=w_28_20777
+19	»	_	PUNCT	PONpdr	_	3	punct	_	XmlId=w_28_20777
 
 # text = A ches paroles s'en parti li dux
 # newdoc id = ClariConstantinople_1300_prose
@@ -58595,7 +58595,7 @@
 8	mie	_	ADV	ADVneg	Polarity=Neg	6	advmod	_	XmlId=w_28_21108
 9	tele	_	DET	DETind	PronType=Ind	10	det	_	XmlId=w_28_21109
 10	kierté	_	NOUN	NOMcom	_	6	obl	_	SpaceAfter=No|XmlId=w_28_21110
-11	,	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_21111
+11	,	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_21111
 
 # text = ains en avoient auques a leur ost maintenir une pieche.
 # newdoc id = ClariConstantinople_1300_prose
@@ -58751,7 +58751,7 @@
 24	que	_	SCONJ	CONsub	_	26	mark	_	XmlId=w_28_21236
 25	on	_	PRON	PROind	PronType=Ind	26	nsubj	_	XmlId=w_28_21237
 26	assausit	_	VERB	VERcjg	VerbForm=Fin	23	ccomp	_	SpaceAfter=No|XmlId=w_28_21238
-27	,	_	PUNCT	PONfbl	_	20	punct	_	XmlId=w_28_21239
+27	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_21239
 
 # text = et ne fu mie merveille se il fisent chou,
 # newdoc id = ClariConstantinople_1300_prose
@@ -58776,7 +58776,7 @@
 4	eurent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_21253
 5	grant	_	ADJ	ADJqua	_	6	amod	_	XmlId=w_28_21254
 6	loisir	_	NOUN	NOMcom	_	4	obj	_	SpaceAfter=No|XmlId=w_28_21255
-7	.	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_28_21256
+7	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_28_21256
 
 # text = Entre ches entrefaites li Griu, li traïtre l'empereeur et Morchofles que li empereres avoit geté de prison, s'asanlerent un jor
 # newdoc id = ClariConstantinople_1300_prose
@@ -59003,7 +59003,7 @@
 6	corde	_	NOUN	NOMcom	_	4	obj	_	XmlId=w_28_21438
 7	u	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	8	case:det	_	XmlId=w_28_21439
 8	col	_	NOUN	NOMcom	_	4	obl	_	SpaceAfter=No|XmlId=w_28_21440
-9	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_21441
+9	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_21441
 
 # text = si le fist estranler et sen pere Kyrsaac ausi.
 # newdoc id = ClariConstantinople_1300_prose
@@ -59017,7 +59017,7 @@
 7	pere	_	NOUN	NOMcom	_	2	conj	_	XmlId=w_28_21448
 8	Kyrsaac	_	PROPN	NOMpro	_	7	flat	_	XmlId=w_28_21449
 9	ausi	_	ADV	ADVgen	_	4	advmod	_	SpaceAfter=No|XmlId=w_28_21450
-10	.	_	PUNCT	PONfrt	_	9	punct	_	XmlId=w_28_21451
+10	.	_	PUNCT	PONfrt	_	3	punct	_	XmlId=w_28_21451
 
 # text = Quant li eut chou fait, si vint ariere a chiaus qui le devoient faire empereur,
 # newdoc id = ClariConstantinople_1300_prose
@@ -59782,7 +59782,7 @@
 25	pooir	_	NOUN	NOMcom	_	27	obj	_	XmlId=w_28_22099
 26	i	_	ADV	PROadv	_	27	obl:advmod	_	XmlId=w_28_22100
 27	avoit	_	VERB	VERcjg	VerbForm=Fin	21	conj	_	SpaceAfter=No|XmlId=w_28_22101
-28	,	_	PUNCT	PONfbl	_	17	punct	_	XmlId=w_28_22102
+28	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_22102
 
 # text = si leur commenche a prumetre et a douner et as uns et as autres,
 # newdoc id = ClariConstantinople_1300_prose
@@ -59801,7 +59801,7 @@
 12	et	_	CCONJ	CONcoo	_	14	cc	_	XmlId=w_28_22114
 13	as	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	14	case:det	_	XmlId=w_28_22115
 14	autres	_	PRON	PROind	PronType=Ind	11	conj	_	SpaceAfter=No|XmlId=w_28_22116
-15	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_22117
+15	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_22117
 
 # text = et fist tant que tout chil du païs furent tot subjet a lui, et tant que il fu sires d'aus.
 # newdoc id = ClariConstantinople_1300_prose
@@ -60791,7 +60791,7 @@
 21	puet	_	AUX	VERcjg	VerbForm=Fin	23	aux	_	XmlId=w_28_22904
 22	estre	_	AUX	VERinf	VerbForm=Inf	23	aux:pass	_	XmlId=w_28_22905
 23	desfis	_	VERB	VERppe	Tense=Past|VerbForm=Part	11	ccomp	_	SpaceAfter=No|XmlId=w_28_22906
-24	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_22907
+24	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_22907
 
 # text = et pour chou que Morchofles ne le portoit mie a droit, creons nous qu'il fu desconfis.
 # newdoc id = ClariConstantinople_1300_prose
@@ -60883,7 +60883,7 @@
 5	en	_	ADV	PROadv	_	7	nmod	_	XmlId=w_28_22972
 6	seurent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_22973
 7	mot	_	NOUN	NOMcom	_	6	obj	_	SpaceAfter=No|XmlId=w_28_22974
-8	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_22975
+8	,	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_22975
 
 # text = si s'en revenoient durement
 # newdoc id = ClariConstantinople_1300_prose
@@ -60980,7 +60980,7 @@
 16	disent	_	VERB	VERcjg	VerbForm=Fin	9	conj	_	XmlId=w_28_23041
 17	entr'	_	ADP	PRE	_	18	case	_	SpaceAfter=No|XmlId=w_28_23042
 18	aus	_	PRON	PROper	PronType=Prs	16	obl	_	XmlId=w_28_23043
-19	:	_	PUNCT	PONfbl	_	13	punct	_	XmlId=w_28_23044
+19	:	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_23044
 
 # text = « Par foi ! se nous fuions, nous sommes tout mort ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -61157,7 +61157,7 @@
 2	en	_	ADV	PROadv	_	4	advmod	_	XmlId=w_28_23170
 3	ochient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_23171
 4	mout	_	PRON	PROind	PronType=Ind	3	obj	_	SpaceAfter=No|XmlId=w_28_23172
-5	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_28_23173
+5	.	_	PUNCT	PONfrt	_	3	punct	_	XmlId=w_28_23173
 
 # text = Quant li Griu virent que li Franchois les desconfissoient si, si se commenchent il a esmaier,
 # newdoc id = ClariConstantinople_1300_prose
@@ -61179,7 +61179,7 @@
 15	il	_	PRON	PROper	PronType=Prs	14	nsubj	_	XmlId=w_28_23188
 16	a	_	ADP	PRE	_	17	mark	_	XmlId=w_28_23189
 17	esmaier	_	VERB	VERinf	VerbForm=Inf	14	xcomp	_	SpaceAfter=No|XmlId=w_28_23190
-18	,	_	PUNCT	PONfbl	_	17	punct	_	XmlId=w_28_23191
+18	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_23191
 
 # text = si tornent il en fuies.
 # newdoc id = ClariConstantinople_1300_prose
@@ -61208,7 +61208,7 @@
 2	en	_	ADV	PROadv	_	4	nmod	_	XmlId=w_28_23205
 3	ochisent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_23206
 4	molt	_	PRON	PROind	PronType=Ind	3	obj	_	SpaceAfter=No|XmlId=w_28_23207
-5	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_23208
+5	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_23208
 
 # text = et molt en retinrent
 # newdoc id = ClariConstantinople_1300_prose
@@ -61291,7 +61291,7 @@
 38	rikes	_	ADJ	ADJqua	_	39	amod	_	XmlId=w_28_23272
 39	pierres	_	NOUN	NOMcom	_	36	obl	_	XmlId=w_28_23273
 40	precieuses	_	ADJ	ADJqua	_	39	amod	_	SpaceAfter=No|XmlId=w_28_23274
-41	,	_	PUNCT	PONfbl	_	31	punct	_	XmlId=w_28_23275
+41	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_23275
 
 # text = et estoit si bele et si rike que onques si bele ne si rike ne fu veue.
 # newdoc id = ClariConstantinople_1300_prose
@@ -61470,7 +61470,7 @@
 15	vous	_	PRON	PROper	PronType=Prs	17	iobj	_	XmlId=w_28_23407
 16	ai	_	AUX	VERcjg	VerbForm=Fin	17	aux	_	XmlId=w_28_23408
 17	dit	_	VERB	VERppe	Tense=Past|VerbForm=Part	10	advcl	_	XmlId=w_28_23409
-18	;	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_23410
+18	;	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_23410
 
 # text = et quant il vinrent pres de l'ost, si alerent li vesque et li clerc, qui en l'ost estoient, a pourcession encontre aus,
 # newdoc id = ClariConstantinople_1300_prose
@@ -61551,7 +61551,7 @@
 13	ou	_	PRON	PROrel	PronType=Rel	15	obl	_	XmlId=w_28_23472
 14	il	_	PRON	PROper	PronType=Prs	15	nsubj	_	XmlId=w_28_23473
 15	repairoient	_	VERB	VERcjg	VerbForm=Fin	12	acl:relcl	_	SpaceAfter=No|XmlId=w_28_23474
-16	,	_	PUNCT	PONfbl	_	12	punct	_	XmlId=w_28_23475
+16	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_23475
 
 # text = et canterent li vesque,
 # newdoc id = ClariConstantinople_1300_prose
@@ -62036,7 +62036,7 @@
 24	seroit	_	VERB	VERcjg	VerbForm=Fin	9	advcl	_	XmlId=w_28_23865
 25	des	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	26	case:det	_	XmlId=w_28_23866
 26	Veniciens	_	PROPN	NOMpro	_	24	obl	_	SpaceAfter=No|XmlId=w_28_23867
-27	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_28_23868
+27	.	_	PUNCT	PONfrt	_	9	punct	_	XmlId=w_28_23868
 
 # text = Et atira on que chis qui seroit empereres aroit le quarte partie de l'empire et le quarte part de la cité en sen demaine
 # newdoc id = ClariConstantinople_1300_prose
@@ -62606,7 +62606,7 @@
 30	estoit	_	AUX	VERcjg	VerbForm=Fin	32	cop	_	XmlId=w_28_24331
 31	il	_	PRON	PROper	PronType=Prs	32	nsubj	_	XmlId=w_28_24332
 32	haus	_	ADJ	ADJqua	_	21	advcl	_	XmlId=w_28_24333
-33	;	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_24334
+33	;	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_24334
 
 # text = et en chel monchel estoit venus Morchofles li traïtres, li empereres, et de se gent avec lui ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -63035,7 +63035,7 @@
 2	Veés	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_28_24660
 3	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_24661
 4	seigneur	_	NOUN	NOMcom	_	2	vocative	_	SpaceAfter=No|XmlId=w_28_24662
-5	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_24663
+5	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_24663
 
 # text = sui je boins empereres ?
 # newdoc id = ClariConstantinople_1300_prose
@@ -63091,7 +63091,7 @@
 7	tous	_	PRON	PROind	PronType=Ind	8	obj	_	XmlId=w_28_24696
 8	hounir	_	VERB	VERinf	VerbForm=Inf	5	conj	_	SpaceAfter=No|XmlId=w_28_24697
 9	.	_	PUNCT	PONfrt	_	5	punct	_	XmlId=w_28_24698
-10	»	_	PUNCT	PONpdr	_	5	punct	_	XmlId=w_28_24699
+10	»	_	PUNCT	PONpdr	_	3	punct	_	XmlId=w_28_24699
 
 # text = Quant li pelerin virent chou, si furent molt corchié et molt dolent,
 # newdoc id = ClariConstantinople_1300_prose
@@ -63366,7 +63366,7 @@
 29	abes	_	NOUN	NOMcom	_	10	conj	_	XmlId=w_28_24919
 30	de	_	ADP	PRE	_	31	case	_	XmlId=w_28_24920
 31	Los	_	PROPN	NOMpro	_	29	nmod	_	SpaceAfter=No|XmlId=w_28_24921
-32	,	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_24922
+32	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_24922
 
 # text = et moustrerent as pelerins que le bataille estoit droituriere, car il estoient traïteur et mordrisseeur, et qu'il estoient desloial, quant il avoient leur seigneur droiturier mordri, et qu'il estoient pieur que Juis.
 # newdoc id = ClariConstantinople_1300_prose
@@ -63602,7 +63602,7 @@
 5	et	_	CCONJ	CONcoo	_	7	cc	_	XmlId=w_28_25116
 6	li	_	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_28_25117
 7	Venicien	_	PROPN	NOMpro	_	3	dislocated	_	SpaceAfter=No|XmlId=w_28_25118
-8	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_25119
+8	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_25119
 
 # text = et refisent les pons de leurs nes et leur uissiers et leur galies ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -63795,7 +63795,7 @@
 19	mie	_	ADV	ADVneg	Polarity=Neg	18	advmod	_	XmlId=w_28_25266
 20	grant	_	ADJ	ADJqua	_	21	amod	_	XmlId=w_28_25267
 21	mal	_	NOUN	NOMcom	_	18	obj	_	SpaceAfter=No|XmlId=w_28_25268
-22	,	_	PUNCT	PONfbl	_	18	punct	_	XmlId=w_28_25269
+22	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_25269
 
 # text = et estoient les pierres si grans que uns hons n'en peust mie une lever de se tere.
 # newdoc id = ClariConstantinople_1300_prose
@@ -64348,7 +64348,7 @@
 39	fu	_	VERB	VERcjg	VerbForm=Fin	2	advcl	_	XmlId=w_28_25711
 40	en	_	ADP	PRE	_	41	case	_	XmlId=w_28_25712
 41	piés	_	NOUN	NOMcom	_	39	obl	_	SpaceAfter=No|XmlId=w_28_25713
-42	,	_	PUNCT	PONfbl	_	39	punct	_	XmlId=w_28_25714
+42	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_25714
 
 # text = et quant il fu en piés, si traist s'espee.
 # newdoc id = ClariConstantinople_1300_prose
@@ -64436,7 +64436,7 @@
 4	i	_	ADV	PROadv	_	6	obl:advmod	_	XmlId=w_28_25779
 5	oserent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_25780
 6	demourer	_	VERB	VERinf	VerbForm=Inf	5	xcomp	_	XmlId=w_28_25781
-7	;	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_25782
+7	;	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_25782
 
 # text = et li autres chevaliers i entra aprés,
 # newdoc id = ClariConstantinople_1300_prose
@@ -64777,7 +64777,7 @@
 38	i	_	ADV	PROadv	_	39	obl:advmod	_	XmlId=w_28_26056
 39	avoit	_	VERB	VERcjg	VerbForm=Fin	35	advcl	_	XmlId=w_28_26057
 40	il	_	PRON	PROimp	PronType=Prs	39	expl	_	SpaceAfter=No|XmlId=w_28_26058
-41	.	_	PUNCT	PONfrt	_	35	punct	_	XmlId=w_28_26059
+41	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_28_26059
 
 # text = Quant mesires Pierres d'Amiens vit que chil qui estoient es tours ne se mouvoient et il vit le convine des Grius, si ne fait mais el,
 # newdoc id = ClariConstantinople_1300_prose
@@ -65168,7 +65168,7 @@
 14	grietés	_	NOUN	NOMcom	_	11	conj	_	XmlId=w_28_26383
 15	que	_	SCONJ	CONsub	_	16	mark	_	XmlId=w_28_26384
 16	trop	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_26385
-17	;	_	PUNCT	PONfbl	_	16	punct	_	XmlId=w_28_26386
+17	;	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_26386
 
 # text = et tant pichierent a chele posterne de hasches et de boines espees, d'es, de bous et de pis, que il i fisent un grant pertruis.
 # newdoc id = ClariConstantinople_1300_prose
@@ -65253,7 +65253,7 @@
 28	d'	_	ADP	PRE	_	29	mark	_	SpaceAfter=No|XmlId=w_28_26456
 29	entrer	_	VERB	VERinf	VerbForm=Inf	27	xcomp	_	XmlId=w_28_26457
 30	i	_	ADV	PROadv	_	29	obl:advmod	_	SpaceAfter=No|XmlId=w_28_26458
-31	.	_	PUNCT	PONfrt	_	27	punct	_	XmlId=w_28_26459
+31	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_28_26459
 
 # text = Quant Aliaumes li clers vit que nus n'i osoit entrer, si sali avant
 # newdoc id = ClariConstantinople_1300_prose
@@ -65639,7 +65639,7 @@
 5	qui	_	PRON	PROrel	PronType=Rel	6	nsubj	_	XmlId=w_28_26754
 6	miex	_	ADV	ADVgen	_	4	advcl	_	XmlId=w_28_26755
 7	miex	_	ADV	ADVgen	_	6	advmod	_	SpaceAfter=No|XmlId=w_28_26756
-8	.	_	PUNCT	PONfrt	_	7	punct	_	XmlId=w_28_26757
+8	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_28_26757
 
 # text = Et li empereres Morchofles li traïtres estoit molt pres d'iluec, a mains de le getee d'un cailleu,
 # newdoc id = ClariConstantinople_1300_prose
@@ -65664,7 +65664,7 @@
 18	d'	_	ADP	PRE	_	20	case	_	SpaceAfter=No|XmlId=w_28_26775
 19	un	_	DET	DETndf	Definite=Ind|PronType=Art	20	det	_	XmlId=w_28_26776
 20	cailleu	_	NOUN	NOMcom	_	17	nmod	_	SpaceAfter=No|XmlId=w_28_26777
-21	,	_	PUNCT	PONfbl	_	17	punct	_	XmlId=w_28_26778
+21	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_26778
 
 # text = et faisoit sonner ses buisines d'argent et ses timbres
 # newdoc id = ClariConstantinople_1300_prose
@@ -66143,7 +66143,7 @@
 20	illuec	_	ADV	ADVgen	_	21	advmod	_	XmlId=w_28_27154
 21	laissiés	_	VERB	VERppe	Tense=Past|VerbForm=Part	10	acl:relcl	_	XmlId=w_28_27155
 22	avoit	_	AUX	VERcjg	VerbForm=Fin	21	aux	_	SpaceAfter=No|XmlId=w_28_27156
-23	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_28_27157
+23	.	_	PUNCT	PONfrt	_	8	punct	_	XmlId=w_28_27157
 
 # text = Quant chil qui desfendoient as tors et as murs virent que li Franchois estoient entré en le chité et leur empereres s'en estoit fuis, si n'i oserent demorer,
 # newdoc id = ClariConstantinople_1300_prose
@@ -66179,7 +66179,7 @@
 29	i	_	ADV	PROadv	_	31	obl:advmod	_	XmlId=w_28_27186
 30	oserent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_27187
 31	demorer	_	VERB	VERinf	VerbForm=Inf	30	xcomp	_	SpaceAfter=No|XmlId=w_28_27188
-32	,	_	PUNCT	PONfbl	_	31	punct	_	XmlId=w_28_27189
+32	,	_	PUNCT	PONfbl	_	30	punct	_	XmlId=w_28_27189
 
 # text = ains s'en fuirent qui miex miex :
 # newdoc id = ClariConstantinople_1300_prose
@@ -66191,7 +66191,7 @@
 5	qui	_	PRON	PROrel	PronType=Rel	6	nsubj	_	XmlId=w_28_27194
 6	miex	_	ADV	ADVgen	_	4	advcl	_	XmlId=w_28_27195
 7	miex	_	ADV	ADVgen	_	6	advmod	_	XmlId=w_28_27196
-8	:	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_27197
+8	:	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_27197
 
 # text = ensi fu le chités prise.
 # newdoc id = ClariConstantinople_1300_prose
@@ -66360,7 +66360,7 @@
 16	metre	_	VERB	VERinf	VerbForm=Inf	14	xcomp	_	XmlId=w_28_27339
 17	ne	_	CCONJ	CONcoo	_	18	cc	_	XmlId=w_28_27340
 18	espardre	_	VERB	VERinf	VerbForm=Inf	16	conj	_	SpaceAfter=No|XmlId=w_28_27341
-19	,	_	PUNCT	PONfbl	_	16	punct	_	XmlId=w_28_27342
+19	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_27342
 
 # text = ains demourerent esluec tout coi ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -66600,7 +66600,7 @@
 4	i	_	ADV	PROadv	_	6	obl:advmod	_	XmlId=w_28_27530
 5	osa	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_27531
 6	demorer	_	VERB	VERinf	VerbForm=Inf	5	xcomp	_	XmlId=w_28_27532
-7	;	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_27533
+7	;	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_27533
 
 # text = ains s'en fui a mie nuit que on n'en seut mot.
 # newdoc id = ClariConstantinople_1300_prose
@@ -66681,7 +66681,7 @@
 9	i	_	ADV	PROadv	_	11	obl:advmod	_	XmlId=w_28_27595
 10	osa	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_27596
 11	demorer	_	VERB	VERinf	VerbForm=Inf	10	xcomp	_	SpaceAfter=No|XmlId=w_28_27597
-12	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_27598
+12	,	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_27598
 
 # text = ains se mist en une galie anchois que il fust jours,
 # newdoc id = ClariConstantinople_1300_prose
@@ -66784,7 +66784,7 @@
 7	d'	_	ADP	PRE	_	9	case	_	SpaceAfter=No|XmlId=w_28_27670
 8	autres	_	DET	DETind	PronType=Ind	9	det	_	XmlId=w_28_27671
 9	nations	_	NOUN	NOMcom	_	6	nmod	_	SpaceAfter=No|XmlId=w_28_27672
-10	,	_	PUNCT	PONfbl	_	1	punct	_	XmlId=w_28_27673
+10	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_27673
 
 # text = si vienent il a l'ost as Franchois a pourchession,
 # newdoc id = ClariConstantinople_1300_prose
@@ -67386,7 +67386,7 @@
 39	devant	_	ADV	ADVgen	_	30	conj	_	XmlId=w_28_28160
 40	ne	_	CCONJ	CONcoo	_	41	cc	_	XmlId=w_28_28161
 41	aprés	_	ADV	ADVgen	_	39	conj	_	XmlId=w_28_28162
-42	;	_	PUNCT	PONfbl	_	41	punct	_	XmlId=w_28_28163
+42	;	_	PUNCT	PONfbl	_	23	punct	_	XmlId=w_28_28163
 
 # text = ne je ne quit mie, au mien ensient, que es quarante plus rikes chités du monde eust tant d'avoir comme on trouva u cors de Constantinoble.
 # newdoc id = ClariConstantinople_1300_prose
@@ -67618,7 +67618,7 @@
 7	Venicien	_	PROPN	NOMpro	_	5	nsubj	_	XmlId=w_28_28356
 8	leur	_	DET	DETpos	Poss=Yes	9	det	_	XmlId=w_28_28357
 9	moitié	_	NOUN	NOMcom	_	5	obj	_	SpaceAfter=No|XmlId=w_28_28358
-10	,	_	PUNCT	PONfbl	_	9	punct	_	XmlId=w_28_28359
+10	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_28359
 
 # text = et les pierres precieuses et li grans tresors qui remest a partir ala si males voies comme nous vous dirons aprés.
 # newdoc id = ClariConstantinople_1300_prose
@@ -67706,7 +67706,7 @@
 15	je	_	PRON	PROper	PronType=Prs	17	nsubj	_	XmlId=w_28_28432
 16	vous	_	PRON	PROper	PronType=Prs	17	iobj	_	XmlId=w_28_28433
 17	dirai	_	VERB	VERcjg	VerbForm=Fin	10	advcl	_	SpaceAfter=No|XmlId=w_28_28434
-18	.	_	PUNCT	PONfrt	_	17	punct	_	XmlId=w_28_28435
+18	.	_	PUNCT	PONfrt	_	10	punct	_	XmlId=w_28_28435
 
 # text = Il avoit bien dedens chu palais, que li marchis tenoit, chinc chens mansions, qui toutes tenoient l'une a l'autre
 # newdoc id = ClariConstantinople_1300_prose
@@ -67764,7 +67764,7 @@
 11	grans	_	ADJ	ADJqua	_	8	amod	_	XmlId=w_28_28478
 12	que	_	CCONJ	CONcoo	_	13	cc	_	XmlId=w_28_28479
 13	petites	_	ADJ	ADJqua	_	11	conj	_	XmlId=w_28_28480
-14	;	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_28481
+14	;	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_28481
 
 # text = si en i avoit une que on apeloit le Sainte Capele, qui si estoit rike et noble qu'il n'i avoit ne gons ne verveles ne autres menbres qui a fer apartenissent, qui tout ne fussent d'argent,
 # newdoc id = ClariConstantinople_1300_prose
@@ -67810,7 +67810,7 @@
 39	fussent	_	VERB	VERcjg	VerbForm=Fin	25	acl:relcl	_	XmlId=w_28_28520
 40	d'	_	ADP	PRE	_	41	case	_	SpaceAfter=No|XmlId=w_28_28521
 41	argent	_	NOUN	NOMcom	_	39	obl	_	SpaceAfter=No|XmlId=w_28_28522
-42	,	_	PUNCT	PONfbl	_	39	punct	_	XmlId=w_28_28523
+42	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_28523
 
 # text = ne si n'i avoit colombe qui ne fust ou de jaspe, ou de pourfile ou de rikes pierres precieuses.
 # newdoc id = ClariConstantinople_1300_prose
@@ -67938,7 +67938,7 @@
 34	comme	_	SCONJ	CONsub	_	36	mark	_	XmlId=w_28_28632
 35	demie	_	ADJ	ADJqua	_	36	amod	_	XmlId=w_28_28633
 36	toise	_	NOUN	NOMcom	_	33	obl	_	SpaceAfter=No|XmlId=w_28_28634
-37	,	_	PUNCT	PONfbl	_	16	punct	_	XmlId=w_28_28635
+37	,	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_28635
 
 # text = et si i trova on le fer de le lanche dont Nostre Sires eut le costé perchié, et les deux cleus qu'il eut fichiés par mi les mains et par mi les piés ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -68553,7 +68553,7 @@
 19	de	_	ADP	PRE	_	21	case	_	XmlId=w_28_29125
 20	chel	_	DET	DETdem	PronType=Dem	21	det	_	XmlId=w_28_29126
 21	ymage	_	NOUN	NOMcom	_	18	obl	_	SpaceAfter=No|XmlId=w_28_29127
-22	.	_	PUNCT	PONfrt	_	14	punct	_	XmlId=w_28_29128
+22	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_28_29128
 
 # text = Si i avoit bien vint des capeles,
 # newdoc id = ClariConstantinople_1300_prose
@@ -68900,7 +68900,7 @@
 42	riques	_	ADJ	ADJqua	_	43	amod	_	XmlId=w_28_29420
 43	pierres	_	NOUN	NOMcom	_	36	conj	_	XmlId=w_28_29421
 44	precieuses	_	ADJ	ADJqua	_	43	amod	_	SpaceAfter=No|XmlId=w_28_29422
-45	,	_	PUNCT	PONfbl	_	29	punct	_	XmlId=w_28_29423
+45	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_29423
 
 # text = ne si n'en i avoit nule de ches colombes qui ne portast medechine :
 # newdoc id = ClariConstantinople_1300_prose
@@ -68919,7 +68919,7 @@
 12	ne	_	ADV	ADVneg	Polarity=Neg	13	advmod	_	XmlId=w_28_29435
 13	portast	_	VERB	VERcjg	VerbForm=Fin	7	acl:relcl	_	XmlId=w_28_29436
 14	medechine	_	NOUN	NOMcom	_	13	obj	_	XmlId=w_28_29437
-15	:	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_29438
+15	:	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_29438
 
 # text = tele i avoit qui warissoit du mal des rains, quant on s'i frotoit, tele qui warisoit du mal du flanc, et teles qui warissoient d'autres maladies,
 # newdoc id = ClariConstantinople_1300_prose
@@ -68955,7 +68955,7 @@
 29	d'	_	ADP	PRE	_	31	case	_	SpaceAfter=No|XmlId=w_28_29467
 30	autres	_	DET	DETind	PronType=Ind	31	det	_	XmlId=w_28_29468
 31	maladies	_	NOUN	NOMcom	_	28	obl	_	SpaceAfter=No|XmlId=w_28_29469
-32	,	_	PUNCT	PONfbl	_	15	punct	_	XmlId=w_28_29470
+32	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_29470
 
 # text = ne si n'i avoit huis en chu moustier, ne gons, ne verveles, ne autres menbres qui a fer apartenissent, qui tout ne fussent d'argent.
 # newdoc id = ClariConstantinople_1300_prose
@@ -69046,7 +69046,7 @@
 29	empereres	_	NOUN	NOMcom	_	30	nsubj	_	XmlId=w_28_29546
 30	fist	_	VERB	VERcjg	VerbForm=Fin	3	acl	_	XmlId=w_28_29547
 31	faire	_	VERB	VERinf	VerbForm=Inf	30	xcomp	_	XmlId=w_28_29548
-32	;	_	PUNCT	PONfbl	_	31	punct	_	XmlId=w_28_29549
+32	;	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_29549
 
 # text = si avoit bien chele tavle quatorze piés de lonc ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -69510,7 +69510,7 @@
 11	deseure	_	NOUN	NOMcom	_	13	case	_	XmlId=w_28_29931
 12	le	_	DET	DETdef	Definite=Def|PronType=Art	13	det	_	XmlId=w_28_29932
 13	marbre	_	NOUN	NOMcom	_	3	obl	_	SpaceAfter=No|XmlId=w_28_29933
-14	,	_	PUNCT	PONfbl	_	13	punct	_	XmlId=w_28_29934
+14	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_29934
 
 # text = et estoit molt bien loiie de boines bendes de fer.
 # newdoc id = ClariConstantinople_1300_prose
@@ -69628,7 +69628,7 @@
 14	seur	_	ADP	PRE	_	16	case	_	XmlId=w_28_30029
 15	le	_	DET	DETdef	Definite=Def|PronType=Art	16	det	_	XmlId=w_28_30030
 16	pume	_	NOUN	NOMcom	_	6	obl	_	SpaceAfter=No|XmlId=w_28_30031
-17	.	_	PUNCT	PONfrt	_	16	punct	_	XmlId=w_28_30032
+17	.	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_28_30032
 
 # text = Et disoient li Griu que chou estoit Eracles li empereres ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -69903,7 +69903,7 @@
 15	d'	_	ADP	PRE	_	16	case	_	SpaceAfter=No|XmlId=w_28_30260
 16	or	_	NOUN	NOMcom	_	14	nmod	_	XmlId=w_28_30261
 17	afulé	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	acl:relcl	_	SpaceAfter=No|XmlId=w_28_30262
-18	,	_	PUNCT	PONfbl	_	17	punct	_	XmlId=w_28_30263
+18	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_30263
 
 # text = si le tendoit avant seur sen brach,
 # newdoc id = ClariConstantinople_1300_prose
@@ -70734,7 +70734,7 @@
 11	chités	_	NOUN	NOMcom	_	13	nsubj	_	XmlId=w_28_30951
 12	fu	_	AUX	VERcjg	VerbForm=Fin	13	aux:pass	_	XmlId=w_28_30952
 13	prise	_	VERB	VERppe	Tense=Past|VerbForm=Part	6	advcl	_	SpaceAfter=No|XmlId=w_28_30953
-14	.	_	PUNCT	PONfrt	_	13	punct	_	XmlId=w_28_30954
+14	.	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_28_30954
 
 # text = Encore i avoit il ailleurs en le chité une greigneur mervelle, que il i avoit deus colombes ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -70946,7 +70946,7 @@
 24	chités	_	NOUN	NOMcom	_	26	nsubj	_	XmlId=w_28_31119
 25	fu	_	AUX	VERcjg	VerbForm=Fin	26	aux:pass	_	XmlId=w_28_31120
 26	prise	_	VERB	VERppe	Tense=Past|VerbForm=Part	17	acl:relcl	_	XmlId=w_28_31121
-27	;	_	PUNCT	PONfbl	_	17	punct	_	XmlId=w_28_31122
+27	;	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_31122
 
 # text = ne ne le peurent li Griu savoir devant la que che fu avenu.
 # newdoc id = ClariConstantinople_1300_prose
@@ -71060,7 +71060,7 @@
 31	l'	_	PRON	PROper	PronType=Prs	33	obj	_	SpaceAfter=No|XmlId=w_28_31217
 32	eurent	_	AUX	VERcjg	VerbForm=Fin	33	aux	_	XmlId=w_28_31218
 33	conquis	_	VERB	VERppe	Tense=Past|VerbForm=Part	23	advcl	_	XmlId=w_28_31219
-34	;	_	PUNCT	PONfbl	_	33	punct	_	XmlId=w_28_31220
+34	;	_	PUNCT	PONfbl	_	23	punct	_	XmlId=w_28_31220
 
 # text = ne je ne quit mie, par le mien ensient, que nus hons conterres peust nombrer mie toutes les abeïes de le chité, tant en i avoit il, que de moines que de nonnains, estre les autres moustiers de le vile hors ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -71178,7 +71178,7 @@
 36	ester	_	VERB	VERinf	VerbForm=Inf	34	xcomp	_	XmlId=w_28_31323
 37	a	_	ADP	PRE	_	38	mark	_	XmlId=w_28_31324
 38	dire	_	VERB	VERinf	VerbForm=Inf	36	xcomp	_	XmlId=w_28_31325
-39	;	_	PUNCT	PONfbl	_	36	punct	_	XmlId=w_28_31326
+39	;	_	PUNCT	PONfbl	_	34	punct	_	XmlId=w_28_31326
 
 # text = car nus hons terriens, qui tant eust mes en le chité, ne le vous porroit nombrer ne aconter, que qui vous en conteroit le chentisme part de le riqueche, ne de le biauté, ne de le nobleche qui estoit es abeïes et es moustiers et es palais et en le vile, sanleroit il que che fust menchoingne,
 # newdoc id = ClariConstantinople_1300_prose
@@ -71246,7 +71246,7 @@
 61	che	_	PRON	PROdem	PronType=Dem	63	nsubj	_	XmlId=w_28_31387
 62	fust	_	AUX	VERcjg	VerbForm=Fin	63	cop	_	XmlId=w_28_31388
 63	menchoingne	_	NOUN	NOMcom	_	58	obl	_	SpaceAfter=No|XmlId=w_28_31389
-64	,	_	PUNCT	PONfbl	_	58	punct	_	XmlId=w_28_31390
+64	,	_	PUNCT	PONfbl	_	18	punct	_	XmlId=w_28_31390
 
 # text = ne ne cresriés vous mie.
 # newdoc id = ClariConstantinople_1300_prose
@@ -71389,7 +71389,7 @@
 42	faisoit	_	VERB	VERcjg	VerbForm=Fin	38	advcl	_	XmlId=w_28_31514
 43	chis	_	DET	DETdem	PronType=Dem	44	det	_	XmlId=w_28_31515
 44	empereres	_	NOUN	NOMcom	_	42	nsubj	_	SpaceAfter=No|XmlId=w_28_31516
-45	.	_	PUNCT	PONfrt	_	20	punct	_	XmlId=w_28_31517
+45	.	_	PUNCT	PONfrt	_	5	punct	_	XmlId=w_28_31517
 
 # text = En chel abeïe si estoit le tavle de marbre ou Nostre Sires fu estendus, quant il fu despendus de le crois,
 # newdoc id = ClariConstantinople_1300_prose
@@ -71416,7 +71416,7 @@
 20	de	_	ADP	PRE	_	22	case	_	XmlId=w_28_31537
 21	le	_	DET	DETdef	Definite=Def|PronType=Art	22	det	_	XmlId=w_28_31538
 22	crois	_	NOUN	NOMcom	_	19	obl	_	SpaceAfter=No|XmlId=w_28_31539
-23	,	_	PUNCT	PONfbl	_	19	punct	_	XmlId=w_28_31540
+23	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_31540
 
 # text = et si i paroient encore les lermes que Nostre Dame avoit plouré deseure.
 # newdoc id = ClariConstantinople_1300_prose
@@ -71465,7 +71465,7 @@
 24	li	_	DET	DETdef	Definite=Def|PronType=Art	25	det	_	XmlId=w_28_31578
 25	marchis	_	NOUN	NOMcom	_	26	nsubj	_	XmlId=w_28_31579
 26	tenoit	_	VERB	VERcjg	VerbForm=Fin	17	acl:relcl	_	SpaceAfter=No|XmlId=w_28_31580
-27	,	_	PUNCT	PONfbl	_	26	punct	_	XmlId=w_28_31581
+27	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_31581
 
 # text = et disent entr'aus qu'il fesisent empereeur et qu'il esleussent leur dis,
 # newdoc id = ClariConstantinople_1300_prose
@@ -71528,7 +71528,7 @@
 20	esleussent	_	VERB	VERcjg	VerbForm=Fin	17	ccomp	_	XmlId=w_28_31629
 21	a	_	ADP	PRE	_	22	case	_	XmlId=w_28_31630
 22	empereur	_	NOUN	NOMcom	_	20	xcomp	_	SpaceAfter=No|XmlId=w_28_31631
-23	,	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_31632
+23	,	_	PUNCT	PONfbl	_	9	punct	_	XmlId=w_28_31632
 
 # text = et voloit estre empereres entresait.
 # newdoc id = ClariConstantinople_1300_prose
@@ -71926,7 +71926,7 @@
 40	mesissent	_	VERB	VERcjg	VerbForm=Fin	36	ccomp	_	XmlId=w_28_31957
 41	ne	_	CCONJ	CONcoo	_	42	cc	_	XmlId=w_28_31958
 42	eslisissent	_	VERB	VERcjg	VerbForm=Fin	40	conj	_	SpaceAfter=No|XmlId=w_28_31959
-43	.	_	PUNCT	PONfrt	_	36	punct	_	XmlId=w_28_31960
+43	.	_	PUNCT	PONfrt	_	7	punct	_	XmlId=w_28_31960
 
 # text = Ains prisent un autre jour d'eslirre ches dis,
 # newdoc id = ClariConstantinople_1300_prose
@@ -71984,7 +71984,7 @@
 15	esleussent	_	VERB	VERcjg	VerbForm=Fin	12	ccomp	_	XmlId=w_28_32003
 16	a	_	ADP	PRE	_	17	case	_	XmlId=w_28_32004
 17	empereeur	_	NOUN	NOMcom	_	15	xcomp	_	SpaceAfter=No|XmlId=w_28_32005
-18	,	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_32006
+18	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_32006
 
 # text = et voloit estre empereres aussi comme par forche.
 # newdoc id = ClariConstantinople_1300_prose
@@ -71997,7 +71997,7 @@
 6	comme	_	SCONJ	CONsub	_	5	fixed	_	XmlId=w_28_32012
 7	par	_	ADP	PRE	_	8	case	_	XmlId=w_28_32013
 8	forche	_	NOUN	NOMcom	_	4	obl	_	SpaceAfter=No|XmlId=w_28_32014
-9	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_28_32015
+9	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_28_32015
 
 # text = Et dura bien cheste descorde quinze jors, qu'il ne se pooient concorder ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -72207,7 +72207,7 @@
 21	les	_	DET	DETdef	Definite=Def|PronType=Art	22	det	_	XmlId=w_28_32190
 22	siens	_	ADJ	ADJpos	Poss=Yes	23	amod	_	XmlId=w_28_32191
 23	dis	_	NOUN	NOMcom	_	20	obj	_	XmlId=w_28_32192
-24	;	_	PUNCT	PONfbl	_	20	punct	_	XmlId=w_28_32193
+24	;	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_32193
 
 # text = et quant il furent tout en chu moustier, li dis Venicien et li vesque, si canta on une messe du Saint Esperit, que li Sains Esperis les conseillast, et qu'i les donnast a tel homme assener qui boins i fust et pourfis.
 # newdoc id = ClariConstantinople_1300_prose
@@ -72335,7 +72335,7 @@
 9	en	_	ADV	PROadv	_	10	obl	_	XmlId=w_28_32298
 10	fust	_	AUX	VERcjg	VerbForm=Fin	7	acl:relcl	_	XmlId=w_28_32299
 11	encontre	_	ADV	ADVgen	_	10	obl	_	SpaceAfter=No|XmlId=w_28_32300
-12	.	_	PUNCT	PONfrt	_	7	punct	_	XmlId=w_28_32301
+12	.	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_28_32301
 
 # text = Quant il furent si acordé ensanle et leur consaus dut departir, si carkierent le parole a dire au vesque de Sessons.
 # newdoc id = ClariConstantinople_1300_prose
@@ -72612,7 +72612,7 @@
 18	marchis	_	NOUN	NOMcom	_	20	obl	_	XmlId=w_28_32525
 19	se	_	PRON	PROper	PronType=Prs	20	expl	_	XmlId=w_28_32526
 20	tenoient	_	VERB	VERcjg	VerbForm=Fin	14	acl:relcl	_	SpaceAfter=No|XmlId=w_28_32527
-21	.	_	PUNCT	PONfrt	_	12	punct	_	XmlId=w_28_32528
+21	.	_	PUNCT	PONfrt	_	5	punct	_	XmlId=w_28_32528
 
 # text = Quant li empereres fu eslus, si le prenent li vesque et tout li haut baron et li Franchois, qui molt en furent lié,
 # newdoc id = ClariConstantinople_1300_prose
@@ -72642,7 +72642,7 @@
 23	en	_	ADV	PROadv	_	25	obl	_	XmlId=w_28_32551
 24	furent	_	AUX	VERcjg	VerbForm=Fin	25	cop	_	XmlId=w_28_32552
 25	lié	_	ADJ	ADJqua	_	11	acl:relcl	_	SpaceAfter=No|XmlId=w_28_32553
-26	,	_	PUNCT	PONfbl	_	25	punct	_	XmlId=w_28_32554
+26	,	_	PUNCT	PONfbl	_	9	punct	_	XmlId=w_28_32554
 
 # text = si l'en mainent il u palais de Bouke de Lion a molt grant goie et a molt grant feste.
 # newdoc id = ClariConstantinople_1300_prose
@@ -72977,7 +72977,7 @@
 18	rikes	_	ADJ	ADJqua	_	19	amod	_	XmlId=w_28_32818
 19	pierres	_	NOUN	NOMcom	_	16	obl	_	XmlId=w_28_32819
 20	precieuses	_	ADJ	ADJqua	_	19	amod	_	SpaceAfter=No|XmlId=w_28_32820
-21	,	_	PUNCT	PONfbl	_	16	punct	_	XmlId=w_28_32821
+21	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_32821
 
 # text = et li aigle qui par dehors erent, estoient fait de pierres precieuses
 # newdoc id = ClariConstantinople_1300_prose
@@ -74181,7 +74181,7 @@
 22	loins	_	ADV	ADVgen	_	24	advmod	_	XmlId=w_28_33794
 23	de	_	ADP	PRE	_	24	case	_	XmlId=w_28_33795
 24	Coustantinoble	_	PROPN	NOMpro	_	18	obl	_	SpaceAfter=No|XmlId=w_28_33796
-25	,	_	PUNCT	PONfbl	_	16	punct	_	XmlId=w_28_33797
+25	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_33797
 
 # text = et li empereres li respondi qu'ele n'estoit mie siwe a donner,
 # newdoc id = ClariConstantinople_1300_prose
@@ -75293,7 +75293,7 @@
 51	Alixandres	_	PROPN	NOMpro	_	53	nsubj	_	XmlId=w_28_34685
 52	fu	_	AUX	VERcjg	VerbForm=Fin	53	aux	_	XmlId=w_28_34686
 53	nes	_	VERB	VERppe	Tense=Past|VerbForm=Part	49	advcl	_	SpaceAfter=No|XmlId=w_28_34687
-54	,	_	PUNCT	PONfbl	_	53	punct	_	XmlId=w_28_34688
+54	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_34688
 
 # text = et si morurent bien chinquante chevaliers en chele voie.
 # newdoc id = ClariConstantinople_1300_prose
@@ -75881,7 +75881,7 @@
 17	a	_	ADP	PRE	_	19	case	_	XmlId=w_28_35207
 18	sen	_	DET	DETpos	Poss=Yes	19	det	_	XmlId=w_28_35208
 19	ostel	_	NOUN	NOMcom	_	16	obl	_	SpaceAfter=No|XmlId=w_28_35209
-20	,	_	PUNCT	PONfbl	_	13	punct	_	XmlId=w_28_35210
+20	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_35210
 
 # text = car li ostel dont il estoient parti ne leur estoient mie demoré, pour chou que on avoit le chité partie,
 # newdoc id = ClariConstantinople_1300_prose
@@ -75907,7 +75907,7 @@
 19	le	_	DET	DETdef	Definite=Def|PronType=Art	20	det	_	XmlId=w_28_35229
 20	chité	_	NOUN	NOMcom	_	21	obj	_	XmlId=w_28_35230
 21	partie	_	VERB	VERppe	Tense=Past|VerbForm=Part	15	acl	_	SpaceAfter=No|XmlId=w_28_35231
-22	,	_	PUNCT	PONfbl	_	15	punct	_	XmlId=w_28_35232
+22	,	_	PUNCT	PONfbl	_	12	punct	_	XmlId=w_28_35232
 
 # text = et leur maisnies avoient pris leur ostex ailleurs en le chité, si que il leur couvenoit querre leur ostex en sus de chiax dont il estoient parti bien une liwe ou deus.
 # newdoc id = ClariConstantinople_1300_prose
@@ -76174,7 +76174,7 @@
 28	de	_	ADP	PRE	_	29	case	_	XmlId=w_28_35456
 29	Blakie	_	PROPN	NOMpro	_	27	nmod	_	XmlId=w_28_35457
 30	avec	_	ADV	ADVgen	_	21	advmod	_	XmlId=w_28_35458
-31	;	_	PUNCT	PONfbl	_	30	punct	_	XmlId=w_28_35459
+31	;	_	PUNCT	PONfbl	_	21	punct	_	XmlId=w_28_35459
 
 # text = si le saluerent
 # newdoc id = ClariConstantinople_1300_prose
@@ -76338,7 +76338,7 @@
 19	par	_	ADP	PRE	_	21	case	_	XmlId=w_28_35584
 20	quel	_	DET	DETrel	PronType=Rel	21	det	_	XmlId=w_28_35585
 21	tor	_	NOUN	NOMcom	_	17	obl	_	XmlId=w_28_35586
-22	?	_	PUNCT	PONfrt	_	17	punct	_	XmlId=w_28_35587
+22	?	_	PUNCT	PONfrt	_	11	punct	_	XmlId=w_28_35587
 
 # text = - Ba ouil ! fisent li Blak et li Commain,
 # newdoc id = ClariConstantinople_1300_prose
@@ -76364,7 +76364,7 @@
 4	bien	_	ADV	ADVgen	_	5	advmod	_	XmlId=w_28_35604
 5	oï	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_28_35605
 6	dire	_	VERB	VERinf	VerbForm=Inf	5	xcomp	_	SpaceAfter=No|XmlId=w_28_35606
-7	,	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_35607
+7	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_35607
 
 # text = mout a que che ne fu.
 # newdoc id = ClariConstantinople_1300_prose
@@ -76715,7 +76715,7 @@
 11	set	_	PRON	PROcar	NumType=Card	10	obj	_	XmlId=w_28_35877
 12	ou	_	CCONJ	CONcoo	_	13	cc	_	XmlId=w_28_35878
 13	sis	_	PRON	PROcar	NumType=Card	11	conj	_	SpaceAfter=No|XmlId=w_28_35879
-14	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_35880
+14	,	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_35880
 
 # text = et valoit li fiés trois chens livrees d'angevins ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -76761,7 +76761,7 @@
 12	et	_	CCONJ	CONcoo	_	3	cc	_	XmlId=w_28_35911
 13	vous	_	PRON	PROper	PronType=Prs	2	conj	_	XmlId=w_28_35912
 14	tant	_	ADV	ADVgen	_	13	orphan	_	SpaceAfter=No|XmlId=w_28_35913
-15	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_35914
+15	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_35914
 
 # text = s'en fieverés vos hommes et chiaus qui de vous vaurront tenir,
 # newdoc id = ClariConstantinople_1300_prose
@@ -77014,7 +77014,7 @@
 4	fist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36131
 5	bien	_	ADV	ADVgen	_	6	advmod	_	XmlId=w_28_36132
 6	warder	_	VERB	VERinf	VerbForm=Inf	4	xcomp	_	SpaceAfter=No|XmlId=w_28_36133
-7	.	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_28_36134
+7	.	_	PUNCT	PONfrt	_	4	punct	_	XmlId=w_28_36134
 
 # text = Quant Morchofles fu en prison, si manda li empereres Bauduins un jour tous ses barons et tous les plus haus qui estoient en le tere de Coustantinoble qu'il venissent u palais, le duc de Venice, le conte Loeis, le conte de Saint Pol et tous les autres,
 # newdoc id = ClariConstantinople_1300_prose
@@ -77071,7 +77071,7 @@
 50	tous	_	DET	DETind	PronType=Ind	52	det	_	XmlId=w_28_36184
 51	les	_	DET	DETdef	Definite=Def|PronType=Art	52	det	_	XmlId=w_28_36185
 52	autres	_	PRON	PROind	PronType=Ind	36	conj	_	SpaceAfter=No|XmlId=w_28_36186
-53	,	_	PUNCT	PONfbl	_	36	punct	_	XmlId=w_28_36187
+53	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_36187
 
 # text = et il i vinrent.
 # newdoc id = ClariConstantinople_1300_prose
@@ -77185,7 +77185,7 @@
 22	on	_	PRON	PROind	PronType=Ind	24	nsubj	_	XmlId=w_28_36286
 23	en	_	ADV	PROadv	_	24	obl	_	XmlId=w_28_36287
 24	fache	_	VERB	VERcjg	VerbForm=Fin	12	acl:relcl	_	XmlId=w_28_36288
-25	:	_	PUNCT	PONfbl	_	24	punct	_	XmlId=w_28_36289
+25	:	_	PUNCT	PONfbl	_	15	punct	_	XmlId=w_28_36289
 
 # text = il a en chele vile deus hautes colombes,
 # newdoc id = ClariConstantinople_1300_prose
@@ -77505,7 +77505,7 @@
 9	prist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36538
 10	les	_	DET	DETdef	Definite=Def|PronType=Art	11	det	_	XmlId=w_28_36539
 11	warnestures	_	NOUN	NOMcom	_	9	obj	_	SpaceAfter=No|XmlId=w_28_36540
-12	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_36541
+12	,	_	PUNCT	PONfbl	_	9	punct	_	XmlId=w_28_36541
 
 # text = s'en fu sires et rois.
 # newdoc id = ClariConstantinople_1300_prose
@@ -77621,7 +77621,7 @@
 8	un	_	DET	DETndf	Definite=Ind|PronType=Art	10	det	_	XmlId=w_28_36622
 9	autre	_	ADJ	ADJind	PronType=Ind	10	amod	_	XmlId=w_28_36623
 10	roiaume	_	NOUN	NOMcom	_	7	obj	_	SpaceAfter=No|XmlId=w_28_36624
-11	,	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_28_36625
+11	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_36625
 
 # text = et on li donna ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -78043,7 +78043,7 @@
 2	en	_	ADV	PROadv	_	4	nmod	_	XmlId=w_28_36956
 3	ochisent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36957
 4	mout	_	PRON	PROind	PronType=Ind	3	obj	_	SpaceAfter=No|XmlId=w_28_36958
-5	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_36959
+5	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_36959
 
 # text = si les desconfissent il tous en chele batalle.
 # newdoc id = ClariConstantinople_1300_prose
@@ -78171,7 +78171,7 @@
 22	vertir	_	VERB	VERinf	VerbForm=Inf	21	xcomp	_	XmlId=w_28_37068
 23	chele	_	DET	DETdem	PronType=Dem	24	det	_	XmlId=w_28_37069
 24	part	_	NOUN	NOMcom	_	22	obl	_	SpaceAfter=No|XmlId=w_28_37070
-25	,	_	PUNCT	PONfbl	_	21	punct	_	XmlId=w_28_37071
+25	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_37071
 
 # text = si i fu le desconfiture grans.
 # newdoc id = ClariConstantinople_1300_prose
@@ -78335,7 +78335,7 @@
 20	en	_	ADV	PROadv	_	21	obl:advmod	_	XmlId=w_28_37208
 21	furent	_	AUX	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37209
 22	encontre	_	ADV	ADVgen	_	21	advmod	_	SpaceAfter=No|XmlId=w_28_37210
-23	,	_	PUNCT	PONfbl	_	22	punct	_	XmlId=w_28_37211
+23	,	_	PUNCT	PONfbl	_	21	punct	_	XmlId=w_28_37211
 
 # text = ne si ne le vaurrent mie sousfrir, s'il n'eussent un ymage de Nostre Dame qui estoit painte en une tavle.
 # newdoc id = ClariConstantinople_1300_prose
@@ -78376,7 +78376,7 @@
 6	rikes	_	ADJ	ADJqua	_	0	root	_	XmlId=w_28_37241
 7	que	_	SCONJ	CONsub	_	8	mark	_	XmlId=w_28_37242
 8	molt	_	ADV	ADVgen	_	5	advmod	_	SpaceAfter=No|XmlId=w_28_37243
-9	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_37244
+9	,	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_37244
 
 # text = et estoit tous carkiés de rikes pierres precieuses.
 # newdoc id = ClariConstantinople_1300_prose
@@ -78435,7 +78435,7 @@
 15	seur	_	ADP	PRE	_	17	case	_	XmlId=w_28_37288
 16	toute	_	DET	DETind	PronType=Ind	17	det	_	XmlId=w_28_37289
 17	rien	_	NOUN	NOMcom	_	14	obl	_	SpaceAfter=No|XmlId=w_28_37290
-18	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_37291
+18	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_37291
 
 # text = et si le portoient cascun demars a pourchession ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -78704,7 +78704,7 @@
 20	le	_	DET	DETdef	Definite=Def|PronType=Art	21	det	_	XmlId=w_28_37501
 21	vile	_	NOUN	NOMcom	_	22	obj	_	XmlId=w_28_37502
 22	desfendoient	_	VERB	VERcjg	VerbForm=Fin	16	acl:relcl	_	SpaceAfter=No|XmlId=w_28_37503
-23	.	_	PUNCT	PONfrt	_	22	punct	_	XmlId=w_28_37504
+23	.	_	PUNCT	PONfrt	_	7	punct	_	XmlId=w_28_37504
 
 # text = Or gesoit li cors monseigneur saint Dimitre en le chité, qui ne vaut onques sousfrir que se chités fust prise par forche ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -78780,7 +78780,7 @@
 19	sains	_	ADJ	ADJqua	_	20	amod	_	XmlId=w_28_37565
 20	Dimitres	_	PROPN	NOMpro	_	18	flat	_	XmlId=w_28_37566
 21	vint	_	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	SpaceAfter=No|XmlId=w_28_37567
-22	,	_	PUNCT	PONfbl	_	21	punct	_	XmlId=w_28_37568
+22	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_37568
 
 # text = si le feri d'une lanche par mi le cors,
 # newdoc id = ClariConstantinople_1300_prose
@@ -79079,7 +79079,7 @@
 5	atourner	_	VERB	VERinf	VerbForm=Inf	4	xcomp	_	XmlId=w_28_37800
 6	molt	_	ADV	ADVgen	_	7	advmod	_	XmlId=w_28_37801
 7	belement	_	ADV	ADVgen	_	5	advmod	_	SpaceAfter=No|XmlId=w_28_37802
-8	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_37803
+8	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_37803
 
 # text = et s'en alerent li message molt doutanment en chele sauvage tere,
 # newdoc id = ClariConstantinople_1300_prose
@@ -79112,7 +79112,7 @@
 9	vaut	_	AUX	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37825
 10	on	_	PRON	PROind	PronType=Ind	9	nsubj	_	XmlId=w_28_37826
 11	destruire	_	VERB	VERinf	VerbForm=Inf	9	xcomp	_	SpaceAfter=No|XmlId=w_28_37827
-12	.	_	PUNCT	PONfrt	_	11	punct	_	XmlId=w_28_37828
+12	.	_	PUNCT	PONfrt	_	9	punct	_	XmlId=w_28_37828
 
 # text = Et toutes eures pallerent tant li message a chelui Burus que il leur respondi que il envoieroit volentiers se fille a l'empereeur.
 # newdoc id = ClariConstantinople_1300_prose
@@ -79206,7 +79206,7 @@
 23	de	_	ADP	PRE	_	25	case	_	XmlId=w_28_37903
 24	rikes	_	ADJ	ADJqua	_	25	amod	_	XmlId=w_28_37904
 25	joiaus	_	NOUN	NOMcom	_	10	conj	_	XmlId=w_28_37905
-26	;	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_37906
+26	;	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_37906
 
 # text = ne n'i avoit sommier qui ne fust couvers d'un vermel samit, qui si estoit lons qu'il trainoit bien set piés ou uit a cascun par derriere,
 # newdoc id = ClariConstantinople_1300_prose
@@ -79241,7 +79241,7 @@
 28	cascun	_	PRON	PROind	PronType=Ind	21	obl	_	XmlId=w_28_37934
 29	par	_	ADP	PRE	_	30	case	_	XmlId=w_28_37935
 30	derriere	_	ADV	ADVgen	_	21	obl	_	SpaceAfter=No|XmlId=w_28_37936
-31	,	_	PUNCT	PONfbl	_	18	punct	_	XmlId=w_28_37937
+31	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_37937
 
 # text = ne ja tant n'alaissent par boe ne par laides voies que ja en fust nus des samis escorchiés, tout par cointise et par nobleche.
 # newdoc id = ClariConstantinople_1300_prose
@@ -79462,7 +79462,7 @@
 20	,	_	PUNCT	PONfbl	_	22	punct	_	XmlId=w_28_38115
 21	li	_	DET	DETdef	Definite=Def|PronType=Art	22	det	_	XmlId=w_28_38116
 22	chevaliers	_	NOUN	NOMcom	_	17	appos	_	SpaceAfter=No|XmlId=w_28_38117
-23	,	_	PUNCT	PONfbl	_	22	punct	_	XmlId=w_28_38118
+23	,	_	PUNCT	PONfbl	_	15	punct	_	XmlId=w_28_38118
 
 # text = et a fait metre en escrit le verité, si comme ele fu conquise ;
 # newdoc id = ClariConstantinople_1300_prose
@@ -79538,5 +79538,5 @@
 12	mie	_	ADV	ADVneg	Polarity=Neg	14	advmod	_	XmlId=w_28_38179
 13	toutes	_	PRON	PROind	PronType=Ind	14	obl	_	XmlId=w_28_38180
 14	ramembrer	_	VERB	VERinf	VerbForm=Inf	4	acl:relcl	_	SpaceAfter=No|XmlId=w_28_38181
-15	.	_	PUNCT	PONfrt	_	14	punct	_	XmlId=w_28_38182
+15	.	_	PUNCT	PONfrt	_	7	punct	_	XmlId=w_28_38182
 
