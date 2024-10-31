@@ -32437,7 +32437,7 @@
 9	et	_	CCONJ	CONcoo	_	6	flat	_	XmlId=w_28_00090
 10	.iij.	_	DET	DETcar	NumType=Card	6	flat	_	XmlId=w_28_00091
 11	ans	_	NOUN	NOMcom	_	4	obl	_	XmlId=w_28_00092
-12	ou	_	CCONJ	CONcoo	_	12	cc	_	XmlId=w_28_00093
+12	ou	_	CCONJ	CONcoo	_	10	cc	_	XmlId=w_28_00093
 13	.iiij.	_	PRON	PROcar	NumType=Card	10	conj	_	SpaceAfter=No|XmlId=w_28_00094
 14	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_00095
 15	que	_	PRON	PROrel	PronType=Rel	18	mark	_	XmlId=w_28_00096
@@ -32861,7 +32861,7 @@
 105	,	_	PUNCT	PONfbl	_	107	punct	_	XmlId=w_28_00470
 106	qui	_	PRON	PROrel	PronType=Rel	107	nsubj	_	XmlId=w_28_00471
 107	Flamenc	_	PROPN	NOMpro	_	102	acl:relcl	_	XmlId=w_28_00472
-108	estoient	_	VERB	VERcjg	VerbForm=Fin	107	cop	_	XmlId=w_28_00473
+108	estoient	_	AUX	VERcjg	VerbForm=Fin	107	cop	_	XmlId=w_28_00473
 109	et	_	CCONJ	CONcoo	_	112	cc	_	XmlId=w_28_00474
 110	d'	_	ADP	PRE	_	112	case	_	SpaceAfter=No|XmlId=w_28_00475
 111	autres	_	DET	DETind	PronType=Ind	112	det	_	XmlId=w_28_00476
@@ -40178,9 +40178,9 @@
 3	tant	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_06373
 4	et	_	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_28_06374
 5	errerent	_	VERB	VERcjg	VerbForm=Fin	2	conj	_	XmlId=w_28_06375
-6	qu'	_	SCONJ	CONsub	_	6	mark	_	SpaceAfter=No|XmlId=w_28_06376
-7	il	_	PRON	PROper	PronType=Prs	6	nsubj	_	XmlId=w_28_06377
-8	ne	_	ADV	ADVneg	Polarity=Neg	6	advmod	_	XmlId=w_28_06378
+6	qu'	_	SCONJ	CONsub	_	9	mark	_	SpaceAfter=No|XmlId=w_28_06376
+7	il	_	PRON	PROper	PronType=Prs	9	nsubj	_	XmlId=w_28_06377
+8	ne	_	ADV	ADVneg	Polarity=Neg	9	advmod	_	XmlId=w_28_06378
 9	cesserent	_	VERB	VERcjg	VerbForm=Fin	2	advcl	_	SpaceAfter=No|XmlId=w_28_06379
 10	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_06380
 
@@ -40555,7 +40555,7 @@
 1	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_06678
 2	li	_	PRON	PROper	PronType=Prs	3	iobj	_	XmlId=w_28_06679
 3	manda	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_28_06680
-4	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_06681
+4	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_06681
 5	tant	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_06682
 6	que	_	SCONJ	CONsub	_	9	mark	_	XmlId=w_28_06683
 7	chis	_	DET	DETdem	PronType=Dem	8	det	_	XmlId=w_28_06684
@@ -72078,7 +72078,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 35	estoient	_	VERB	VERcjg	VerbForm=Fin	22	acl:relcl	_	SpaceAfter=No|XmlId=w_28_32065
 36	,	_	PUNCT	PONfbl	_	35	punct	_	XmlId=w_28_32066
 37	en	_	ADV	PROadv	_	39	nmod	_	XmlId=w_28_32067
-38	fussent	_	VERB	VERcjg	VerbForm=Fin	39	cop	_	XmlId=w_28_32068
+38	fussent	_	AUX	VERcjg	VerbForm=Fin	39	cop	_	XmlId=w_28_32068
 39	esliseeur	_	NOUN	NOMcom	_	19	ccomp	_	SpaceAfter=No|XmlId=w_28_32069
 40	.	_	PUNCT	PONfrt	_	3	punct	_	XmlId=w_28_32070
 
@@ -72225,7 +72225,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 19	dux	_	NOUN	NOMcom	_	20	nsubj	_	XmlId=w_28_32188
 20	eut	_	VERB	VERcjg	VerbForm=Fin	3	advcl	_	XmlId=w_28_32189
 21	les	_	DET	DETdef	Definite=Def|PronType=Art	22	det	_	XmlId=w_28_32190
-22	siens	_	ADJ	ADJpos	Poss=Yes	22	amod	_	XmlId=w_28_32191
+22	siens	_	ADJ	ADJpos	Poss=Yes	23	amod	_	XmlId=w_28_32191
 23	dis	_	NOUN	NOMcom	_	20	obj	_	XmlId=w_28_32192
 24	;	_	PUNCT	PONfbl	_	20	punct	_	XmlId=w_28_32193
 
@@ -72338,7 +72338,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 28	de	_	ADP	PRE	_	29	case	_	XmlId=w_28_32285
 29	Flandres	_	PROPN	NOMpro	_	27	nmod	_	XmlId=w_28_32286
 30	le	_	PRON	PROper	PronType=Prs	24	ccomp	_	XmlId=w_28_32287
-31	fust	_	VERB	VERcjg	VerbForm=Fin	30	cop	_	SpaceAfter=No|XmlId=w_28_32288
+31	fust	_	AUX	VERcjg	VerbForm=Fin	30	cop	_	SpaceAfter=No|XmlId=w_28_32288
 32	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_32289
 
 # text = ne onques n'en i eut nul qui en fust encontre.
@@ -74940,7 +74940,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 8	vous	_	PRON	PROper	PronType=Prs	7	nsubj	_	XmlId=w_28_34381
 9	que	_	SCONJ	CONsub	_	12	mark	_	XmlId=w_28_34382
 10	je	_	PRON	PROper	PronType=Prs	12	nsubj	_	XmlId=w_28_34383
-11	soie	_	VERB	VERcjg	VerbForm=Fin	12	cop	_	XmlId=w_28_34384
+11	soie	_	AUX	VERcjg	VerbForm=Fin	12	cop	_	XmlId=w_28_34384
 12	empereris	_	NOUN	NOMcom	_	7	ccomp	_	XmlId=w_28_34385
 
 # text = et de ne connissiés vous mes deux enfans que jou euch de Kyrsaac l'empereeur ? »
@@ -75725,11 +75725,11 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	avés	_	AUX	VERcjg	VerbForm=Fin	5	aux	_	XmlId=w_28_35051
 4	vous	_	PRON	PROper	PronType=Prs	5	nsubj	_	XmlId=w_28_35052
 5	parti	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_28_35053
-6	,	_	PUNCT	PONfbl	_	6	punct	_	XmlId=w_28_35054
+6	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_35054
 7	dont	_	PRON	PROrel	PronType=Rel	10	obl	_	XmlId=w_28_35055
 8	nous	_	PRON	PROper	PronType=Prs	10	nsubj	_	XmlId=w_28_35056
-9	avons	_	AUX	VERcjg	VerbForm=Fin	19	aux	_	XmlId=w_28_35057
-10	souffert	_	VERB	VERppe	Tense=Past|VerbForm=Part	16	conj	_	XmlId=w_28_35058
+9	avons	_	AUX	VERcjg	VerbForm=Fin	10	aux	_	XmlId=w_28_35057
+10	souffert	_	VERB	VERppe	Tense=Past|VerbForm=Part	5	conj	_	XmlId=w_28_35058
 11	les	_	DET	DETdef	Definite=Def|PronType=Art	13	det	_	XmlId=w_28_35059
 12	grans	_	ADJ	ADJqua	_	13	amod	_	XmlId=w_28_35060
 13	paines	_	NOUN	NOMcom	_	10	obj	_	XmlId=w_28_35061
@@ -76619,7 +76619,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 20	eu	_	VERB	VERppe	Tense=Past|VerbForm=Part	11	conj	_	XmlId=w_28_35797
 21	plus	_	ADV	ADVgen	_	23	advmod	_	XmlId=w_28_35798
 22	de	_	ADP	PRE	_	23	case	_	XmlId=w_28_35799
-23	gent	_	NOUN	NOMcom	_	19	obj	_	XmlId=w_28_35800
+23	gent	_	NOUN	NOMcom	_	20	obj	_	XmlId=w_28_35800
 24	de	_	ADP	PRE	_	26	case	_	XmlId=w_28_35801
 25	se	_	DET	DETpos	Poss=Yes	26	det	_	XmlId=w_28_35802
 26	maisnie	_	NOUN	NOMcom	_	23	nmod	_	XmlId=w_28_35803
@@ -77965,7 +77965,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 27	gent	_	NOUN	NOMcom	_	29	obl	_	SpaceAfter=No|XmlId=w_28_36882
 28	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_36883
 29	venoient	_	VERB	VERcjg	VerbForm=Fin	11	acl:relcl	_	XmlId=w_28_36884
-30	le	_	DET	DETdef	Definite=Def|PronType=Art	30	det	_	XmlId=w_28_36885
+30	le	_	DET	DETdef	Definite=Def|PronType=Art	31	det	_	XmlId=w_28_36885
 31	tere	_	NOUN	NOMcom	_	29	obl	_	XmlId=w_28_36886
 32	de	_	ADP	PRE	_	33	case	_	XmlId=w_28_36887
 33	Coustantinoble	_	PROPN	NOMpro	_	31	nmod	_	SpaceAfter=No|XmlId=w_28_36888
