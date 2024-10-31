@@ -50442,7 +50442,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 1	et	_	CCONJ	CONcoo	_	14	cc:nc	_	XmlId=w_28_14496
 2	chil	_	PRON	PROdem	PronType=Dem	14	nsubj	_	XmlId=w_28_14497
 3	qu'	_	PRON	PROrel	PronType=Rel	5	nsubj	_	SpaceAfter=No|XmlId=w_28_14498
-4	il	_	PRON	PROper	PronType=Prs|Typo=Yes	3	goeswith	_	XmlId=w_28_14499
+4	il	_	X	PROper	PronType=Prs|Typo=Yes	3	goeswith	_	XmlId=w_28_14499
 5	estoient	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	XmlId=w_28_14500
 6	es	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	7	case:det	_	XmlId=w_28_14501
 7	galies	_	NOUN	NOMcom	_	5	obl	_	XmlId=w_28_14502
@@ -56777,7 +56777,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 3	un	_	DET	DETndf	Definite=Ind|PronType=Art	4	det	_	XmlId=w_28_19631
 4	jour	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_19632
 5	de	_	ADP	PRE	_	7	mark	_	XmlId=w_28_19633
-6	li	_	PRON	PROper	Definite=Def|PronType=Art	7	obj	_	XmlId=w_28_19634
+6	li	_	PRON	PROper	PronType=Prs	7	obj	_	XmlId=w_28_19634
 7	coroner	_	VERB	VERinf	VerbForm=Inf	2	advcl	_	XmlId=w_28_19635
 8	;	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_19636
 
