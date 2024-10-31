@@ -36686,7 +36686,7 @@
 48	,	_	PUNCT	PONfbl	_	25	punct	_	XmlId=w_28_03581
 49	nous	_	PRON	PROper	PronType=Prs	51	nsubj	_	XmlId=w_28_03582
 50	vous	_	PRON	PROper	PronType=Prs	51	obj	_	XmlId=w_28_03583
-51	mesrons	_	VERB	VERcjg	VerbForm=Fin	17	advcl	_	XmlId=w_28_03584
+51	mesrons	_	VERB	VERcjg	VerbForm=Fin	18	advcl	_	XmlId=w_28_03584
 52	outre	_	ADP	PRE	_	53	case	_	XmlId=w_28_03585
 53	mer	_	NOUN	NOMcom	_	51	obl	_	SpaceAfter=No|XmlId=w_28_03586
 54	.	_	PUNCT	PONfrt	_	9	punct	_	XmlId=w_28_03587
@@ -48776,7 +48776,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 2	«	_	PUNCT	PONpga	_	5	punct	_	XmlId=w_28_13213
 3	Jel	_	PRON	PROper.PROper	PronType=Prs	5	nsubj:obj	_	XmlId=w_28_13214
 4	vous	_	PRON	PROper	PronType=Prs	5	iobj	_	XmlId=w_28_13215
-5	dirai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_28_13216
+5	dirai	_	VERB	VERcjg	VerbForm=Fin	7	ccomp	_	SpaceAfter=No|XmlId=w_28_13216
 6	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_13218
 7	fist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_13219
 8	chis	_	PRON	PROdem	PronType=Dem	1	nsubj	_	XmlId=w_28_13220
@@ -51887,7 +51887,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 11	et	_	CCONJ	CONcoo	_	13	cc	_	XmlId=w_28_15690
 12	par	_	ADP	PRE	_	13	case	_	XmlId=w_28_15691
 13	terre	_	NOUN	NOMcom	_	8	obl	_	XmlId=w_28_15692
-14	et	_	CCONJ	CONcoo	_	0	cc	_	XmlId=w_28_15693
+14	et	_	CCONJ	CONcoo	_	16	cc	_	XmlId=w_28_15693
 15	par	_	ADP	PRE	_	16	case	_	XmlId=w_28_15694
 16	mer	_	NOUN	NOMcom	_	13	conj	_	XmlId=w_28_15695
 17	tot	_	PRON	PROind	PronType=Ind	18	advmod	_	XmlId=w_28_15696
@@ -54374,7 +54374,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 6	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_17717
 7	entr'	_	ADP	PRE	_	8	case	_	SpaceAfter=No|XmlId=w_28_17718
 8	ax	_	PRON	PROper	PronType=Prs	12	obl	_	XmlId=w_28_17719
-9	et	_	CCONJ	CONcoo	_	0	cc	_	XmlId=w_28_17720
+9	et	_	CCONJ	CONcoo	_	11	cc	_	XmlId=w_28_17720
 10	l'	_	DET	DETdef	Definite=Def|PronType=Art	11	det	_	SpaceAfter=No|XmlId=w_28_17721
 11	empereur	_	NOUN	NOMcom	_	8	conj	_	XmlId=w_28_17722
 12	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_17723
@@ -67816,7 +67816,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 25	gons	_	NOUN	NOMcom	_	23	obl	_	XmlId=w_28_28506
 26	ne	_	CCONJ	CONcoo	_	27	cc	_	XmlId=w_28_28507
 27	verveles	_	NOUN	NOMcom	_	25	conj	_	XmlId=w_28_28508
-28	ne	_	CCONJ	CONcoo	_	0	cc	_	XmlId=w_28_28509
+28	ne	_	CCONJ	CONcoo	_	30	cc	_	XmlId=w_28_28509
 29	autres	_	DET	DETind	PronType=Ind	30	det	_	XmlId=w_28_28510
 30	menbres	_	NOUN	NOMcom	_	25	conj	_	XmlId=w_28_28511
 31	qui	_	PRON	PROrel	PronType=Rel	34	nsubj	_	XmlId=w_28_28512
@@ -67884,7 +67884,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 21	il	_	PRON	PROper	PronType=Prs	22	nsubj	_	XmlId=w_28_28566
 22	fust	_	VERB	VERcjg	VerbForm=Fin	19	ccomp	_	XmlId=w_28_28567
 23	de	_	ADP	PRE	_	24	case	_	XmlId=w_28_28568
-24	cristal	_	NOUN	NOMcom	_	,	obl	_	XmlId=w_28_28569
+24	cristal	_	NOUN	NOMcom	_	19	obl	_	XmlId=w_28_28569
 25	;	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_28570
 
 # text = et estoit chele capele si rike et si noble, que on ne vous porroit mie aconter le grant biauté ne le grant nobleche de chele capele.
