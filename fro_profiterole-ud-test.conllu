@@ -48783,7 +48783,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 # sent_id = clari-832
 1	-	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_13212
 2	«	_	PUNCT	PONpga	_	5	punct	_	XmlId=w_28_13213
-3	Jel	_	PRON	PROper.PROper	PronType=Prs|PronType=Prs	5	nsubj:obj	_	XmlId=w_28_13214
+3	Jel	_	PRON	PROper.PROper	PronType=Prs	5	nsubj:obj	_	XmlId=w_28_13214
 4	vous	_	PRON	PROper	PronType=Prs	5	iobj	_	XmlId=w_28_13215
 5	dirai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_28_13216
 6	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_13218
@@ -50442,7 +50442,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 1	et	_	CCONJ	CONcoo	_	14	cc:nc	_	XmlId=w_28_14496
 2	chil	_	PRON	PROdem	PronType=Dem	14	nsubj	_	XmlId=w_28_14497
 3	qu'	_	PRON	PROrel	PronType=Rel	5	nsubj	_	SpaceAfter=No|XmlId=w_28_14498
-4	il	_	PRON	PROper	PronType=Prs	3	goeswith	_	XmlId=w_28_14499
+4	il	_	PRON	PROper	PronType=Prs|Typo=Yes	3	goeswith	_	XmlId=w_28_14499
 5	estoient	_	VERB	VERcjg	VerbForm=Fin	2	acl:relcl	_	XmlId=w_28_14500
 6	es	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	7	case:det	_	XmlId=w_28_14501
 7	galies	_	NOUN	NOMcom	_	5	obl	_	XmlId=w_28_14502
