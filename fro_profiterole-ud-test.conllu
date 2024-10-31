@@ -59478,7 +59478,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 12	et	_	CCONJ	CONcoo	_	14	cc	_	XmlId=w_28_21798
 13	les	_	DET	DETdef	Definite=Def|PronType=Art	14	det	_	XmlId=w_28_21799
 14	tours	_	NOUN	NOMcom	_	11	conj	_	XmlId=w_28_21800
-15	furent	_	VERB	VERcjg	VerbForm=Fin	17	cop	_	XmlId=w_28_21801
+15	furent	_	AUX	VERcjg	VerbForm=Fin	17	cop	_	XmlId=w_28_21801
 16	plus	_	ADV	ADVgen	_	17	advmod	_	XmlId=w_28_21802
 17	fors	_	ADJ	ADJqua	_	4	advcl	_	XmlId=w_28_21803
 18	et	_	CCONJ	CONcoo	_	20	cc	_	XmlId=w_28_21804
@@ -60586,7 +60586,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 23	compaingnie	_	NOUN	NOMcom	_	20	nmod	_	SpaceAfter=No|XmlId=w_28_22710
 24	,	_	PUNCT	PONfbl	_	18	punct	_	XmlId=w_28_22711
 25	n'	_	ADV	ADVneg	Polarity=Neg	29	advmod	_	SpaceAfter=No|XmlId=w_28_22712
-26	estoient	_	VERB	VERcjg	VerbForm=Fin	29	cop	_	XmlId=w_28_22713
+26	estoient	_	AUX	VERcjg	VerbForm=Fin	29	cop	_	XmlId=w_28_22713
 27	mie	_	ADV	ADVneg	Polarity=Neg	29	advmod	_	XmlId=w_28_22714
 28	molt	_	ADV	ADVgen	_	29	advmod	_	XmlId=w_28_22715
 29	rike	_	ADJ	ADJqua	_	12	ccomp	_	SpaceAfter=No|XmlId=w_28_22716
