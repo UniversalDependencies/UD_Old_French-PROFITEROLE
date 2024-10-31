@@ -33683,7 +33683,7 @@
 28	molt	_	ADV	ADVgen	_	29	advmod	_	XmlId=w_28_01176
 29	corchié	_	VERB	VERppe	Tense=Past|VerbForm=Part	26	conj	_	XmlId=w_28_01177
 30	et	_	CCONJ	CONcoo	_	32	cc	_	XmlId=w_28_01178
-31	molt	_	ADV	ADVgen	_	32	conj	_	XmlId=w_28_01179
+31	molt	_	ADV	ADVgen	_	32	advmod	_	XmlId=w_28_01179
 32	esmari	_	VERB	VERppe	Tense=Past|VerbForm=Part	26	conj	_	XmlId=w_28_01180
 33	;	_	PUNCT	PONfbl	_	32	punct	_	XmlId=w_28_01181
 
@@ -33882,7 +33882,7 @@
 # sent_id = clari-58
 1	et	_	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_28_01336
 2	fist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_01337
-3	molt	_	ADV	ADVgen	_	4	det	_	XmlId=w_28_01338
+3	molt	_	DET	ADVgen	_	4	det	_	XmlId=w_28_01338
 4	feste	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_01339
 5	des	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	6	case:det	_	XmlId=w_28_01340
 6	messages	_	NOUN	NOMcom	_	4	nmod	_	SpaceAfter=No|XmlId=w_28_01341
