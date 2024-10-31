@@ -32619,7 +32619,7 @@
 3	fu	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_00244
 4	li	_	DET	DETdef	Definite=Def|PronType=Art	5	det	_	XmlId=w_28_00245
 5	vesques	_	NOUN	NOMcom	_	3	obl	_	XmlId=w_28_00246
-6	Nevelons	_	PROPN	NOMpro	_	4	flat	_	XmlId=w_28_00247
+6	Nevelons	_	PROPN	NOMpro	_	5	flat	_	XmlId=w_28_00247
 7	de	_	ADP	PRE	_	8	case	_	XmlId=w_28_00248
 8	Sessons	_	PROPN	NOMpro	_	6	nmod	_	SpaceAfter=No|XmlId=w_28_00249
 9	,	_	PUNCT	PONfbl	_	14	punct	_	XmlId=w_28_00250
@@ -38644,7 +38644,7 @@
 5	fix	_	NOUN	NOMcom	_	0	root	_	XmlId=w_28_05188
 6	l'	_	DET	DETdef	Definite=Def|PronType=Art	7	det	_	SpaceAfter=No|XmlId=w_28_05189
 7	empereur	_	NOUN	NOMcom	_	5	nmod	_	XmlId=w_28_05190
-8	Kyrsac	_	PROPN	NOMpro	_	6	flat	_	XmlId=w_28_05191
+8	Kyrsac	_	PROPN	NOMpro	_	7	flat	_	XmlId=w_28_05191
 9	de	_	ADP	PRE	_	10	case	_	XmlId=w_28_05192
 10	Coustantinoble	_	PROPN	NOMpro	_	8	nmod	_	SpaceAfter=No|XmlId=w_28_05193
 11	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_05194
@@ -64674,7 +64674,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 17	nes	_	NOUN	NOMcom	_	15	nsubj	_	XmlId=w_28_25949
 18	seigneur	_	NOUN	NOMcom	_	17	nmod	_	XmlId=w_28_25950
 19	Pierrum	_	PROPN	NOMpro	_	18	flat	_	XmlId=w_28_25951
-20	de	_	ADP	PRE	_	21	flat	_	XmlId=w_28_25952
+20	de	_	ADP	PRE	_	21	case	_	XmlId=w_28_25952
 21	Braichoel	_	PROPN	NOMpro	_	19	nmod	_	XmlId=w_28_25953
 22	a	_	ADP	PRE	_	25	case	_	XmlId=w_28_25954
 23	une	_	DET	DETndf	Definite=Ind|PronType=Art	25	det	_	XmlId=w_28_25955
@@ -65499,7 +65499,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 7	,	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_26630
 8	a	_	ADP	PRE	_	9	case	_	XmlId=w_28_26631
 9	seigneur	_	NOUN	NOMcom	_	4	conj	_	XmlId=w_28_26632
-10	Pierron	_	PROPN	NOMpro	_	8	flat	_	XmlId=w_28_26633
+10	Pierron	_	PROPN	NOMpro	_	9	flat	_	XmlId=w_28_26633
 11	et	_	CCONJ	CONcoo	_	14	cc	_	XmlId=w_28_26634
 12	a	_	ADP	PRE	_	14	case	_	XmlId=w_28_26635
 13	se	_	DET	DETpos	Poss=Yes	14	det	_	XmlId=w_28_26636
@@ -73069,7 +73069,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 12	porta	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_32873
 13	li	_	DET	DETdef	Definite=Def|PronType=Art	14	det	_	XmlId=w_28_32874
 14	cuens	_	NOUN	NOMcom	_	12	nsubj	_	XmlId=w_28_32875
-15	Loeis	_	PROPN	NOMpro	_	13	flat	_	XmlId=w_28_32876
+15	Loeis	_	PROPN	NOMpro	_	14	flat	_	XmlId=w_28_32876
 16	sen	_	DET	DETpos	Poss=Yes	17	det	_	XmlId=w_28_32877
 17	gonfanon	_	NOUN	NOMcom	_	12	obj	_	XmlId=w_28_32878
 18	emperial	_	ADJ	ADJqua	_	17	amod	_	SpaceAfter=No|XmlId=w_28_32879
@@ -76069,7 +76069,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 22	un	_	DET	DETndf	Definite=Ind|PronType=Art	23	det	_	XmlId=w_28_35346
 23	jour	_	NOUN	NOMcom	_	21	obl	_	XmlId=w_28_35347
 24	monseigneur	_	NOUN	NOMcom	_	21	obl	_	XmlId=w_28_35348
-25	Pierron	_	PROPN	NOMpro	_	23	flat	_	XmlId=w_28_35349
+25	Pierron	_	PROPN	NOMpro	_	24	flat	_	XmlId=w_28_35349
 26	de	_	ADP	PRE	_	27	case	_	XmlId=w_28_35350
 27	Braiechoel	_	PROPN	NOMpro	_	25	nmod	_	XmlId=w_28_35351
 28	par	_	ADP	PRE	_	29	case	_	XmlId=w_28_35352
@@ -76801,40 +76801,9 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 12	tenir	_	VERB	VERinf	VerbForm=Inf	7	acl:relcl	_	SpaceAfter=No|XmlId=w_28_35926
 13	,	_	PUNCT	PONfbl	_	3	punct	_	XmlId=w_28_35927
 
-# text = et si arés chele chité, et vous chelu, et vous chel autre »,
-# newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2179
-1	et	_	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_28_35928
-2	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_35929
-3	arés	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_35930
-4	chele	_	DET	DETdem	PronType=Dem	5	det	_	XmlId=w_28_35931
-5	chité	_	NOUN	NOMcom	_	3	obj	_	SpaceAfter=No|XmlId=w_28_35932
-6	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_35933
-7	et	_	CCONJ	CONcoo	_	5	cc	_	XmlId=w_28_35934
-8	vous	_	PRON	PROper	PronType=Prs	3	conj	_	XmlId=w_28_35935
-9	chelu	_	PRON	PROdem	PronType=Dem	8	orphan	_	SpaceAfter=No|XmlId=w_28_35936
-10	,	_	PUNCT	PONfbl	_	11	punct	_	XmlId=w_28_35937
-11	et	_	CCONJ	CONcoo	_	3	cc	_	XmlId=w_28_35938
-12	vous	_	PRON	PROper	PronType=Prs	8	conj	_	XmlId=w_28_35939
-13	chel	_	DET	DETdem	PronType=Dem	14	det	_	XmlId=w_28_35940
-14	autre	_	ADJ	ADJind	PronType=Ind	12	orphan	_	XmlId=w_28_35941
-15	»	_	PUNCT	PONpdr	_	19	punct	_	SpaceAfter=No|XmlId=w_28_35942
-16	,	_	PUNCT	PONfbl	_	19	punct	_	XmlId=w_28_35943
-
-# text = et les seigneries qui i apendoient.
-# newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2180
-1	et	_	CCONJ	CONcoo	_	19	cc	_	XmlId=w_28_35944
-2	les	_	DET	DETdef	Definite=Def|PronType=Art	19	det	_	XmlId=w_28_35945
-3	seigneries	_	NOUN	NOMcom	_	5	conj	_	XmlId=w_28_35946
-4	qui	_	PRON	PROrel	PronType=Rel	22	nsubj	_	XmlId=w_28_35947
-5	i	_	ADV	PROadv	_	22	obl	_	XmlId=w_28_35948
-6	apendoient	_	VERB	VERcjg	VerbForm=Fin	19	acl:relcl	_	SpaceAfter=No|XmlId=w_28_35949
-7	.	_	PUNCT	PONfrt	_	3	punct	_	XmlId=w_28_35950
-
 # text = Quant on eut si faitement donné a cascun se partie, si aloient li conte et li haut homme veir leur teres et leur chités
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2181
+# sent_id = clari-2179
 1	Quant	_	SCONJ	CONsub	_	6	mark	_	XmlId=w_28_35951
 2	on	_	PRON	PROind	PronType=Ind	6	nsubj	_	XmlId=w_28_35952
 3	eut	_	AUX	VERcjg	VerbForm=Fin	6	aux	_	XmlId=w_28_35953
@@ -76863,7 +76832,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et y metoient leur ballius et leur wardes.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2182
+# sent_id = clari-2180
 1	et	_	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_28_35976
 2	y	_	ADV	PROadv	_	3	obl:advmod	_	XmlId=w_28_35977
 3	metoient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_35978
@@ -76876,7 +76845,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Tant qu'il avint un jour que mesires Tierris, li freres le conte de Los, aloit veir se tere ;
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2183
+# sent_id = clari-2181
 1	Tant	_	ADV	ADVgen	_	0	root	_	XmlId=w_28_35985
 2	qu'	_	SCONJ	CONsub	_	4	mark	_	SpaceAfter=No|XmlId=w_28_35986
 3	il	_	PRON	PROimp	PronType=Prs	4	expl	_	XmlId=w_28_35987
@@ -76902,7 +76871,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si comme il en aloit, si encontra par aventure un jor Morchofle le traïteur, a un destroit, qui s'en aloit ne sai ou.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2184
+# sent_id = clari-2182
 1	si	_	ADV	ADVgen	_	5	mark	_	XmlId=w_28_36007
 2	comme	_	SCONJ	CONsub	_	1	fixed	_	XmlId=w_28_36008
 3	il	_	PRON	PROper	PronType=Prs	5	nsubj	_	XmlId=w_28_36009
@@ -76934,7 +76903,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Si avoit en se compaignie dames et demiseles et assés autre gent,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2185
+# sent_id = clari-2183
 1	Si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_36035
 2	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36036
 3	en	_	ADP	PRE	_	5	case	_	XmlId=w_28_36037
@@ -76951,7 +76920,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et chevauchoit cointement et noblement comme empereres a tout tant de gent comme il pooit.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2186
+# sent_id = clari-2184
 1	et	_	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_28_36048
 2	chevauchoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36049
 3	cointement	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_36050
@@ -76971,7 +76940,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Et mesires Tierris ne fist mais el,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2187
+# sent_id = clari-2185
 1	Et	_	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_28_36064
 2	mesires	_	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_28_36065
 3	Tierris	_	PROPN	NOMpro	_	2	flat	_	XmlId=w_28_36066
@@ -76983,7 +76952,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = se li keurt il sus
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2188
+# sent_id = clari-2186
 1	se	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_36072
 2	li	_	PRON	PROper	PronType=Prs	3	iobj	_	XmlId=w_28_36073
 3	keurt	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36074
@@ -76992,7 +76961,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et fist tant, et il et se gent, qu'il le prist par forche ;
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2189
+# sent_id = clari-2187
 1	et	_	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_28_36077
 2	fist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36078
 3	tant	_	ADV	ADVgen	_	2	advmod	_	SpaceAfter=No|XmlId=w_28_36079
@@ -77013,7 +76982,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et quant il l'eut pris, si l'en amena en Coustantinoble,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2190
+# sent_id = clari-2188
 1	et	_	CCONJ	CONcoo	_	11	cc:nc	_	XmlId=w_28_36094
 2	quant	_	SCONJ	CONsub	_	6	mark	_	XmlId=w_28_36095
 3	il	_	PRON	PROper	PronType=Prs	6	nsubj	_	XmlId=w_28_36096
@@ -77031,7 +77000,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si le rendi a l'empereeur Bauduin.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2191
+# sent_id = clari-2189
 1	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_36108
 2	le	_	PRON	PROper	PronType=Prs	3	obj	_	XmlId=w_28_36109
 3	rendi	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36110
@@ -77043,7 +77012,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Quant li empereres le vit, si le fist metre en prison
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2192
+# sent_id = clari-2190
 1	Quant	_	SCONJ	CONsub	_	5	mark	_	XmlId=w_28_36116
 2	li	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_28_36117
 3	empereres	_	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_28_36118
@@ -77059,7 +77028,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et l'i fist bien warder.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2193
+# sent_id = clari-2191
 1	et	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_36128
 2	l'	_	PRON	PROper	PronType=Prs	6	obj	_	SpaceAfter=No|XmlId=w_28_36129
 3	i	_	ADV	PROadv	_	6	obl:advmod	_	XmlId=w_28_36130
@@ -77070,7 +77039,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Quant Morchofles fu en prison, si manda li empereres Bauduins un jour tous ses barons et tous les plus haus qui estoient en le tere de Coustantinoble qu'il venissent u palais, le duc de Venice, le conte Loeis, le conte de Saint Pol et tous les autres,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2194
+# sent_id = clari-2192
 1	Quant	_	SCONJ	CONsub	_	3	mark	_	XmlId=w_28_36135
 2	Morchofles	_	PROPN	NOMpro	_	3	nsubj	_	XmlId=w_28_36136
 3	fu	_	VERB	VERcjg	VerbForm=Fin	8	advcl	_	XmlId=w_28_36137
@@ -77127,7 +77096,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et il i vinrent.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2195
+# sent_id = clari-2193
 1	et	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_36188
 2	il	_	PRON	PROper	PronType=Prs	4	nsubj	_	XmlId=w_28_36189
 3	i	_	ADV	PROadv	_	4	obl	_	XmlId=w_28_36190
@@ -77136,7 +77105,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Et quant il furent venu, si leur dist si faitement li empereres Bauduins qu'il avoit Morchofle en prison,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2196
+# sent_id = clari-2194
 1	Et	_	CCONJ	CONcoo	_	9	cc:nc	_	XmlId=w_28_36193
 2	quant	_	SCONJ	CONsub	_	5	mark	_	XmlId=w_28_36194
 3	il	_	PRON	PROper	PronType=Prs	5	nsubj	_	XmlId=w_28_36195
@@ -77161,7 +77130,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et leur demanda qu'il l'en looient qu'il en fesist, tant que li un disent que on le pendist, et li autre disent que on le trainast, tant que li dux de Venice dist que trop estoit haus hons pour pendre :
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2197
+# sent_id = clari-2195
 1	et	_	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_28_36214
 2	leur	_	PRON	PROper	PronType=Prs	3	iobj	_	XmlId=w_28_36215
 3	demanda	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36216
@@ -77212,7 +77181,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = « Mais de haut home, fist li dux, haute justiche je vous dirai, fist li dux, que on en fache :
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2198
+# sent_id = clari-2196
 1	«	_	PUNCT	PONpga	_	15	punct	_	XmlId=w_28_36261
 2	Mais	_	CCONJ	CONcoo	_	15	cc:nc	_	XmlId=w_28_36262
 3	de	_	ADP	PRE	_	5	case	_	XmlId=w_28_36263
@@ -77241,7 +77210,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = il a en chele vile deus hautes colombes,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2199
+# sent_id = clari-2197
 1	il	_	PRON	PROimp	PronType=Prs	2	expl	_	XmlId=w_28_36290
 2	a	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36291
 3	en	_	ADP	PRE	_	5	case	_	XmlId=w_28_36292
@@ -77254,7 +77223,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = n'i a chelui qui n'ait tost soisante toises ou chinquante de haut ;
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2200
+# sent_id = clari-2198
 1	n'	_	ADV	ADVneg	Polarity=Neg	3	advmod	_	SpaceAfter=No|XmlId=w_28_36299
 2	i	_	ADV	PROadv	_	3	obl:advmod	_	XmlId=w_28_36300
 3	a	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36301
@@ -77273,7 +77242,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si le fache on monter en som l'une,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2201
+# sent_id = clari-2199
 1	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_36314
 2	le	_	PRON	PROper	PronType=Prs	3	obj	_	XmlId=w_28_36315
 3	fache	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36316
@@ -77287,7 +77256,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et puis si le faiche on tresbuskier jus a tere. »
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2202
+# sent_id = clari-2200
 1	et	_	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_28_36324
 2	puis	_	ADV	ADVgen	_	5	advmod	_	XmlId=w_28_36325
 3	si	_	ADV	ADVgen	_	5	advmod	_	XmlId=w_28_36326
@@ -77303,7 +77272,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Or estoit cho de ches deus colombes ou sus li hermite manoient, et la ou les aventures de Coustantinoble estoient escrites, si com je vous ai dit par devant.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2203
+# sent_id = clari-2201
 1	Or	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_36336
 2	estoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36337
 3	cho	_	PRON	PROdem	PronType=Dem	2	nsubj	_	XmlId=w_28_36338
@@ -77339,7 +77308,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = A chou que li dux dist s'acorderent li baron.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2204
+# sent_id = clari-2202
 1	A	_	ADP	PRE	_	2	case	_	XmlId=w_28_36368
 2	chou	_	PRON	PROdem	PronType=Dem	8	obl	_	XmlId=w_28_36369
 3	que	_	PRON	PROrel	PronType=Rel	6	obj	_	XmlId=w_28_36370
@@ -77354,7 +77323,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Si prent on Morchofle,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2205
+# sent_id = clari-2203
 1	Si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_36379
 2	prent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36380
 3	on	_	PRON	PROind	PronType=Ind	2	nsubj	_	XmlId=w_28_36381
@@ -77363,7 +77332,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si le mainne on a une de ches coulombes,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2206
+# sent_id = clari-2204
 1	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_36384
 2	le	_	PRON	PROper	PronType=Prs	3	obj	_	XmlId=w_28_36385
 3	mainne	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36386
@@ -77377,7 +77346,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si le fait on monter en son par les degrés qui dedens estoient.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2207
+# sent_id = clari-2205
 1	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_36394
 2	le	_	PRON	PROper	PronType=Prs	3	obj	_	XmlId=w_28_36395
 3	fait	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36396
@@ -77395,7 +77364,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Quant Morchofles fu lassus, si le bouta on jus a tere, si que il fu tous esmiés.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2208
+# sent_id = clari-2206
 1	Quant	_	SCONJ	CONsub	_	3	mark	_	XmlId=w_28_36408
 2	Morchofles	_	PROPN	NOMpro	_	3	nsubj	_	XmlId=w_28_36409
 3	fu	_	VERB	VERcjg	VerbForm=Fin	8	advcl	_	XmlId=w_28_36410
@@ -77419,7 +77388,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Tele venjanche prist on de Morchofle le traïteur.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2209
+# sent_id = clari-2207
 1	Tele	_	DET	DETind	PronType=Ind	2	det	_	XmlId=w_28_36428
 2	venjanche	_	NOUN	NOMcom	_	3	obj	_	XmlId=w_28_36429
 3	prist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36430
@@ -77432,7 +77401,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Aprés chou que les teres furent si departies comme je vous ai dit, si avint que le pais fu faite du marchis et de l'empereeur, si que li empereres en fu blasmés, pour chou que n'i apela mie tous les haus barons.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2210
+# sent_id = clari-2208
 1	Aprés	_	ADP	PRE	_	2	case	_	XmlId=w_28_36437
 2	chou	_	PRON	PROdem	PronType=Dem	16	obl	_	XmlId=w_28_36438
 3	que	_	SCONJ	CONsub	_	8	mark	_	XmlId=w_28_36439
@@ -77484,7 +77453,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Toutes eures si demanda li marchis le roiame de Salenike,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2211
+# sent_id = clari-2209
 1	Toutes	_	DET	DETind	PronType=Ind	2	det	_	XmlId=w_28_36485
 2	eures	_	NOUN	NOMcom	_	4	obl	_	XmlId=w_28_36486
 3	si	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_36487
@@ -77499,7 +77468,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et toutes heures l'eut il
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2212
+# sent_id = clari-2210
 1	et	_	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_28_36496
 2	toutes	_	DET	DETind	PronType=Ind	3	det	_	XmlId=w_28_36497
 3	heures	_	NOUN	NOMcom	_	5	obl	_	XmlId=w_28_36498
@@ -77509,7 +77478,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et li donna li empereres.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2213
+# sent_id = clari-2211
 1	et	_	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_28_36502
 2	li	_	PRON	PROper	PronType=Prs	3	iobj	_	XmlId=w_28_36503
 3	donna	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36504
@@ -77519,7 +77488,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Et quant li roiames li fu otriiés, si ala li marchis a toute se femme et a toute se gent,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2214
+# sent_id = clari-2212
 1	Et	_	CCONJ	CONcoo	_	10	cc:nc	_	XmlId=w_28_36508
 2	quant	_	SCONJ	CONsub	_	7	mark	_	XmlId=w_28_36509
 3	li	_	DET	DETdef	Definite=Def|PronType=Art	4	det	_	XmlId=w_28_36510
@@ -77545,7 +77514,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et quant il vint la, si en prist les warnestures,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2215
+# sent_id = clari-2213
 1	et	_	CCONJ	CONcoo	_	9	cc:nc	_	XmlId=w_28_36530
 2	quant	_	SCONJ	CONsub	_	4	mark	_	XmlId=w_28_36531
 3	il	_	PRON	PROper	PronType=Prs	4	nsubj	_	XmlId=w_28_36532
@@ -77561,7 +77530,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = s'en fu sires et rois.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2216
+# sent_id = clari-2214
 1	s'	_	ADV	ADVgen	_	4	advmod	_	SpaceAfter=No|XmlId=w_28_36542
 2	en	_	ADV	PROadv	_	4	nmod	_	XmlId=w_28_36543
 3	fu	_	AUX	VERcjg	VerbForm=Fin	4	cop	_	XmlId=w_28_36544
@@ -77572,7 +77541,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Aprés mesires Henris, li freres l'empereeur, demanda le roiaume l'Andremite, qui estoit outre le brach Saint Jorge, s'il le pooit conquerre,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2217
+# sent_id = clari-2215
 1	Aprés	_	ADV	ADVgen	_	10	advmod	_	XmlId=w_28_36549
 2	mesires	_	NOUN	NOMcom	_	10	nsubj	_	XmlId=w_28_36550
 3	Henris	_	PROPN	NOMpro	_	2	flat	_	SpaceAfter=No|XmlId=w_28_36551
@@ -77605,7 +77574,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et on li donna.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2218
+# sent_id = clari-2216
 1	et	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_36578
 2	on	_	PRON	PROind	PronType=Ind	4	nsubj	_	XmlId=w_28_36579
 3	li	_	PRON	PROper	PronType=Prs	4	iobj	_	XmlId=w_28_36580
@@ -77614,7 +77583,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Adonques i ala mesires Henris a toute se gent,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2219
+# sent_id = clari-2217
 1	Adonques	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_36583
 2	i	_	ADV	PROadv	_	3	obl	_	XmlId=w_28_36584
 3	ala	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36585
@@ -77628,7 +77597,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si conquist grant partie de le tere.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2220
+# sent_id = clari-2218
 1	si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_36593
 2	conquist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36594
 3	grant	_	ADJ	ADJqua	_	4	amod	_	XmlId=w_28_36595
@@ -77640,7 +77609,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Aprés li cuens Loeis demanda un autre roiaume,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2221
+# sent_id = clari-2219
 1	Aprés	_	ADV	ADVgen	_	5	advmod	_	XmlId=w_28_36601
 2	li	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_28_36602
 3	cuens	_	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_28_36603
@@ -77653,7 +77622,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et on li donna ;
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2222
+# sent_id = clari-2220
 1	et	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_36610
 2	on	_	PRON	PROind	PronType=Ind	4	nsubj	_	XmlId=w_28_36611
 3	li	_	PRON	PROper	PronType=Prs	4	iobj	_	XmlId=w_28_36612
@@ -77662,7 +77631,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et li cuens de Saint Pol redemanda un autre roiaume,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2223
+# sent_id = clari-2221
 1	et	_	CCONJ	CONcoo	_	7	cc:nc	_	XmlId=w_28_36615
 2	li	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_28_36616
 3	cuens	_	NOUN	NOMcom	_	7	nsubj	_	XmlId=w_28_36617
@@ -77677,7 +77646,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et on li donna ;
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2224
+# sent_id = clari-2222
 1	et	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_36626
 2	on	_	PRON	PROind	PronType=Ind	4	nsubj	_	XmlId=w_28_36627
 3	li	_	PRON	PROper	PronType=Prs	4	iobj	_	XmlId=w_28_36628
@@ -77686,7 +77655,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = aprés mesires Pierres de Braiechoel un autre roiaume qui estoit en tere de Sarrasins vers le Coine, s'il le pooit conquerre,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2225
+# sent_id = clari-2223
 1	aprés	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_36631
 2	mesires	_	NOUN	NOMcom	_	0	root	_	XmlId=w_28_36632
 3	Pierres	_	PROPN	NOMpro	_	2	flat	_	XmlId=w_28_36633
@@ -77714,7 +77683,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et on li otria,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2226
+# sent_id = clari-2224
 1	et	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_36655
 2	on	_	PRON	PROind	PronType=Ind	4	nsubj	_	XmlId=w_28_36656
 3	li	_	PRON	PROper	PronType=Prs	4	iobj	_	XmlId=w_28_36657
@@ -77723,10 +77692,10 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et mesires Pierres i ala a toute se gent,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2227
+# sent_id = clari-2225
 1	et	_	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_28_36660
 2	mesires	_	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_28_36661
-3	Pierres	_	PROPN	NOMpro	_	1	flat	_	XmlId=w_28_36662
+3	Pierres	_	PROPN	NOMpro	_	2	flat	_	XmlId=w_28_36662
 4	i	_	ADV	PROadv	_	5	obl	_	XmlId=w_28_36663
 5	ala	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36664
 6	a	_	ADP	PRE	_	9	case	_	XmlId=w_28_36665
@@ -77737,7 +77706,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si conquist chu roiaume molt bien
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2228
+# sent_id = clari-2226
 1	si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_36670
 2	conquist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36671
 3	chu	_	DET	DETdem	PronType=Dem	4	det	_	XmlId=w_28_36672
@@ -77747,7 +77716,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et s'en fu sires.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2229
+# sent_id = clari-2227
 1	et	_	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_28_36676
 2	s'	_	ADV	ADVgen	_	5	advmod	_	SpaceAfter=No|XmlId=w_28_36677
 3	en	_	ADV	PROadv	_	5	nmod	_	XmlId=w_28_36678
@@ -77757,7 +77726,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Si faitement demanderent li rike homme les roiaumes qui n'estoient mie encore conquis ;
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2230
+# sent_id = clari-2228
 1	Si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_36682
 2	faitement	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_36683
 3	demanderent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36684
@@ -77776,7 +77745,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et li dux de Venice et li Venicien eurent l'isle de Crete et l'isle de Corfaut et l'isle de Mosson, et encore autres assés que il ja ameerent.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2231
+# sent_id = clari-2229
 1	et	_	CCONJ	CONcoo	_	9	cc:nc	_	XmlId=w_28_36697
 2	li	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_28_36698
 3	dux	_	NOUN	NOMcom	_	9	nsubj	_	XmlId=w_28_36699
@@ -77813,7 +77782,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Aprés si avint molt grans damaches en l'ost que li cuens de Saint Pol morut ne demora waires.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2232
+# sent_id = clari-2230
 1	Aprés	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_36730
 2	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_36731
 3	avint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36732
@@ -77837,7 +77806,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Puis si avint aprés que une chités que li empereres avoit conquise revela encontre lui,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2233
+# sent_id = clari-2231
 1	Puis	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_36750
 2	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_36751
 3	avint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36752
@@ -77857,7 +77826,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Andernople avoit a non chele chités.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2234
+# sent_id = clari-2232
 1	Andernople	_	PROPN	NOMpro	_	2	obj	_	XmlId=w_28_36766
 2	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36767
 3	a	_	ADP	PRE	_	4	case	_	XmlId=w_28_36768
@@ -77868,7 +77837,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Quant li empereres le seut, si manda le duc de Venice, le conte Loeis et les autres barons ;
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2235
+# sent_id = clari-2233
 1	Quant	_	SCONJ	CONsub	_	5	mark	_	XmlId=w_28_36773
 2	li	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_28_36774
 3	empereres	_	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_28_36775
@@ -77893,7 +77862,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si leur dist qu'il voloit aler aseir Andernople qui estoit revelee encontre lui, et qu'il li aidaissent a conquerre chele chité,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2236
+# sent_id = clari-2234
 1	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_36794
 2	leur	_	PRON	PROper	PronType=Prs	3	iobj	_	XmlId=w_28_36795
 3	dist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36796
@@ -77922,7 +77891,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et li baron respondirent que sil feroient il volentiers, et tant que li empereres s'apareilla et li baron d'aler a chele chité.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2237
+# sent_id = clari-2235
 1	et	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_36819
 2	li	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_28_36820
 3	baron	_	NOUN	NOMcom	_	4	nsubj	_	XmlId=w_28_36821
@@ -77952,7 +77921,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Quant il vinrent a chele chité, si l'assisent ;
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2238
+# sent_id = clari-2236
 1	Quant	_	SCONJ	CONsub	_	3	mark	_	XmlId=w_28_36845
 2	il	_	PRON	PROper	PronType=Prs	3	nsubj	_	XmlId=w_28_36846
 3	vinrent	_	VERB	VERcjg	VerbForm=Fin	10	advcl	_	XmlId=w_28_36847
@@ -77967,7 +77936,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si comme il seoient esluec, este me vous un jour ou Jehans li Blaks, et il et li Commain, a tout molt grant gent, venoient le tere de Coustantinoble, si comme il avoient autre fois fait ;
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2239
+# sent_id = clari-2237
 1	si	_	ADV	ADVgen	_	4	mark	_	XmlId=w_28_36856
 2	comme	_	SCONJ	CONsub	_	1	fixed	_	XmlId=w_28_36857
 3	il	_	PRON	PROper	PronType=Prs	4	nsubj	_	XmlId=w_28_36858
@@ -78013,7 +77982,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si trouverent l'empereeur a toute s'ost seant a Andernople.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2240
+# sent_id = clari-2238
 1	si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_36898
 2	trouverent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36899
 3	l'	_	DET	DETdef	Definite=Def|PronType=Art	4	det	_	SpaceAfter=No|XmlId=w_28_36900
@@ -78029,7 +77998,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Quant chil de l'ost virrent ches Commains a ches plichons vestus, si ne les douterent
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2241
+# sent_id = clari-2239
 1	Quant	_	SCONJ	CONsub	_	6	mark	_	XmlId=w_28_36910
 2	chil	_	PRON	PROdem	PronType=Dem	6	nsubj	_	XmlId=w_28_36911
 3	de	_	ADP	PRE	_	5	case	_	XmlId=w_28_36912
@@ -78050,7 +78019,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = ne ne prisierent nient plus que un trope d'enfans ;
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2242
+# sent_id = clari-2240
 1	ne	_	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_28_36927
 2	ne	_	ADV	ADVneg	Polarity=Neg	3	advmod	_	XmlId=w_28_36928
 3	prisierent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36929
@@ -78065,7 +78034,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et chil Commain et chele gent venoient grandesme aleure,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2243
+# sent_id = clari-2241
 1	et	_	CCONJ	CONcoo	_	7	cc:nc	_	XmlId=w_28_36938
 2	chil	_	DET	DETdem	PronType=Dem	3	det	_	XmlId=w_28_36939
 3	Commain	_	PROPN	NOMpro	_	7	nsubj	_	XmlId=w_28_36940
@@ -78079,7 +78048,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si keurent il sus as Franchois,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2244
+# sent_id = clari-2242
 1	si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_36948
 2	keurent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36949
 3	il	_	PRON	PROper	PronType=Prs	2	nsubj	_	XmlId=w_28_36950
@@ -78090,7 +78059,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si en ochisent mout,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2245
+# sent_id = clari-2243
 1	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_36955
 2	en	_	ADV	PROadv	_	4	nmod	_	XmlId=w_28_36956
 3	ochisent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36957
@@ -78099,7 +78068,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si les desconfissent il tous en chele batalle.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2246
+# sent_id = clari-2244
 1	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_36960
 2	les	_	PRON	PROper	PronType=Prs	3	obj	_	XmlId=w_28_36961
 3	desconfissent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_36962
@@ -78112,7 +78081,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Si fu perdus li empereres, que on ne seut onques que il devint, et li cuens Loeis et molt d'autres haus hommes, et tant d'autre gent que nous n'en savons le nombre, mais que bien i perdi on trois chens chevaliers ;
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2247
+# sent_id = clari-2245
 1	Si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_36969
 2	fu	_	AUX	VERcjg	VerbForm=Fin	3	aux	_	XmlId=w_28_36970
 3	perdus	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_28_36971
@@ -78165,7 +78134,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et qui escaper peut, si s'en vint fuiant en Coustantinoble, si que li dux de Venice s'en vint fuiant et assés gens avec lui,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2248
+# sent_id = clari-2246
 1	et	_	CCONJ	CONcoo	_	9	cc:nc	_	XmlId=w_28_37018
 2	qui	_	PRON	PROrel	PronType=Rel	3	nsubj	_	XmlId=w_28_37019
 3	escaper	_	VERB	VERinf	VerbForm=Inf	9	dislocated	_	XmlId=w_28_37020
@@ -78198,7 +78167,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et laissierent leur tentes et leur harnas, tout si comme il seoient a chele chité, que onques n'oserent vertir chele part,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2249
+# sent_id = clari-2247
 1	et	_	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_28_37047
 2	laissierent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37048
 3	leur	_	DET	DETpos	Poss=Yes	4	det	_	XmlId=w_28_37049
@@ -78227,7 +78196,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si i fu le desconfiture grans.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2250
+# sent_id = clari-2248
 1	si	_	ADV	ADVgen	_	6	advmod	_	XmlId=w_28_37072
 2	i	_	ADV	PROadv	_	6	obl:advmod	_	XmlId=w_28_37073
 3	fu	_	AUX	VERcjg	VerbForm=Fin	6	cop	_	XmlId=w_28_37074
@@ -78238,7 +78207,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Ensi faitement se venja Damedieus d'aus pour leur orguel et pour le male foi qu'il avoient portee a le povre gent de l'ost, et les oribles pekiés qu'il avoient fais en le chité, aprés chou qu'i l'eurent prise.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2251
+# sent_id = clari-2249
 1	Ensi	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_37079
 2	faitement	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_37080
 3	se	_	PRON	PROper	PronType=Prs	4	expl	_	XmlId=w_28_37081
@@ -78289,7 +78258,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Quant li empereres fu perdus par si faite mesaventure, si en furent li baron qui remessent molt courchiet.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2252
+# sent_id = clari-2250
 1	Quant	_	SCONJ	CONsub	_	5	mark	_	XmlId=w_28_37126
 2	li	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_28_37127
 3	empereres	_	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_28_37128
@@ -78313,7 +78282,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Aprés si sanlerent un jour pour faire empereeur.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2253
+# sent_id = clari-2251
 1	Aprés	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_37146
 2	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_37147
 3	sanlerent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37148
@@ -78326,18 +78295,18 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Si manda on monseigneur Henri, le frere l'empereeur Bauduin qui fu, pour faire ent empereeur, qui estoit en se tere qu'il avoit conquise outre le bras Saint Jorge.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2254
+# sent_id = clari-2252
 1	Si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_37155
 2	manda	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37156
 3	on	_	PRON	PROind	PronType=Ind	2	nsubj	_	XmlId=w_28_37157
 4	monseigneur	_	NOUN	NOMcom	_	2	obj	_	XmlId=w_28_37158
-5	Henri	_	PROPN	NOMpro	_	3	flat	_	SpaceAfter=No|XmlId=w_28_37159
+5	Henri	_	PROPN	NOMpro	_	4	flat	_	SpaceAfter=No|XmlId=w_28_37159
 6	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_37160
 7	le	_	DET	DETdef	Definite=Def|PronType=Art	8	det	_	XmlId=w_28_37161
 8	frere	_	NOUN	NOMcom	_	4	acl:relcl	_	XmlId=w_28_37162
 9	l'	_	DET	DETdef	Definite=Def|PronType=Art	10	det	_	SpaceAfter=No|XmlId=w_28_37163
 10	empereeur	_	NOUN	NOMcom	_	8	nmod	_	XmlId=w_28_37164
-11	Bauduin	_	PROPN	NOMpro	_	9	flat	_	XmlId=w_28_37165
+11	Bauduin	_	PROPN	NOMpro	_	10	flat	_	XmlId=w_28_37165
 12	qui	_	PRON	PROrel	PronType=Rel	8	nsubj	_	XmlId=w_28_37166
 13	fu	_	AUX	VERcjg	VerbForm=Fin	8	cop	_	SpaceAfter=No|XmlId=w_28_37167
 14	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_37168
@@ -78364,7 +78333,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Quant li dux de Venice et li Venicien virent que on veut faire empereeur de monseigneur Henri, si en furent encontre,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2255
+# sent_id = clari-2253
 1	Quant	_	SCONJ	CONsub	_	9	mark	_	XmlId=w_28_37189
 2	li	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_28_37190
 3	dux	_	NOUN	NOMcom	_	9	nsubj	_	XmlId=w_28_37191
@@ -78391,7 +78360,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = ne si ne le vaurrent mie sousfrir, s'il n'eussent un ymage de Nostre Dame qui estoit painte en une tavle.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2256
+# sent_id = clari-2254
 1	ne	_	CCONJ	CONcoo	_	7	cc:nc	_	XmlId=w_28_37212
 2	si	_	ADV	ADVgen	_	7	advmod	_	XmlId=w_28_37213
 3	ne	_	ADV	ADVneg	Polarity=Neg	7	advmod	_	XmlId=w_28_37214
@@ -78419,7 +78388,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Si estoit chis ymages si rikes que molt,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2257
+# sent_id = clari-2255
 1	Si	_	ADV	ADVgen	_	6	advmod	_	XmlId=w_28_37236
 2	estoit	_	AUX	VERcjg	VerbForm=Fin	6	cop	_	XmlId=w_28_37237
 3	chis	_	DET	DETdem	PronType=Dem	4	det	_	XmlId=w_28_37238
@@ -78432,7 +78401,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et estoit tous carkiés de rikes pierres precieuses.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2258
+# sent_id = clari-2256
 1	et	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_37245
 2	estoit	_	AUX	VERcjg	VerbForm=Fin	4	aux:pass	_	XmlId=w_28_37246
 3	tous	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_37247
@@ -78445,7 +78414,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Si disoient li Griu que chou estoit li premiers ymages de Nostre Dame qui onques fust fais ne pourtrais.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2259
+# sent_id = clari-2257
 1	Si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_37254
 2	disoient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37255
 3	li	_	DET	DETdef	Definite=Def|PronType=Art	4	det	_	XmlId=w_28_37256
@@ -78469,7 +78438,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = En chel ymage si avoient li Griu si grant fianche que il l'aouroient seur toute rien,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2260
+# sent_id = clari-2258
 1	En	_	ADP	PRE	_	3	case	_	XmlId=w_28_37274
 2	chel	_	DET	DETdem	PronType=Dem	3	det	_	XmlId=w_28_37275
 3	ymage	_	NOUN	NOMcom	_	5	obl	_	XmlId=w_28_37276
@@ -78491,7 +78460,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et si le portoient cascun demars a pourchession ;
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2261
+# sent_id = clari-2259
 1	et	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_37292
 2	si	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_37293
 3	le	_	PRON	PROper	PronType=Prs	4	obj	_	XmlId=w_28_37294
@@ -78504,7 +78473,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si l'aouroient li Griu
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2262
+# sent_id = clari-2260
 1	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_37301
 2	l'	_	PRON	PROper	PronType=Prs	3	obj	_	SpaceAfter=No|XmlId=w_28_37302
 3	aouroient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37303
@@ -78513,7 +78482,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et donnoient lui molt grans dons.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2263
+# sent_id = clari-2261
 1	et	_	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_28_37306
 2	donnoient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37307
 3	lui	_	PRON	PROper	PronType=Prs	2	iobj	_	XmlId=w_28_37308
@@ -78524,7 +78493,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Ore ne voloient nient li Venicien souffrir que mesires Henris fust empereres, s'il n'eussent chel ymage, tant c'on leur donna chel ymage.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2264
+# sent_id = clari-2262
 1	Ore	_	ADV	ADVgen	_	7	advmod	_	XmlId=w_28_37313
 2	ne	_	ADV	ADVneg	Polarity=Neg	7	advmod	_	XmlId=w_28_37314
 3	voloient	_	AUX	VERcjg	VerbForm=Fin	7	aux	_	XmlId=w_28_37315
@@ -78556,7 +78525,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Puis si corona on monseigneur Henri a empereeur.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2265
+# sent_id = clari-2263
 1	Puis	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_37341
 2	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_37342
 3	corona	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37343
@@ -78569,7 +78538,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Quant mesires Henri fu empereres, si parlerent tant ensanle aprés, entre lui et le marchis qui estoit rois de Salenike, que li marchis li donna se fille et que li empereres l'espousa ;
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2266
+# sent_id = clari-2264
 1	Quant	_	SCONJ	CONsub	_	5	mark	_	XmlId=w_28_37350
 2	mesires	_	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_28_37351
 3	Henri	_	PROPN	NOMpro	_	2	flat	_	XmlId=w_28_37352
@@ -78610,7 +78579,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et puis si ne veski mie longement l'empeerris,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2267
+# sent_id = clari-2265
 1	et	_	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_28_37387
 2	puis	_	ADV	ADVgen	_	5	advmod	_	XmlId=w_28_37388
 3	si	_	ADV	ADVgen	_	5	advmod	_	XmlId=w_28_37389
@@ -78624,14 +78593,14 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = ains morut.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2268
+# sent_id = clari-2266
 1	ains	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_37397
 2	morut	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_28_37398
 3	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_28_37399
 
 # text = Ne demoura mie lonc tans aprés que Jehans li Blaks et li Commain coururent en le tere le marchis de Salenike.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2269
+# sent_id = clari-2267
 1	Ne	_	ADV	ADVneg	Polarity=Neg	2	advmod	_	XmlId=w_28_37400
 2	demoura	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37401
 3	mie	_	ADV	ADVneg	Polarity=Neg	2	advmod	_	XmlId=w_28_37402
@@ -78657,7 +78626,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Et li marchis estoit en se tere, et tant qu'il se combati a ches Blaks et a ches Commains et que il fu ochis en cele bataille et se gent toute desconfite.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2270
+# sent_id = clari-2268
 1	Et	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_37422
 2	li	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_28_37423
 3	marchis	_	NOUN	NOMcom	_	4	nsubj	_	XmlId=w_28_37424
@@ -78696,7 +78665,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Si va Jehans li Blaks et chil Commain,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2271
+# sent_id = clari-2269
 1	Si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_37457
 2	va	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37458
 3	Jehans	_	PROPN	NOMpro	_	2	nsubj	_	XmlId=w_28_37459
@@ -78709,7 +78678,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si assient il Salenike,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2272
+# sent_id = clari-2270
 1	si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_37466
 2	assient	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37467
 3	il	_	PRON	PROper	PronType=Prs	2	nsubj	_	XmlId=w_28_37468
@@ -78718,7 +78687,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si font drechier leur engiens pour assalir a le chité ;
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2273
+# sent_id = clari-2271
 1	si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_37471
 2	font	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37472
 3	drechier	_	VERB	VERinf	VerbForm=Inf	2	xcomp	_	XmlId=w_28_37473
@@ -78733,7 +78702,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et le femme le marchis estoit remese en le chité, et chevaliers et autres gens avec lui qui le vile desfendoient.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2274
+# sent_id = clari-2272
 1	et	_	CCONJ	CONcoo	_	7	cc:nc	_	XmlId=w_28_37482
 2	le	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_28_37483
 3	femme	_	NOUN	NOMcom	_	7	nsubj	_	XmlId=w_28_37484
@@ -78760,7 +78729,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Or gesoit li cors monseigneur saint Dimitre en le chité, qui ne vaut onques sousfrir que se chités fust prise par forche ;
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2275
+# sent_id = clari-2273
 1	Or	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_37505
 2	gesoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37506
 3	li	_	DET	DETdef	Definite=Def|PronType=Art	4	det	_	XmlId=w_28_37507
@@ -78788,7 +78757,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si decouroit si grans plentés d'oille de chu cors saint que ch'estoit une fine merveille.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2276
+# sent_id = clari-2274
 1	si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_37529
 2	decouroit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37530
 3	si	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_37531
@@ -78810,7 +78779,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Si avint, si comme Jehans li Blaks se gesoit une matinee en se tente, que mesires sains Dimitres vint,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2277
+# sent_id = clari-2275
 1	Si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_37547
 2	avint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_28_37548
 3	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_37549
@@ -78836,7 +78805,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si le feri d'une lanche par mi le cors,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2278
+# sent_id = clari-2276
 1	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_37569
 2	le	_	PRON	PROper	PronType=Prs	3	obj	_	XmlId=w_28_37570
 3	feri	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37571
@@ -78851,7 +78820,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si l'ochist.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2279
+# sent_id = clari-2277
 1	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_37580
 2	l'	_	PRON	PROper	PronType=Prs	3	obj	_	SpaceAfter=No|XmlId=w_28_37581
 3	ochist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_28_37582
@@ -78859,7 +78828,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Quant se gent et li Commain seurent qu'il fu mors, si se deslogierent,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2280
+# sent_id = clari-2278
 1	Quant	_	SCONJ	CONsub	_	7	mark	_	XmlId=w_28_37584
 2	se	_	DET	DETpos	Poss=Yes	3	det	_	XmlId=w_28_37585
 3	gent	_	NOUN	NOMcom	_	7	nsubj	_	XmlId=w_28_37586
@@ -78879,7 +78848,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si s'en ralerent en le tere.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2281
+# sent_id = clari-2279
 1	si	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_37600
 2	s'	_	PRON	PROper	PronType=Prs	4	expl	_	SpaceAfter=No|XmlId=w_28_37601
 3	en	_	ADV	PROadv	_	4	obl	_	XmlId=w_28_37602
@@ -78891,7 +78860,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Et puis aprés si escaï li roiaumes de Blakie a un neveu Jehan,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2282
+# sent_id = clari-2280
 1	Et	_	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_28_37608
 2	puis	_	ADV	ADVgen	_	5	advmod	_	XmlId=w_28_37609
 3	aprés	_	ADV	ADVgen	_	5	advmod	_	XmlId=w_28_37610
@@ -78909,7 +78878,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Burons avoit a non.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2283
+# sent_id = clari-2281
 1	Burons	_	PROPN	NOMpro	_	2	obj	_	XmlId=w_28_37622
 2	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37623
 3	a	_	ADP	PRE	_	4	case	_	XmlId=w_28_37624
@@ -78918,7 +78887,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Chus Burus si fu aprés rois de Blakie,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2284
+# sent_id = clari-2282
 1	Chus	_	DET	DETdem	PronType=Dem	2	det	_	XmlId=w_28_37627
 2	Burus	_	PROPN	NOMpro	_	6	nsubj	_	XmlId=w_28_37628
 3	si	_	ADV	ADVgen	_	6	advmod	_	XmlId=w_28_37629
@@ -78931,7 +78900,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et avoit une bele fille.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2285
+# sent_id = clari-2283
 1	et	_	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_28_37636
 2	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37637
 3	une	_	DET	DETndf	Definite=Ind|PronType=Art	5	det	_	XmlId=w_28_37638
@@ -78941,7 +78910,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Aprés avint que li empereres Henris, qui molt fu boins empereres, se conseilla a ses barons que il porroit faire de ches Blaks et de ches Commains, qui si faitement werioient l'empire de Coustantinoble et qui l'empereeur Bauduin sen frere li avoient mort ; tant que li baron li loerent qu'il envoiast a chelui Burus, qui estoit rois de Blakie, et que il li mandast qu'il li donnast sa fille a femme.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2286
+# sent_id = clari-2284
 1	Aprés	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_37642
 2	avint	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37643
 3	que	_	SCONJ	CONsub	_	15	mark	_	XmlId=w_28_37644
@@ -79027,7 +78996,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Et li empereres respondi ke femme de si bas parage ne prendroit il ja.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2287
+# sent_id = clari-2285
 1	Et	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_37724
 2	li	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_28_37725
 3	empereres	_	NOUN	NOMcom	_	4	nsubj	_	XmlId=w_28_37726
@@ -79046,7 +79015,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Et li baron disent :
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2288
+# sent_id = clari-2286
 1	Et	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_37739
 2	li	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_28_37740
 3	baron	_	NOUN	NOMcom	_	4	nsubj	_	XmlId=w_28_37741
@@ -79055,7 +79024,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = « Sire, si ferés !
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2289
+# sent_id = clari-2287
 1	«	_	PUNCT	PONpga	_	5	punct	_	XmlId=w_28_37744
 2	Sire	_	NOUN	NOMcom	_	5	vocative	_	SpaceAfter=No|XmlId=w_28_37745
 3	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_37746
@@ -79065,7 +79034,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = nous vous loons bien que vous vous acordés a aus,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2290
+# sent_id = clari-2288
 1	nous	_	PRON	PROper	PronType=Prs	3	nsubj	_	XmlId=w_28_37750
 2	vous	_	PRON	PROper	PronType=Prs	3	iobj	_	XmlId=w_28_37751
 3	loons	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37752
@@ -79080,7 +79049,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = car che sont le plus fort gent et le plus doutee de l'empire ne de le tere. »
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2291
+# sent_id = clari-2289
 1	car	_	CCONJ	CONcoo	_	7	cc:nc	_	XmlId=w_28_37761
 2	che	_	PRON	PROdem	PronType=Dem	7	nsubj	_	XmlId=w_28_37762
 3	sont	_	AUX	VERcjg	VerbForm=Fin	7	cop	_	XmlId=w_28_37763
@@ -79104,7 +79073,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Et tant parlerent li baron que li empereres i envoia deus chevaliers haus hommes,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2292
+# sent_id = clari-2290
 1	Et	_	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_28_37781
 2	tant	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_37782
 3	parlerent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37783
@@ -79123,7 +79092,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et si les fist atourner molt belement,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2293
+# sent_id = clari-2291
 1	et	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_37796
 2	si	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_37797
 3	les	_	PRON	PROper	PronType=Prs	5	obj	_	XmlId=w_28_37798
@@ -79135,7 +79104,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et s'en alerent li message molt doutanment en chele sauvage tere,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2294
+# sent_id = clari-2292
 1	et	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_37804
 2	s'	_	PRON	PROper	PronType=Prs	4	expl	_	SpaceAfter=No|XmlId=w_28_37805
 3	en	_	ADV	PROadv	_	4	obl	_	XmlId=w_28_37806
@@ -79152,7 +79121,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et quant il vinrent la, si les vaut on destruire.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2295
+# sent_id = clari-2293
 1	et	_	CCONJ	CONcoo	_	9	cc:nc	_	XmlId=w_28_37817
 2	quant	_	SCONJ	CONsub	_	4	mark	_	XmlId=w_28_37818
 3	il	_	PRON	PROper	PronType=Prs	4	nsubj	_	XmlId=w_28_37819
@@ -79168,7 +79137,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Et toutes eures pallerent tant li message a chelui Burus que il leur respondi que il envoieroit volentiers se fille a l'empereeur.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2296
+# sent_id = clari-2294
 1	Et	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_37829
 2	toutes	_	DET	DETind	PronType=Ind	3	det	_	XmlId=w_28_37830
 3	eures	_	NOUN	NOMcom	_	4	obl	_	XmlId=w_28_37831
@@ -79196,7 +79165,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Adonques si fist atorner Burus li rois se fille molt rikement et molt noblement, et assés gent avec lui ;
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2297
+# sent_id = clari-2295
 1	Adonques	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_37853
 2	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_37854
 3	fist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37855
@@ -79221,7 +79190,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = si l'envoia a l'empereeur,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2298
+# sent_id = clari-2296
 1	si	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_37874
 2	l'	_	PRON	PROper	PronType=Prs	3	obj	_	SpaceAfter=No|XmlId=w_28_37875
 3	envoia	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37876
@@ -79232,7 +79201,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et li fist baillier soisante sommiers tous carkiés d'avoir et d'or et d'argent et de dras de soie et de rikes joiaus ;
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2299
+# sent_id = clari-2297
 1	et	_	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_28_37881
 2	li	_	PRON	PROper	PronType=Prs	4	iobj	_	XmlId=w_28_37882
 3	fist	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_37883
@@ -79262,7 +79231,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = ne n'i avoit sommier qui ne fust couvers d'un vermel samit, qui si estoit lons qu'il trainoit bien set piés ou uit a cascun par derriere,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2300
+# sent_id = clari-2298
 1	ne	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_37907
 2	n'	_	ADV	ADVneg	Polarity=Neg	4	advmod	_	SpaceAfter=No|XmlId=w_28_37908
 3	i	_	ADV	PROadv	_	4	obl	_	XmlId=w_28_37909
@@ -79297,7 +79266,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = ne ja tant n'alaissent par boe ne par laides voies que ja en fust nus des samis escorchiés, tout par cointise et par nobleche.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2301
+# sent_id = clari-2299
 1	ne	_	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_28_37938
 2	ja	_	ADV	ADVgen	_	5	advmod	_	XmlId=w_28_37939
 3	tant	_	ADV	ADVgen	_	5	advmod	_	XmlId=w_28_37940
@@ -79328,7 +79297,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Quant li empereres seut que le demisele venoit, si ala encontre lui, et li baron avec lui,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2302
+# sent_id = clari-2300
 1	Quant	_	SCONJ	CONsub	_	4	mark	_	XmlId=w_28_37965
 2	li	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_28_37966
 3	empereres	_	NOUN	NOMcom	_	4	nsubj	_	XmlId=w_28_37967
@@ -79352,7 +79321,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et si en fist molt grant feste de lui et de se gent,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2303
+# sent_id = clari-2301
 1	et	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_37985
 2	si	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_37986
 3	en	_	ADV	PROadv	_	7	nmod	_	XmlId=w_28_37987
@@ -79370,7 +79339,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et puis aprés si l'espousa l'empereres.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2304
+# sent_id = clari-2302
 1	et	_	CCONJ	CONcoo	_	6	cc:nc	_	XmlId=w_28_37999
 2	puis	_	ADV	ADVgen	_	6	advmod	_	XmlId=w_28_38000
 3	aprés	_	ADV	ADVgen	_	6	advmod	_	XmlId=w_28_38001
@@ -79383,7 +79352,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Ne demoura mie grant tans aprés que on manda l'empereur a Salenike pour courouner le fil le marchis a roi,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2305
+# sent_id = clari-2303
 1	Ne	_	ADV	ADVneg	Polarity=Neg	2	advmod	_	XmlId=w_28_38008
 2	demoura	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_38009
 3	mie	_	ADV	ADVneg	Polarity=Neg	2	advmod	_	XmlId=w_28_38010
@@ -79409,7 +79378,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et li empereres i ala.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2306
+# sent_id = clari-2304
 1	et	_	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_28_38030
 2	li	_	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_28_38031
 3	empereres	_	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_28_38032
@@ -79419,7 +79388,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Et quant il l'eut couronné, le fil le marchis, si amaladi la
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2307
+# sent_id = clari-2305
 1	Et	_	CCONJ	CONcoo	_	14	cc:nc	_	XmlId=w_28_38036
 2	quant	_	SCONJ	CONsub	_	6	mark	_	XmlId=w_28_38037
 3	il	_	PRON	PROper	PronType=Prs	6	nsubj	_	XmlId=w_28_38038
@@ -79438,7 +79407,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et si i morut, dont che fu molt grans damages et mout grans pitiés.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2308
+# sent_id = clari-2306
 1	et	_	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_28_38051
 2	si	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_38052
 3	i	_	ADV	PROadv	_	4	obl:advmod	_	XmlId=w_28_38053
@@ -79458,7 +79427,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = Ore avés oï le verité, confaitement Coustantinoble fu conquise, et confaitement li cuens de Flandres Bauduins en fu empereres, et mesires Henris ses freres aprés,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2309
+# sent_id = clari-2307
 1	Ore	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_38067
 2	avés	_	AUX	VERcjg	VerbForm=Fin	3	aux	_	XmlId=w_28_38068
 3	oï	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_28_38069
@@ -79491,7 +79460,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = que chis qui i fu et qui le vit et qui l'oï le tesmongne, ROBERS DE CLARI, li chevaliers,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2310
+# sent_id = clari-2308
 1	que	_	SCONJ	CONsub	_	15	cc:nc	_	XmlId=w_28_38096
 2	chis	_	PRON	PROdem	PronType=Dem	15	nsubj	_	XmlId=w_28_38097
 3	qui	_	PRON	PROrel	PronType=Rel	5	nsubj	_	XmlId=w_28_38098
@@ -79518,7 +79487,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et a fait metre en escrit le verité, si comme ele fu conquise ;
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2311
+# sent_id = clari-2309
 1	et	_	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_28_38119
 2	a	_	AUX	VERcjg	VerbForm=Fin	3	aux	_	XmlId=w_28_38120
 3	fait	_	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_28_38121
@@ -79537,7 +79506,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et ja soit chou que il ne l'ait si belement contee le conqueste, comme maint boin diteeur l'eussent contee, si en a il toutes eures le droite verité contee,
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2312
+# sent_id = clari-2310
 1	et	_	CCONJ	CONcoo	_	33	cc:nc	_	XmlId=w_28_38134
 2	ja	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_28_38135
 3	soit	_	VERB	VERcjg	VerbForm=Fin	33	root	_	XmlId=w_28_38136
@@ -79575,7 +79544,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 
 # text = et assés de verités en a teutes qu'il ne peut mie toutes ramembrer.
 # newdoc id = ClariConstantinople_1300_prose
-# sent_id = clari-2313
+# sent_id = clari-2311
 1	et	_	CCONJ	CONcoo	_	7	cc:nc	_	XmlId=w_28_38168
 2	assés	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_38169
 3	de	_	ADP	PRE	_	4	case	_	XmlId=w_28_38170
