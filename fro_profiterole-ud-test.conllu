@@ -39567,7 +39567,7 @@
 3	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_28_05898
 4	or	_	ADV	ADVgen	_	5	advmod	_	XmlId=w_28_05899
 5	pensés	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_05900
-6	du	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	8	case:obj	_	XmlId=w_28_05901
+6	du	_	ADP	PRE.DETdef	Definite=Def|PronType=Art	8	case	_	XmlId=w_28_05901
 7	bien	_	ADV	ADVgen	_	8	advmod	_	XmlId=w_28_05902
 8	faire	_	VERB	VERinf	VerbForm=Inf	5	xcomp	_	XmlId=w_28_05903
 9	!	_	PUNCT	PONfrt	_	5	punct	_	XmlId=w_28_05904
@@ -39578,7 +39578,7 @@
 1	Or	_	ADV	ADVgen	_	6	advmod	_	XmlId=w_28_05905
 2	vous	_	PRON	PROper	PronType=Prs	6	expl	_	XmlId=w_28_05906
 3	poés	_	AUX	VERcjg	VerbForm=Fin	6	aux	_	XmlId=w_28_05907
-4	vous	_	PRON	PROper	PronType=Prs	6	nqubj	_	XmlId=w_28_05908
+4	vous	_	PRON	PROper	PronType=Prs	6	nsubj	_	XmlId=w_28_05908
 5	bien	_	ADV	ADVgen	_	6	advmod	_	XmlId=w_28_05909
 6	vengier	_	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_28_05910
 7	d'	_	ADP	PRE	_	8	case	_	SpaceAfter=No|XmlId=w_28_05911
@@ -41435,7 +41435,7 @@
 13	ou	_	CCONJ	CONcoo	_	23	cc	_	XmlId=w_28_07382
 14	s'	_	SCONJ	CONsub	_	17	mark	_	SpaceAfter=No|XmlId=w_28_07383
 15	ele	_	PRON	PROper	PronType=Prs	17	nsubj	_	XmlId=w_28_07384
-16	nel	_	ADV	ADVneg.PROper	Polarity=Neg|PronType=Prs	17	advmod:obk	_	XmlId=w_28_07385
+16	nel	_	ADV	ADVneg.PROper	Polarity=Neg|PronType=Prs	17	advmod:obl	_	XmlId=w_28_07385
 17	faisoit	_	VERB	VERcjg	VerbForm=Fin	23	advcl	_	XmlId=w_28_07386
 18	venir	_	VERB	VERinf	VerbForm=Inf	17	xcomp	_	SpaceAfter=No|XmlId=w_28_07387
 19	,	_	PUNCT	PONfbl	_	17	punct	_	XmlId=w_28_07388
@@ -44632,7 +44632,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 8	,	_	PUNCT	PONfbl	_	13	punct	_	XmlId=w_28_09873
 9	si	_	ADV	ADVgen	_	13	advmod	_	XmlId=w_28_09874
 10	en	_	ADV	PROadv	_	13	obl:advmod	_	XmlId=w_28_09875
-11	fu	_	AUX	VERcjg	VerbForm=Fin	_	cop	_	XmlId=w_28_09876
+11	fu	_	AUX	VERcjg	VerbForm=Fin	13	cop	_	XmlId=w_28_09876
 12	molt	_	ADV	ADVgen	_	13	advmod	_	XmlId=w_28_09877
 13	liés	_	ADJ	ADJqua	_	0	root	_	XmlId=w_28_09878
 
@@ -74788,14 +74788,14 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 9	si	_	ADV	ADVgen	_	12	advmod	_	XmlId=w_28_34265
 10	s'	_	PRON	PROper	PronType=Prs	12	expl	_	SpaceAfter=No|XmlId=w_28_34266
 11	en	_	ADV	PROadv	_	12	obl	_	XmlId=w_28_34267
-12	vint	_	VERB	VERcjg	VerbForm=Fin	,	root	_	XmlId=w_28_34268
+12	vint	_	VERB	VERcjg	VerbForm=Fin	7	root	_	XmlId=w_28_34268
 13	a	_	ADP	PRE	_	16	case	_	XmlId=w_28_34269
 14	une	_	DET	DETndf	Definite=Ind|PronType=Art	16	det	_	XmlId=w_28_34270
 15	autre	_	ADJ	ADJind	PronType=Ind	16	amod	_	XmlId=w_28_34271
 16	chité	_	NOUN	NOMcom	_	12	obl	_	SpaceAfter=No|XmlId=w_28_34272
 17	,	_	PUNCT	PONfbl	_	19	punct	_	XmlId=w_28_34273
 18	Andernople	_	PROPN	NOMpro	_	19	obj	_	XmlId=w_28_34274
-19	avoit	_	VERB	VERcjg	VerbForm=Fin	,	parataxis	_	XmlId=w_28_34275
+19	avoit	_	VERB	VERcjg	VerbForm=Fin	16	parataxis	_	XmlId=w_28_34275
 20	a	_	ADP	PRE	_	21	case	_	XmlId=w_28_34276
 21	non	_	NOUN	NOMcom	_	19	xcomp	_	SpaceAfter=No|XmlId=w_28_34277
 22	,	_	PUNCT	PONfbl	_	19	punct	_	XmlId=w_28_34278
@@ -76242,7 +76242,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 5	d'	_	ADP	PRE	_	7	case	_	SpaceAfter=No|XmlId=w_28_35484
 6	une	_	DET	DETndf	Definite=Ind|PronType=Art	7	det	_	XmlId=w_28_35485
 7	coses	_	NOUN	NOMcom	_	2	obl	_	XmlId=w_28_35486
-8	et	_	CCONJ	CONcoo	_	0	cc	_	XmlId=w_28_35487
+8	et	_	CCONJ	CONcoo	_	10	cc	_	XmlId=w_28_35487
 9	d'	_	ADP	PRE	_	10	case	_	SpaceAfter=No|XmlId=w_28_35488
 10	autres	_	PRON	PROind	PronType=Ind	7	conj	_	SpaceAfter=No|XmlId=w_28_35489
 11	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_28_35490
@@ -78101,7 +78101,7 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 18	cuens	_	NOUN	NOMcom	_	5	conj	_	XmlId=w_28_36986
 19	Loeis	_	PROPN	NOMpro	_	18	flat	_	XmlId=w_28_36987
 20	et	_	CCONJ	CONcoo	_	25	cc	_	XmlId=w_28_36988
-21	molt	_	ADV	ADVgen	_	25	adv	_	XmlId=w_28_36989
+21	molt	_	ADV	ADVgen	_	25	advmod	_	XmlId=w_28_36989
 22	d'	_	ADP	PRE	_	25	case	_	SpaceAfter=No|XmlId=w_28_36990
 23	autres	_	DET	DETind	PronType=Ind	25	det	_	XmlId=w_28_36991
 24	haus	_	ADJ	ADJqua	_	25	amod	_	XmlId=w_28_36992
