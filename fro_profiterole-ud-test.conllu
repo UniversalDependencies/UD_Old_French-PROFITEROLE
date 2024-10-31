@@ -35960,7 +35960,7 @@
 1	ne	_	CCONJ	CONcoo	_	11	cc:nc	_	XmlId=w_28_02971
 2	de	_	ADP	PRE	_	6	case	_	XmlId=w_28_02972
 3	ches	_	DET	DETdem	PronType=Dem	6	det	_	XmlId=w_28_02973
-4	.c.	_	NUM	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_02974
+4	.c.	_	NUM	DETcar	NumType=Card	6	nummod	_	XmlId=w_28_02974
 5	mille	_	ADJ	ADJcar	NumType=Card	4	flat	_	XmlId=w_28_02975
 6	hommes	_	NOUN	NOMcom	_	11	obl	_	XmlId=w_28_02976
 7	a	_	ADP	PRE	_	8	case	_	XmlId=w_28_02977
@@ -36652,7 +36652,7 @@
 14	me	_	DET	DETpos	Poss=Yes	15	det	_	XmlId=w_28_03547
 15	gent	_	NOUN	NOMcom	_	12	conj	_	XmlId=w_28_03548
 16	en	_	ADP	PRE	_	18	case	_	XmlId=w_28_03549
-17	tele	_	DET	DETind	PronType=Ind	18	adj	_	XmlId=w_28_03550
+17	tele	_	DET	DETind	PronType=Ind	18	det	_	XmlId=w_28_03550
 18	maniere	_	NOUN	NOMcom	_	9	obl	_	XmlId=w_28_03551
 19	que	_	SCONJ	CONsub	_	51	mark	_	SpaceAfter=No|XmlId=w_28_03552
 20	,	_	PUNCT	PONfbl	_	25	punct	_	XmlId=w_28_03553
@@ -58672,8 +58672,8 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 1	et	_	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_28_21149
 2	fisent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_21150
 3	faire	_	VERB	VERinf	VerbForm=Inf	2	xcomp	_	XmlId=w_28_21151
-4	par	_	ADP	PRE	_	5	case	_	XmlId=w_28_21152
-5	deseure	_	NOUN	NOMcom	_	7	case	_	XmlId=w_28_21153
+4	par	_	ADP	PRE	_	7	case	_	XmlId=w_28_21152
+5	deseure	_	NOUN	NOMcom	_	4	fixed	_	XmlId=w_28_21153
 6	les	_	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_28_21154
 7	tors	_	NOUN	NOMcom	_	3	obl	_	XmlId=w_28_21155
 8	de	_	ADP	PRE	_	9	case	_	XmlId=w_28_21156
@@ -58751,8 +58751,8 @@ pour	_	ADP	PRE	_	9	case	_	XmlId=w_28_08470
 4	quarante	_	NUM	DETcar	NumType=Card	5	nummod	_	XmlId=w_28_21216
 5	perrieres	_	NOUN	NOMcom	_	6	obj	_	XmlId=w_28_21217
 6	rengier	_	VERB	VERinf	VerbForm=Inf	2	xcomp	_	XmlId=w_28_21218
-7	par	_	ADP	PRE	_	8	case	_	XmlId=w_28_21219
-8	dedens	_	ADP	PRE	_	10	case	_	XmlId=w_28_21220
+7	par	_	ADP	PRE	_	10	case	_	XmlId=w_28_21219
+8	dedens	_	ADP	PRE	_	7	fixed	_	XmlId=w_28_21220
 9	le	_	DET	DETdef	Definite=Def|PronType=Art	10	det	_	XmlId=w_28_21221
 10	chité	_	NOUN	NOMcom	_	6	obl	_	XmlId=w_28_21222
 11	de	_	ADP	PRE	_	12	case	_	XmlId=w_28_21223
