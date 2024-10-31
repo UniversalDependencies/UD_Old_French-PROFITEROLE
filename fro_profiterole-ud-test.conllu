@@ -68081,7 +68081,7 @@
 18	Baptistre	_	PROPN	NOMpro	_	17	flat	_	SpaceAfter=No|XmlId=w_28_28755
 19	,	_	PUNCT	PONfbl	_	8	punct	_	XmlId=w_28_28756
 20	et	_	CCONJ	CONcoo	_	21	cc	_	XmlId=w_28_28757
-21	tant	_	ADV	ADVgen	_	25	conj	_	XmlId=w_28_28758
+21	tant	_	ADV	ADVgen	_	25	advmod	_	XmlId=w_28_28758
 22	d'	_	ADP	PRE	_	25	case	_	SpaceAfter=No|XmlId=w_28_28759
 23	autres	_	DET	DETind	PronType=Ind	25	det	_	XmlId=w_28_28760
 24	rikes	_	ADJ	ADJqua	_	25	amod	_	XmlId=w_28_28761
@@ -68177,7 +68177,7 @@
 2	vous	_	PRON	PROper	PronType=Prs	3	iobj	_	XmlId=w_28_28835
 3	dirons	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_28836
 4	dont	_	ADV	ADVgen	_	8	obl	_	XmlId=w_28_28837
-5	chil	_	PRON	PROdem	PronType=Dem	6	appos	_	XmlId=w_28_28838
+5	chil	_	PRON	PROdem	PronType=Dem	6	det	_	XmlId=w_28_28838
 6	saintuaire	_	NOUN	NOMcom	_	8	nsubj	_	XmlId=w_28_28839
 7	estoient	_	AUX	VERcjg	VerbForm=Fin	8	aux	_	XmlId=w_28_28840
 8	venu	_	VERB	VERppe	Tense=Past|VerbForm=Part	3	ccomp	_	SpaceAfter=No|XmlId=w_28_28841
@@ -68707,7 +68707,7 @@
 45	precieuses	_	ADJ	ADJqua	_	44	amod	_	SpaceAfter=No|XmlId=w_28_29255
 46	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_28_29256
 47	et	_	CCONJ	CONcoo	_	51	cc	_	XmlId=w_28_29257
-48	tant	_	ADV	ADVgen	_	51	conj	_	XmlId=w_28_29258
+48	tant	_	ADV	ADVgen	_	51	advmod	_	XmlId=w_28_29258
 49	d'	_	ADP	PRE	_	51	case	_	SpaceAfter=No|XmlId=w_28_29259
 50	autres	_	DET	DETind	PronType=Ind	51	det	_	XmlId=w_28_29260
 51	riqueches	_	NOUN	NOMcom	_	7	conj	_	XmlId=w_28_29261
@@ -69215,7 +69215,7 @@
 8	ne	_	ADV	ADVneg	Polarity=Neg	9	advmod	_	XmlId=w_28_29687
 9	vausist	_	VERB	VERcjg	VerbForm=Fin	6	acl:relcl	_	XmlId=w_28_29688
 10	bien	_	ADV	ADVgen	_	9	advmod	_	XmlId=w_28_29689
-11	chens	_	DET	DETcar	NumType=Card	12	flat	_	XmlId=w_28_29691
+11	chens	_	DET	DETcar	NumType=Card	12	det	_	XmlId=w_28_29691
 12	mars	_	NOUN	NOMcom	_	9	obj	_	XmlId=w_28_29692
 13	d'	_	ADP	PRE	_	14	case	_	SpaceAfter=No|XmlId=w_28_29693
 14	argent	_	NOUN	NOMcom	_	12	nmod	_	SpaceAfter=No|XmlId=w_28_29694
