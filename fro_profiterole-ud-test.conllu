@@ -46367,7 +46367,7 @@
 6	voloit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_11284
 7	mie	_	ADV	ADVneg	Polarity=Neg	6	advmod	_	XmlId=w_28_11285
 8	combatre	_	VERB	VERinf	VerbForm=Inf	6	xcomp	_	XmlId=w_28_11286
-9	a	_	ADP	PRE	_	,	case	_	XmlId=w_28_11287
+9	a	_	ADP	PRE	_	10	case	_	XmlId=w_28_11287
 10	lui	_	PRON	PROper	PronType=Prs	8	obl	_	SpaceAfter=No|XmlId=w_28_11288
 11	.	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_28_11289
 
@@ -66993,7 +66993,7 @@
 1	Si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_28_27839
 2	envoierent	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_27840
 3	saisir	_	VERB	VERinf	VerbForm=Inf	2	xcomp	_	XmlId=w_28_27841
-4	tous	_	DET	DETind	PronType=Ind	,	det	_	XmlId=w_28_27842
+4	tous	_	DET	DETind	PronType=Ind	7	det	_	XmlId=w_28_27842
 5	les	_	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_28_27843
 6	melleurs	_	ADJ	ADJqua	_	7	amod	_	XmlId=w_28_27844
 7	ostex	_	NOUN	NOMcom	_	3	obj	_	XmlId=w_28_27845
@@ -68575,7 +68575,7 @@
 3	i	_	ADV	PROadv	_	4	obl:advmod	_	XmlId=w_28_29139
 4	avoit	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_28_29140
 5	bien	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_28_29141
-6	deus	_	NUM	DETcar	NumType=Card	7	nummod	_	XmlId=w_28_29142
+6	deus	_	NUM	DETcar	NumType=Card	8	nummod	_	XmlId=w_28_29142
 7	chens	_	DET	DETcar	NumType=Card	6	flat	_	XmlId=w_28_29143
 8	mansions	_	NOUN	NOMcom	_	4	obl	_	SpaceAfter=No|XmlId=w_28_29144
 9	,	_	PUNCT	PONfbl	_	12	punct	_	XmlId=w_28_29145
@@ -71113,7 +71113,7 @@
 46	hors	_	ADV	ADVgen	_	42	advmod	_	XmlId=w_28_31266
 47	;	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_28_31267
 
-# text = et si nombroit on qu'il avoit bien largement en le chité .xxx m. prestres, que moines que autres.
+# text = et si nombroit on qu'il avoit bien largement en le chité .xxx.m. prestres, que moines que autres.
 # newdoc id = ClariConstantinople_1300_prose
 # sent_id = clari-1921
 1	et	_	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_28_31268
@@ -71128,7 +71128,7 @@
 10	en	_	ADP	PRE	_	12	case	_	XmlId=w_28_31277
 11	le	_	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_28_31278
 12	chité	_	NOUN	NOMcom	_	7	obl	_	XmlId=w_28_31279
-13	.xxx m.	_	NUM	DETcar	_	14	nummod	_	XmlId=w_28_31280
+13	.xxx.m.	_	NUM	DETcar	_	14	nummod	_	XmlId=w_28_31280
 14	prestres	_	NOUN	NOMcom	_	7	obl	_	SpaceAfter=No|XmlId=w_28_31281
 15	,	_	PUNCT	PONfbl	_	17	punct	_	XmlId=w_28_31282
 16	que	_	CCONJ	CONcoo	_	17	cc	_	XmlId=w_28_31283
