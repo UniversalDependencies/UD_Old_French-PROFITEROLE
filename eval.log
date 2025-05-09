@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Old_French-PROFITEROLE:
-commit 9e4fb71f4bbee59ecd6222d9eb4f4a9bed324a6f
+commit 340d9a22f4fa95d74169334f14303217f5e87180
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 11 12:40:50 2024 +0100
+Date:   Mon Nov 11 16:19:50 2024 +0100
 Size: counted 237913 of 237913 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.9438101212494.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,43 +20,69 @@ Features: source of annotation (from README) factor is 0.4.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.1.
 Udapi:
-               TOTAL      40988
-Udapi: found 40988 bugs.
+               TOTAL      40833
+Udapi: found 40833 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 237913 words.
-Genres: found 3 out of 17 known.
+Genres: found 3 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang fro --max-err=10 UD_Old_French-PROFITEROLE/fro_profiterole-ud-dev.conllu
+[Line 20922 Sent 8632 Node 9]: [L3 Warning fixed-without-extpos] Fixed expression 'se non' does not have the 'ExtPos' feature
 [Line 20922 Sent 8632 Node 9]: [L3 Warning fixed-gap] Gaps in fixed expression [9, 11] 'se * non'
-Warnings: 1
+[Line 27767 Sent ClariConstantinople-1020 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Entrementiers que' does not have the 'ExtPos' feature
+[Line 27802 Sent ClariConstantinople-1021 Node 9]: [L3 Warning fixed-without-extpos] Fixed expression 'si k'' does not have the 'ExtPos' feature
+[Line 28020 Sent ClariConstantinople-1096 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Entrementiers qu'' does not have the 'ExtPos' feature
+[Line 28143 Sent ClariConstantinople-1126 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Si comme' does not have the 'ExtPos' feature
+[Line 29192 Sent ClariConstantinople-1502 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'si que' does not have the 'ExtPos' feature
+[Line 29675 Sent ClariConstantinople-1657 Node 21]: [L3 Warning fixed-without-extpos] Fixed expression 'si qu'' does not have the 'ExtPos' feature
+[Line 29843 Sent ClariConstantinople-1711 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'tant que' does not have the 'ExtPos' feature
+Warnings: 9
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang fro --max-err=10 UD_Old_French-PROFITEROLE/fro_profiterole-ud-test.conllu
-[Line 24366 Sent 9200 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:lor:det --> 2:quant:mark)
-[Line 24367 Sent 9200 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:lor:det --> 3:il:nsubj)
+[Line 24366 Sent 9200 Node 5]: [L3 Syntax leaf-det] 'det' not expected to have children (5:lor:det --> 2:quant:mark)
+[Line 24367 Sent 9200 Node 5]: [L3 Syntax leaf-det] 'det' not expected to have children (5:lor:det --> 3:il:nsubj)
+[Line 25667 Sent 9260 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'se non' does not have the 'ExtPos' feature
 [Line 25667 Sent 9260 Node 10]: [L3 Warning fixed-gap] Gaps in fixed expression [10, 12] 'se * non'
-Warnings: 3
-*** PASSED ***
-/net/work/people/zeman/unidep/tools/validate.py --lang fro --max-err=10 UD_Old_French-PROFITEROLE/fro_profiterole-ud-train.conllu
-[Line 2546 Sent 10142 Node 28]: [L3 Warning fixed-gap] Gaps in fixed expression [28, 30] 'se * non'
-[Line 10202 Sent 10550 Node 11]: [L3 Warning fixed-gap] Gaps in fixed expression [11, 13] 'se * non'
-[Line 19406 Sent 11061 Node 16]: [L3 Warning fixed-gap] Gaps in fixed expression [16, 18] 'se * non'
-[Line 20222 Sent 11101 Node 26]: [L3 Warning fixed-gap] Gaps in fixed expression [26, 29] 'se * * non'
-[Line 22849 Sent 11252 Node 15]: [L3 Warning fixed-gap] Gaps in fixed expression [15, 18] 'se * * non'
-[Line 61343 Sent 13522 Node 11]: [L3 Warning fixed-gap] Gaps in fixed expression [11, 13] 'se * non'
-[Line 73710 Sent 14203 Node 7]: [L3 Warning fixed-gap] Gaps in fixed expression [7, 10] 'se * * non'
-[Line 81620 Sent 14660 Node 8]: [L3 Warning fixed-gap] Gaps in fixed expression [8, 11] 'se * * non'
-[Line 86163 Sent 14934 Node 22]: [L3 Warning fixed-gap] Gaps in fixed expression [22, 24] 'se * non'
-[Line 94151 Sent 15367 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:tel:det --> 9:ce:nmod)
+[Line 28427 Sent ClariConstantinople-1160 Node 20]: [L3 Warning fixed-without-extpos] Fixed expression 'si comme' does not have the 'ExtPos' feature
+[Line 29079 Sent ClariConstantinople-1426 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'entrementiers que' does not have the 'ExtPos' feature
+[Line 29871 Sent ClariConstantinople-199 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Si comme' does not have the 'ExtPos' feature
+[Line 30682 Sent ClariConstantinople-520 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Si comme' does not have the 'ExtPos' feature
+[Line 31033 Sent ClariConstantinople-722 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Si comme' does not have the 'ExtPos' feature
+[Line 31482 Sent ClariConstantinople-885 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'puis qu'' does not have the 'ExtPos' feature
+[Line 31623 Sent ClariConstantinople-971 Node 9]: [L3 Warning fixed-without-extpos] Fixed expression 'pres que' does not have the 'ExtPos' feature
+[Line 32633 Sent clari-1729 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'anchois que' does not have the 'ExtPos' feature
 ...suppressing further errors regarding Warning
-Warnings: 27
-*** PASSED ***
-Validity: 1
+Syntax errors: 2
+Warnings: 71
+*** FAILED *** with 2 errors
+Exit code: 1
+/net/work/people/zeman/unidep/tools/validate.py --lang fro --max-err=10 UD_Old_French-PROFITEROLE/fro_profiterole-ud-train.conllu
+[Line 2546 Sent 10142 Node 28]: [L3 Warning fixed-without-extpos] Fixed expression 'se non' does not have the 'ExtPos' feature
+[Line 2546 Sent 10142 Node 28]: [L3 Warning fixed-gap] Gaps in fixed expression [28, 30] 'se * non'
+[Line 10202 Sent 10550 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression 'se non' does not have the 'ExtPos' feature
+[Line 10202 Sent 10550 Node 11]: [L3 Warning fixed-gap] Gaps in fixed expression [11, 13] 'se * non'
+[Line 19406 Sent 11061 Node 16]: [L3 Warning fixed-without-extpos] Fixed expression 'se non' does not have the 'ExtPos' feature
+[Line 19406 Sent 11061 Node 16]: [L3 Warning fixed-gap] Gaps in fixed expression [16, 18] 'se * non'
+[Line 20222 Sent 11101 Node 26]: [L3 Warning fixed-without-extpos] Fixed expression 'se non' does not have the 'ExtPos' feature
+[Line 20222 Sent 11101 Node 26]: [L3 Warning fixed-gap] Gaps in fixed expression [26, 29] 'se * * non'
+[Line 22849 Sent 11252 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression 'se non' does not have the 'ExtPos' feature
+[Line 22849 Sent 11252 Node 15]: [L3 Warning fixed-gap] Gaps in fixed expression [15, 18] 'se * * non'
+...suppressing further errors regarding Warning
+[Line 94151 Sent 15367 Node 5]: [L3 Syntax leaf-det] 'det' not expected to have children (5:tel:det --> 9:ce:nmod)
+[Line 134805 Sent 2548 Node 5]: [L3 Syntax leaf-det] 'det' not expected to have children (5:tel:det --> 15:bele:advcl)
+[Line 151617 Sent 3855.1 Node 3]: [L3 Syntax leaf-det] 'det' not expected to have children (3:la:det --> 7:declinet:acl)
+[Line 209335 Sent 9802 Node 21]: [L3 Syntax leaf-det] 'det' not expected to have children (21:ta:det --> 17:se:mark)
+Syntax errors: 4
+Warnings: 122
+*** FAILED *** with 4 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.2) = 0.0153846153846154
-(weight=0.0769230769230769) * (score{genres}=0.176470588235294) = 0.0135746606334842
+(weight=0.0769230769230769) * (score{genres}=0.166666666666667) = 0.0128205128205128
 (weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
 (weight=0.256410256410256) * (score{size}=0.792139391109259) = 0.20311266438699
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.794117647058823) = 0.0610859728506787
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.0891891891891892) = 0.00686070686070686
-(TOTAL score=0.35514682524468) * (availability=1) * (validity=1) = 0.35514682524468
-STARS = 2
-UD_Old_French-PROFITEROLE	0.35514682524468	2
+(TOTAL score=0.354392677431708) * (availability=1) * (validity=0.01) = 0.00354392677431708
+STARS = 0
+UD_Old_French-PROFITEROLE	0.00354392677431708	0
