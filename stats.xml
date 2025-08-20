@@ -10,26 +10,26 @@
     <dev><sentences>2085</sentences><tokens>23728</tokens><words>23728</words><fused>0</fused></dev>
     <test><sentences>2775</sentences><tokens>34295</tokens><words>34295</words><fused>0</fused></test>
   </size>
-  <lemmas unique="2327" /><!-- ,, il, et, le, que, ne, ., estre, de, avoir, en, je, si, a, ; -->
+  <lemmas unique="0" /><!--  -->
   <forms unique="18880" /><!-- ,, ., et, li, de, il, en, que, a, si, le, ne, la, l', ; -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">
-    <tag name="ADJ">7458</tag><!-- _, grant, bel, bon, voir, sol, droit, mëisme, fort, haut -->
-    <tag name="ADP">19960</tag><!-- _, de, a, en, por, par, de+le, a+le, sans, sor -->
-    <tag name="ADV">25167</tag><!-- _, ne, si, en, mout, tant, i, bien, plus, ja -->
-    <tag name="AUX">8771</tag><!-- _, estre, avoir, pöoir, voloir, devoir, savoir, souloir -->
-    <tag name="CCONJ">12419</tag><!-- _, et, que, ne, mais, o, car, en, où -->
-    <tag name="DET">20555</tag><!-- _, le, son, un, mon, tot, vostre, cest, nul, tel -->
-    <tag name="INTJ">159</tag><!-- _, ha, äi!, hu!, chäeles, häi!, äie! -->
-    <tag name="NOUN">31706</tag><!-- _, seignor, dame, roi, chevalier, lïon, jor, joie, cuer, damoisele -->
-    <tag name="NUM">969</tag><!-- _, @card@, quint -->
-    <tag name="PRON">29822</tag><!-- _, il, je, vos, qui, soi, ce, que, cel, @card@ -->
-    <tag name="PROPN">6858</tag><!-- _, Yvain, Dieu, Gauvain, Keu, Lunete, Artu, Calogrenant, Damnedeu, vuel -->
-    <tag name="PUNCT">31405</tag><!-- _, ,, ., ;, -, :, «, », !, ? -->
-    <tag name="SCONJ">7506</tag><!-- _, que, se, come, cant, que_que, si, jusque -->
-    <tag name="VERB">35149</tag><!-- _, faire, avoir, dire, venir, estre, vëoir, aler, savoir, prendre -->
-    <tag name="X">9</tag><!-- _, explicit -->
+    <tag name="ADJ">7458</tag><!-- _ -->
+    <tag name="ADP">19960</tag><!-- _ -->
+    <tag name="ADV">25167</tag><!-- _ -->
+    <tag name="AUX">8771</tag><!-- _ -->
+    <tag name="CCONJ">12419</tag><!-- _ -->
+    <tag name="DET">20555</tag><!-- _ -->
+    <tag name="INTJ">159</tag><!-- _ -->
+    <tag name="NOUN">31706</tag><!-- _ -->
+    <tag name="NUM">969</tag><!-- _ -->
+    <tag name="PRON">29822</tag><!-- _ -->
+    <tag name="PROPN">6858</tag><!-- _ -->
+    <tag name="PUNCT">31405</tag><!-- _ -->
+    <tag name="SCONJ">7506</tag><!-- _ -->
+    <tag name="VERB">35149</tag><!-- _ -->
+    <tag name="X">9</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="22">
