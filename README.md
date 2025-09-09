@@ -193,6 +193,7 @@ in the [upstream repository](https://gitlab.huma-num.fr/profiterole/srcmf-ud/-/r
 Data available since: UD v2.2
 License: CC BY-NC-SA 3.0
 Includes text: yes
+Parallel: no
 Genre: nonfiction legal poetry
 Lemmas: not available
 UPOS: converted with corrections
