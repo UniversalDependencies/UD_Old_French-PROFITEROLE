@@ -5,13 +5,13 @@ Attention: the main development of this treebank happens on the [GitLab of the P
 Project](https://gitlab.huma-num.fr/profiterole/srcmf-ud), please file bug reports and requests
 there.
 
-## Summary
+# Summary
 
 UD_Old_French-PROFITEROLE is an expansion of the previous UD_Old_French-SRCMF (which was a
 conversion of (part of) the SRCMF corpus (Syntactic Reference Corpus of Medieval French
 [srcmf.org](http://srcmf.org/)).
 
-## Introduction
+# Introduction
 
 UD_Old_French-PROFITEROLE includes the texts of the previous UD_Old_French-SRCMF, plus Old French
 texts that were annotated in the frame of the PROFITEROLE funded project (Projet
@@ -53,7 +53,7 @@ The following table lists the texts used in this treebank:
 
  Total                          |                        |                     | 227137 | 19765 |
 
-## Structure
+# Structure
 
 In both of the SRCMF and PROFITEROLE projects, documents with less than about 40 000 words were
 entirely annotated, while texts with more than 40 000 words were sampled in three parts (beginning,
@@ -87,7 +87,7 @@ are large texts, so it does not make the testing too easy… One text (Lapidaire
 in Dev/Test but not in train. Pre-1100 texts are only in Train, because they seem too small to
 reserve anything for testing. The rest of the data is for Train corpus.
 
-## Deviations from UD
+# Deviations from UD
 
 We added some more specific relations (subtypes), either to specify a relation, or in the case of
 tokens entering a double dependency relation (typically : relative pronouns and  contracted forms) :
@@ -107,7 +107,7 @@ tokens entering a double dependency relation (typically : relative pronouns and 
 Consult [the language specific documentation](http://universaldependencies.org/fro/dep/index.html)
 for further details.
 
-## Acknowledgments
+# Acknowledgments
 
 UD_Old_French-PROFITEROLE results from the UD_Old_French-SRCMF as well as from the automatic
 annotation (PROFITEROLE project, 2017-2022) of other Old French texts (with the SRCMF corpus being
@@ -156,7 +156,7 @@ release adds punctuation tokens for most trees as well as around 350 new trees, 
 averbal sentences and fixes a number of conformity bugs with the UD guidelines. See the full changes
 in the [upstream repository](https://gitlab.huma-num.fr/profiterole/srcmf-ud/-/releases/v2.9.0)
 
-## References
+# References
 
 - Prévost, Sophie, Mathieu Dehouck, Alexei Lavrentiev, Serge Heiden et Loïc Grobol. To appear.
   ['Profiterole : un corpus morpho-syntaxique et syntaxique de français médiéval'], Corpus
@@ -166,7 +166,7 @@ in the [upstream repository](https://gitlab.huma-num.fr/profiterole/srcmf-ud/-/r
   Corpora*, edited by Paul Bennett, Martin Durrell, Silke Scheible, and Richard J. Whitt, 275–82.
   Corpus Linguistics and International Perspectives on Language. Gunter Narr Verlag.
 
-## Changelog
+# Changelog
 
 - 2025-10-31 v2.17
   - See the [upstream release](https://gitlab.huma-num.fr/profiterole/srcmf-ud/-/releases/v2.17.0)
