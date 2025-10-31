@@ -141822,7 +141822,7 @@
 11	,	_	PUNCT	PONfbl	_	10	punct	_	XmlId=w_YvainKu_13452
 12	don	_	PRON	PROrel	_	13	obl	_	XmlId=w_YvainKu_13453
 13	mantir	_	VERB	VERinf	_	10	acl	_	XmlId=w_YvainKu_13454
-14	ne	_	ADV	ADVneg	_	16	advmod	_	XmlId=w_YvainKu_13455
+14	ne	_	ADV	ADVneg	_	13	advmod	_	XmlId=w_YvainKu_13455
 15	vos	_	PRON	PROper	_	13	iobj	_	XmlId=w_YvainKu_13456
 16	doi	_	AUX	VERcjg	_	13	aux	_	SpaceAfter=No|XmlId=w_YvainKu_13457
 17	,	_	PUNCT	PONfbl	_	20	punct	_	XmlId=w_YvainKu_13458
