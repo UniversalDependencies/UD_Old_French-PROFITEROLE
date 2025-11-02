@@ -200,7 +200,7 @@ UPOS: converted with corrections
 XPOS: manual native
 Features: automatic
 Relations: automatic with corrections
-Contributors: Prévost, Sophie; Collomb, Aurélie; Gerdes, Kim; Tellier, Isabelle; Courtin, Marine; Lavrentiev, Alexei; Guillot-Barbance, Céline; Grobol, Loïc ; Regnault, Mathilde ; Dehouck Mathieu
+Contributors: Prévost, Sophie; Collomb, Aurélie; Gerdes, Kim; Tellier, Isabelle; Courtin, Marine; Lavrentiev, Alexei; Guillot-Barbance, Céline; Grobol, Loïc ; Regnault, Mathilde ; Dehouck, Mathieu
 Contributing: elsewhere
 Contact: sophie.prevost@ens.psl.eu
 ===============================================================================
