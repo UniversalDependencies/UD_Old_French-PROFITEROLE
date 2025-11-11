@@ -39,7 +39,7 @@ The following table lists the texts used in this treebank:
 | ID                            | Name of the text       |       Author        | Tokens | Trees |
 | :---------------------------- | :--------------------- | :-----------------: | -----: | ----: |
 | Strasbourg_842_prose          | Serments de Strasbourg |      anonymous      |    131 |     3 |
-| StEulalie_900_verse            | Séquence de Sainte Eulalie | anonymous      |    212 |    21 |
+| StEulalie_900_verse           | Séquence de Sainte Eulalie | anonymous       |    212 |    21 |
 | StLegier_1000_verse           | Vie de saint Léger     |      anonymous      |   1665 |   189 |
 | StAlexis_1050_verse           | Vie de saint Alexis    |      anonymous      |   5662 |   572 |
 | Roland_1100_verse             | Chanson de Roland      |      anonymous      |  34803 |  3890 |
@@ -103,8 +103,6 @@ tokens entering a double dependency relation (typically : relative pronouns and 
 - `obj:advmod` : contracted `advmod` + `obj` (e.g. _sis_ = _si_ + _les_)
 - `obj:advneg` : contracted `negation` + `obj` (e.g. _nes_ = _ne_ + _les_)
 - `obj:obl` : contracted `obl` + `obj` (e.g. _oul_ = _ou_ + _le_)
-- `obl:advmod` : the double labelling accounts for the difficulty to decide between obl and advmod
-  relations (`en` and `i`).
 
 Consult [the language specific documentation](http://universaldependencies.org/fro/dep/index.html)
 for further details.
@@ -158,7 +156,7 @@ release adds punctuation tokens for most trees as well as around 350 new trees, 
 averbal sentences and fixes a number of conformity bugs with the UD guidelines. See the full changes
 in the [upstream repository](https://gitlab.huma-num.fr/profiterole/srcmf-ud/-/releases/v2.9.0)
 
-## References
+# References
 
 - Prévost, Sophie, Mathieu Dehouck, Alexei Lavrentiev, Serge Heiden et Loïc Grobol. To appear.
   ['Profiterole : un corpus morpho-syntaxique et syntaxique de français médiéval'], Corpus
@@ -170,6 +168,8 @@ in the [upstream repository](https://gitlab.huma-num.fr/profiterole/srcmf-ud/-/r
 
 # Changelog
 
+- 2025-10-31 v2.17
+  - See the [upstream release](https://gitlab.huma-num.fr/profiterole/srcmf-ud/-/releases/v2.17.0)
 - 2022-10-31 v2.13
   - Adds StEulalie and ClariConstantinople
   - See the [upstream release](https://gitlab.huma-num.fr/profiterole/srcmf-ud/-/releases/v2.13.0)
@@ -193,13 +193,14 @@ in the [upstream repository](https://gitlab.huma-num.fr/profiterole/srcmf-ud/-/r
 Data available since: UD v2.2
 License: CC BY-NC-SA 3.0
 Includes text: yes
+Parallel: no
 Genre: nonfiction legal poetry
 Lemmas: not available
 UPOS: converted with corrections
 XPOS: manual native
 Features: automatic
 Relations: automatic with corrections
-Contributors: Prévost, Sophie; Collomb, Aurélie; Gerdes, Kim; Tellier, Isabelle; Courtin, Marine; Lavrentiev, Alexei; Guillot-Barbance, Céline; Grobol, Loïc ; Regnault, Mathilde
+Contributors: Prévost, Sophie; Collomb, Aurélie; Gerdes, Kim; Tellier, Isabelle; Courtin, Marine; Lavrentiev, Alexei; Guillot-Barbance, Céline; Grobol, Loïc ; Regnault, Mathilde ; Dehouck, Mathieu
 Contributing: elsewhere
 Contact: sophie.prevost@ens.psl.eu
 ===============================================================================
