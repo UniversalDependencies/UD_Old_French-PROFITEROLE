@@ -195,7 +195,7 @@ License: CC BY-NC-SA 3.0
 Includes text: yes
 Parallel: no
 Genre: nonfiction legal poetry
-Lemmas: not available
+Lemmas: automatic with corrections
 UPOS: converted with corrections
 XPOS: manual native
 Features: automatic
