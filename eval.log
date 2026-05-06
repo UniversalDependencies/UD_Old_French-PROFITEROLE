@@ -1,17 +1,17 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Old_French-PROFITEROLE:
-commit 7c5ca2d4053f363d7cd783575bfb0ee99c36e311
-Merge: ebf7e1b 4be13cb
+commit 90b106f53bbd537f2788469b2f14496b6b9429b4
+Merge: ce0c84b 669e5aa
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'fro_profiterole'
 Language code (from CoNLL-U file name) = 'fro'
 Found the following data files: fro_profiterole-ud-dev.conllu, fro_profiterole-ud-test.conllu, fro_profiterole-ud-train.conllu
-Size: counted 237822 of 237822 words (nodes).
-Size: min(0, log((N/1000)**2)) = 10.9430449893914.
+Size: counted 240335 of 240335 words (nodes).
+Size: min(0, log((N/1000)**2)) = 10.9640675668111.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
@@ -19,61 +19,94 @@ Split: Found at least 10000 test words.
 Lemmas: '_' is the most frequent lemma.
 Universal POS tags: 15 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 0 out of 237822 total words have one or more features.
+Features: 106137 out of 240335 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.1.
 Genres: found 3 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang fro --max-err=10 UD_Old_French-PROFITEROLE/fro_profiterole-ud-dev.conllu
-[Line 25 Sent 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Tresqu' en' does not have the 'ExtPos' feature
-[Line 2573 Sent 178]: [L3 Warning fixed-without-extpos] Fixed expression 'mais que' does not have the 'ExtPos' feature
-[Line 2745 Sent 189]: [L3 Warning obl-should-be-nmod] The parent (node [2] 'vassal') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 2786 Sent 193]: [L3 Warning fixed-without-extpos] Fixed expression 'mais qu'' does not have the 'ExtPos' feature
-[Line 3515 Sent 250]: [L3 Warning obl-should-be-nmod] The parent (node [8] 'alge') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 3516 Sent 250]: [L3 Warning obl-should-be-nmod] The parent (node [8] 'alge') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 4652 Sent 338]: [L3 Warning obl-should-be-nmod] The parent (node [2] 'oes') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 6800 Sent 499]: [L3 Warning fixed-without-extpos] Fixed expression 'tant cum' does not have the 'ExtPos' feature
-[Line 6967 Sent 510]: [L3 Warning fixed-without-extpos] Fixed expression 'tant cum' does not have the 'ExtPos' feature
-[Line 8327 Sent 615]: [L3 Warning fixed-without-extpos] Fixed expression 'si cum' does not have the 'ExtPos' feature
-...suppressing further errors regarding Warning
-Warnings: 42
+[Line 8 Sent 0]: [L3 WARNING pron-det-without-prontype] The word 'nostre' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 16 Sent 0]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ad' lacks the 'Mood' feature
+[Line 25 Sent 1]: [L3 WARNING fixed-without-extpos] Fixed expression 'Tresqu' en' does not have the 'ExtPos' feature
+[Line 29 Sent 1]: [L3 WARNING verbform-fin-without-mood] Finite verb 'cunquist' lacks the 'Mood' feature
+[Line 40 Sent 2]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ad' lacks the 'Mood' feature
+[Line 45 Sent 2]: [L3 WARNING verbform-fin-without-mood] Finite verb 'remaigne' lacks the 'Mood' feature
+[Line 56 Sent 3]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 65 Sent 3]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 78 Sent 4]: [L3 WARNING verbform-fin-without-mood] Finite verb 'tient' lacks the 'Mood' feature
+[Line 83 Sent 4]: [L3 WARNING verbform-fin-without-mood] Finite verb 'aimet' lacks the 'Mood' feature
+[Line 90 Sent 5]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sert' lacks the 'Mood' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 2613 Sent 178]: [L3 WARNING fixed-without-extpos] Fixed expression 'mais que' does not have the 'ExtPos' feature
+[Line 2832 Sent 193]: [L3 WARNING fixed-without-extpos] Fixed expression 'mais qu'' does not have the 'ExtPos' feature
+[Line 6894 Sent 499]: [L3 WARNING fixed-without-extpos] Fixed expression 'tant cum' does not have the 'ExtPos' feature
+[Line 7063 Sent 510]: [L3 WARNING fixed-without-extpos] Fixed expression 'tant cum' does not have the 'ExtPos' feature
+[Line 8449 Sent 615]: [L3 WARNING fixed-without-extpos] Fixed expression 'si cum' does not have the 'ExtPos' feature
+[Line 8659 Sent 628]: [L3 WARNING fixed-without-extpos] Fixed expression 'tresqu' en' does not have the 'ExtPos' feature
+[Line 9626 Sent 3909]: [L3 WARNING fixed-without-extpos] Fixed expression 'fors que' does not have the 'ExtPos' feature
+[Line 9660 Sent 3912]: [L3 WARNING fixed-without-extpos] Fixed expression 'si con' does not have the 'ExtPos' feature
+[Line 14856 Sent 4284]: [L3 WARNING fixed-without-extpos] Fixed expression 'Si que' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+Warnings: 3989
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang fro --max-err=10 UD_Old_French-PROFITEROLE/fro_profiterole-ud-test.conllu
-[Line 121 Sent 642]: [L3 Warning fixed-without-extpos] Fixed expression 'Par mi' does not have the 'ExtPos' feature
-[Line 485 Sent 669]: [L3 Warning obl-should-be-nmod] The parent (node [4] 'liquels') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1436 Sent 743]: [L3 Warning fixed-without-extpos] Fixed expression 'Enceis qu'' does not have the 'ExtPos' feature
-[Line 1513 Sent 748]: [L3 Warning fixed-without-extpos] Fixed expression 'Puis que' does not have the 'ExtPos' feature
-[Line 2125 Sent 790]: [L3 Warning fixed-without-extpos] Fixed expression 'entresqu' a' does not have the 'ExtPos' feature
-[Line 2444 Sent 815]: [L3 Warning fixed-without-extpos] Fixed expression 'Puis que' does not have the 'ExtPos' feature
-[Line 2952 Sent 855]: [L3 Warning obl-should-be-nmod] The parent (node [3] 'per') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 3408 Sent 897]: [L3 Warning fixed-without-extpos] Fixed expression 'Jusqu' a' does not have the 'ExtPos' feature
-[Line 3456 Sent 901]: [L3 Warning fixed-without-extpos] Fixed expression 'Josqu' a' does not have the 'ExtPos' feature
-[Line 4002 Sent 945]: [L3 Warning fixed-without-extpos] Fixed expression 'par mi' does not have the 'ExtPos' feature
-...suppressing further errors regarding Warning
-Warnings: 55
+[Line 6 Sent 633]: [L3 WARNING verbform-fin-without-mood] Finite verb 'fust' lacks the 'Mood' feature
+[Line 11 Sent 633]: [L3 WARNING verbform-fin-without-mood] Finite verb 'oüsse' lacks the 'Mood' feature
+[Line 28 Sent 634]: [L3 WARNING verbform-fin-without-mood] Finite verb 'creez' lacks the 'Mood' feature
+[Line 31 Sent 634]: [L3 WARNING verbform-fin-without-mood] Finite verb 'verrez' lacks the 'Mood' feature
+[Line 39 Sent 634]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sivrat' lacks the 'Mood' feature
+[Line 50 Sent 635]: [L3 WARNING verbform-fin-without-mood] Finite verb 'recevrat' lacks the 'Mood' feature
+[Line 55 Sent 635]: [L3 WARNING verbform-fin-without-mood] Finite verb 'tenez' lacks the 'Mood' feature
+[Line 62 Sent 636]: [L3 WARNING pron-det-without-prontype] The word 'ses' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 64 Sent 636]: [L3 WARNING verbform-fin-without-mood] Finite verb 'iert' lacks the 'Mood' feature
+[Line 65 Sent 636]: [L3 WARNING pron-det-without-prontype] The word 'vostre' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 123 Sent 642]: [L3 WARNING fixed-without-extpos] Fixed expression 'Par mi' does not have the 'ExtPos' feature
+[Line 1460 Sent 743]: [L3 WARNING fixed-without-extpos] Fixed expression 'Enceis qu'' does not have the 'ExtPos' feature
+[Line 1539 Sent 748]: [L3 WARNING fixed-without-extpos] Fixed expression 'Puis que' does not have the 'ExtPos' feature
+[Line 2171 Sent 790]: [L3 WARNING fixed-without-extpos] Fixed expression 'entresqu' a' does not have the 'ExtPos' feature
+[Line 2494 Sent 815]: [L3 WARNING fixed-without-extpos] Fixed expression 'Puis que' does not have the 'ExtPos' feature
+[Line 3470 Sent 897]: [L3 WARNING fixed-without-extpos] Fixed expression 'Jusqu' a' does not have the 'ExtPos' feature
+[Line 3520 Sent 901]: [L3 WARNING fixed-without-extpos] Fixed expression 'Josqu' a' does not have the 'ExtPos' feature
+[Line 4074 Sent 945]: [L3 WARNING fixed-without-extpos] Fixed expression 'par mi' does not have the 'ExtPos' feature
+[Line 4575 Sent 986]: [L3 WARNING fixed-without-extpos] Fixed expression 'entresqu' a' does not have the 'ExtPos' feature
+[Line 5054 Sent 1022]: [L3 WARNING fixed-without-extpos] Fixed expression 'Puis que' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+Warnings: 4004
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang fro --max-err=10 UD_Old_French-PROFITEROLE/fro_profiterole-ud-train.conllu
-[Line 742 Sent 1399]: [L3 Warning fixed-without-extpos] Fixed expression 'par mi' does not have the 'ExtPos' feature
-[Line 2187 Sent 1514]: [L3 Warning fixed-without-extpos] Fixed expression 'se nun' does not have the 'ExtPos' feature
-[Line 2187 Sent 1514]: [L3 Warning fixed-gap] Gaps in fixed expression [7, 10] 'se * * nun'
-[Line 3749 Sent 1633]: [L3 Warning obl-should-be-nmod] The parent (node [6] 'chevalers') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 3770 Sent 1634]: [L3 Warning fixed-without-extpos] Fixed expression 'Einz que' does not have the 'ExtPos' feature
-[Line 4448 Sent 1691]: [L3 Warning fixed-without-extpos] Fixed expression 'tresqu' a' does not have the 'ExtPos' feature
-[Line 5320 Sent 1765]: [L3 Warning fixed-without-extpos] Fixed expression 'tant cum' does not have the 'ExtPos' feature
-[Line 5627 Sent 1787]: [L3 Warning fixed-without-extpos] Fixed expression 'altresi cum' does not have the 'ExtPos' feature
-[Line 6195 Sent 1830]: [L3 Warning fixed-without-extpos] Fixed expression 'Si cum' does not have the 'ExtPos' feature
-[Line 6934 Sent 1886]: [L3 Warning fixed-without-extpos] Fixed expression 'mais que' does not have the 'ExtPos' feature
-...suppressing further errors regarding Warning
-Warnings: 336
+[Line 8 Sent 1344]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ocist' lacks the 'Mood' feature
+[Line 15 Sent 1344]: [L3 WARNING verbform-fin-without-mood] Finite verb 'fut' lacks the 'Mood' feature
+[Line 27 Sent 1345]: [L3 WARNING verbform-fin-without-mood] Finite verb 'cundoist' lacks the 'Mood' feature
+[Line 35 Sent 1346]: [L3 WARNING verbform-fin-without-mood] Finite verb 'dist' lacks the 'Mood' feature
+[Line 45 Sent 1347]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ert' lacks the 'Mood' feature
+[Line 53 Sent 1348]: [L3 WARNING verbform-fin-without-mood] Finite verb 'Respunt' lacks the 'Mood' feature
+[Line 62 Sent 1349]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 77 Sent 1350]: [L3 WARNING verbform-fin-without-mood] Finite verb 'sunt' lacks the 'Mood' feature
+[Line 87 Sent 1351]: [L3 WARNING verbform-fin-without-mood] Finite verb 'est' lacks the 'Mood' feature
+[Line 101 Sent 1352]: [L3 WARNING verbform-fin-without-mood] Finite verb 'rendent' lacks the 'Mood' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 760 Sent 1399]: [L3 WARNING fixed-without-extpos] Fixed expression 'par mi' does not have the 'ExtPos' feature
+[Line 2221 Sent 1514]: [L3 WARNING fixed-without-extpos] Fixed expression 'se nun' does not have the 'ExtPos' feature
+[Line 2221 Sent 1514]: [L3 WARNING fixed-gap] Gaps in fixed expression [7, 10] 'se * * nun'
+[Line 3844 Sent 1634]: [L3 WARNING fixed-without-extpos] Fixed expression 'Einz que' does not have the 'ExtPos' feature
+[Line 4528 Sent 1691]: [L3 WARNING fixed-without-extpos] Fixed expression 'tresqu' a' does not have the 'ExtPos' feature
+[Line 5410 Sent 1765]: [L3 WARNING fixed-without-extpos] Fixed expression 'tant cum' does not have the 'ExtPos' feature
+[Line 5725 Sent 1787]: [L3 WARNING fixed-without-extpos] Fixed expression 'altresi cum' does not have the 'ExtPos' feature
+[Line 6303 Sent 1830]: [L3 WARNING fixed-without-extpos] Fixed expression 'Si cum' does not have the 'ExtPos' feature
+[Line 7054 Sent 1886]: [L3 WARNING fixed-without-extpos] Fixed expression 'mais que' does not have the 'ExtPos' feature
+[Line 7671 Sent 1932]: [L3 WARNING fixed-without-extpos] Fixed expression 'par mi' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+Warnings: 32045
 *** PASSED ***
 Validity: 1
-(weight=0.111111111111111) * (score{features}=0.01) = 0.00111111111111111
+(weight=0.111111111111111) * (score{features}=0.2) = 0.0222222222222222
 (weight=0.111111111111111) * (score{genres}=0.166666666666667) = 0.0185185185185185
 (weight=0.111111111111111) * (score{lemmas}=0.01) = 0.00111111111111111
-(weight=0.37037037037037) * (score{size}=0.79208400901862) = 0.293364447784674
+(weight=0.37037037037037) * (score{size}=0.793605673913413) = 0.293928027375338
 (weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
 (weight=0.111111111111111) * (score{tags}=0.794117647058823) = 0.0882352941176471
 (weight=0.111111111111111) * (score{udeprels}=0.0891891891891892) = 0.00990990990990991
-(TOTAL score=0.486324466627046) * (availability=1) * (validity=1) = 0.486324466627046
+(TOTAL score=0.507999157328821) * (availability=1) * (validity=1) = 0.507999157328821
 STARS = 2.5
-UD_Old_French-PROFITEROLE	0.486324466627046	2.5
+UD_Old_French-PROFITEROLE	0.507999157328821	2.5
